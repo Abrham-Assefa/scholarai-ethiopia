@@ -3,12 +3,10 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import Response
-from sqlalchemy import func, select
 
 from .config import settings
 from .db import SessionLocal, init_db
 from .deps import get_router
-from .models import Scholarship
 from .routers import ai, auth, catalog, cv, me
 from .seed import seed
 
@@ -17,8 +15,8 @@ from .seed import seed
 async def lifespan(app: FastAPI):
     init_db()
     with SessionLocal() as db:
-        if not db.scalar(select(func.count()).select_from(Scholarship)):
-            seed(db)
+        # Idempotent upsert keeps the DB in sync with data/seed/*.json on every boot.
+        seed(db)
     yield
 
 

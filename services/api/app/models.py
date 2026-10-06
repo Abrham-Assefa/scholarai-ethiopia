@@ -73,6 +73,10 @@ class Scholarship(Base):
     tags: Mapped[list] = mapped_column(JSON, default=list)
     description: Mapped[str | None] = mapped_column(Text)
     status: Mapped[str] = mapped_column(String(16), default="open")
+    deadline_confirmed: Mapped[bool] = mapped_column(Boolean, default=False)
+    details: Mapped[dict] = mapped_column(JSON, default=dict)
+    sources: Mapped[list] = mapped_column(JSON, default=list)
+    last_verified: Mapped[str | None] = mapped_column(String(10))
 
     def to_dict(self) -> dict:
         return {
@@ -93,6 +97,10 @@ class Scholarship(Base):
             "tags": self.tags,
             "description": self.description,
             "status": self.status,
+            "deadlineConfirmed": bool(self.deadline_confirmed),
+            "details": self.details or {},
+            "sources": self.sources or [],
+            "lastVerified": self.last_verified,
         }
 
 

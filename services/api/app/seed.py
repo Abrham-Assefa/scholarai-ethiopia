@@ -6,11 +6,12 @@ import json
 from datetime import date
 from pathlib import Path
 
+from sqlalchemy import delete, select, update
 from sqlalchemy.orm import Session
 
 from .config import settings
 from .db import SessionLocal, init_db
-from .models import Conference, Scholarship
+from .models import Conference, Match, Reminder, Scholarship
 
 
 def _d(s: str | None) -> date | None:
@@ -41,8 +42,19 @@ def seed(db: Session, seed_dir: Path | None = None) -> dict[str, int]:
                 tags=s.get("tags", []),
                 description=s.get("description"),
                 status=s.get("status", "open"),
+                deadline_confirmed=s.get("deadlineConfirmed", False),
+                details=s.get("details", {}),
+                sources=s.get("sources", []),
+                last_verified=s.get("lastVerified"),
             )
         )
+    # Drop programmes that were removed from the seed (e.g. closed or no longer open to Ethiopians).
+    keep = {s["id"] for s in schol}
+    stale = [sid for sid in db.scalars(select(Scholarship.id)) if sid not in keep]
+    if stale:
+        db.execute(delete(Match).where(Match.scholarship_id.in_(stale)))
+        db.execute(update(Reminder).where(Reminder.scholarship_id.in_(stale)).values(scholarship_id=None))
+        db.execute(delete(Scholarship).where(Scholarship.id.in_(stale)))
     for c in conf:
         db.merge(
             Conference(

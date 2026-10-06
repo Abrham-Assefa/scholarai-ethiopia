@@ -93,7 +93,7 @@ def get_scholarship(sid: str, db: Session = Depends(get_db)):
         "2–3 recommendation letters",
         "Research proposal" if "phd" in (s.level or []) else None,
     ]
-    d["requiredDocuments"] = [x for x in d["requiredDocuments"] if x]
+    d["requiredDocuments"] = (s.details or {}).get("documents") or [x for x in d["requiredDocuments"] if x]
     return d
 
 
