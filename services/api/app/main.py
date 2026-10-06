@@ -1,13 +1,16 @@
+import asyncio
+import contextlib
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import Response
 
+from .collector import scheduler
 from .config import settings
 from .db import SessionLocal, init_db
 from .deps import get_router
-from .routers import ai, auth, catalog, cv, me
+from .routers import ai, auth, catalog, collector, cv, me
 from .seed import seed
 
 
@@ -17,7 +20,12 @@ async def lifespan(app: FastAPI):
     with SessionLocal() as db:
         # Idempotent upsert keeps the DB in sync with data/seed/*.json on every boot.
         seed(db)
+    task = asyncio.create_task(scheduler()) if settings.collector_enabled else None
     yield
+    if task:
+        task.cancel()
+        with contextlib.suppress(asyncio.CancelledError):
+            await task
 
 
 app = FastAPI(
@@ -36,7 +44,7 @@ app.add_middleware(
     expose_headers=["Content-Disposition"],
 )
 
-for r in (auth.router, catalog.router, me.router, cv.router, ai.router):
+for r in (auth.router, catalog.router, me.router, cv.router, ai.router, collector.router):
     app.include_router(r)
 
 

@@ -22,6 +22,11 @@ class Settings(BaseSettings):
     storage_dir: Path = ROOT / "services" / "api" / "storage"
     openai_api_key: str | None = None
     llm_provider: str = "auto"
+    # Web collector: re-reads official pages + scholarship feeds every N hours.
+    collector_enabled: bool = True
+    collector_interval_hours: float = 48
+    collector_max_new: int = 40
+    admin_token: str | None = None  # if set, POST /v1/collector/run requires X-Admin-Token
 
     @property
     def cors_list(self) -> list[str]:

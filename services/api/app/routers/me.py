@@ -62,7 +62,7 @@ def _match_profile(p: Profile) -> MatchProfile:
 def recompute_matches(db: Session, user: User) -> list[dict]:
     if not user.profile:
         return []
-    scholarships = [s.to_dict() for s in db.scalars(select(Scholarship)).all()]
+    scholarships = [s.to_dict() for s in db.scalars(select(Scholarship).where(Scholarship.status != "closed")).all()]
     results = match_all(_match_profile(user.profile), scholarships, top_k=50)
     db.execute(delete(Match).where(Match.user_id == user.id))
     for m in results:
@@ -147,7 +147,11 @@ def upcoming_deadlines(user: User = Depends(get_current_user), db: Session = Dep
     user = db.merge(user)
     today = date.today()
     matched = {m.scholarship_id: m.probability for m in db.scalars(select(Match).where(Match.user_id == user.id))}
-    rows = db.scalars(select(Scholarship).where(Scholarship.deadline >= today).order_by(Scholarship.deadline)).all()
+    rows = db.scalars(
+        select(Scholarship)
+        .where(Scholarship.deadline >= today, Scholarship.status != "closed")
+        .order_by(Scholarship.deadline)
+    ).all()
     items = []
     for s in rows:
         days_left = (s.deadline - today).days

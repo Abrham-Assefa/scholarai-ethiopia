@@ -19,10 +19,18 @@ def list_scholarships(
     q: str | None = None,
     deadlineAfter: date | None = None,
     funding: str | None = None,
+    includeClosed: bool = False,
+    origin: str | None = None,
     limit: int = Query(50, le=200),
     offset: int = 0,
 ):
     stmt = select(Scholarship)
+    if not includeClosed:
+        stmt = stmt.where(Scholarship.status != "closed")
+    if origin == "discovered":
+        stmt = stmt.where(Scholarship.origin == "discovered")
+    elif origin == "curated":
+        stmt = stmt.where(or_(Scholarship.origin.is_(None), Scholarship.origin != "discovered"))
     if country:
         stmt = stmt.where(
             or_(
@@ -69,6 +77,7 @@ def scholarship_stats(db: Session = Depends(get_db)):
             select(func.count())
             .select_from(Scholarship)
             .where(or_(Scholarship.deadline >= date.today(), Scholarship.deadline.is_(None)))
+            .where(Scholarship.status != "closed")
         )
         or 0
     )

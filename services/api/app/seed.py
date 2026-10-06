@@ -18,39 +18,56 @@ def _d(s: str | None) -> date | None:
     return date.fromisoformat(s) if s else None
 
 
+def apply_record(row: Scholarship, s: dict, db: Session | None = None) -> Scholarship:
+    """Copy a seed/collector record (camelCase JSON) onto an ORM row."""
+    row.title = s["title"][:200]
+    row.provider = s.get("provider")
+    row.country = s.get("country") or "Multiple"
+    row.countries = s.get("countries", [])
+    row.level = s.get("level", [])
+    row.fields = s.get("fields", [])
+    row.funding_type = s.get("fundingType", "full")
+    row.covers = s.get("covers")
+    row.eligibility = s.get("eligibility", {})
+    row.deadline = _d(s.get("deadline"))
+    row.deadline_text = (s.get("deadlineText") or None) and s["deadlineText"][:200]
+    row.url = s["url"][:400]
+    row.source = s.get("source")
+    row.tags = s.get("tags", [])
+    row.description = s.get("description")
+    row.status = s.get("status", "open")
+    row.deadline_confirmed = bool(s.get("deadlineConfirmed", False))
+    row.details = s.get("details", {})
+    row.sources = s.get("sources", [])
+    row.last_verified = s.get("lastVerified")
+    row.origin = s.get("origin", "curated")
+    row.last_checked = s.get("lastChecked") or row.last_checked
+    row.check_status = s.get("checkStatus") or row.check_status
+    row.discovered_at = s.get("discoveredAt") or row.discovered_at
+    if db is not None and row not in db:
+        db.add(row)
+    return row
+
+
 def seed(db: Session, seed_dir: Path | None = None) -> dict[str, int]:
     seed_dir = seed_dir or settings.seed_dir
     schol = json.loads((seed_dir / "scholarships.json").read_text(encoding="utf-8"))
     conf = json.loads((seed_dir / "conferences.json").read_text(encoding="utf-8"))
     for s in schol:
-        db.merge(
-            Scholarship(
-                id=s["id"],
-                title=s["title"],
-                provider=s.get("provider"),
-                country=s["country"],
-                countries=s.get("countries", []),
-                level=s.get("level", []),
-                fields=s.get("fields", []),
-                funding_type=s.get("fundingType", "full"),
-                covers=s.get("covers"),
-                eligibility=s.get("eligibility", {}),
-                deadline=_d(s.get("deadline")),
-                deadline_text=s.get("deadlineText"),
-                url=s["url"],
-                source=s.get("source"),
-                tags=s.get("tags", []),
-                description=s.get("description"),
-                status=s.get("status", "open"),
-                deadline_confirmed=s.get("deadlineConfirmed", False),
-                details=s.get("details", {}),
-                sources=s.get("sources", []),
-                last_verified=s.get("lastVerified"),
-            )
-        )
-    # Drop programmes that were removed from the seed (e.g. closed or no longer open to Ethiopians).
+        row = db.get(Scholarship, s["id"])
+        # Never overwrite data the web collector refreshed more recently than the seed file.
+        fresh = max(row.last_verified or "", row.last_checked or "") if row is not None else ""
+        if row is not None and fresh > max(s.get("lastVerified") or "", s.get("lastChecked") or ""):
+            continue
+        apply_record(row or Scholarship(id=s["id"]), s, db)
+    # Drop curated programmes removed from the seed (e.g. closed or no longer open to Ethiopians);
+    # programmes found by the web collector are managed by the collector itself.
     keep = {s["id"] for s in schol}
-    stale = [sid for sid in db.scalars(select(Scholarship.id)) if sid not in keep]
+    stale = [
+        r.id
+        for r in db.scalars(select(Scholarship))
+        if r.id not in keep and (r.origin or "curated") != "discovered"
+    ]
     if stale:
         db.execute(delete(Match).where(Match.scholarship_id.in_(stale)))
         db.execute(update(Reminder).where(Reminder.scholarship_id.in_(stale)).values(scholarship_id=None))

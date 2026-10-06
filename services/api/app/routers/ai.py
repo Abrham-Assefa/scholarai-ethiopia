@@ -14,7 +14,7 @@ router = APIRouter(prefix="/v1", tags=["ai"])
 
 @router.post("/chat")
 def chat(body: ChatIn, db: Session = Depends(get_db)):
-    scholarships = [s.to_dict() for s in db.scalars(select(Scholarship)).all()]
+    scholarships = [s.to_dict() for s in db.scalars(select(Scholarship).where(Scholarship.status != "closed")).all()]
     agent = ChatAgent(scholarships, router=get_router())
     return agent.reply(body.message, lang=body.lang, history=body.history)
 

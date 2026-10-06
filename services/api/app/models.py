@@ -77,6 +77,10 @@ class Scholarship(Base):
     details: Mapped[dict] = mapped_column(JSON, default=dict)
     sources: Mapped[list] = mapped_column(JSON, default=list)
     last_verified: Mapped[str | None] = mapped_column(String(10))
+    origin: Mapped[str | None] = mapped_column(String(16), default="curated")  # curated | discovered
+    last_checked: Mapped[str | None] = mapped_column(String(10))
+    check_status: Mapped[str | None] = mapped_column(String(16))
+    discovered_at: Mapped[str | None] = mapped_column(String(10))
 
     def to_dict(self) -> dict:
         return {
@@ -101,6 +105,41 @@ class Scholarship(Base):
             "details": self.details or {},
             "sources": self.sources or [],
             "lastVerified": self.last_verified,
+            "origin": self.origin or "curated",
+            "lastChecked": self.last_checked,
+            "checkStatus": self.check_status,
+            "discoveredAt": self.discovered_at,
+        }
+
+
+class CollectorRun(Base):
+    """One execution of the web collector (scheduled every N hours or triggered manually)."""
+
+    __tablename__ = "collector_runs"
+    id: Mapped[str] = mapped_column(String(32), primary_key=True, default=_uuid)
+    trigger: Mapped[str] = mapped_column(String(16), default="auto")
+    status: Mapped[str] = mapped_column(String(16), default="running")  # running | ok | error
+    started_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=_now, index=True)
+    finished_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True))
+    stats: Mapped[dict] = mapped_column(JSON, default=dict)
+    changes: Mapped[list] = mapped_column(JSON, default=list)
+    errors: Mapped[list] = mapped_column(JSON, default=list)
+
+    def to_dict(self) -> dict:
+        def iso(d: datetime | None) -> str | None:
+            if d is None:
+                return None
+            return (d if d.tzinfo else d.replace(tzinfo=UTC)).isoformat()
+
+        return {
+            "id": self.id,
+            "trigger": self.trigger,
+            "status": self.status,
+            "startedAt": iso(self.started_at),
+            "finishedAt": iso(self.finished_at),
+            "stats": self.stats or {},
+            "changes": self.changes or [],
+            "errors": self.errors or [],
         }
 
 

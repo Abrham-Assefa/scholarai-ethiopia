@@ -3,6 +3,7 @@ from pathlib import Path
 
 os.environ["DATABASE_URL"] = "sqlite://"  # in-memory
 os.environ["LLM_PROVIDER"] = "mock"
+os.environ["COLLECTOR_ENABLED"] = "false"  # tests never hit the network
 os.environ["STORAGE_DIR"] = str(Path(__file__).parent / ".storage")
 
 import pytest  # noqa: E402
