@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --background: #ffffff;
+  --foreground: #0f172a;
+  --card: #ffffff;
+  --muted: #f1f5f9;
+  --muted-foreground: #64748b;
+  --border: #e2e8f0;
+  --primary: #078c3f;
+  --primary-foreground: #ffffff;
+  --gold: #f2b705;
+  --red: #d91e36;
+  --ring: #078c3f;
+}
+
+.dark {
+  --background: #0b1220;
+  --foreground: #e2e8f0;
+  --card: #111a2c;
+  --muted: #1e293b;
+  --muted-foreground: #94a3b8;
+  --border: #243043;
+  --primary: #15a854;
+  --primary-foreground: #06240f;
+  --gold: #f2b705;
+  --red: #ef4458;
+  --ring: #15a854;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-gold: var(--gold);
+  --color-red: var(--red);
+  --color-ring: var(--ring);
+  --font-sans: var(--font-inter), var(--font-ethiopic), ui-sans-serif, system-ui, sans-serif;
+  --font-ethiopic: var(--font-ethiopic), var(--font-inter), sans-serif;
+}
+
+* {
+  border-color: var(--border);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+[lang="am"] body,
+[lang="am"] {
+  font-family: var(--font-ethiopic);
+  line-height: 1.7;
+}
+
+.flag-stripe {
+  background: linear-gradient(90deg, var(--primary) 0 33.3%, var(--gold) 33.3% 66.6%, var(--red) 66.6%);
+}
+
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.fade-up { animation: fade-up 0.4s ease-out both; }
