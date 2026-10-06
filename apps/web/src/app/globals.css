@@ -120,3 +120,6 @@ html:not(.dark) .landing :not(.keep-dark *).bg-black\/20 { background-color: rgb
 .gpa-range::-webkit-slider-thumb { -webkit-appearance: none; width: 26px; height: 26px; border-radius: 999px; background: #fff; border: 6px solid #f2b705; box-shadow: 0 0 0 6px rgba(242,183,5,.2); }
 .gpa-range::-moz-range-thumb { width: 18px; height: 18px; border-radius: 999px; background: #fff; border: 6px solid #f2b705; }
 .fidel-veil { background: radial-gradient(ellipse at center, color-mix(in srgb, var(--lbg) 92%, transparent) 0%, color-mix(in srgb, var(--lbg) 60%, transparent) 35%, transparent 70%); }
+.gx-flow { stroke-dasharray: 6 16; animation: gx-flow 1.4s linear infinite; }
+@keyframes gx-flow { to { stroke-dashoffset: -44; } }
+@media (prefers-reduced-motion: reduce) { .gx-flow { animation: none; } }
