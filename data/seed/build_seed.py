@@ -1,11 +1,14 @@
 """Parse docs/OPPORTUNITIES.md into normalized seed JSON.
 
-Usage: python data/seed/build_seed.py
-Writes data/seed/scholarships.json and data/seed/conferences.json.
+Usage: python data/seed/build_seed.py [--scholarships]
+Writes data/seed/conferences.json. scholarships.json is now a curated, web-researched
+dataset (overview, eligibility, how-to-apply, sources); pass --scholarships to overwrite
+it with the basic table parse from docs/OPPORTUNITIES.md.
 """
 from __future__ import annotations
 
 import json
+import sys
 import re
 from datetime import date
 from pathlib import Path
@@ -253,7 +256,8 @@ def main() -> None:
     tables = parse_tables(SRC.read_text(encoding="utf-8"))
     schol = build_scholarships(tables)
     conf = build_conferences(tables)
-    (OUT / "scholarships.json").write_text(json.dumps(schol, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    if "--scholarships" in sys.argv:
+        (OUT / "scholarships.json").write_text(json.dumps(schol, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     (OUT / "conferences.json").write_text(json.dumps(conf, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"wrote {len(schol)} scholarships, {len(conf)} conferences")
 

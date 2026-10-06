@@ -3,36 +3,186 @@
   "$id": "https://scholarai.et/schemas/scholarship.schema.json",
   "title": "Scholarship",
   "type": "object",
-  "required": ["id", "title", "country", "level", "url"],
+  "required": [
+    "id",
+    "title",
+    "country",
+    "level",
+    "url"
+  ],
   "properties": {
-    "id": { "type": "string" },
-    "title": { "type": "string" },
-    "provider": { "type": "string" },
-    "country": { "type": "string" },
-    "countries": { "type": "array", "items": { "type": "string" } },
+    "id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "provider": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "countries": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
     "level": {
       "type": "array",
-      "items": { "type": "string", "enum": ["bachelor", "master", "phd", "postdoc", "short-course"] }
+      "items": {
+        "type": "string",
+        "enum": [
+          "bachelor",
+          "master",
+          "phd",
+          "postdoc",
+          "short-course"
+        ]
+      }
     },
-    "fields": { "type": "array", "items": { "type": "string" } },
-    "fundingType": { "type": "string", "enum": ["full", "partial"] },
-    "covers": { "type": "string" },
+    "fields": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "fundingType": {
+      "type": "string",
+      "enum": [
+        "full",
+        "partial"
+      ]
+    },
+    "covers": {
+      "type": "string"
+    },
     "eligibility": {
       "type": "object",
       "properties": {
-        "nationalities": { "type": "array", "items": { "type": "string" } },
-        "ethiopiansEligible": { "type": "boolean" },
-        "minGpa": { "type": "number" },
-        "englishTest": { "type": "string" },
-        "workYearsMin": { "type": "integer" }
+        "nationalities": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "ethiopiansEligible": {
+          "type": "boolean"
+        },
+        "minGpa": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "englishTest": {
+          "type": "string"
+        },
+        "workYearsMin": {
+          "type": "integer"
+        },
+        "ageLimit": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        }
       }
     },
-    "deadline": { "type": ["string", "null"], "format": "date" },
-    "deadlineText": { "type": "string" },
-    "url": { "type": "string", "format": "uri" },
-    "source": { "type": "string" },
-    "tags": { "type": "array", "items": { "type": "string" } },
-    "description": { "type": "string" },
-    "status": { "type": "string", "enum": ["open", "closed", "upcoming"] }
+    "deadline": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "deadlineText": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "source": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "description": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "open",
+        "closed",
+        "upcoming",
+        "rolling"
+      ]
+    },
+    "deadlineConfirmed": {
+      "type": "boolean",
+      "description": "False when the date is estimated from the previous cycle"
+    },
+    "details": {
+      "type": "object",
+      "properties": {
+        "overview": {
+          "type": "string"
+        },
+        "whoCanApply": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "benefits": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "howToApply": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "documents": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "selection": {
+          "type": "string"
+        },
+        "ethiopiaTips": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "applicationOpens": {
+          "type": "string"
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    },
+    "lastVerified": {
+      "type": "string",
+      "format": "date"
+    }
   }
 }

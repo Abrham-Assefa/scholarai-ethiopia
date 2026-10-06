@@ -128,11 +128,12 @@ cd apps/web
 npm run lint && npm run typecheck && npm test      # ESLint, tsc, Vitest (7 tests)
 npx playwright install chromium && npm run test:e2e # Playwright smoke (needs API on :8000)
 
-# Regenerate seed data from docs/OPPORTUNITIES.md
+# Regenerate conferences seed from docs/OPPORTUNITIES.md
+# (scholarships.json is curated from web research and is not regenerated)
 python data/seed/build_seed.py
 ```
 
-CI (`.github/workflows/ci.yml`) runs ruff + pytest for `ai` and `api`, lint/typecheck/vitest/build for `web`, and verifies the seed JSON is in sync with the docs.
+CI (`.github/workflows/ci.yml`) runs ruff + pytest for `ai` and `api`, lint/typecheck/vitest/build for `web`, and verifies the conferences seed is in sync with the docs. `data/seed/scholarships.json` is a curated, web-researched dataset (46 programmes open to Ethiopians, each with overview, eligibility, benefits, how-to-apply steps, documents, selection, Ethiopia-specific tips, sources and a `deadlineConfirmed` flag).
 
 ## Roadmap (post-MVP)
 
