@@ -51,8 +51,8 @@ function BoardingPass({ s, i }: { s: Scholarship; i: number }) {
           </div>
         </div>
         <div className="relative hidden w-36 flex-col justify-between border-l-2 border-dashed border-slate-300 bg-[#f3ecd9] p-4 transition-transform duration-500 group-hover:translate-x-2 group-hover:rotate-2 sm:flex">
-          <span className="absolute -left-3 -top-3 h-6 w-6 rounded-full bg-[#050b16]" />
-          <span className="absolute -bottom-3 -left-3 h-6 w-6 rounded-full bg-[#050b16]" />
+          <span className="absolute -left-3 -top-3 h-6 w-6 rounded-full bg-[var(--lbg)]" />
+          <span className="absolute -bottom-3 -left-3 h-6 w-6 rounded-full bg-[var(--lbg)]" />
           <div className="font-mono text-[10px] text-slate-500"><p>PASSENGER</p><p className="text-sm font-bold text-slate-900">{am ? "እርስዎ" : "YOU"}</p></div>
           <div className="font-mono text-[10px] text-slate-500"><p>TO</p><p className="text-sm font-bold text-slate-900">{ap.code}</p></div>
           <Barcode seed={s.id} />
@@ -84,7 +84,7 @@ export function BoardingPasses() {
   const bar = useTransform(scrollYProgress, [0, 1], ["0%", "100%"]);
 
   return (
-    <section ref={wrap} className="relative bg-[#050b16] text-white" style={{ height: `calc(100vh + ${dist}px)` }}>
+    <section ref={wrap} className="relative bg-[var(--lbg)] text-white" style={{ height: `calc(100vh + ${dist}px)` }}>
       <div className="sticky top-0 flex h-screen flex-col justify-center overflow-hidden">
         <div className="mx-auto mb-10 w-full max-w-6xl px-5">
           <p className="font-mono text-xs tracking-[0.3em] text-gold">{am ? "02 — የመሳፈሪያ ትኬቶች" : "02 — YOUR BOARDING PASSES"}</p>

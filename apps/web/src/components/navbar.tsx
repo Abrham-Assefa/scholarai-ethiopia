@@ -37,7 +37,7 @@ export function LanguageSwitcher({ className }: { className?: string }) {
 export function Navbar() {
   const t = useTranslations("nav");
   const pathname = usePathname();
-  const { theme, setTheme } = useTheme();
+  const { resolvedTheme, setTheme } = useTheme();
   const [open, setOpen] = useState(false);
   return (
     <header className="sticky top-0 z-40 border-b bg-background/80 backdrop-blur">
@@ -56,7 +56,7 @@ export function Navbar() {
         </nav>
         <div className="flex items-center gap-2">
           <LanguageSwitcher />
-          <Button variant="ghost" size="icon" aria-label={t("toggleTheme")} onClick={() => setTheme(theme === "dark" ? "light" : "dark")}>
+          <Button variant="ghost" size="icon" aria-label={t("toggleTheme")} onClick={() => setTheme(resolvedTheme === "dark" ? "light" : "dark")}>
             <Sun className="hidden dark:block" size={18} /><Moon className="dark:hidden" size={18} />
           </Button>
           <Button variant="ghost" size="icon" className="md:hidden" aria-label="Menu" onClick={() => setOpen(!open)}>{open ? <X size={18} /> : <Menu size={18} />}</Button>

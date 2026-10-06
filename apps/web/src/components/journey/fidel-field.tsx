@@ -41,6 +41,7 @@ export function FidelField() {
       const time = (performance.now() - t0) / 1000;
       ctx.clearRect(0, 0, w, h);
       ctx.textAlign = "center"; ctx.textBaseline = "middle";
+      const dark = document.documentElement.classList.contains("dark");
       ripples.forEach((r) => (r.t += 1 / 60));
       while (ripples.length && ripples[0].t > 2) ripples.shift();
       for (const c of cells) {
@@ -61,7 +62,9 @@ export function FidelField() {
         c.h += (heat - c.h) * 0.1;
         const g = c.h;
         ctx.font = `${g > 0.3 ? 700 : 400} ${Math.round(18 * c.s)}px ${family}`;
-        ctx.fillStyle = g > 0.02 ? `rgba(${Math.round(255 - g * 13)},${Math.round(255 - g * 72)},${Math.round(255 - g * 250)},${0.1 + g * 0.9})` : `rgba(255,255,255,${0.07 + (wave + 0.5) * 0.06})`;
+        ctx.fillStyle = dark
+          ? g > 0.02 ? `rgba(${Math.round(255 - g * 13)},${Math.round(255 - g * 72)},${Math.round(255 - g * 250)},${0.1 + g * 0.9})` : `rgba(255,255,255,${0.07 + (wave + 0.5) * 0.06})`
+          : g > 0.02 ? `rgba(${Math.round(11 + g * 170)},${Math.round(26 + g * 100)},${Math.round(46 - g * 40)},${0.12 + g * 0.88})` : `rgba(11,26,46,${0.08 + (wave + 0.5) * 0.06})`;
         ctx.fillText(c.ch, c.x + c.ox, c.y + c.oy);
       }
       raf = requestAnimationFrame(loop);
@@ -73,7 +76,7 @@ export function FidelField() {
   }, []);
 
   return (
-    <section className="relative h-[85vh] min-h-[560px] overflow-hidden bg-[#050b16] text-white">
+    <section className="relative h-[85vh] min-h-[560px] overflow-hidden bg-[var(--lbg)] text-white">
       <canvas ref={ref} className="absolute inset-0 h-full w-full" aria-hidden />
       <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(5,11,22,.92)_0%,rgba(5,11,22,.6)_35%,transparent_70%)]" />
       <div className="pointer-events-none relative z-10 mx-auto flex h-full max-w-4xl flex-col items-center justify-center px-5 text-center">

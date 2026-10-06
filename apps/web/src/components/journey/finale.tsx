@@ -34,7 +34,7 @@ export function BigStats() {
     { n: 0, l: am ? "ብር — ሙሉ በሙሉ ነፃ" : "birr — completely free", c: "text-white" },
   ];
   return (
-    <section ref={ref} className="relative overflow-hidden bg-[#050b16] py-24 text-white">
+    <section ref={ref} className="relative overflow-hidden bg-[var(--lbg)] py-24 text-white">
       <motion.p style={{ x: x1 }} className="whitespace-nowrap text-[18vw] font-black leading-none tracking-tighter text-white/[0.04]">ADDIS ✈ BERLIN ✈ SEOUL ✈ TOKYO</motion.p>
       <div className="mx-auto -mt-[10vw] grid max-w-6xl grid-cols-2 gap-8 px-5 md:grid-cols-4">
         {items.map((it, i) => (
@@ -55,7 +55,7 @@ export function PassportFinale() {
   const ref = useRef<HTMLDivElement>(null);
   const inView = useInView(ref, { once: true, margin: "-25%" });
   return (
-    <section className="relative overflow-hidden bg-gradient-to-b from-[#050b16] via-[#07261a] to-[#050b16] py-28 text-white">
+    <section className="relative overflow-hidden bg-gradient-to-b from-[var(--lbg)] via-[var(--lbg-green)] to-[var(--lbg)] py-28 text-white">
       <div className="mx-auto grid max-w-6xl items-center gap-14 px-5 lg:grid-cols-2">
         <div>
           <p className="font-mono text-xs tracking-[0.3em] text-gold">{am ? "06 — መሳፈር" : "06 — FINAL CALL"}</p>

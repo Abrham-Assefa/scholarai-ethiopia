@@ -94,12 +94,20 @@ html, body { overflow-x: clip; }
 @keyframes dash-run { from { left: -1rem; } to { left: 100%; } }
 .dash-run { animation: dash-run 1.4s cubic-bezier(.6,0,.4,1) infinite; }
 
-@keyframes flap { 0% { transform: rotateX(-90deg); opacity: .3; } 100% { transform: rotateX(0); opacity: 1; } }
-.flap { perspective: 120px; }
-.flap-char { display: inline-block; animation: flap .09s ease-out; transform-origin: 50% 50%; }
 
 .landing ::selection { background: #f2b705; color: #000; }
 
 @media (prefers-reduced-motion: reduce) {
-  .stars, .dash-run, .flap-char, .fade-up { animation: none !important; }
+  .stars, .dash-run, .fade-up { animation: none !important; }
 }
+
+/* Landing theme tokens. Light mode remaps Tailwind's white to ink so white/alpha utilities flip. */
+.landing { --lbg: #050b16; --lbg-green: #07261a; --lfidel: 255, 255, 255; }
+html:not(.dark) .landing { --lbg: #f7f2e6; --lbg-green: #e3f1e4; --lfidel: 11, 26, 46; --color-white: #0b1a2e; }
+/* Physical objects (globe chrome) stay dark in both themes. */
+html:not(.dark) .landing .keep-dark { --color-white: #fff; }
+html:not(.dark) .landing .stars { opacity: .25; filter: invert(1); }
+html:not(.dark) .landing .text-gold:not(.keep-dark .text-gold) { color: #a36f00; }
+html:not(.dark) .landing :not(.keep-dark *).text-emerald-300 { color: #078c3f; }
+html:not(.dark) .landing :not(.keep-dark *).text-red-300 { color: #c0261f; }
+html:not(.dark) .landing :not(.keep-dark *).bg-black\/30 { background-color: rgb(255 255 255 / .7); }

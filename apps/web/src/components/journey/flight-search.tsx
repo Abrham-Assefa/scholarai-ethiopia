@@ -43,7 +43,7 @@ export function FlightSearch() {
   const pct = ((gpa - 2) / 2) * 100;
 
   return (
-    <section className="relative overflow-hidden bg-[#050b16] py-28 text-white">
+    <section className="relative overflow-hidden bg-[var(--lbg)] py-28 text-white">
       <div className="pointer-events-none absolute left-1/2 top-0 h-px w-[80%] -translate-x-1/2 bg-gradient-to-r from-transparent via-gold/60 to-transparent" />
       <div className="mx-auto max-w-6xl px-5">
         <p className="font-mono text-xs tracking-[0.3em] text-gold">{am ? "04 — ይሞክሩት" : "04 — TRY IT LIVE"}</p>
@@ -65,12 +65,12 @@ export function FlightSearch() {
             <div>
               <div className="flex items-end justify-between">
                 <p className="font-mono text-[11px] tracking-[0.2em] text-white/40">GPA</p>
-                <motion.span key={gpa.toFixed(1)} initial={{ scale: 1.25, color: "#f2b705" }} animate={{ scale: 1, color: "#ffffff" }} className="font-mono text-4xl font-black tabular-nums">{gpa.toFixed(2)}</motion.span>
+                <motion.span key={gpa.toFixed(1)} initial={{ scale: 1.25, color: "#f2b705" }} animate={{ scale: 1, color: "var(--color-white)" }} className="font-mono text-4xl font-black tabular-nums">{gpa.toFixed(2)}</motion.span>
               </div>
               <div className="relative mt-4 h-10">
                 <div className="absolute inset-x-0 top-1/2 h-2 -translate-y-1/2 rounded-full bg-white/10" />
                 <div className="absolute left-0 top-1/2 h-2 -translate-y-1/2 rounded-full bg-gradient-to-r from-red via-gold to-primary" style={{ width: `${pct}%` }} />
-                <div className="pointer-events-none absolute top-1/2 grid h-8 w-8 -translate-x-1/2 -translate-y-1/2 place-items-center rounded-full bg-white text-sm text-black shadow-[0_0_0_6px_rgba(242,183,5,.25)]" style={{ left: `${pct}%` }}>✈</div>
+                <div className="pointer-events-none absolute top-1/2 grid h-8 w-8 -translate-x-1/2 -translate-y-1/2 place-items-center rounded-full bg-[#fff] text-sm text-black shadow-[0_0_0_6px_rgba(242,183,5,.25)]" style={{ left: `${pct}%` }}>✈</div>
                 <input type="range" min={2} max={4} step={0.05} value={gpa} onChange={(e) => setGpa(Number(e.target.value))} aria-label="GPA" className="absolute inset-0 w-full cursor-pointer opacity-0" />
               </div>
               <div className="mt-1 flex justify-between font-mono text-[10px] text-white/30"><span>2.00</span><span>3.00</span><span>4.00</span></div>
@@ -83,7 +83,7 @@ export function FlightSearch() {
                 ))}
               </div>
             </div>
-            <Link href="/onboarding" className="group inline-flex w-full items-center justify-center gap-2 rounded-full bg-primary px-6 py-4 font-bold text-white transition-shadow hover:shadow-[0_0_40px_-5px_rgba(21,168,84,.8)]">
+            <Link href="/onboarding" className="group inline-flex w-full items-center justify-center gap-2 rounded-full bg-primary px-6 py-4 font-bold text-[#fff] transition-shadow hover:shadow-[0_0_40px_-5px_rgba(21,168,84,.8)]">
               <Sparkles size={16} />{am ? "ሙሉ ሪፖርቴን ስጠኝ" : "Get my full match report"}<ArrowRight size={16} className="transition-transform group-hover:translate-x-1" />
             </Link>
           </div>
