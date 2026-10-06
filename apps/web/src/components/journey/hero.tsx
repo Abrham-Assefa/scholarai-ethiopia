@@ -5,7 +5,7 @@ import { AnimatePresence, motion } from "motion/react";
 import { ArrowRight, MousePointer2, Plane } from "lucide-react";
 import { Link } from "@/i18n/routing";
 import { Globe } from "./globe";
-import { DepartureBoard } from "./departure-board";
+import { DeadlineShowcase } from "./deadline-showcase";
 import { Magnetic } from "./magnetic";
 import { airportFor, useAllScholarships, type Airport } from "./geo";
 
@@ -57,7 +57,7 @@ export function HeroJourney() {
   const lines = am ? [t("title")] : ["Find scholarships.", "Build your CV.", "Never miss a deadline."];
 
   return (
-    <section className="relative isolate overflow-hidden bg-[#050b16] text-white">
+    <section className="relative isolate overflow-hidden bg-[var(--lbg)] text-white">
       <div className="stars pointer-events-none absolute inset-0 -z-10" />
       <div className="pointer-events-none absolute -left-40 top-20 -z-10 h-[520px] w-[520px] rounded-full bg-primary/25 blur-[120px]" />
       <div className="pointer-events-none absolute -right-20 bottom-40 -z-10 h-[420px] w-[420px] rounded-full bg-gold/15 blur-[120px]" />
@@ -117,7 +117,7 @@ export function HeroJourney() {
         <motion.div initial={{ opacity: 0, scale: 0.85, rotate: -8 }} animate={{ opacity: 1, scale: 1, rotate: 0 }} transition={{ duration: 1.6, ease, delay: 0.2 }}
           className="relative -mx-5 h-[420px] sm:h-[520px] lg:mx-0 lg:h-[600px]">
           <Globe destinations={dests} highlight={hl} className="h-full w-full" />
-          <p className="pointer-events-none absolute bottom-6 left-1/2 inline-flex -translate-x-1/2 items-center gap-1.5 rounded-full border border-white/10 bg-black/40 px-3 py-1 text-[11px] text-white/60 backdrop-blur">
+          <p className="keep-dark pointer-events-none absolute bottom-6 left-1/2 inline-flex -translate-x-1/2 items-center gap-1.5 rounded-full border border-white/10 bg-black/40 px-3 py-1 text-[11px] text-white/60 backdrop-blur">
             <MousePointer2 size={12} /> {am ? "ዓለሙን ይጎትቱት" : "Drag to spin the world"}
           </p>
         </motion.div>
@@ -125,8 +125,8 @@ export function HeroJourney() {
 
       <div className="relative z-10 mx-auto -mt-6 max-w-6xl px-5 pb-24 lg:mt-2">
         <motion.div initial={{ opacity: 0, y: 60 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, margin: "-80px" }} transition={{ duration: 0.9, ease }}>
-          <DepartureBoard items={items} onHover={setHl} />
-          <p className="mt-3 text-center text-xs text-white/40">{am ? "በአንድ ረድፍ ላይ ያንዣብቡ — በረራው በዓለም ላይ ይበራል።" : "Hover a row — its flight lights up on the globe."} · {t("verify")}</p>
+          <DeadlineShowcase items={items} onHover={setHl} />
+          <p className="mt-3 text-center text-xs text-white/40">{am ? "በካርድ ላይ ያንዣብቡ — መንገዱ በዓለም ላይ ይበራል።" : "Hover a card — its route lights up on the globe."} · {t("verify")}</p>
         </motion.div>
       </div>
     </section>
