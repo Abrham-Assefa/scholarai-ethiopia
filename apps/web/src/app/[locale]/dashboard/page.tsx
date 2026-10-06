@@ -27,7 +27,7 @@ export default function DashboardPage() {
     if (!getToken()) { setNoProfile(true); return; }
     Promise.all([api.matches(), api.deadlines(90)])
       .then(([m, d]) => { setMatches(m.items); setDeadlines(d.items); if (m.items.length === 0) setNoProfile(true); })
-      .catch((e) => (e.status === 401 ? setNoProfile(true) : setError(e.message)));
+      .catch((e) => ([400, 401, 404].includes(e.status) ? setNoProfile(true) : setError(e.message)));
   }, []);
 
   if (noProfile) return (
