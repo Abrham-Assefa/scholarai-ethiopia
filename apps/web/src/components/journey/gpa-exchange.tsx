@@ -213,9 +213,9 @@ export function GpaExchange() {
 
       <div className="mx-auto mt-20 max-w-6xl px-5">
         <div className="text-center">
-          <p className="font-mono text-xs tracking-[0.3em] text-gold">{am ? "04 — የውጤት ምንዛሬ" : "04 — GPA EXCHANGE"}</p>
+          <p className="font-mono text-xs tracking-[0.3em] text-gold">{am ? "04 — የውጤት ምንዛሬ" : "04 — GRADE EXCHANGE"}</p>
           <h2 className="mx-auto mt-3 max-w-3xl text-4xl font-black tracking-tight sm:text-6xl">
-            {am ? "GPAዎ ይጓዛል። በውጭ ምን ያህል ዋጋ እንዳለው ይመልከቱ።" : <>Your GPA travels. <span className="text-gold">See what it&apos;s worth abroad.</span></>}
+            {am ? "ውጤትዎ ይጓዛል። በውጭ ምን ያህል ዋጋ እንዳለው ይመልከቱ።" : <>Your grade travels. <span className="text-gold">See what it&apos;s worth abroad.</span></>}
           </h2>
           <p className="mx-auto mt-4 max-w-xl text-sm text-white/55">
             {am ? "መደወያውን ያሽከርክሩ — ውጤትዎ በአራት የውጤት ስርዓቶች በቀጥታ ይቀየራል።" : "Spin the dial — your grade converts live into four grading systems."}
@@ -228,7 +228,7 @@ export function GpaExchange() {
             <Dial g={g} setG={setG} am={am} />
             <div className="mt-2 flex items-center justify-center gap-4">
               <button type="button" aria-label="decrease" onClick={() => step(-0.05)} className="grid h-11 w-11 place-items-center rounded-full border border-white/15 transition-colors hover:border-gold hover:text-gold"><Minus size={16} /></button>
-              <input type="range" min={2} max={4} step={0.01} value={g} onChange={(e) => setG(Number(e.target.value))} aria-label={am ? "የኢትዮጵያ GPA" : "Ethiopian GPA"} className="gpa-range w-36" style={{ ["--p" as string]: `${((g - 2) / 2) * 100}%` }} />
+              <input type="range" min={2} max={4} step={0.01} value={g} onChange={(e) => setG(Number(e.target.value))} aria-label={am ? "የኢትዮጵያ ውጤት" : "Ethiopian grade"} className="gpa-range w-36" style={{ ["--p" as string]: `${((g - 2) / 2) * 100}%` }} />
               <button type="button" aria-label="increase" onClick={() => step(0.05)} className="grid h-11 w-11 place-items-center rounded-full border border-white/15 transition-colors hover:border-gold hover:text-gold"><Plus size={16} /></button>
             </div>
             <div className="mt-4 flex flex-wrap justify-center gap-1.5">
