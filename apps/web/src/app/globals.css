@@ -73,74 +73,33 @@ body {
 }
 .fade-up { animation: fade-up 0.4s ease-out both; }
 
-/* ---------- Landing: premium motion & surfaces ---------- */
-@keyframes reveal {
-  from { opacity: 0; transform: translateY(24px) scale(0.98); filter: blur(6px); }
-  to { opacity: 1; transform: none; filter: blur(0); }
-}
-.reveal { animation: reveal 0.8s cubic-bezier(0.22, 1, 0.36, 1) both; }
-.reveal-1 { animation-delay: 0.05s; } .reveal-2 { animation-delay: 0.15s; } .reveal-3 { animation-delay: 0.25s; }
-.reveal-4 { animation-delay: 0.35s; } .reveal-5 { animation-delay: 0.5s; } .reveal-6 { animation-delay: 0.65s; }
+/* ---------- Landing: "boarding pass to the world" ---------- */
+html, body { overflow-x: clip; }
 
-@keyframes float { 0%, 100% { transform: translateY(0) rotate(var(--r, 0deg)); } 50% { transform: translateY(-14px) rotate(var(--r, 0deg)); } }
-.float { animation: float 6s ease-in-out infinite; }
-.float-slow { animation: float 9s ease-in-out infinite; }
-
-@keyframes blob { 0%, 100% { transform: translate(0, 0) scale(1); } 33% { transform: translate(40px, -30px) scale(1.1); } 66% { transform: translate(-30px, 20px) scale(0.95); } }
-.blob { animation: blob 18s ease-in-out infinite; }
-
-@keyframes marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
-.marquee { animation: marquee 40s linear infinite; }
-.marquee:hover { animation-play-state: paused; }
-
-@keyframes shimmer { from { background-position: 200% 0; } to { background-position: -200% 0; } }
-.text-shine {
-  background: linear-gradient(110deg, var(--primary) 0%, #22c55e 25%, var(--gold) 50%, var(--primary) 75%, #22c55e 100%);
-  background-size: 200% auto;
-  -webkit-background-clip: text; background-clip: text; color: transparent;
-  animation: shimmer 6s linear infinite;
-}
-
-@keyframes pulse-ring { 0% { transform: scale(0.9); opacity: 0.8; } 100% { transform: scale(1.8); opacity: 0; } }
-.pulse-dot::before {
-  content: ""; position: absolute; inset: 0; border-radius: 9999px; background: currentColor; animation: pulse-ring 1.8s cubic-bezier(0.22, 1, 0.36, 1) infinite;
-}
-
-.grid-bg {
+.stars {
   background-image:
-    linear-gradient(to right, color-mix(in oklab, var(--foreground) 6%, transparent) 1px, transparent 1px),
-    linear-gradient(to bottom, color-mix(in oklab, var(--foreground) 6%, transparent) 1px, transparent 1px);
-  background-size: 48px 48px;
-  mask-image: radial-gradient(ellipse 70% 60% at 50% 0%, black 30%, transparent 100%);
+    radial-gradient(1px 1px at 12% 18%, rgba(255,255,255,.7), transparent 60%),
+    radial-gradient(1px 1px at 72% 12%, rgba(255,255,255,.5), transparent 60%),
+    radial-gradient(1.5px 1.5px at 35% 64%, rgba(255,255,255,.6), transparent 60%),
+    radial-gradient(1px 1px at 88% 48%, rgba(255,255,255,.5), transparent 60%),
+    radial-gradient(1px 1px at 55% 85%, rgba(255,255,255,.4), transparent 60%),
+    radial-gradient(1.5px 1.5px at 8% 78%, rgba(242,183,5,.6), transparent 60%),
+    radial-gradient(1px 1px at 93% 82%, rgba(255,255,255,.5), transparent 60%),
+    radial-gradient(1px 1px at 47% 30%, rgba(255,255,255,.35), transparent 60%);
+  background-size: 420px 420px;
+  animation: twinkle 6s ease-in-out infinite alternate;
 }
+@keyframes twinkle { from { opacity: .55; } to { opacity: 1; } }
 
-.glass {
-  background: color-mix(in oklab, var(--card) 70%, transparent);
-  backdrop-filter: blur(16px) saturate(1.4);
-  -webkit-backdrop-filter: blur(16px) saturate(1.4);
-  border: 1px solid color-mix(in oklab, var(--foreground) 10%, transparent);
-  box-shadow: 0 20px 60px -20px rgb(0 0 0 / 0.25), inset 0 1px 0 color-mix(in oklab, white 40%, transparent);
-}
+@keyframes dash-run { from { left: -1rem; } to { left: 100%; } }
+.dash-run { animation: dash-run 1.4s cubic-bezier(.6,0,.4,1) infinite; }
 
-/* Spotlight hover card: JS sets --mx/--my */
-.spot {
-  position: relative; overflow: hidden; transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.3s;
-}
-.spot::before {
-  content: ""; position: absolute; inset: 0; pointer-events: none; opacity: 0; transition: opacity 0.3s;
-  background: radial-gradient(400px circle at var(--mx, 50%) var(--my, 50%), color-mix(in oklab, var(--primary) 18%, transparent), transparent 60%);
-}
-.spot:hover { transform: translateY(-4px); box-shadow: 0 24px 50px -24px color-mix(in oklab, var(--primary) 45%, transparent); }
-.spot:hover::before { opacity: 1; }
+@keyframes flap { 0% { transform: rotateX(-90deg); opacity: .3; } 100% { transform: rotateX(0); opacity: 1; } }
+.flap { perspective: 120px; }
+.flap-char { display: inline-block; animation: flap .09s ease-out; transform-origin: 50% 50%; }
 
-.tilt { transform-style: preserve-3d; transition: transform 0.15s ease-out; will-change: transform; }
-
-.btn-glow {
-  box-shadow: 0 10px 30px -8px color-mix(in oklab, var(--primary) 70%, transparent), 0 0 0 1px color-mix(in oklab, var(--primary) 30%, transparent);
-  transition: box-shadow 0.3s, transform 0.2s;
-}
-.btn-glow:hover { transform: translateY(-1px); box-shadow: 0 16px 40px -10px color-mix(in oklab, var(--primary) 85%, transparent), 0 0 0 1px color-mix(in oklab, var(--primary) 40%, transparent); }
+.landing ::selection { background: #f2b705; color: #000; }
 
 @media (prefers-reduced-motion: reduce) {
-  .reveal, .float, .float-slow, .blob, .marquee, .text-shine, .pulse-dot::before { animation: none !important; }
+  .stars, .dash-run, .flap-char, .fade-up { animation: none !important; }
 }
