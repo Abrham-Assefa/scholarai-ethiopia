@@ -78,7 +78,7 @@ export function FidelField() {
   return (
     <section className="relative h-[85vh] min-h-[560px] overflow-hidden bg-[var(--lbg)] text-white">
       <canvas ref={ref} className="absolute inset-0 h-full w-full" aria-hidden />
-      <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(5,11,22,.92)_0%,rgba(5,11,22,.6)_35%,transparent_70%)]" />
+      <div className="pointer-events-none absolute inset-0 fidel-veil" />
       <div className="pointer-events-none relative z-10 mx-auto flex h-full max-w-4xl flex-col items-center justify-center px-5 text-center">
         <p className="font-mono text-xs tracking-[0.3em] text-gold">{am ? "07 — ቋንቋዎ" : "07 — YOUR LANGUAGE"}</p>
         <h2 className="mt-4 font-ethiopic text-5xl font-bold leading-tight sm:text-7xl">ቋንቋዎን ይናገራል።</h2>
