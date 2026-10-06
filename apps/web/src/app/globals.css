@@ -111,3 +111,17 @@ html:not(.dark) .landing .text-gold:not(.keep-dark .text-gold) { color: #a36f00;
 html:not(.dark) .landing :not(.keep-dark *).text-emerald-300 { color: #078c3f; }
 html:not(.dark) .landing :not(.keep-dark *).text-red-300 { color: #c0261f; }
 html:not(.dark) .landing :not(.keep-dark *).bg-black\/30 { background-color: rgb(255 255 255 / .7); }
+html:not(.dark) .landing :not(.keep-dark *).bg-black\/20 { background-color: rgb(255 255 255 / .55); }
+.cockpit-grid {
+  background-image: linear-gradient(to right, color-mix(in srgb, var(--color-white) 6%, transparent) 1px, transparent 1px),
+    linear-gradient(to bottom, color-mix(in srgb, var(--color-white) 6%, transparent) 1px, transparent 1px);
+  background-size: 32px 32px;
+  mask-image: radial-gradient(ellipse at 60% 30%, #000 20%, transparent 75%);
+}
+@keyframes ticker { to { transform: translateX(-50%); } }
+.ticker { animation: ticker 40s linear infinite; }
+.ticker:hover { animation-play-state: paused; }
+.gpa-range { -webkit-appearance: none; appearance: none; height: 8px; border-radius: 999px; cursor: pointer;
+  background: linear-gradient(to right, #e23b3b, #f2b705 50%, #15a854) 0 0 / var(--p) 100% no-repeat, color-mix(in srgb, var(--color-white) 12%, transparent); }
+.gpa-range::-webkit-slider-thumb { -webkit-appearance: none; width: 26px; height: 26px; border-radius: 999px; background: #fff; border: 6px solid #f2b705; box-shadow: 0 0 0 6px rgba(242,183,5,.2); }
+.gpa-range::-moz-range-thumb { width: 18px; height: 18px; border-radius: 999px; background: #fff; border: 6px solid #f2b705; }

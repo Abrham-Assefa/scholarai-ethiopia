@@ -3,6 +3,8 @@ import { HeroJourney } from "@/components/journey/hero";
 import { BoardingPasses } from "@/components/journey/boarding-passes";
 import { RouteStory } from "@/components/journey/route-story";
 import { FlightSearch } from "@/components/journey/flight-search";
+import { GpaExchange } from "@/components/journey/gpa-exchange";
+import { SeasonCalendar } from "@/components/journey/season-calendar";
 import { FidelField } from "@/components/journey/fidel-field";
 import { BigStats, PassportFinale, ScrollProgress } from "@/components/journey/finale";
 
@@ -17,6 +19,8 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
       <BoardingPasses />
       <RouteStory />
       <FlightSearch />
+      <GpaExchange />
+      <SeasonCalendar />
       <FidelField />
       <BigStats />
       <PassportFinale />

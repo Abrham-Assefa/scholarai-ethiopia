@@ -35,6 +35,14 @@ export const AIRPORTS: Record<string, Airport> = {
 const WORLDWIDE: Airport = { code: "INT", city: "Worldwide", lat: 48, lon: -30 };
 export const airportFor = (country: string) => AIRPORTS[country] ?? WORLDWIDE;
 
+const FLAGS: Record<string, string> = {
+  Germany: "🇩🇪", UK: "🇬🇧", USA: "🇺🇸", China: "🇨🇳", "South Korea": "🇰🇷", Japan: "🇯🇵", Türkiye: "🇹🇷",
+  Hungary: "🇭🇺", Romania: "🇷🇴", Russia: "🇷🇺", India: "🇮🇳", Brunei: "🇧🇳", Azerbaijan: "🇦🇿", Sweden: "🇸🇪",
+  Netherlands: "🇳🇱", France: "🇫🇷", Switzerland: "🇨🇭", Australia: "🇦🇺", Rwanda: "🇷🇼", Ghana: "🇬🇭",
+  EU: "🇪🇺", Ethiopia: "🇪🇹", Africa: "🌍",
+};
+export const flagFor = (country: string) => FLAGS[country] ?? "🌐";
+
 let cache: Promise<Scholarship[]> | null = null;
 /** One shared fetch for every landing section. */
 export function useAllScholarships() {
