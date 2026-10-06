@@ -4,7 +4,7 @@ import { use, useCallback, useEffect, useState, type ReactNode } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import {
   ArrowLeft, BadgeCheck, CalendarClock, CalendarDays, CheckCircle2, ExternalLink, FileText,
-  Gift, Lightbulb, Link2, ListOrdered, MapPin, Scale, ShieldCheck, Users,
+  Gift, Lightbulb, Link2, ListOrdered, MapPin, Scale, ShieldCheck, Sparkles, Users,
 } from "lucide-react";
 import { Link } from "@/i18n/routing";
 import { api } from "@/lib/api";
@@ -76,6 +76,12 @@ export default function ScholarshipDetail({ params }: { params: Promise<{ id: st
               {s.level.map((l) => <Badge key={l} variant="outline">{l}</Badge>)}
             </div>
             <h1 className="text-balance text-3xl font-bold leading-tight md:text-4xl">{s.title}</h1>
+            {s.origin === "discovered" && (
+              <p className="mt-3 flex items-start gap-2 rounded-lg border border-gold/40 bg-gold/10 px-3 py-2 text-xs text-amber-800 dark:text-gold" data-testid="auto-collected">
+                <Sparkles size={14} className="mt-px shrink-0" />
+                <span>{t("autoCollected", { source: host(s.sources?.[0] ?? s.url), date: s.discoveredAt ?? "" })}</span>
+              </p>
+            )}
             {s.provider && <p className="mt-2 text-muted-foreground">{s.provider}</p>}
             <div className="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-sm">
               <span className="inline-flex items-center gap-1.5"><MapPin size={15} className="text-primary" />{s.countries.join(", ")}</span>
@@ -183,6 +189,7 @@ export default function ScholarshipDetail({ params }: { params: Promise<{ id: st
             ))}
           </ul>
           {s.lastVerified && <p className="mt-3 text-xs text-muted-foreground">{t("lastVerified", { date: s.lastVerified })}</p>}
+          {s.lastChecked && <p className="mt-1 text-xs text-muted-foreground">{t(s.checkStatus === "unreachable" ? "lastCheckedDown" : "lastChecked", { date: s.lastChecked })}</p>}
         </div>
       ) : null}
     </div>

@@ -30,6 +30,31 @@ export interface Scholarship {
   details?: ScholarshipDetails | null;
   sources?: string[];
   lastVerified?: string | null;
+  origin?: "curated" | "discovered";
+  lastChecked?: string | null;
+  checkStatus?: string | null;
+  discoveredAt?: string | null;
+}
+
+export interface CollectorRun {
+  id: string;
+  trigger: "auto" | "manual";
+  status: "running" | "ok" | "error";
+  startedAt: string;
+  finishedAt: string | null;
+  stats: { checked?: number; reachable?: number; discovered?: number; updated?: number; closed?: number; rolled?: number; provider?: string };
+  changes: { id: string; kind: string; detail: string }[];
+  errors: string[];
+}
+
+export interface CollectorStatus {
+  enabled: boolean;
+  intervalHours: number;
+  running: boolean;
+  lastRun: CollectorRun | null;
+  lastSuccessAt: string | null;
+  nextRunAt: string | null;
+  totals: { scholarships: number; discovered: number };
 }
 
 export interface ScholarshipDetails {

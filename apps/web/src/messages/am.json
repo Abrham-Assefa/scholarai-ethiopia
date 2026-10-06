@@ -152,7 +152,24 @@
     "ageMax": "እስከ {n}",
     "eligibleBadge": "ለኢትዮጵያውያን ክፍት",
     "retry": "እንደገና ሞክር",
-    "offlineHint": "API ን ያስጀምሩ፦ cd services/api && uv run uvicorn app.main:app --port 8000"
+    "offlineHint": "API ን ያስጀምሩ፦ cd services/api && uv run uvicorn app.main:app --port 8000",
+    "new": "አዲስ",
+    "onlyNew": "አዲስ የተገኙ",
+    "autoCollected": "ይህ ዕድል በድረ-ገጽ ሰብሳቢያችን ከ{source} በራሱ ተገኝቷል ({date})። ዝርዝሩ በAI የተጠቃለለ ነው — ከማመልከትዎ በፊት ሁልጊዜ በይፋዊው ድረ-ገጽ ያረጋግጡ።",
+    "lastChecked": "ይፋዊው ገጽ በ{date} በራሱ እንደገና ተረጋግጧል።",
+    "lastCheckedDown": "ይፋዊው ገጽ በ{date} ሊደረስበት አልቻለም — ጣቢያው ተዘግቶ ሊሆን ይችላል።",
+    "live": {
+      "title": "ቀጥታ ዝርዝር · በየ{hours} ሰዓቱ ከድረ-ገጽ ይታደሳል",
+      "running": "አሁን ይፋዊ ገጾችንና የስኮላርሺፕ ምንጮችን እየቃኘ ነው…",
+      "last": "የመጨረሻ እድሳት {when}",
+      "never": "የመጀመሪያው እድሳት በቅርቡ ይጀምራል",
+      "next": "ቀጣይ {when}",
+      "found": "{count} በAI ተገኝተዋል",
+      "lastRunStats": "የመጨረሻ ሩጫ: +{found} አዲስ · {updated} ተዘምነዋል · {checked} ተረጋግጠዋል",
+      "refresh": "አሁን አድስ",
+      "refreshing": "በማደስ ላይ…",
+      "failed": "እድሳት መጀመር አልተቻለም (ምናልባት አንዱ እየሄደ ነው)።"
+    }
   },
   "conferences": {
     "title": "ኮንፈረንሶች እና ፌሎውሺፖች",

@@ -1,10 +1,15 @@
 import { useLocale, useTranslations } from "next-intl";
-import { CalendarDays, MapPin } from "lucide-react";
+import { CalendarDays, MapPin, Sparkles } from "lucide-react";
 import { Link } from "@/i18n/routing";
 import type { Scholarship } from "@/lib/types";
 import { Card, CardContent } from "./ui/card";
 import { Badge } from "./ui/badge";
 import { daysLabel } from "@/lib/utils";
+
+/** Found by the web collector in the last 14 days. */
+export function isNew(s: Scholarship, now = Date.now()) {
+  return s.origin === "discovered" && !!s.discoveredAt && now - new Date(s.discoveredAt + "T00:00:00").getTime() < 14 * 86400e3;
+}
 
 export function ScholarshipCard({ s }: { s: Scholarship }) {
   const t = useTranslations("scholarships");
@@ -15,6 +20,7 @@ export function ScholarshipCard({ s }: { s: Scholarship }) {
       <Card className="h-full transition-shadow hover:shadow-md">
         <CardContent className="p-5">
           <div className="mb-2 flex flex-wrap gap-1">
+            {isNew(s) && <Badge className="gap-1 bg-gold text-black hover:bg-gold"><Sparkles size={11} />{t("new")}</Badge>}
             <Badge variant={s.fundingType === "full" ? "default" : "muted"}>{s.fundingType === "full" ? t("full") : t("partial")}</Badge>
             {s.level.map((l) => <Badge key={l} variant="outline">{l}</Badge>)}
           </div>

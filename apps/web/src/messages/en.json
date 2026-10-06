@@ -152,7 +152,24 @@
     "ageMax": "Up to {n}",
     "eligibleBadge": "Open to Ethiopians",
     "retry": "Retry",
-    "offlineHint": "Start the API with: cd services/api && uv run uvicorn app.main:app --port 8000"
+    "offlineHint": "Start the API with: cd services/api && uv run uvicorn app.main:app --port 8000",
+    "new": "New",
+    "onlyNew": "Newly found",
+    "autoCollected": "Found automatically by our web collector on {source} ({date}). Details were summarised by AI — always confirm on the official site before applying.",
+    "lastChecked": "Official page re-checked automatically on {date}.",
+    "lastCheckedDown": "Official page could not be reached on {date} — the site may be down.",
+    "live": {
+      "title": "Live catalogue · refreshed from the web every {hours}h",
+      "running": "Scanning official pages and scholarship feeds right now…",
+      "last": "Last refresh {when}",
+      "never": "First refresh starting soon",
+      "next": "next {when}",
+      "found": "{count} found by AI",
+      "lastRunStats": "Last run: +{found} new · {updated} updated · {checked} checked",
+      "refresh": "Refresh now",
+      "refreshing": "Refreshing…",
+      "failed": "Couldn't start a refresh (maybe one is already running)."
+    }
   },
   "conferences": {
     "title": "Conferences & fellowships",

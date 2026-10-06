@@ -9,6 +9,7 @@ import { Input, Select } from "@/components/ui/input";
 import { Skeleton } from "@/components/ui/skeleton";
 import { ScholarshipCard } from "@/components/scholarship-card";
 import { ApiError } from "@/components/api-error";
+import { LiveRefresh } from "@/components/live-refresh";
 
 const LEVELS = ["bachelor", "master", "phd", "postdoc", "short-course"];
 
@@ -19,6 +20,7 @@ export default function ScholarshipsPage() {
   const [country, setCountry] = useState("");
   const [field, setField] = useState("");
   const [funding, setFunding] = useState("");
+  const [onlyNew, setOnlyNew] = useState(false);
   const [all, setAll] = useState<Scholarship[] | null>(null);
   const [items, setItems] = useState<Scholarship[] | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -28,8 +30,9 @@ export default function ScholarshipsPage() {
 
   const load = useCallback(() => {
     setError(null);
-    api.scholarships({ q, level, country, field, funding, limit: "200" }).then((r) => setItems(r.items)).catch((e) => setError(String(e.message)));
-  }, [q, level, country, field, funding]);
+    api.scholarships({ q, level, country, field, funding, origin: onlyNew ? "discovered" : undefined, limit: "200" }).then((r) => setItems(r.items)).catch((e) => setError(String(e.message)));
+  }, [q, level, country, field, funding, onlyNew]);
+  const refreshAll = useCallback(() => { loadAll(); load(); }, [loadAll, load]);
 
   useEffect(() => { const id = setTimeout(load, 250); return () => clearTimeout(id); }, [load]);
 
@@ -40,6 +43,7 @@ export default function ScholarshipsPage() {
     <div>
       <h1 className="text-3xl font-bold">{t("title")}</h1>
       <p className="mt-1 text-muted-foreground">{t("subtitle", { count: all?.length ?? "…" })}</p>
+      <LiveRefresh onUpdated={refreshAll} />
 
       <div className="mt-6 grid gap-3 md:grid-cols-5">
         <div className="relative md:col-span-2">
@@ -66,7 +70,16 @@ export default function ScholarshipsPage() {
       </div>
 
       {error && <div className="mt-6"><ApiError message={error} onRetry={() => { load(); if (!all) loadAll(); }} /></div>}
-      {!error && items && <p className="mt-6 text-sm text-muted-foreground">{t("results", { count: items.length })}</p>}
+      <div className="mt-6 flex flex-wrap items-center justify-between gap-2">
+        {!error && items ? <p className="text-sm text-muted-foreground">{t("results", { count: items.length })}</p> : <span />}
+        <button
+          onClick={() => setOnlyNew((v) => !v)}
+          aria-pressed={onlyNew}
+          className={`rounded-full border px-3 py-1 text-xs font-medium transition ${onlyNew ? "border-primary bg-primary text-primary-foreground" : "hover:border-primary hover:text-primary"}`}
+        >
+          ✨ {t("onlyNew")}
+        </button>
+      </div>
       <div className="mt-3 grid gap-4 sm:grid-cols-2 lg:grid-cols-3" data-testid="scholarship-grid">
         {!items && !error && Array.from({ length: 6 }).map((_, i) => <Skeleton key={i} className="h-40" />)}
         {items?.map((s) => <ScholarshipCard key={s.id} s={s} />)}

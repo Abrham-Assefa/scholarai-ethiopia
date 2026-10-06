@@ -1,6 +1,6 @@
 "use client";
 
-import type { CVData, CVRecord, ChatReply, Conference, Match, Profile, Scholarship } from "./types";
+import type { CVData, CVRecord, ChatReply, CollectorStatus, Conference, Match, Profile, Scholarship } from "./types";
 
 export const API_URL = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000";
 const TOKEN_KEY = "scholarai.token";
@@ -46,6 +46,8 @@ export const api = {
     return request<{ items: Scholarship[]; total: number }>(`/v1/scholarships${qs ? `?${qs}` : ""}`);
   },
   scholarship: (id: string) => request<Scholarship>(`/v1/scholarships/${id}`),
+  collectorStatus: () => request<CollectorStatus>("/v1/collector/status"),
+  runCollector: () => request<{ status: string; runId: string }>("/v1/collector/run", { method: "POST" }),
   conferences: () => request<{ items: Conference[]; total: number }>("/v1/conferences"),
   login: async (phone: string, code: string) => {
     const r = await request<{ accessToken: string; user: { id: string; phone: string; name?: string } }>("/v1/auth/otp/verify", {
