@@ -13,9 +13,10 @@ export interface Scholarship {
   eligibility: {
     nationalities?: string[];
     ethiopiansEligible?: boolean;
-    minGpa?: number;
+    minGpa?: number | null;
     englishTest?: string;
     workYearsMin?: number;
+    ageLimit?: number | null;
   };
   deadline: string | null;
   deadlineText?: string;
@@ -25,6 +26,21 @@ export interface Scholarship {
   status: string;
   daysLeft?: number | null;
   requiredDocuments?: string[];
+  deadlineConfirmed?: boolean;
+  details?: ScholarshipDetails | null;
+  sources?: string[];
+  lastVerified?: string | null;
+}
+
+export interface ScholarshipDetails {
+  overview?: string;
+  whoCanApply?: string[];
+  benefits?: string[];
+  howToApply?: string[];
+  documents?: string[];
+  selection?: string;
+  ethiopiaTips?: string[];
+  applicationOpens?: string;
 }
 
 export interface Conference {

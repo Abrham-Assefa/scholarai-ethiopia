@@ -19,10 +19,10 @@ export function ScholarshipCard({ s }: { s: Scholarship }) {
             {s.level.map((l) => <Badge key={l} variant="outline">{l}</Badge>)}
           </div>
           <h3 className="font-semibold leading-snug">{s.title}</h3>
-          <p className="mt-1 line-clamp-2 text-sm text-muted-foreground">{s.covers}</p>
+          <p className="mt-1 line-clamp-2 text-sm text-muted-foreground">{s.details?.overview ?? s.covers}</p>
           <div className="mt-3 flex items-center justify-between text-xs text-muted-foreground">
             <span className="inline-flex items-center gap-1"><MapPin size={12} />{s.country}</span>
-            <span className={`inline-flex items-center gap-1 ${urgent ? "font-semibold text-red" : ""}`}><CalendarDays size={12} />{daysLabel(s.daysLeft, locale)}</span>
+            <span className={`inline-flex items-center gap-1 ${urgent ? "font-semibold text-red" : ""}`}><CalendarDays size={12} />{s.status === "rolling" && !s.deadline ? t("rolling") : daysLabel(s.daysLeft, locale)}{s.deadline && s.deadlineConfirmed === false && <span className="rounded bg-gold/15 px-1 text-[10px] font-medium text-amber-700 dark:text-gold" title={t("estimatedHint")}>{t("estimated")}</span>}</span>
           </div>
         </CardContent>
       </Card>

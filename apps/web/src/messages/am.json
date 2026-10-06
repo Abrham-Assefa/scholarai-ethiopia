@@ -1,5 +1,15 @@
 {
-  "nav": { "home": "መነሻ", "scholarships": "ስኮላርሺፖች", "conferences": "ኮንፈረንሶች", "cv": "ሲቪ ማዘጋጃ", "assistant": "ረዳት", "dashboard": "ዳሽቦርድ", "getStarted": "ይጀምሩ", "toggleTheme": "ገጽታ ቀይር", "language": "ቋንቋ" },
+  "nav": {
+    "home": "መነሻ",
+    "scholarships": "ስኮላርሺፖች",
+    "conferences": "ኮንፈረንሶች",
+    "cv": "ሲቪ ማዘጋጃ",
+    "assistant": "ረዳት",
+    "dashboard": "ዳሽቦርድ",
+    "getStarted": "ይጀምሩ",
+    "toggleTheme": "ገጽታ ቀይር",
+    "language": "ቋንቋ"
+  },
   "landing": {
     "badge": "ለኢትዮጲያውያን ተማሪዎች የተሰራ",
     "title": "ስኮላርሺፕ ያግኙ። ሲቪዎን ይገንቡ። ቀነ ገደብ አያምልጥዎ።",
@@ -10,56 +20,224 @@
     "countries": "{count} አገሮች",
     "conferences": "{count} የተደገፉ ኮንፈረንሶች",
     "features": {
-      "match": { "title": "AI ማዛመድ", "desc": "ለእያንዳንዱ ስኮላርሺፕ የብቁነት ዕድል፣ ያለዎትና የሚጎድልዎት ጋር።" },
-      "cv": { "title": "ሲቪ ማዘጋጃ", "desc": "Europass እና ዘመናዊ ቅጦች፣ STAR ዘዴ፣ ATS ነጥብ፣ GPA ልወጣ — መቼም ሐሰት አይፈጥርም።" },
-      "assistant": { "title": "የአማርኛ ረዳት", "desc": "ስለ ቀነ ገደብ፣ ሰነዶች፣ IELTS ወይም የትምህርት ሚኒስቴር ማረጋገጫ በአማርኛ ይጠይቁ።" },
-      "deadlines": { "title": "የቀነ ገደብ ራዳር", "desc": "በእርስዎ የማዛመድ ነጥብ የተደረደሩ ቀነ ገደቦች።" }
+      "match": {
+        "title": "AI ማዛመድ",
+        "desc": "ለእያንዳንዱ ስኮላርሺፕ የብቁነት ዕድል፣ ያለዎትና የሚጎድልዎት ጋር።"
+      },
+      "cv": {
+        "title": "ሲቪ ማዘጋጃ",
+        "desc": "Europass እና ዘመናዊ ቅጦች፣ STAR ዘዴ፣ ATS ነጥብ፣ GPA ልወጣ — መቼም ሐሰት አይፈጥርም።"
+      },
+      "assistant": {
+        "title": "የአማርኛ ረዳት",
+        "desc": "ስለ ቀነ ገደብ፣ ሰነዶች፣ IELTS ወይም የትምህርት ሚኒስቴር ማረጋገጫ በአማርኛ ይጠይቁ።"
+      },
+      "deadlines": {
+        "title": "የቀነ ገደብ ራዳር",
+        "desc": "በእርስዎ የማዛመድ ነጥብ የተደረደሩ ቀነ ገደቦች።"
+      }
     },
     "howTitle": "እንዴት ይሰራል",
-    "steps": ["ግብዎን፣ GPA እና የትምህርት መስክዎን ይንገሩን", "ከማብራሪያ ጋር የተደረደሩ ተዛማጆችን ያግኙ", "ሲቪዎን ይገንቡና በልበ ሙሉነት ያመልክቱ"],
+    "steps": [
+      "ግብዎን፣ GPA እና የትምህርት መስክዎን ይንገሩን",
+      "ከማብራሪያ ጋር የተደረደሩ ተዛማጆችን ያግኙ",
+      "ሲቪዎን ይገንቡና በልበ ሙሉነት ያመልክቱ"
+    ],
     "verify": "ቀነ ገደቦች በየዓመቱ ይቀየራሉ — ሁልጊዜ በይፋዊ ድረ-ገጽ ያረጋግጡ።"
   },
   "onboarding": {
     "title": "መገለጫዎን ያዘጋጁ",
-    "steps": ["ግብ", "ትምህርት", "ውጤቶች", "ፍላጎቶች", "ማሳወቂያዎች"],
-    "next": "ቀጣይ", "back": "ተመለስ", "finish": "ተዛማጆቼን አሳየኝ",
-    "goal": { "label": "ምን ላይ ነው ያነጣጠሩት?", "bachelor": "የመጀመሪያ ዲግሪ", "master": "ማስተርስ", "phd": "ፒኤችዲ", "postdoc": "ፖስትዶክ", "short-course": "አጭር ኮርስ / ፌሎውሺፕ" },
-    "education": { "name": "ስምዎ", "field": "የትምህርት መስክ", "fieldPh": "ለምሳሌ ኤሌክትሪካል ኢንጂነሪንግ", "gpa": "GPA", "scale": "መለኪያ", "region": "ክልል", "regionPh": "ለምሳሌ አዲስ አበባ" },
-    "scores": { "englishTest": "የእንግሊዝኛ ፈተና", "none": "ገና የለም", "englishScore": "ውጤት", "workYears": "የሥራ ልምድ ዓመታት", "leadership": "ቡድን፣ ክለብ ወይም ፕሮጀክት መርቻለሁ" },
-    "interests": { "label": "ፍላጎቶች (በነጠላ ሰረዝ)", "ph": "ለምሳሌ ታዳሽ ኃይል፣ የህዝብ ጤና", "countries": "የሚመርጧቸው አገሮች", "countriesPh": "ለምሳሌ ጀርመን፣ እንግሊዝ" },
-    "notifications": { "label": "እንዴት እናስታውስዎ?", "telegram": "ቴሌግራም", "sms": "ኤስኤምኤስ", "email": "ኢሜይል", "push": "ፑሽ" },
+    "steps": [
+      "ግብ",
+      "ትምህርት",
+      "ውጤቶች",
+      "ፍላጎቶች",
+      "ማሳወቂያዎች"
+    ],
+    "next": "ቀጣይ",
+    "back": "ተመለስ",
+    "finish": "ተዛማጆቼን አሳየኝ",
+    "goal": {
+      "label": "ምን ላይ ነው ያነጣጠሩት?",
+      "bachelor": "የመጀመሪያ ዲግሪ",
+      "master": "ማስተርስ",
+      "phd": "ፒኤችዲ",
+      "postdoc": "ፖስትዶክ",
+      "short-course": "አጭር ኮርስ / ፌሎውሺፕ"
+    },
+    "education": {
+      "name": "ስምዎ",
+      "field": "የትምህርት መስክ",
+      "fieldPh": "ለምሳሌ ኤሌክትሪካል ኢንጂነሪንግ",
+      "gpa": "GPA",
+      "scale": "መለኪያ",
+      "region": "ክልል",
+      "regionPh": "ለምሳሌ አዲስ አበባ"
+    },
+    "scores": {
+      "englishTest": "የእንግሊዝኛ ፈተና",
+      "none": "ገና የለም",
+      "englishScore": "ውጤት",
+      "workYears": "የሥራ ልምድ ዓመታት",
+      "leadership": "ቡድን፣ ክለብ ወይም ፕሮጀክት መርቻለሁ"
+    },
+    "interests": {
+      "label": "ፍላጎቶች (በነጠላ ሰረዝ)",
+      "ph": "ለምሳሌ ታዳሽ ኃይል፣ የህዝብ ጤና",
+      "countries": "የሚመርጧቸው አገሮች",
+      "countriesPh": "ለምሳሌ ጀርመን፣ እንግሊዝ"
+    },
+    "notifications": {
+      "label": "እንዴት እናስታውስዎ?",
+      "telegram": "ቴሌግራም",
+      "sms": "ኤስኤምኤስ",
+      "email": "ኢሜይል",
+      "push": "ፑሽ"
+    },
     "saving": "በማስቀመጥ ላይ…"
   },
   "dashboard": {
-    "title": "ተዛማጆችዎ", "subtitle": "በብቁነት ዕድል የተደረደሩ", "noProfile": "ተዛማጆችን ለማየት መገለጫዎን ያጠናቅቁ።", "setup": "መገለጫ አዘጋጅ",
-    "why": "ለምን ይዛመዳሉ", "missing": "የሚጎድልዎት", "effort": "~{hours} ሰዓት", "view": "ይመልከቱ",
-    "deadlines": "በቅርቡ የሚያልቁ", "noDeadlines": "በሚቀጥሉት 90 ቀናት ቀነ ገደብ የለም።", "match": "ተዛማጅ", "loading": "ተዛማጆችዎን በማስላት ላይ…"
+    "title": "ተዛማጆችዎ",
+    "subtitle": "በብቁነት ዕድል የተደረደሩ",
+    "noProfile": "ተዛማጆችን ለማየት መገለጫዎን ያጠናቅቁ።",
+    "setup": "መገለጫ አዘጋጅ",
+    "why": "ለምን ይዛመዳሉ",
+    "missing": "የሚጎድልዎት",
+    "effort": "~{hours} ሰዓት",
+    "view": "ይመልከቱ",
+    "deadlines": "በቅርቡ የሚያልቁ",
+    "noDeadlines": "በሚቀጥሉት 90 ቀናት ቀነ ገደብ የለም።",
+    "match": "ተዛማጅ",
+    "loading": "ተዛማጆችዎን በማስላት ላይ…"
   },
   "scholarships": {
-    "title": "ስኮላርሺፖች", "subtitle": "ለኢትዮጲያውያን ክፍት {count} እድሎች",
-    "search": "በስም፣ በሰጪ፣ በቁልፍ ቃል ይፈልጉ…", "level": "ደረጃ", "country": "አገር", "field": "መስክ", "funding": "ድጋፍ", "any": "ማንኛውም",
-    "full": "ሙሉ ድጋፍ", "partial": "ከፊል", "deadline": "ቀነ ገደብ", "results": "{count} ውጤቶች", "empty": "ከእነዚህ ማጣሪያዎች ጋር የሚዛመድ የለም።",
-    "apply": "ይፋዊ ድረ-ገጽ", "buildCV": "ለዚህ ሲቪ ገንባ", "eligibility": "ብቁነት", "covers": "ይሸፍናል", "docs": "የሚያስፈልጉ ሰነዶች",
-    "minGpa": "ዝቅተኛ GPA", "workYears": "የሥራ ልምድ", "english": "የእንግሊዝኛ ፈተና", "years": "{n}+ ዓመት", "back": "ሁሉም ስኮላርሺፖች", "levels": "ደረጃዎች"
+    "title": "ስኮላርሺፖች",
+    "subtitle": "ለኢትዮጲያውያን ክፍት {count} እድሎች",
+    "search": "በስም፣ በሰጪ፣ በቁልፍ ቃል ይፈልጉ…",
+    "level": "ደረጃ",
+    "country": "አገር",
+    "field": "መስክ",
+    "funding": "ድጋፍ",
+    "any": "ማንኛውም",
+    "full": "ሙሉ ድጋፍ",
+    "partial": "ከፊል",
+    "deadline": "ቀነ ገደብ",
+    "results": "{count} ውጤቶች",
+    "empty": "ከእነዚህ ማጣሪያዎች ጋር የሚዛመድ የለም።",
+    "apply": "ይፋዊ ድረ-ገጽ",
+    "buildCV": "ለዚህ ሲቪ ገንባ",
+    "eligibility": "ብቁነት",
+    "covers": "ይሸፍናል",
+    "docs": "የሚያስፈልጉ ሰነዶች",
+    "minGpa": "ዝቅተኛ GPA",
+    "workYears": "የሥራ ልምድ",
+    "english": "የእንግሊዝኛ ፈተና",
+    "years": "{n}+ ዓመት",
+    "back": "ሁሉም ስኮላርሺፖች",
+    "levels": "ደረጃዎች",
+    "overview": "አጠቃላይ እይታ",
+    "whoCanApply": "ማን ማመልከት ይችላል",
+    "benefits": "የሚያገኙት",
+    "howToApply": "እንዴት ማመልከት እንደሚቻል",
+    "selection": "የምርጫ ሂደት",
+    "tips": "ለኢትዮጵያውያን አመልካቾች ምክሮች",
+    "opens": "የማመልከቻ ጊዜ",
+    "estimated": "ግምታዊ",
+    "estimatedHint": "ቀኑ ካለፈው ዙር የተገመተ ነው — በይፋዊ ድረ-ገጹ ያረጋግጡ።",
+    "confirmed": "የተረጋገጠ",
+    "rolling": "ቀጣይነት ያለው",
+    "sources": "ምንጮች",
+    "lastVerified": "ለመጨረሻ ጊዜ የተረጋገጠው {date}",
+    "ageLimit": "የዕድሜ ገደብ",
+    "ageMax": "እስከ {n}",
+    "eligibleBadge": "ለኢትዮጵያውያን ክፍት",
+    "retry": "እንደገና ሞክር",
+    "offlineHint": "API ን ያስጀምሩ፦ cd services/api && uv run uvicorn app.main:app --port 8000"
   },
-  "conferences": { "title": "ኮንፈረንሶች እና ፌሎውሺፖች", "subtitle": "ለኢትዮጲያውያን ክፍት የተደገፉ ጉባኤዎች", "age": "ዕድሜ", "funding": "ድጋፍ", "site": "ድረ-ገጽ" },
+  "conferences": {
+    "title": "ኮንፈረንሶች እና ፌሎውሺፖች",
+    "subtitle": "ለኢትዮጲያውያን ክፍት የተደገፉ ጉባኤዎች",
+    "age": "ዕድሜ",
+    "funding": "ድጋፍ",
+    "site": "ድረ-ገጽ"
+  },
   "cv": {
-    "title": "ሲቪ ማዘጋጃ", "template": "ቅጥ", "europass": "Europass", "modern": "ዘመናዊ", "lang": "ቋንቋ",
-    "sections": { "personal": "የግል", "summary": "ማጠቃለያ", "education": "ትምህርት", "experience": "ልምድ", "skills": "ክህሎቶች", "extras": "ሽልማቶች እና ሌሎች" },
-    "fullName": "ሙሉ ስም", "email": "ኢሜይል", "phone": "ስልክ", "city": "ከተማ", "summaryPh": "2–3 ዓረፍተ ነገሮች፦ ማን ነዎት፣ ምን ያነጣጠሩ፣ ጠንካራ ማስረጃዎ።",
-    "institution": "ተቋም", "degree": "ዲግሪ", "field": "መስክ", "gpa": "GPA", "start": "መጀመሪያ", "end": "መጨረሻ", "org": "ድርጅት", "role": "ሚና",
-    "bullets": "ስኬቶች (በየመስመሩ)", "bulletsPh": "የ10ኛ ክፍል ተማሪዎችን አስተምሬያለሁ\nለ40 ተጠቃሚዎች ዳሽቦርድ ገንብቻለሁ",
-    "technical": "ቴክኒካል ክህሎቶች", "soft": "ለስላሳ ክህሎቶች", "tools": "መሳሪያዎች", "languages": "ቋንቋዎች",
-    "awards": "ሽልማቶች", "volunteering": "በጎ ፈቃድ", "certifications": "ሰርተፊኬቶች",
-    "add": "ጨምር", "remove": "አስወግድ", "save": "አስቀምጥ", "saved": "ተቀምጧል", "enhance": "✨ ነጥቦችን አሻሽል", "enhancing": "በማሻሻል ላይ…", "download": "PDF አውርድ",
-    "ats": "ATS ነጥብ", "suggestions": "ምክሮች", "preview": "ቀጥታ ቅድመ እይታ", "questions": "ሲቪዎን ለማጠናከር ጥያቄዎች", "flagged": "{n} የተፈጠሩ ቁጥሮች ተከልክለዋል",
-    "gpaConv": "GPA ልወጣ", "german": "ጀርመን", "uk": "እንግሊዝ", "us": "አሜሪካ", "noPreview": "ቅድመ እይታ ለማየት ስምዎን ያስገቡ።"
+    "title": "ሲቪ ማዘጋጃ",
+    "template": "ቅጥ",
+    "europass": "Europass",
+    "modern": "ዘመናዊ",
+    "lang": "ቋንቋ",
+    "sections": {
+      "personal": "የግል",
+      "summary": "ማጠቃለያ",
+      "education": "ትምህርት",
+      "experience": "ልምድ",
+      "skills": "ክህሎቶች",
+      "extras": "ሽልማቶች እና ሌሎች"
+    },
+    "fullName": "ሙሉ ስም",
+    "email": "ኢሜይል",
+    "phone": "ስልክ",
+    "city": "ከተማ",
+    "summaryPh": "2–3 ዓረፍተ ነገሮች፦ ማን ነዎት፣ ምን ያነጣጠሩ፣ ጠንካራ ማስረጃዎ።",
+    "institution": "ተቋም",
+    "degree": "ዲግሪ",
+    "field": "መስክ",
+    "gpa": "GPA",
+    "start": "መጀመሪያ",
+    "end": "መጨረሻ",
+    "org": "ድርጅት",
+    "role": "ሚና",
+    "bullets": "ስኬቶች (በየመስመሩ)",
+    "bulletsPh": "የ10ኛ ክፍል ተማሪዎችን አስተምሬያለሁ\nለ40 ተጠቃሚዎች ዳሽቦርድ ገንብቻለሁ",
+    "technical": "ቴክኒካል ክህሎቶች",
+    "soft": "ለስላሳ ክህሎቶች",
+    "tools": "መሳሪያዎች",
+    "languages": "ቋንቋዎች",
+    "awards": "ሽልማቶች",
+    "volunteering": "በጎ ፈቃድ",
+    "certifications": "ሰርተፊኬቶች",
+    "add": "ጨምር",
+    "remove": "አስወግድ",
+    "save": "አስቀምጥ",
+    "saved": "ተቀምጧል",
+    "enhance": "✨ ነጥቦችን አሻሽል",
+    "enhancing": "በማሻሻል ላይ…",
+    "download": "PDF አውርድ",
+    "ats": "ATS ነጥብ",
+    "suggestions": "ምክሮች",
+    "preview": "ቀጥታ ቅድመ እይታ",
+    "questions": "ሲቪዎን ለማጠናከር ጥያቄዎች",
+    "flagged": "{n} የተፈጠሩ ቁጥሮች ተከልክለዋል",
+    "gpaConv": "GPA ልወጣ",
+    "german": "ጀርመን",
+    "uk": "እንግሊዝ",
+    "us": "አሜሪካ",
+    "noPreview": "ቅድመ እይታ ለማየት ስምዎን ያስገቡ።"
   },
   "assistant": {
-    "title": "የስኮላር AI ረዳት", "subtitle": "ስለ ስኮላርሺፕ፣ ቀነ ገደብ፣ ሰነዶች ይጠይቁ — በአማርኛ ወይም በእንግሊዝኛ",
-    "placeholder": "ለምሳሌ፦ በጀርመን የማስተርስ ስኮላርሺፕ", "send": "ላክ", "thinking": "በማሰብ ላይ…",
-    "suggestions": ["በጀርመን የማስተርስ ስኮላርሺፕ", "ቀነ ገደቦች መቼ ናቸው?", "በኮሪያ ፒኤችዲ", "በአሜሪካ የመጀመሪያ ዲግሪ"],
-    "sources": "ምንጮች", "tool": "መሳሪያ", "disclaimer": "ስኮላር AI መግባትን ወይም ቪዛን አያረጋግጥም። ሁልጊዜ በይፋዊ ድረ-ገጽ ያረጋግጡ።"
+    "title": "የስኮላር AI ረዳት",
+    "subtitle": "ስለ ስኮላርሺፕ፣ ቀነ ገደብ፣ ሰነዶች ይጠይቁ — በአማርኛ ወይም በእንግሊዝኛ",
+    "placeholder": "ለምሳሌ፦ በጀርመን የማስተርስ ስኮላርሺፕ",
+    "send": "ላክ",
+    "thinking": "በማሰብ ላይ…",
+    "suggestions": [
+      "በጀርመን የማስተርስ ስኮላርሺፕ",
+      "ቀነ ገደቦች መቼ ናቸው?",
+      "በኮሪያ ፒኤችዲ",
+      "በአሜሪካ የመጀመሪያ ዲግሪ"
+    ],
+    "sources": "ምንጮች",
+    "tool": "መሳሪያ",
+    "disclaimer": "ስኮላር AI መግባትን ወይም ቪዛን አያረጋግጥም። ሁልጊዜ በይፋዊ ድረ-ገጽ ያረጋግጡ።"
   },
-  "common": { "loading": "በመጫን ላይ…", "error": "ስህተት ተፈጥሯል። API በ {url} እየሰራ ነው?", "retry": "እንደገና ሞክር", "rolling": "ቀን ያልተወሰነ", "closed": "ተዘግቷል", "daysLeft": "{n} ቀናት ቀርተዋል", "today": "ዛሬ" }
+  "common": {
+    "loading": "በመጫን ላይ…",
+    "error": "ስህተት ተፈጥሯል። API በ {url} እየሰራ ነው?",
+    "retry": "እንደገና ሞክር",
+    "rolling": "ቀን ያልተወሰነ",
+    "closed": "ተዘግቷል",
+    "daysLeft": "{n} ቀናት ቀርተዋል",
+    "today": "ዛሬ"
+  }
 }

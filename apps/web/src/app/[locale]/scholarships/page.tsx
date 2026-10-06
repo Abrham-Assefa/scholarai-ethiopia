@@ -23,7 +23,8 @@ export default function ScholarshipsPage() {
   const [items, setItems] = useState<Scholarship[] | null>(null);
   const [error, setError] = useState<string | null>(null);
 
-  useEffect(() => { api.scholarships({ limit: "200" }).then((r) => setAll(r.items)).catch(() => undefined); }, []);
+  const loadAll = useCallback(() => { api.scholarships({ limit: "200" }).then((r) => setAll(r.items)).catch(() => undefined); }, []);
+  useEffect(loadAll, [loadAll]);
 
   const load = useCallback(() => {
     setError(null);
@@ -64,7 +65,7 @@ export default function ScholarshipsPage() {
         </Select>
       </div>
 
-      {error && <div className="mt-6"><ApiError message={error} onRetry={load} /></div>}
+      {error && <div className="mt-6"><ApiError message={error} onRetry={() => { load(); if (!all) loadAll(); }} /></div>}
       {!error && items && <p className="mt-6 text-sm text-muted-foreground">{t("results", { count: items.length })}</p>}
       <div className="mt-3 grid gap-4 sm:grid-cols-2 lg:grid-cols-3" data-testid="scholarship-grid">
         {!items && !error && Array.from({ length: 6 }).map((_, i) => <Skeleton key={i} className="h-40" />)}

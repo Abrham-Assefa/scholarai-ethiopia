@@ -1,5 +1,15 @@
 {
-  "nav": { "home": "Home", "scholarships": "Scholarships", "conferences": "Conferences", "cv": "CV Maker", "assistant": "Assistant", "dashboard": "Dashboard", "getStarted": "Get started", "toggleTheme": "Toggle theme", "language": "Language" },
+  "nav": {
+    "home": "Home",
+    "scholarships": "Scholarships",
+    "conferences": "Conferences",
+    "cv": "CV Maker",
+    "assistant": "Assistant",
+    "dashboard": "Dashboard",
+    "getStarted": "Get started",
+    "toggleTheme": "Toggle theme",
+    "language": "Language"
+  },
   "landing": {
     "badge": "Built for Ethiopian students",
     "title": "Find scholarships. Build your CV. Never miss a deadline.",
@@ -10,24 +20,80 @@
     "countries": "{count} countries",
     "conferences": "{count} funded conferences",
     "features": {
-      "match": { "title": "AI matching", "desc": "Eligibility probability for every scholarship, with what you have and what you're missing." },
-      "cv": { "title": "CV Maker", "desc": "Europass & modern templates, STAR-method bullets, ATS score, GPA conversion — never invents facts." },
-      "assistant": { "title": "Amharic assistant", "desc": "Ask about deadlines, documents, IELTS or MoE authentication in አማርኛ or English." },
-      "deadlines": { "title": "Deadline radar", "desc": "Upcoming deadlines ranked by your match score so you apply to the right ones first." }
+      "match": {
+        "title": "AI matching",
+        "desc": "Eligibility probability for every scholarship, with what you have and what you're missing."
+      },
+      "cv": {
+        "title": "CV Maker",
+        "desc": "Europass & modern templates, STAR-method bullets, ATS score, GPA conversion — never invents facts."
+      },
+      "assistant": {
+        "title": "Amharic assistant",
+        "desc": "Ask about deadlines, documents, IELTS or MoE authentication in አማርኛ or English."
+      },
+      "deadlines": {
+        "title": "Deadline radar",
+        "desc": "Upcoming deadlines ranked by your match score so you apply to the right ones first."
+      }
     },
     "howTitle": "How it works",
-    "steps": ["Tell us your goal, GPA and field", "Get ranked matches with explanations", "Build your CV and apply with confidence"],
+    "steps": [
+      "Tell us your goal, GPA and field",
+      "Get ranked matches with explanations",
+      "Build your CV and apply with confidence"
+    ],
     "verify": "Deadlines change every year — always confirm on the official site."
   },
   "onboarding": {
     "title": "Set up your profile",
-    "steps": ["Goal", "Education", "Scores", "Interests", "Notifications"],
-    "next": "Next", "back": "Back", "finish": "See my matches",
-    "goal": { "label": "What are you aiming for?", "bachelor": "Bachelor's", "master": "Master's", "phd": "PhD", "postdoc": "Postdoc", "short-course": "Short course / fellowship" },
-    "education": { "name": "Your name", "field": "Field of study", "fieldPh": "e.g. Electrical Engineering", "gpa": "GPA", "scale": "Scale", "region": "Region", "regionPh": "e.g. Addis Ababa" },
-    "scores": { "englishTest": "English test", "none": "None yet", "englishScore": "Score", "workYears": "Years of work experience", "leadership": "I have led a team, club or project" },
-    "interests": { "label": "Interests (comma separated)", "ph": "e.g. renewable energy, public health", "countries": "Preferred countries", "countriesPh": "e.g. Germany, UK, USA" },
-    "notifications": { "label": "How should we remind you?", "telegram": "Telegram", "sms": "SMS", "email": "Email", "push": "Push" },
+    "steps": [
+      "Goal",
+      "Education",
+      "Scores",
+      "Interests",
+      "Notifications"
+    ],
+    "next": "Next",
+    "back": "Back",
+    "finish": "See my matches",
+    "goal": {
+      "label": "What are you aiming for?",
+      "bachelor": "Bachelor's",
+      "master": "Master's",
+      "phd": "PhD",
+      "postdoc": "Postdoc",
+      "short-course": "Short course / fellowship"
+    },
+    "education": {
+      "name": "Your name",
+      "field": "Field of study",
+      "fieldPh": "e.g. Electrical Engineering",
+      "gpa": "GPA",
+      "scale": "Scale",
+      "region": "Region",
+      "regionPh": "e.g. Addis Ababa"
+    },
+    "scores": {
+      "englishTest": "English test",
+      "none": "None yet",
+      "englishScore": "Score",
+      "workYears": "Years of work experience",
+      "leadership": "I have led a team, club or project"
+    },
+    "interests": {
+      "label": "Interests (comma separated)",
+      "ph": "e.g. renewable energy, public health",
+      "countries": "Preferred countries",
+      "countriesPh": "e.g. Germany, UK, USA"
+    },
+    "notifications": {
+      "label": "How should we remind you?",
+      "telegram": "Telegram",
+      "sms": "SMS",
+      "email": "Email",
+      "push": "Push"
+    },
     "saving": "Saving…"
   },
   "dashboard": {
@@ -35,34 +101,143 @@
     "subtitle": "Ranked by eligibility probability",
     "noProfile": "Complete your profile to see matches.",
     "setup": "Set up profile",
-    "why": "Why you match", "missing": "What you're missing", "effort": "~{hours}h effort", "view": "View",
-    "deadlines": "Upcoming deadlines", "noDeadlines": "No deadlines in the next 90 days.", "match": "match", "loading": "Computing your matches…"
+    "why": "Why you match",
+    "missing": "What you're missing",
+    "effort": "~{hours}h effort",
+    "view": "View",
+    "deadlines": "Upcoming deadlines",
+    "noDeadlines": "No deadlines in the next 90 days.",
+    "match": "match",
+    "loading": "Computing your matches…"
   },
   "scholarships": {
-    "title": "Scholarships", "subtitle": "{count} opportunities open to Ethiopians",
-    "search": "Search by name, provider, keyword…", "level": "Level", "country": "Country", "field": "Field", "funding": "Funding", "any": "Any",
-    "full": "Fully funded", "partial": "Partial", "deadline": "Deadline", "results": "{count} results", "empty": "No scholarships match these filters.",
-    "apply": "Official site", "buildCV": "Build CV for this", "eligibility": "Eligibility", "covers": "Covers", "docs": "Documents you'll need",
-    "minGpa": "Min GPA (typical)", "workYears": "Work experience", "english": "English test", "years": "{n}+ years", "back": "All scholarships", "levels": "Levels"
+    "title": "Scholarships",
+    "subtitle": "{count} opportunities open to Ethiopians",
+    "search": "Search by name, provider, keyword…",
+    "level": "Level",
+    "country": "Country",
+    "field": "Field",
+    "funding": "Funding",
+    "any": "Any",
+    "full": "Fully funded",
+    "partial": "Partial",
+    "deadline": "Deadline",
+    "results": "{count} results",
+    "empty": "No scholarships match these filters.",
+    "apply": "Official site",
+    "buildCV": "Build CV for this",
+    "eligibility": "Eligibility",
+    "covers": "Covers",
+    "docs": "Documents you'll need",
+    "minGpa": "Min GPA (typical)",
+    "workYears": "Work experience",
+    "english": "English test",
+    "years": "{n}+ years",
+    "back": "All scholarships",
+    "levels": "Levels",
+    "overview": "Overview",
+    "whoCanApply": "Who can apply",
+    "benefits": "What you get",
+    "howToApply": "How to apply",
+    "selection": "Selection process",
+    "tips": "Tips for Ethiopian applicants",
+    "opens": "Application window",
+    "estimated": "Estimated",
+    "estimatedHint": "Date estimated from the last cycle — confirm on the official site.",
+    "confirmed": "Confirmed",
+    "rolling": "Rolling",
+    "sources": "Sources",
+    "lastVerified": "Last verified {date}",
+    "ageLimit": "Age limit",
+    "ageMax": "Up to {n}",
+    "eligibleBadge": "Open to Ethiopians",
+    "retry": "Retry",
+    "offlineHint": "Start the API with: cd services/api && uv run uvicorn app.main:app --port 8000"
   },
-  "conferences": { "title": "Conferences & fellowships", "subtitle": "Funded summits, forums and fellowships open to Ethiopians", "age": "Age", "funding": "Funding", "site": "Website" },
+  "conferences": {
+    "title": "Conferences & fellowships",
+    "subtitle": "Funded summits, forums and fellowships open to Ethiopians",
+    "age": "Age",
+    "funding": "Funding",
+    "site": "Website"
+  },
   "cv": {
-    "title": "CV Maker", "template": "Template", "europass": "Europass", "modern": "Modern", "lang": "Language",
-    "sections": { "personal": "Personal", "summary": "Summary", "education": "Education", "experience": "Experience", "skills": "Skills", "extras": "Awards & more" },
-    "fullName": "Full name", "email": "Email", "phone": "Phone", "city": "City", "summaryPh": "2–3 sentences: who you are, what you aim for, and your strongest evidence.",
-    "institution": "Institution", "degree": "Degree", "field": "Field", "gpa": "GPA", "start": "Start", "end": "End", "org": "Organisation", "role": "Role",
-    "bullets": "Achievements (one per line)", "bulletsPh": "I was a tutor for grade 10 students\nhelped build a dashboard for 40 users",
-    "technical": "Technical skills (comma separated)", "soft": "Soft skills", "tools": "Tools", "languages": "Languages (e.g. English — IELTS 6.5)",
-    "awards": "Awards (one per line)", "volunteering": "Volunteering (one per line)", "certifications": "Certifications (one per line)",
-    "add": "Add", "remove": "Remove", "save": "Save", "saved": "Saved", "enhance": "✨ Enhance bullets", "enhancing": "Enhancing…", "download": "Download PDF",
-    "ats": "ATS score", "suggestions": "Suggestions", "preview": "Live preview", "questions": "Questions to strengthen your CV", "flagged": "{n} invented number(s) rejected by the honesty guard",
-    "gpaConv": "GPA conversion", "german": "Germany", "uk": "UK", "us": "US", "noPreview": "Fill in your name to see the preview."
+    "title": "CV Maker",
+    "template": "Template",
+    "europass": "Europass",
+    "modern": "Modern",
+    "lang": "Language",
+    "sections": {
+      "personal": "Personal",
+      "summary": "Summary",
+      "education": "Education",
+      "experience": "Experience",
+      "skills": "Skills",
+      "extras": "Awards & more"
+    },
+    "fullName": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "city": "City",
+    "summaryPh": "2–3 sentences: who you are, what you aim for, and your strongest evidence.",
+    "institution": "Institution",
+    "degree": "Degree",
+    "field": "Field",
+    "gpa": "GPA",
+    "start": "Start",
+    "end": "End",
+    "org": "Organisation",
+    "role": "Role",
+    "bullets": "Achievements (one per line)",
+    "bulletsPh": "I was a tutor for grade 10 students\nhelped build a dashboard for 40 users",
+    "technical": "Technical skills (comma separated)",
+    "soft": "Soft skills",
+    "tools": "Tools",
+    "languages": "Languages (e.g. English — IELTS 6.5)",
+    "awards": "Awards (one per line)",
+    "volunteering": "Volunteering (one per line)",
+    "certifications": "Certifications (one per line)",
+    "add": "Add",
+    "remove": "Remove",
+    "save": "Save",
+    "saved": "Saved",
+    "enhance": "✨ Enhance bullets",
+    "enhancing": "Enhancing…",
+    "download": "Download PDF",
+    "ats": "ATS score",
+    "suggestions": "Suggestions",
+    "preview": "Live preview",
+    "questions": "Questions to strengthen your CV",
+    "flagged": "{n} invented number(s) rejected by the honesty guard",
+    "gpaConv": "GPA conversion",
+    "german": "Germany",
+    "uk": "UK",
+    "us": "US",
+    "noPreview": "Fill in your name to see the preview."
   },
   "assistant": {
-    "title": "ScholarAI Assistant", "subtitle": "Ask about scholarships, deadlines, documents — in English or Amharic",
-    "placeholder": "e.g. Master's scholarships in Germany", "send": "Send", "thinking": "Thinking…",
-    "suggestions": ["Master's scholarships in Germany", "What deadlines are coming up?", "PhD in South Korea", "Undergraduate scholarships in the USA"],
-    "sources": "Sources", "tool": "Tool call", "disclaimer": "ScholarAI never guarantees admission or visas. Always verify on the official site."
+    "title": "ScholarAI Assistant",
+    "subtitle": "Ask about scholarships, deadlines, documents — in English or Amharic",
+    "placeholder": "e.g. Master's scholarships in Germany",
+    "send": "Send",
+    "thinking": "Thinking…",
+    "suggestions": [
+      "Master's scholarships in Germany",
+      "What deadlines are coming up?",
+      "PhD in South Korea",
+      "Undergraduate scholarships in the USA"
+    ],
+    "sources": "Sources",
+    "tool": "Tool call",
+    "disclaimer": "ScholarAI never guarantees admission or visas. Always verify on the official site."
   },
-  "common": { "loading": "Loading…", "error": "Something went wrong. Is the API running on {url}?", "retry": "Retry", "rolling": "Rolling", "closed": "Closed", "daysLeft": "{n} days left", "today": "Today" }
+  "common": {
+    "loading": "Loading…",
+    "error": "Something went wrong. Is the API running on {url}?",
+    "retry": "Retry",
+    "rolling": "Rolling",
+    "closed": "Closed",
+    "daysLeft": "{n} days left",
+    "today": "Today"
+  }
 }
