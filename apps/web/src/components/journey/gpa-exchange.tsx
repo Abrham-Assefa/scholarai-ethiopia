@@ -54,7 +54,7 @@ export function GpaExchange() {
       </div>
 
       <div className="mx-auto mt-20 max-w-6xl px-5">
-        <p className="font-mono text-xs tracking-[0.3em] text-gold">{am ? "05 — የውጤት ምንዛሬ" : "05 — GPA EXCHANGE"}</p>
+        <p className="font-mono text-xs tracking-[0.3em] text-gold">{am ? "04 — የውጤት ምንዛሬ" : "04 — GPA EXCHANGE"}</p>
         <h2 className="mt-3 max-w-3xl text-4xl font-black tracking-tight sm:text-6xl">
           {am ? "GPAዎ ይጓዛል። በውጭ ምን ያህል ዋጋ እንዳለው ይመልከቱ።" : <>Your GPA travels. <span className="text-gold">See what it&apos;s worth abroad.</span></>}
         </h2>

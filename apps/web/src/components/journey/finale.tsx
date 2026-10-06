@@ -58,7 +58,7 @@ export function PassportFinale() {
     <section className="relative overflow-hidden bg-gradient-to-b from-[var(--lbg)] via-[var(--lbg-green)] to-[var(--lbg)] py-28 text-white">
       <div className="mx-auto grid max-w-6xl items-center gap-14 px-5 lg:grid-cols-2">
         <div>
-          <p className="font-mono text-xs tracking-[0.3em] text-gold">{am ? "08 — መሳፈር" : "08 — FINAL CALL"}</p>
+          <p className="font-mono text-xs tracking-[0.3em] text-gold">{am ? "07 — መሳፈር" : "07 — FINAL CALL"}</p>
           <h2 className="mt-3 text-5xl font-black tracking-tight sm:text-7xl">{am ? "የመጨረሻ ጥሪ።" : <>Final call<br />for boarding.</>}</h2>
           <p className="mt-5 max-w-md text-lg text-white/60">{am ? "መገለጫዎን ዛሬ ይሙሉ — ተዛማጆችዎ፣ ሲቪዎ እና የቀነ ገደብ ራዳርዎ በሁለት ደቂቃ ውስጥ ዝግጁ ይሆናሉ።" : "Complete your profile today. Your matches, CV and deadline radar are ready in two minutes."}</p>
           <div className="mt-8 flex flex-wrap gap-4">

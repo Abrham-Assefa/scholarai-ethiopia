@@ -32,7 +32,7 @@ export function SeasonCalendar() {
     <section className="relative overflow-hidden bg-[var(--lbg)] py-28 text-white">
       <div className="pointer-events-none absolute left-1/2 top-0 h-px w-[80%] -translate-x-1/2 bg-gradient-to-r from-transparent via-red/50 to-transparent" />
       <div className="mx-auto max-w-6xl px-5">
-        <p className="font-mono text-xs tracking-[0.3em] text-gold">{am ? "06 — የማመልከቻ ወቅት" : "06 — APPLICATION SEASON"}</p>
+        <p className="font-mono text-xs tracking-[0.3em] text-gold">{am ? "05 — የማመልከቻ ወቅት" : "05 — APPLICATION SEASON"}</p>
         <div className="mt-3 flex flex-wrap items-end justify-between gap-6">
           <h2 className="max-w-3xl text-4xl font-black tracking-tight sm:text-6xl">
             {am ? "የሚቀጥሉት 12 ወራት፣ በአንድ እይታ።" : <>Your next 12 months, <span className="text-red-300">at a glance.</span></>}

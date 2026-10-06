@@ -80,7 +80,7 @@ export function FidelField() {
       <canvas ref={ref} className="absolute inset-0 h-full w-full" aria-hidden />
       <div className="pointer-events-none absolute inset-0 fidel-veil" />
       <div className="pointer-events-none relative z-10 mx-auto flex h-full max-w-4xl flex-col items-center justify-center px-5 text-center">
-        <p className="font-mono text-xs tracking-[0.3em] text-gold">{am ? "07 — ቋንቋዎ" : "07 — YOUR LANGUAGE"}</p>
+        <p className="font-mono text-xs tracking-[0.3em] text-gold">{am ? "06 — ቋንቋዎ" : "06 — YOUR LANGUAGE"}</p>
         <h2 className="mt-4 font-ethiopic text-5xl font-bold leading-tight sm:text-7xl">ቋንቋዎን ይናገራል።</h2>
         <p className="mt-3 text-2xl font-semibold text-white/70 sm:text-3xl">{am ? "በአማርኛ እና በእንግሊዝኛ — ሙሉ በሙሉ።" : "It speaks your language."}</p>
         <p className="mt-6 max-w-xl text-white/50">{am ? "ጠቋሚዎን በፊደላቱ ላይ ያንቀሳቅሱ ወይም ጠቅ ያድርጉ።" : "The whole platform — menus, matches and the AI assistant — works in Amharic and English. Move your cursor through the ፊደል, or click to send a ripple."}</p>
