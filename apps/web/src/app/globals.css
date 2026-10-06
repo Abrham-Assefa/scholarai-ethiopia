@@ -123,3 +123,8 @@ html:not(.dark) .landing :not(.keep-dark *).bg-black\/20 { background-color: rgb
 .gx-flow { stroke-dasharray: 6 16; animation: gx-flow 1.4s linear infinite; }
 @keyframes gx-flow { to { stroke-dashoffset: -44; } }
 @media (prefers-reduced-motion: reduce) { .gx-flow { animation: none; } }
+.radar-sweep { background: conic-gradient(from 0deg, transparent 0deg, rgba(21,168,84,.28) 50deg, transparent 52deg); animation: radar-spin 6s linear infinite; mask: radial-gradient(circle, transparent 28%, #000 29%); }
+@keyframes radar-spin { to { transform: rotate(360deg); } }
+.radar-ping { transform-box: fill-box; transform-origin: center; animation: radar-ping 1.6s ease-out infinite; }
+@keyframes radar-ping { from { transform: scale(1); opacity: .9; } to { transform: scale(2.6); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .radar-sweep, .radar-ping { animation: none; } }
