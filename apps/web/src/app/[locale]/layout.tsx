@@ -6,6 +6,7 @@ import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import { ThemeProvider } from "@/components/theme-provider";
 import { Navbar } from "@/components/navbar";
+import { Footer } from "@/components/footer";
 import "../globals.css";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
@@ -35,9 +36,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
           <NextIntlClientProvider messages={messages}>
             <Navbar />
             <main className="mx-auto max-w-6xl px-4 py-8">{children}</main>
-            <footer className="mt-16 border-t py-6 text-center text-xs text-muted-foreground">
-              ScholarAI Ethiopia · MVP · <a className="underline" href={`${process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000"}/docs`} target="_blank" rel="noreferrer">API docs</a>
-            </footer>
+            <Footer />
           </NextIntlClientProvider>
         </ThemeProvider>
       </body>

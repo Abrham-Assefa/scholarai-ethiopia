@@ -16,7 +16,7 @@ const links = [
   { href: "/assistant", key: "assistant" },
 ] as const;
 
-export function LanguageSwitcher({ className }: { className?: string }) {
+export function LanguageSwitcher({ className, testId = "lang-switch" }: { className?: string; testId?: string }) {
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
@@ -27,7 +27,7 @@ export function LanguageSwitcher({ className }: { className?: string }) {
       aria-label="Switch language"
       onClick={() => router.replace(pathname, { locale: other })}
       className={cn("rounded-full border px-3 py-1 text-xs font-semibold hover:bg-muted", className)}
-      data-testid="lang-switch"
+      data-testid={testId}
     >
       {locale === "en" ? "አማርኛ" : "English"}
     </button>

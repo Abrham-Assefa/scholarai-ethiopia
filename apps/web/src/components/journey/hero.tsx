@@ -58,7 +58,6 @@ export function HeroJourney() {
     <section className="relative isolate overflow-hidden bg-[var(--lbg)] text-white">
       <div className="stars pointer-events-none absolute inset-0 -z-10" />
       <div className="pointer-events-none absolute -left-40 top-20 -z-10 h-[520px] w-[520px] rounded-full bg-primary/25 blur-[120px]" />
-      <div className="pointer-events-none absolute -right-20 bottom-40 -z-10 h-[420px] w-[420px] rounded-full bg-gold/15 blur-[120px]" />
 
       <div className="mx-auto grid max-w-7xl items-center gap-6 px-5 pt-12 lg:grid-cols-[1.05fr_1fr] pb-16 lg:pt-16 lg:pb-24">
         <div className="relative z-10">

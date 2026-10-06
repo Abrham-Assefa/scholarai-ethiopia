@@ -100,9 +100,6 @@ export function Globe({ destinations, highlight, className }: { destinations: Ai
       };
       ctx.clearRect(0, 0, w, h);
 
-      const halo = ctx.createRadialGradient(cx, cy, R * 0.85, cx, cy, R * 1.35);
-      halo.addColorStop(0, "rgba(21,168,84,0.28)"); halo.addColorStop(0.5, "rgba(21,168,84,0.06)"); halo.addColorStop(1, "rgba(21,168,84,0)");
-      ctx.fillStyle = halo; ctx.fillRect(0, 0, w, h);
       const body = ctx.createRadialGradient(cx - R * 0.35, cy - R * 0.4, R * 0.1, cx, cy, R);
       body.addColorStop(0, "#10233d"); body.addColorStop(1, "#050b16");
       ctx.beginPath(); ctx.arc(cx, cy, R, 0, Math.PI * 2); ctx.fillStyle = body; ctx.fill();
