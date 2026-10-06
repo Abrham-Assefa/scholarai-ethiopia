@@ -1,7 +1,8 @@
 "use client";
 import { useLocale } from "next-intl";
-import { ArrowRight, BookOpen, GraduationCap, MapPin } from "lucide-react";
+import { ArrowRight, BookOpen, MapPin } from "lucide-react";
 import { Link } from "@/i18n/routing";
+import { Logo } from "@/components/logo";
 import { LanguageSwitcher } from "./navbar";
 
 const API = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000";
@@ -32,10 +33,7 @@ export function Footer() {
       <div className="mx-auto max-w-6xl px-5 py-14">
         <div className="grid grid-cols-2 gap-10 md:grid-cols-[1.4fr_1fr_1fr_1.2fr]">
           <div className="col-span-2 md:col-span-1">
-            <Link href="/" className="inline-flex items-center gap-2 font-bold">
-              <span className="grid h-9 w-9 place-items-center rounded-xl bg-primary text-[#fff]"><GraduationCap size={18} /></span>
-              ScholarAI <span className="text-primary">Ethiopia</span>
-            </Link>
+            <Link href="/" className="inline-flex"><Logo className="text-lg" markClassName="h-10 w-10" /></Link>
             <p className="mt-4 max-w-xs text-sm text-muted-foreground">
               {am ? "ለኢትዮጵያ ተማሪዎች ስኮላርሺፕ ለማግኘት፣ ሲቪ ለማዘጋጀት እና የጊዜ ገደቦችን ለመከታተል የተሰራ AI መድረክ።" : "The AI co-pilot helping Ethiopian students find scholarships, build world-class CVs and never miss a deadline."}
             </p>

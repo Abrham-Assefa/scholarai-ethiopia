@@ -3,10 +3,11 @@
 import { useState } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import { useTheme } from "next-themes";
-import { GraduationCap, Menu, Moon, Sun, X } from "lucide-react";
+import { Menu, Moon, Sun, X } from "lucide-react";
 import { Link, usePathname, useRouter } from "@/i18n/routing";
 import { Button } from "./ui/button";
 import { cn } from "@/lib/utils";
+import { Logo } from "@/components/logo";
 
 const links = [
   { href: "/scholarships", key: "scholarships" },
@@ -44,8 +45,7 @@ export function Navbar() {
       <div className="flag-stripe h-1" />
       <div className="mx-auto flex h-14 max-w-6xl items-center justify-between px-4">
         <Link href="/" className="flex items-center gap-2 font-bold">
-          <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground"><GraduationCap size={18} /></span>
-          <span>ScholarAI <span className="text-primary">Ethiopia</span></span>
+          <Logo />
         </Link>
         <nav className="hidden items-center gap-1 md:flex">
           {links.map((l) => (

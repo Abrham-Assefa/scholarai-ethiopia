@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: { default: "ScholarAI Ethiopia", template: "%s · ScholarAI Ethiopia" },
   description: "AI platform helping Ethiopian students find scholarships, build CVs and track deadlines.",
   manifest: "/manifest.webmanifest",
-  icons: { icon: "/icon.svg", apple: "/icon-192.png" },
+  icons: { icon: "/icon.svg", apple: "/apple-touch-icon.png" },
 };
 export const viewport: Viewport = { themeColor: "#078C3F", width: "device-width", initialScale: 1 };
 
