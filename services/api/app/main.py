@@ -2,6 +2,7 @@ from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import Response
 from sqlalchemy import func, select
 
 from .config import settings
@@ -39,6 +40,22 @@ app.add_middleware(
 
 for r in (auth.router, catalog.router, me.router, cv.router, ai.router):
     app.include_router(r)
+
+
+@app.get("/", tags=["meta"], include_in_schema=False)
+def root():
+    return {
+        "name": settings.app_name,
+        "docs": "/docs",
+        "health": "/health",
+        "scholarships": "/v1/scholarships",
+        "web": settings.cors_list[0] if settings.cors_list else None,
+    }
+
+
+@app.get("/favicon.ico", include_in_schema=False)
+def favicon():
+    return Response(status_code=204)
 
 
 @app.get("/health", tags=["meta"])

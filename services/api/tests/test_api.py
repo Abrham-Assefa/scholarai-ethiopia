@@ -117,3 +117,9 @@ def test_essay_and_gpa(client):
     assert r.status_code == 200 and "rubric" in r.json()
     r = client.post("/v1/tools/gpa", json={"gpa": 3.5})
     assert r.status_code == 200 and r.json()["german"] == 1.8
+
+
+def test_root_and_favicon(client):
+    r = client.get("/")
+    assert r.status_code == 200 and r.json()["docs"] == "/docs"
+    assert client.get("/favicon.ico").status_code == 204
