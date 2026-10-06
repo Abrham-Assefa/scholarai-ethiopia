@@ -1,0 +1,34 @@
+name: collect
+
+# Refresh data/seed/scholarships.json from the web every two days (the API also does this at runtime).
+on:
+  schedule:
+    - cron: "0 3 */2 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install AI package
+        run: pip install -e services/ai
+      - name: Collect
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python -m scholarai_ai.collector --seed data/seed/scholarships.json --write
+      - name: Commit changes
+        run: |
+          if git diff --quiet data/seed/scholarships.json; then echo "No changes"; exit 0; fi
+          git config user.name "scholarai-collector[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/seed/scholarships.json
+          git commit -m "chore(data): refresh scholarships from the web"
+          git push

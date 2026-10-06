@@ -30,6 +30,9 @@ services:
       REDIS_URL: redis://redis:6379/0
       JWT_SECRET: ${JWT_SECRET:-change-me-in-prod}
       OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      COLLECTOR_ENABLED: ${COLLECTOR_ENABLED:-true}
+      COLLECTOR_INTERVAL_HOURS: ${COLLECTOR_INTERVAL_HOURS:-48}
+      ADMIN_TOKEN: ${ADMIN_TOKEN:-}
       CORS_ORIGINS: http://localhost:3000
       SEED_DIR: /app/data/seed
       STORAGE_DIR: /app/storage

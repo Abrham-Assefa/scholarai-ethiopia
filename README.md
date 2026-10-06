@@ -63,6 +63,26 @@ scholarai-ethiopia/
 | **Essay coach** | Clarity / specificity / word-count / cliché feedback + rubric score (`POST /v1/essays/feedback`)                                                                |
 | **Web**       | Landing with live counts + EN/አማርኛ switcher, 5-step onboarding wizard, dashboard (probability rings + deadline radar), scholarship search & filters, detail pages, conferences, dark mode, mobile-responsive, PWA manifest |
 
+### Live data — the catalogue refreshes itself every 48 h
+
+The scholarship list is **not static**. `services/ai/scholarai_ai/collector` is a web collector the API runs
+in the background every `COLLECTOR_INTERVAL_HOURS` (default 48 h, and immediately on boot if a run is overdue):
+
+1. **Discover** — reads scholarship feeds (Opportunities for Africans, Opportunities for Youth, After School Africa,
+   Scholars4Dev), opens each article, and keeps only *open*, *study* opportunities that Ethiopians can apply to
+   (rejects West-Africa-only, Commonwealth-only, "must be based in Sweden"-style calls and expired posts).
+   It extracts deadline, level, host country, funding, who-can-apply, benefits, how-to-apply and documents,
+   links the official page, and — when `OPENAI_API_KEY` is set — has the LLM re-summarise and double-check eligibility.
+2. **Verify** — re-opens every programme's official page, records `lastChecked` / `checkStatus`, and confirms the
+   deadline only when the page states one unambiguous application deadline.
+3. **Expire** — closes one-off calls whose deadline passed and rolls annual programmes to next year's estimated date.
+
+New programmes get a **New** badge and an "auto-collected" notice in the web app; the scholarships page shows when the
+last refresh ran and offers **Refresh now**. Endpoints: `GET /v1/collector/status`, `GET /v1/collector/runs`,
+`POST /v1/collector/run`. Run it by hand with
+`python -m scholarai_ai.collector --seed data/seed/scholarships.json [--write]`; the
+`collect` GitHub workflow also refreshes the committed seed every two days.
+
 ### Screenshots
 
 > Run the app and visit `/en` (landing), `/en/dashboard`, `/en/cv`, `/am/assistant`. _Add screenshots here._
@@ -109,7 +129,11 @@ Full design: [`docs/SYSTEM_DESIGN.md`](docs/SYSTEM_DESIGN.md).
 | `OPENAI_API_KEY`      | _(empty)_                                    | When set, `LLM_PROVIDER` auto-switches to `openai`     |
 | `LLM_PROVIDER`        | `auto`                                       | `mock` · `openai` · `auto`                             |
 | `CORS_ORIGINS`        | `http://localhost:3000`                      | Comma-separated; localhost on any port is always allowed |
-| `SEED_DIR`            | `<repo>/data/seed`                           | Auto-seeds when the scholarships table is empty        |
+| `SEED_DIR`            | `<repo>/data/seed`                           | Curated seed, upserted on boot (never overwrites fresher collector data) |
+| `COLLECTOR_ENABLED`   | `true`                                       | Refresh the catalogue from the web automatically       |
+| `COLLECTOR_INTERVAL_HOURS` | `48`                                    | How often the collector runs (also runs on boot if overdue) |
+| `COLLECTOR_MAX_NEW`   | `40`                                         | Max newly discovered programmes per run                |
+| `ADMIN_TOKEN`         | _(empty)_                                    | If set, `POST /v1/collector/run` needs `X-Admin-Token` |
 | `STORAGE_DIR`         | `<repo>/services/api/storage`                | Exported PDFs                                          |
 | `SCHOLARAI_FONT_PATH` | _(unset)_                                    | Path to `NotoSansEthiopic-Regular.ttf` for Amharic PDFs |
 | `NEXT_PUBLIC_API_URL` | `http://localhost:8000`                      | Web → API base URL (build-time for Docker)             |
