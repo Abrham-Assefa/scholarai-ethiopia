@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "mastercard-foundation-scholars-program",
+    "title": "Mastercard Foundation Scholars Program",
+    "provider": "Mastercard Foundation Scholars Program",
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, living, travel, books, laptop",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-03-31",
+    "deadlineText": "Varies per university (Oct–Mar)",
+    "url": "https://mastercardfdn.org/all/scholars/",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Mastercard Foundation Scholars Program — Tuition, living, travel, books, laptop. Open to Ethiopian students; levels: bachelor, master. Study in Multiple (UBC, McGill, Edinburgh, CMU-Africa, Ashesi, AAU, etc.).",
+    "status": "open"
+  },
+  {
+    "id": "chinese-government-scholarship",
+    "title": "Chinese Government Scholarship (CSC)",
+    "provider": "Chinese Government Scholarship",
+    "country": "China",
+    "countries": [
+      "China"
+    ],
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, housing, stipend, insurance",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-03-31",
+    "deadlineText": "Dec – Mar",
+    "url": "https://www.campuschina.org",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Chinese Government Scholarship (CSC) — Tuition, housing, stipend, insurance. Open to Ethiopian students; levels: bachelor, master, phd. Study in China.",
+    "status": "open"
+  },
+  {
+    "id": "global-korea-scholarship",
+    "title": "Global Korea Scholarship (GKS / KGSP)",
+    "provider": "Global Korea Scholarship",
+    "country": "South Korea",
+    "countries": [
+      "South Korea"
+    ],
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, stipend, flight, Korean course",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-03-31",
+    "deadlineText": "UG: Sept–Oct · Grad: Feb–Mar",
+    "url": "https://www.studyinkorea.go.kr",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Global Korea Scholarship (GKS / KGSP) — Tuition, stipend, flight, Korean course. Open to Ethiopian students; levels: bachelor, master, phd. Study in South Korea.",
+    "status": "open"
+  },
+  {
+    "id": "kaist-international-scholarship",
+    "title": "KAIST International Scholarship",
+    "provider": "KAIST International Scholarship",
+    "country": "South Korea",
+    "countries": [
+      "South Korea"
+    ],
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Full tuition, stipend, insurance",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2026-10-31",
+    "deadlineText": "Oct (spring), May (fall)",
+    "url": "https://admission.kaist.ac.kr",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "KAIST International Scholarship — Full tuition, stipend, insurance. Open to Ethiopian students; levels: bachelor, master, phd. Study in South Korea.",
+    "status": "open"
+  },
+  {
+    "id": "turkiye-burslari",
+    "title": "Türkiye Bursları",
+    "provider": "Türkiye Bursları",
+    "country": "Türkiye",
+    "countries": [
+      "Türkiye"
+    ],
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, stipend, housing, flight, Turkish course",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-02-28",
+    "deadlineText": "Jan – Feb",
+    "url": "https://www.turkiyeburslari.gov.tr",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Türkiye Bursları — Tuition, stipend, housing, flight, Turkish course. Open to Ethiopian students; levels: bachelor, master, phd. Study in Türkiye.",
+    "status": "open"
+  },
+  {
+    "id": "stipendium-hungaricum",
+    "title": "Stipendium Hungaricum",
+    "provider": "Stipendium Hungaricum",
+    "country": "Hungary",
+    "countries": [
+      "Hungary"
+    ],
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, stipend, housing, insurance",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-01-15",
+    "deadlineText": "Jan 15",
+    "url": "https://stipendiumhungaricum.hu",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Stipendium Hungaricum — Tuition, stipend, housing, insurance. Open to Ethiopian students; levels: bachelor, master, phd. Study in Hungary.",
+    "status": "open"
+  },
+  {
+    "id": "mext-japanese-government-scholarship",
+    "title": "MEXT Japanese Government Scholarship",
+    "provider": "MEXT Japanese Government Scholarship",
+    "country": "Japan",
+    "countries": [
+      "Japan"
+    ],
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, stipend, flight",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-05-31",
+    "deadlineText": "Apr – May (via Embassy in Addis)",
+    "url": "https://www.studyinjapan.go.jp",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "MEXT Japanese Government Scholarship — Tuition, stipend, flight. Open to Ethiopian students; levels: bachelor, master, phd. Study in Japan.",
+    "status": "open"
+  },
+  {
+    "id": "romanian-government-scholarship",
+    "title": "Romanian Government Scholarship",
+    "provider": "Romanian Government Scholarship",
+    "country": "Romania",
+    "countries": [
+      "Romania"
+    ],
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, housing, stipend",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-03-31",
+    "deadlineText": "Mar",
+    "url": "https://www.mae.ro/en/node/10251",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Romanian Government Scholarship — Tuition, housing, stipend. Open to Ethiopian students; levels: bachelor, master, phd. Study in Romania.",
+    "status": "open"
+  },
+  {
+    "id": "russian-government-quota",
+    "title": "Russian Government Quota (Open Doors)",
+    "provider": "Russian Government Quota",
+    "country": "Russia",
+    "countries": [
+      "Russia"
+    ],
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, stipend",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-02-28",
+    "deadlineText": "Dec – Feb",
+    "url": "https://education-in-russia.com",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Russian Government Quota (Open Doors) — Tuition, stipend. Open to Ethiopian students; levels: bachelor, master, phd. Study in Russia.",
+    "status": "open"
+  },
+  {
+    "id": "indian-iccr-scholarships",
+    "title": "Indian ICCR Scholarships",
+    "provider": "Indian ICCR Scholarships",
+    "country": "India",
+    "countries": [
+      "India"
+    ],
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, stipend, housing",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-04-30",
+    "deadlineText": "Feb – Apr",
+    "url": "https://a2ascholarships.iccr.gov.in",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Indian ICCR Scholarships — Tuition, stipend, housing. Open to Ethiopian students; levels: bachelor, master, phd. Study in India.",
+    "status": "open"
+  },
+  {
+    "id": "brunei-government-scholarship",
+    "title": "Brunei Government Scholarship",
+    "provider": "Brunei Government Scholarship",
+    "country": "Brunei",
+    "countries": [
+      "Brunei"
+    ],
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, flights, allowance",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-02-28",
+    "deadlineText": "Feb",
+    "url": "https://www.mfa.gov.bn",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Brunei Government Scholarship — Tuition, flights, allowance. Open to Ethiopian students; levels: bachelor, master. Study in Brunei.",
+    "status": "open"
+  },
+  {
+    "id": "azerbaijan-government-scholarship",
+    "title": "Azerbaijan Government Scholarship",
+    "provider": "Azerbaijan Government Scholarship",
+    "country": "Azerbaijan",
+    "countries": [
+      "Azerbaijan"
+    ],
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, stipend, housing",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-05-31",
+    "deadlineText": "Mar – May",
+    "url": "https://edu.gov.az",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Azerbaijan Government Scholarship — Tuition, stipend, housing. Open to Ethiopian students; levels: bachelor, master, phd. Study in Azerbaijan.",
+    "status": "open"
+  },
+  {
+    "id": "chevening-scholarships",
+    "title": "Chevening Scholarships",
+    "provider": "Chevening Scholarships",
+    "country": "UK",
+    "countries": [
+      "UK"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any",
+      "leadership"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, stipend, flights, visa",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 2
+    },
+    "deadline": "2026-11-05",
+    "deadlineText": "Opens Aug · Closes early Nov",
+    "url": "https://www.chevening.org",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Chevening Scholarships — Tuition, stipend, flights, visa. Open to Ethiopian students; levels: master. Study in UK.",
+    "status": "open"
+  },
+  {
+    "id": "commonwealth-scholarships",
+    "title": "Commonwealth Scholarships",
+    "provider": "Commonwealth Scholarships",
+    "country": "UK",
+    "countries": [
+      "UK"
+    ],
+    "level": [
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, stipend, airfare",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 2
+    },
+    "deadline": "2026-12-31",
+    "deadlineText": "Oct – Dec",
+    "url": "https://cscuk.fcdo.gov.uk",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Commonwealth Scholarships — Tuition, stipend, airfare. Open to Ethiopian students; levels: master, phd. Study in UK.",
+    "status": "open"
+  },
+  {
+    "id": "daad-epos",
+    "title": "DAAD EPOS (Development-Related Postgraduate Courses)",
+    "provider": "DAAD EPOS",
+    "country": "Germany",
+    "countries": [
+      "Germany"
+    ],
+    "level": [
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "development studies",
+      "economics",
+      "public health"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, €992/mo, insurance, flights",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 2
+    },
+    "deadline": "2026-10-31",
+    "deadlineText": "Aug – Oct (per course)",
+    "url": "https://www.daad.de/en/ -> \"EPOS\"",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "DAAD EPOS (Development-Related Postgraduate Courses) — Tuition, €992/mo, insurance, flights. Open to Ethiopian students; levels: master, phd. Study in Germany.",
+    "status": "open"
+  },
+  {
+    "id": "daad-helmut-schmidt",
+    "title": "DAAD Helmut-Schmidt (Public Policy & Good Governance)",
+    "provider": "DAAD Helmut-Schmidt",
+    "country": "Germany",
+    "countries": [
+      "Germany"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "public policy",
+      "governance",
+      "political science"
+    ],
+    "fundingType": "full",
+    "covers": "Full",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 2
+    },
+    "deadline": "2027-07-31",
+    "deadlineText": "July 31",
+    "url": "https://www.daad.de",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "DAAD Helmut-Schmidt (Public Policy & Good Governance) — Full. Open to Ethiopian students; levels: master. Study in Germany.",
+    "status": "open"
+  },
+  {
+    "id": "erasmus-mundus-joint-masters",
+    "title": "Erasmus Mundus Joint Masters (EMJM)",
+    "provider": "Erasmus Mundus Joint Masters",
+    "country": "EU",
+    "countries": [
+      "EU"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, €1,400/mo, travel, insurance",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-03-31",
+    "deadlineText": "Dec – Mar (per programme)",
+    "url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Erasmus Mundus Joint Masters (EMJM) — Tuition, €1,400/mo, travel, insurance. Open to Ethiopian students; levels: master. Study in EU (multi-country).",
+    "status": "open"
+  },
+  {
+    "id": "fulbright-foreign-student-program",
+    "title": "Fulbright Foreign Student Program",
+    "provider": "Fulbright Foreign Student Program",
+    "country": "USA",
+    "countries": [
+      "USA"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any",
+      "leadership"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, stipend, airfare, insurance",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 2
+    },
+    "deadline": "2027-05-15",
+    "deadlineText": "~May (via US Embassy Addis)",
+    "url": "https://et.usembassy.gov -> Education",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Fulbright Foreign Student Program — Tuition, stipend, airfare, insurance. Open to Ethiopian students; levels: master. Study in USA.",
+    "status": "open"
+  },
+  {
+    "id": "swedish-institute-scholarships-for-global-professionals",
+    "title": "Swedish Institute Scholarships for Global Professionals (SISGP)",
+    "provider": "Swedish Institute Scholarships for Global Professionals",
+    "country": "Sweden",
+    "countries": [
+      "Sweden"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, SEK 12,000/mo, travel, insurance",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-02-28",
+    "deadlineText": "Feb",
+    "url": "https://si.se/en/apply/scholarships/",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Swedish Institute Scholarships for Global Professionals (SISGP) — Tuition, SEK 12,000/mo, travel, insurance. Open to Ethiopian students; levels: master. Study in Sweden.",
+    "status": "open"
+  },
+  {
+    "id": "orange-knowledge-okp-orange-corners-nfp",
+    "title": "Orange Knowledge / OKP -> \"Orange Corners / NFP\"",
+    "provider": "Orange Knowledge / OKP -> \"Orange Corners / NFP\"",
+    "country": "Netherlands",
+    "countries": [
+      "Netherlands"
+    ],
+    "level": [
+      "master",
+      "short-course"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Full",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2026-10-31",
+    "deadlineText": "Varies (Feb, Jul, Oct)",
+    "url": "https://www.nuffic.nl",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Orange Knowledge / OKP -> \"Orange Corners / NFP\" — Full. Open to Ethiopian students; levels: master, short-course. Study in Netherlands.",
+    "status": "open"
+  },
+  {
+    "id": "eiffel-excellence-scholarship",
+    "title": "Eiffel Excellence Scholarship",
+    "provider": "Eiffel Excellence Scholarship",
+    "country": "France",
+    "countries": [
+      "France"
+    ],
+    "level": [
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "partial",
+    "covers": "€1,181/mo, travel, insurance",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-01-31",
+    "deadlineText": "Jan (via university)",
+    "url": "https://www.campusfrance.org/en/eiffel",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [],
+    "description": "Eiffel Excellence Scholarship — €1,181/mo, travel, insurance. Open to Ethiopian students; levels: master, phd. Study in France.",
+    "status": "open"
+  },
+  {
+    "id": "swiss-government-excellence-scholarships",
+    "title": "Swiss Government Excellence Scholarships",
+    "provider": "Swiss Government Excellence Scholarships",
+    "country": "Switzerland",
+    "countries": [
+      "Switzerland"
+    ],
+    "level": [
+      "phd",
+      "postdoc"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "partial",
+    "covers": "Stipend, insurance, flight",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2026-12-31",
+    "deadlineText": "Sept – Dec (via Swiss Embassy)",
+    "url": "https://www.sbfi.admin.ch/scholarships_eng",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [],
+    "description": "Swiss Government Excellence Scholarships — Stipend, insurance, flight. Open to Ethiopian students; levels: phd, postdoc. Study in Switzerland.",
+    "status": "open"
+  },
+  {
+    "id": "australia-awards-africa",
+    "title": "Australia Awards Africa (Ethiopia is an eligible country)",
+    "provider": "Australia Awards Africa",
+    "country": "Australia",
+    "countries": [
+      "Australia"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, living, travel",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 2
+    },
+    "deadline": "2026-12-31",
+    "deadlineText": "Sept – Dec",
+    "url": "https://www.australiaawardsafrica.org",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Australia Awards Africa (Ethiopia is an eligible country) — Tuition, living, travel. Open to Ethiopian students; levels: master. Study in Australia.",
+    "status": "open"
+  },
+  {
+    "id": "knight-hennessy-scholars",
+    "title": "Knight-Hennessy Scholars (Stanford)",
+    "provider": "Knight-Hennessy Scholars",
+    "country": "USA",
+    "countries": [
+      "USA"
+    ],
+    "level": [
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any",
+      "leadership"
+    ],
+    "fundingType": "full",
+    "covers": "Full + stipend",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2026-10-31",
+    "deadlineText": "Oct",
+    "url": "https://knight-hennessy.stanford.edu",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Knight-Hennessy Scholars (Stanford) — Full + stipend. Open to Ethiopian students; levels: master, phd. Study in USA.",
+    "status": "open"
+  },
+  {
+    "id": "rhodes-scholarship-east-africa-constituency",
+    "title": "Rhodes Scholarship — East Africa constituency",
+    "provider": "Rhodes Scholarship — East Africa constituency",
+    "country": "UK",
+    "countries": [
+      "UK"
+    ],
+    "level": [
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any",
+      "leadership"
+    ],
+    "fundingType": "full",
+    "covers": "Full",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-09-30",
+    "deadlineText": "Aug – Sept",
+    "url": "https://www.rhodeshouse.ox.ac.uk",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Rhodes Scholarship — East Africa constituency — Full. Open to Ethiopian students; levels: master, phd. Study in UK (Oxford).",
+    "status": "open"
+  },
+  {
+    "id": "schwarzman-scholars",
+    "title": "Schwarzman Scholars",
+    "provider": "Schwarzman Scholars",
+    "country": "China",
+    "countries": [
+      "China"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any",
+      "leadership"
+    ],
+    "fundingType": "full",
+    "covers": "Full",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-09-30",
+    "deadlineText": "Sept",
+    "url": "https://www.schwarzmanscholars.org",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Schwarzman Scholars — Full. Open to Ethiopian students; levels: master. Study in China (Tsinghua).",
+    "status": "open"
+  },
+  {
+    "id": "yale-harvard-mit-need-based-aid",
+    "title": "Yale / Harvard / MIT need-based aid (need-blind for internationals at Harvard, Yale, MIT, Princeton, Amherst, Dartmouth)",
+    "provider": "Yale / Harvard / MIT need-based aid",
+    "country": "USA",
+    "countries": [
+      "USA"
+    ],
+    "level": [
+      "bachelor"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Full need met",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 2.75,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-01-01",
+    "deadlineText": "Jan 1",
+    "url": "university sites",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Yale / Harvard / MIT need-based aid (need-blind for internationals at Harvard, Yale, MIT, Princeton, Amherst, Dartmouth) — Full need met. Open to Ethiopian students; levels: bachelor. Study in USA.",
+    "status": "open"
+  },
+  {
+    "id": "african-union-pan-african-university",
+    "title": "African Union / Pan African University (PAU)",
+    "provider": "African Union / Pan African University",
+    "country": "Africa",
+    "countries": [
+      "Africa"
+    ],
+    "level": [
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Full",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-05-31",
+    "deadlineText": "Mar – May",
+    "url": "https://pau-au.africa",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "African Union / Pan African University (PAU) — Full. Open to Ethiopian students; levels: master, phd. Study in Africa.",
+    "status": "open"
+  },
+  {
+    "id": "aims",
+    "title": "AIMS (African Institute for Mathematical Sciences)",
+    "provider": "AIMS",
+    "country": "Rwanda",
+    "countries": [
+      "Rwanda",
+      "Ghana",
+      "SA",
+      "Cameroon",
+      "Senegal"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "mathematics",
+      "statistics",
+      "data science"
+    ],
+    "fundingType": "full",
+    "covers": "Full",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-03-31",
+    "deadlineText": "Jan – Mar",
+    "url": "https://nexteinstein.org",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "AIMS (African Institute for Mathematical Sciences) — Full. Open to Ethiopian students; levels: master. Study in Rwanda, Ghana, SA, Cameroon, Senegal.",
+    "status": "open"
+  },
+  {
+    "id": "alx-altschool-andela-tech-fellowships",
+    "title": "ALX / AltSchool / Andela Tech Fellowships",
+    "provider": "ALX / AltSchool / Andela Tech Fellowships",
+    "country": "Online",
+    "countries": [
+      "Online",
+      "Africa"
+    ],
+    "level": [
+      "short-course"
+    ],
+    "fields": [
+      "computer science",
+      "software engineering"
+    ],
+    "fundingType": "partial",
+    "covers": "Free",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 2.75,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": null,
+    "deadlineText": "Rolling",
+    "url": "https://www.alxafrica.com",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [],
+    "description": "ALX / AltSchool / Andela Tech Fellowships — Free. Open to Ethiopian students; levels: short-course. Study in Online/Africa.",
+    "status": "open"
+  },
+  {
+    "id": "islamic-development-bank-scholarship",
+    "title": "Islamic Development Bank (IsDB) Scholarship",
+    "provider": "Islamic Development Bank",
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "development studies",
+      "economics",
+      "public health"
+    ],
+    "fundingType": "full",
+    "covers": "Full",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-02-28",
+    "deadlineText": "Feb",
+    "url": "https://www.isdb.org/scholarships",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Islamic Development Bank (IsDB) Scholarship — Full. Open to Ethiopian students; levels: bachelor, master, phd. Study in Multiple.",
+    "status": "open"
+  },
+  {
+    "id": "ofid-opec-fund-scholarship",
+    "title": "OFID / OPEC Fund Scholarship",
+    "provider": "OFID / OPEC Fund Scholarship",
+    "country": "Any accredited",
+    "countries": [
+      "Any accredited"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "partial",
+    "covers": "Up to $50k",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-05-31",
+    "deadlineText": "Mar – May",
+    "url": "https://opecfund.org",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [],
+    "description": "OFID / OPEC Fund Scholarship — Up to $50k. Open to Ethiopian students; levels: master. Study in Any accredited.",
+    "status": "open"
+  },
+  {
+    "id": "aga-khan-foundation-international-scholarship",
+    "title": "Aga Khan Foundation International Scholarship",
+    "provider": "Aga Khan Foundation International Scholarship",
+    "country": "Any",
+    "countries": [
+      "Any"
+    ],
+    "level": [
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "partial",
+    "covers": "50% grant / 50% loan",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-03-31",
+    "deadlineText": "Mar 31",
+    "url": "https://the.akdn/en/how-we-work/our-agencies/aga-khan-foundation/international-scholarship-programme",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [],
+    "description": "Aga Khan Foundation International Scholarship — 50% grant / 50% loan. Open to Ethiopian students; levels: master, phd. Study in Any.",
+    "status": "open"
+  },
+  {
+    "id": "joint-japan-world-bank-graduate-scholarship",
+    "title": "Joint Japan/World Bank Graduate Scholarship (JJ/WBGSP)",
+    "provider": "Joint Japan/World Bank Graduate Scholarship",
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Full",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 2
+    },
+    "deadline": "2027-03-31",
+    "deadlineText": "Jan – Mar",
+    "url": "https://www.worldbank.org/en/programs/scholarships",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Joint Japan/World Bank Graduate Scholarship (JJ/WBGSP) — Full. Open to Ethiopian students; levels: master. Study in Multiple.",
+    "status": "open"
+  },
+  {
+    "id": "rotary-peace-fellowship",
+    "title": "Rotary Peace Fellowship",
+    "provider": "Rotary Peace Fellowship",
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "peace studies",
+      "international relations",
+      "conflict resolution"
+    ],
+    "fundingType": "full",
+    "covers": "Full",
+    "eligibility": {
+      "nationalities": [
+        "ET",
+        "any"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 3.0,
+      "englishTest": "recommended",
+      "workYearsMin": 0
+    },
+    "deadline": "2027-05-15",
+    "deadlineText": "May 15",
+    "url": "https://www.rotary.org/en/our-programs/peace-fellowships",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Rotary Peace Fellowship — Full. Open to Ethiopian students; levels: master. Study in Multiple.",
+    "status": "open"
+  },
+  {
+    "id": "ethiopian-ministry-of-education-bilateral-scholarships",
+    "title": "Ethiopian Ministry of Education Bilateral Scholarships",
+    "provider": "Ethiopian Ministry of Education Bilateral Scholarships",
+    "country": "Ethiopia",
+    "countries": [
+      "Ethiopia"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "China, Russia, India, Türkiye, Cuba, Hungary quotas announced via MoE",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 2.5,
+      "englishTest": "none",
+      "workYearsMin": 0
+    },
+    "deadline": null,
+    "deadlineText": "Varies / announced by provider",
+    "url": "https://www.moe.gov.et",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "ethiopia",
+      "local"
+    ],
+    "description": "Ethiopian Ministry of Education Bilateral Scholarships — China, Russia, India, Türkiye, Cuba, Hungary quotas announced via MoE.",
+    "status": "open"
+  },
+  {
+    "id": "mastercard-foundation-addis-ababa-university",
+    "title": "Mastercard Foundation @ Addis Ababa University",
+    "provider": "Mastercard Foundation",
+    "country": "Ethiopia",
+    "countries": [
+      "Ethiopia"
+    ],
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "UG & MSc for economically disadvantaged Ethiopians",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 2.5,
+      "englishTest": "none",
+      "workYearsMin": 0
+    },
+    "deadline": null,
+    "deadlineText": "Varies / announced by provider",
+    "url": "https://www.aau.edu.et",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "ethiopia",
+      "local"
+    ],
+    "description": "Mastercard Foundation @ Addis Ababa University — UG & MSc for economically disadvantaged Ethiopians.",
+    "status": "open"
+  },
+  {
+    "id": "ashesi-university-mcf-scholars",
+    "title": "Ashesi University (Ghana) – MCF Scholars",
+    "provider": "Ashesi University (Ghana)",
+    "country": "Ghana",
+    "countries": [
+      "Ethiopia"
+    ],
+    "level": [
+      "bachelor"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "UG, strong for Ethiopians",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 2.5,
+      "englishTest": "none",
+      "workYearsMin": 0
+    },
+    "deadline": null,
+    "deadlineText": "Varies / announced by provider",
+    "url": "https://www.ashesi.edu.gh",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "ethiopia",
+      "local"
+    ],
+    "description": "Ashesi University (Ghana) – MCF Scholars — UG, strong for Ethiopians.",
+    "status": "open"
+  },
+  {
+    "id": "african-leadership-university-mcf",
+    "title": "African Leadership University (Rwanda) – MCF",
+    "provider": "African Leadership University (Rwanda)",
+    "country": "Rwanda",
+    "countries": [
+      "Ethiopia"
+    ],
+    "level": [
+      "bachelor"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "UG",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 2.5,
+      "englishTest": "none",
+      "workYearsMin": 0
+    },
+    "deadline": null,
+    "deadlineText": "Varies / announced by provider",
+    "url": "https://www.alueducation.com",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "ethiopia",
+      "local"
+    ],
+    "description": "African Leadership University (Rwanda) – MCF — UG.",
+    "status": "open"
+  },
+  {
+    "id": "ethiopian-diaspora-trust-fund-education-grants",
+    "title": "Ethiopian Diaspora Trust Fund education grants",
+    "provider": "Ethiopian Diaspora Trust Fund education grants",
+    "country": "Ethiopia",
+    "countries": [
+      "Ethiopia"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Occasional",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "minGpa": 2.5,
+      "englishTest": "none",
+      "workYearsMin": 0
+    },
+    "deadline": null,
+    "deadlineText": "Varies / announced by provider",
+    "url": "https://ethiopiatrustfund.org",
+    "source": "docs/OPPORTUNITIES.md",
+    "tags": [
+      "ethiopia",
+      "local"
+    ],
+    "description": "Ethiopian Diaspora Trust Fund education grants — Occasional.",
+    "status": "open"
+  }
+]

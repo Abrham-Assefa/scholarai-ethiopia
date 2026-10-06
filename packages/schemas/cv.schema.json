@@ -1,0 +1,89 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://scholarai.et/schemas/cv.schema.json",
+  "title": "CVSchema",
+  "type": "object",
+  "required": ["personal"],
+  "properties": {
+    "personal": {
+      "type": "object",
+      "required": ["fullName"],
+      "properties": {
+        "fullName": { "type": "string" },
+        "email": { "type": "string" },
+        "phone": { "type": "string" },
+        "city": { "type": "string" },
+        "links": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "summary": { "type": "string" },
+    "education": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "institution": { "type": "string" },
+          "degree": { "type": "string" },
+          "field": { "type": "string" },
+          "gpa": { "type": ["string", "number", "null"] },
+          "scale": { "type": "string", "default": "4.0" },
+          "start": { "type": "string" },
+          "end": { "type": "string" },
+          "honors": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "experience": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "org": { "type": "string" },
+          "role": { "type": "string" },
+          "start": { "type": "string" },
+          "end": { "type": "string" },
+          "bullets": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "projects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "description": { "type": "string" },
+          "tech": { "type": "array", "items": { "type": "string" } },
+          "link": { "type": "string" }
+        }
+      }
+    },
+    "skills": {
+      "type": "object",
+      "properties": {
+        "technical": { "type": "array", "items": { "type": "string" } },
+        "soft": { "type": "array", "items": { "type": "string" } },
+        "tools": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": { "name": { "type": "string" }, "level": { "type": "string" } }
+      }
+    },
+    "awards": { "type": "array", "items": { "type": "string" } },
+    "certifications": { "type": "array", "items": { "type": "string" } },
+    "volunteering": { "type": "array", "items": { "type": "string" } },
+    "publications": { "type": "array", "items": { "type": "string" } },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "targetScholarshipId": { "type": ["string", "null"] },
+        "template": { "type": "string", "enum": ["europass", "modern"], "default": "europass" },
+        "lang": { "type": "string", "enum": ["en", "am"], "default": "en" }
+      }
+    }
+  }
+}

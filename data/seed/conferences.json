@@ -1,0 +1,427 @@
+[
+  {
+    "id": "one-young-world-summit-leading-africa-scholarship",
+    "title": "One Young World Summit – Leading Africa Scholarship",
+    "location": "Cape Town, South Africa",
+    "when": "3–6 Nov 2026",
+    "startDate": "2026-11-03",
+    "funding": "Full (flights, hotel, fees)",
+    "fundingType": "full",
+    "audience": "18–30",
+    "age": {
+      "min": 18,
+      "max": 30
+    },
+    "url": "https://www.oneyoungworld.com",
+    "ethiopiansEligible": true,
+    "description": "One Young World Summit – Leading Africa Scholarship in Cape Town, South Africa (3–6 Nov 2026). Funding: Full (flights, hotel, fees). For: 18–30."
+  },
+  {
+    "id": "world-forum-for-democracy",
+    "title": "World Forum for Democracy (Council of Europe)",
+    "location": "Strasbourg, France",
+    "when": "31 Oct – 4 Nov 2026",
+    "startDate": "2026-11-04",
+    "funding": "Full for youth delegates",
+    "fundingType": "full",
+    "audience": "18–30",
+    "age": {
+      "min": 18,
+      "max": 30
+    },
+    "url": "https://www.coe.int/en/web/world-forum-democracy",
+    "ethiopiansEligible": true,
+    "description": "World Forum for Democracy (Council of Europe) in Strasbourg, France (31 Oct – 4 Nov 2026). Funding: Full for youth delegates. For: 18–30."
+  },
+  {
+    "id": "sdg-innovation-summit",
+    "title": "SDG Innovation Summit",
+    "location": "Malaysia",
+    "when": "19–22 Nov 2026",
+    "startDate": "2026-11-19",
+    "funding": "Flights, visa, hotel, meals",
+    "fundingType": "partial",
+    "audience": "Students / youth",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://www.sdgsummit.org",
+    "ethiopiansEligible": false,
+    "description": "SDG Innovation Summit in Malaysia (19–22 Nov 2026). Funding: Flights, visa, hotel, meals. For: Students / youth."
+  },
+  {
+    "id": "asef-linkup-asef-seminar",
+    "title": "ASEF LinkUp / ASEF Seminar",
+    "location": "Slovenia / Mongolia",
+    "when": "Oct–Nov 2026",
+    "startDate": "2026-11-20",
+    "funding": "Full",
+    "fundingType": "full",
+    "audience": "18–30 (check country list)",
+    "age": {
+      "min": 18,
+      "max": 30
+    },
+    "url": "https://asef.org",
+    "ethiopiansEligible": false,
+    "description": "ASEF LinkUp / ASEF Seminar in Slovenia / Mongolia (Oct–Nov 2026). Funding: Full. For: 18–30 (check country list)."
+  },
+  {
+    "id": "youth-action-summit-2027",
+    "title": "Youth Action Summit 2027",
+    "location": "Germany",
+    "when": "11–14 Jan 2027",
+    "startDate": "2027-01-11",
+    "funding": "Full/partial",
+    "fundingType": "full",
+    "audience": "18–35",
+    "age": {
+      "min": 18,
+      "max": 35
+    },
+    "url": "https://cda.org",
+    "ethiopiansEligible": false,
+    "description": "Youth Action Summit 2027 in Germany (11–14 Jan 2027). Funding: Full/partial. For: 18–35."
+  },
+  {
+    "id": "dll-conference",
+    "title": "DLL Conference (AfriLead Network)",
+    "location": "Zanzibar, Tanzania",
+    "when": "2026",
+    "startDate": null,
+    "funding": "Full",
+    "fundingType": "full",
+    "audience": "Young African professionals",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://afrileadnetwork.org",
+    "ethiopiansEligible": true,
+    "description": "DLL Conference (AfriLead Network) in Zanzibar, Tanzania (2026). Funding: Full. For: Young African professionals."
+  },
+  {
+    "id": "mandela-washington-fellowship",
+    "title": "Mandela Washington Fellowship (YALI)",
+    "location": "USA",
+    "when": "Jun–Jul 2027 (apply Sept–Oct 2026)",
+    "startDate": "2026-10-20",
+    "funding": "Full",
+    "fundingType": "full",
+    "audience": "25–35",
+    "age": {
+      "min": 25,
+      "max": 35
+    },
+    "url": "https://www.mandelawashingtonfellowship.org",
+    "ethiopiansEligible": true,
+    "description": "Mandela Washington Fellowship (YALI) in USA (Jun–Jul 2027 (apply Sept–Oct 2026)). Funding: Full. For: 25–35."
+  },
+  {
+    "id": "yali-regional-leadership-center-east-africa",
+    "title": "YALI Regional Leadership Center East Africa",
+    "location": "Nairobi, Kenya",
+    "when": "Multiple cohorts",
+    "startDate": null,
+    "funding": "Full",
+    "fundingType": "full",
+    "audience": "18–35",
+    "age": {
+      "min": 18,
+      "max": 35
+    },
+    "url": "https://yalieastafrica.org",
+    "ethiopiansEligible": true,
+    "description": "YALI Regional Leadership Center East Africa in Nairobi, Kenya (Multiple cohorts). Funding: Full. For: 18–35."
+  },
+  {
+    "id": "africa-youth-summit-au-youth-forum",
+    "title": "Africa Youth Summit / AU Youth Forum",
+    "location": "Rotates (Addis often)",
+    "when": "Yearly",
+    "startDate": null,
+    "funding": "Full",
+    "fundingType": "full",
+    "audience": "15–35",
+    "age": {
+      "min": 15,
+      "max": 35
+    },
+    "url": "https://au.int/en/youth",
+    "ethiopiansEligible": true,
+    "description": "Africa Youth Summit / AU Youth Forum in Rotates (Addis often) (Yearly). Funding: Full. For: 15–35."
+  },
+  {
+    "id": "un-youth-forum",
+    "title": "UN Youth Forum (ECOSOC)",
+    "location": "New York",
+    "when": "April",
+    "startDate": "2027-04-30",
+    "funding": "Partial/full via sponsors",
+    "fundingType": "full",
+    "audience": "18–30",
+    "age": {
+      "min": 18,
+      "max": 30
+    },
+    "url": "https://ecosoc.un.org",
+    "ethiopiansEligible": true,
+    "description": "UN Youth Forum (ECOSOC) in New York (April). Funding: Partial/full via sponsors. For: 18–30."
+  },
+  {
+    "id": "internet-governance-forum-youth-fellowship",
+    "title": "Internet Governance Forum (IGF) Youth Fellowship",
+    "location": "Rotates",
+    "when": "Dec",
+    "startDate": "2026-12-31",
+    "funding": "Full",
+    "fundingType": "full",
+    "audience": "18–35",
+    "age": {
+      "min": 18,
+      "max": 35
+    },
+    "url": "https://www.intgovforum.org",
+    "ethiopiansEligible": true,
+    "description": "Internet Governance Forum (IGF) Youth Fellowship in Rotates (Dec). Funding: Full. For: 18–35."
+  },
+  {
+    "id": "itu-generation-connect",
+    "title": "ITU Generation Connect",
+    "location": "Global",
+    "when": "Various",
+    "startDate": null,
+    "funding": "Travel grants",
+    "fundingType": "partial",
+    "audience": "18–29",
+    "age": {
+      "min": 18,
+      "max": 29
+    },
+    "url": "https://www.itu.int/generationconnect",
+    "ethiopiansEligible": true,
+    "description": "ITU Generation Connect in Global (Various). Funding: Travel grants. For: 18–29."
+  },
+  {
+    "id": "google-deep-learning-indaba",
+    "title": "Google / Deep Learning Indaba",
+    "location": "Africa (rotates)",
+    "when": "Aug–Sept",
+    "startDate": "2027-09-30",
+    "funding": "Travel grants",
+    "fundingType": "partial",
+    "audience": "Students, researchers",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://deeplearningindaba.com",
+    "ethiopiansEligible": true,
+    "description": "Google / Deep Learning Indaba in Africa (rotates) (Aug–Sept). Funding: Travel grants. For: Students, researchers."
+  },
+  {
+    "id": "data-science-africa-summer-school",
+    "title": "Data Science Africa Summer School",
+    "location": "Africa",
+    "when": "Jun–Jul",
+    "startDate": "2027-07-31",
+    "funding": "Travel grants",
+    "fundingType": "partial",
+    "audience": "Students",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://www.datascienceafrica.org",
+    "ethiopiansEligible": true,
+    "description": "Data Science Africa Summer School in Africa (Jun–Jul). Funding: Travel grants. For: Students."
+  },
+  {
+    "id": "africarxiv-black-in-ai-workshop",
+    "title": "AfricArXiv / Black in AI workshop (NeurIPS)",
+    "location": "Global",
+    "when": "Dec",
+    "startDate": "2026-12-31",
+    "funding": "Travel grants",
+    "fundingType": "partial",
+    "audience": "Researchers",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://blackinai.github.io",
+    "ethiopiansEligible": true,
+    "description": "AfricArXiv / Black in AI workshop (NeurIPS) in Global (Dec). Funding: Travel grants. For: Researchers."
+  },
+  {
+    "id": "global-health-conference-cugh-travel-awards",
+    "title": "Global Health Conference – CUGH travel awards",
+    "location": "USA",
+    "when": "Mar–Apr",
+    "startDate": "2027-04-30",
+    "funding": "Travel grants",
+    "fundingType": "partial",
+    "audience": "Students",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://www.cugh.org",
+    "ethiopiansEligible": false,
+    "description": "Global Health Conference – CUGH travel awards in USA (Mar–Apr). Funding: Travel grants. For: Students."
+  },
+  {
+    "id": "falling-walls-lab-ethiopia-berlin-finale",
+    "title": "Falling Walls Lab Ethiopia -> Berlin Finale",
+    "location": "Addis -> Berlin",
+    "when": "Nov",
+    "startDate": "2026-11-30",
+    "funding": "Full for winner",
+    "fundingType": "full",
+    "audience": "Students / researchers",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://falling-walls.com",
+    "ethiopiansEligible": true,
+    "description": "Falling Walls Lab Ethiopia -> Berlin Finale in Addis -> Berlin (Nov). Funding: Full for winner. For: Students / researchers."
+  },
+  {
+    "id": "mit-global-startup-workshop-mit-africa-innovate",
+    "title": "MIT Global Startup Workshop / MIT Africa Innovate",
+    "location": "Rotates",
+    "when": "Spring",
+    "startDate": null,
+    "funding": "Partial",
+    "fundingType": "partial",
+    "audience": "Entrepreneurs",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://gsw.mit.edu",
+    "ethiopiansEligible": false,
+    "description": "MIT Global Startup Workshop / MIT Africa Innovate in Rotates (Spring). Funding: Partial. For: Entrepreneurs."
+  },
+  {
+    "id": "tony-elumelu-foundation-entrepreneurship-programme",
+    "title": "Tony Elumelu Foundation Entrepreneurship Programme",
+    "location": "Online + Lagos forum",
+    "when": "Jan–Mar apply",
+    "startDate": "2027-03-31",
+    "funding": "$5,000 seed + training",
+    "fundingType": "partial",
+    "audience": "18+",
+    "age": {
+      "min": 18,
+      "max": null
+    },
+    "url": "https://www.tonyelumelufoundation.org",
+    "ethiopiansEligible": true,
+    "description": "Tony Elumelu Foundation Entrepreneurship Programme in Online + Lagos forum (Jan–Mar apply). Funding: $5,000 seed + training. For: 18+."
+  },
+  {
+    "id": "obama-foundation-leaders-africa",
+    "title": "Obama Foundation Leaders: Africa",
+    "location": "Johannesburg + virtual",
+    "when": "Apply Jan–Feb",
+    "startDate": "2027-02-28",
+    "funding": "Full",
+    "fundingType": "full",
+    "audience": "Emerging leaders",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://www.obama.org/programs/leaders",
+    "ethiopiansEligible": true,
+    "description": "Obama Foundation Leaders: Africa in Johannesburg + virtual (Apply Jan–Feb). Funding: Full. For: Emerging leaders."
+  },
+  {
+    "id": "ashoka-acumen-fellowships",
+    "title": "Ashoka / Acumen Fellowships",
+    "location": "Global/East Africa",
+    "when": "Rolling",
+    "startDate": null,
+    "funding": "Full",
+    "fundingType": "full",
+    "audience": "Social entrepreneurs",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://acumen.org/fellowships",
+    "ethiopiansEligible": true,
+    "description": "Ashoka / Acumen Fellowships in Global/East Africa (Rolling). Funding: Full. For: Social entrepreneurs."
+  },
+  {
+    "id": "who-unicef-undp-youth-internships-forums",
+    "title": "WHO / UNICEF / UNDP Youth Internships & Forums",
+    "location": "Addis (UNECA, AU HQ)",
+    "when": "Rolling",
+    "startDate": null,
+    "funding": "Stipend",
+    "fundingType": "partial",
+    "audience": "18–32",
+    "age": {
+      "min": 18,
+      "max": 32
+    },
+    "url": "https://careers.un.org",
+    "ethiopiansEligible": true,
+    "description": "WHO / UNICEF / UNDP Youth Internships & Forums in Addis (UNECA, AU HQ) (Rolling). Funding: Stipend. For: 18–32."
+  },
+  {
+    "id": "harvard-project-for-asian-international-relations",
+    "title": "Harvard Project for Asian & International Relations (HPAIR)",
+    "location": "Asia / Boston",
+    "when": "Aug / Feb",
+    "startDate": "2027-02-28",
+    "funding": "Scholarships available",
+    "fundingType": "partial",
+    "audience": "University students",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://www.hpair.org",
+    "ethiopiansEligible": false,
+    "description": "Harvard Project for Asian & International Relations (HPAIR) in Asia / Boston (Aug / Feb). Funding: Scholarships available. For: University students."
+  },
+  {
+    "id": "model-un-ethiopian-mun-addis-ababa-mun-aimun",
+    "title": "Model UN: Ethiopian MUN / Addis Ababa MUN / AIMUN",
+    "location": "Addis Ababa",
+    "when": "Yearly",
+    "startDate": null,
+    "funding": "Low cost / local",
+    "fundingType": "partial",
+    "audience": "Students",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "Facebook/Telegram groups",
+    "ethiopiansEligible": false,
+    "description": "Model UN: Ethiopian MUN / Addis Ababa MUN / AIMUN in Addis Ababa (Yearly). Funding: Low cost / local. For: Students."
+  },
+  {
+    "id": "nobel-peace-prize-forum-nobel-week-dialogue-youth",
+    "title": "Nobel Peace Prize Forum / Nobel Week Dialogue youth",
+    "location": "Norway / Sweden",
+    "when": "Dec",
+    "startDate": "2026-12-31",
+    "funding": "Travel grants",
+    "fundingType": "partial",
+    "audience": "Youth",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://www.nobelpeacecenter.org",
+    "ethiopiansEligible": false,
+    "description": "Nobel Peace Prize Forum / Nobel Week Dialogue youth in Norway / Sweden (Dec). Funding: Travel grants. For: Youth."
+  }
+]
