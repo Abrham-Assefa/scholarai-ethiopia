@@ -11,11 +11,14 @@ Every run (scheduled every 48h by the API) it:
 3. **Expires** past deadlines (rolls curated programmes forward as estimates,
    closes discovered one-off calls).
 
+``collect_events`` does the same for conferences, summits and youth forums.
+
 Uses the LLM router for summaries when a real provider is configured and falls
 back to deterministic heuristics offline, so tests never touch the network.
 """
 
+from .events import CONFERENCE_FEEDS, collect_events
 from .fetch import Fetcher, HttpFetcher
 from .pipeline import DEFAULT_FEEDS, CollectionResult, collect
 
-__all__ = ["DEFAULT_FEEDS", "CollectionResult", "Fetcher", "HttpFetcher", "collect"]
+__all__ = ["CONFERENCE_FEEDS", "DEFAULT_FEEDS", "CollectionResult", "Fetcher", "HttpFetcher", "collect", "collect_events"]

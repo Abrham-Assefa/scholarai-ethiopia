@@ -329,6 +329,27 @@ def _update_from_post(match: dict[str, Any], it: FeedItem, page: str | None, tod
 # --------------------------------------------------------------------------- #
 # Orchestration
 # --------------------------------------------------------------------------- #
+def gather_items(
+    pool: ThreadPoolExecutor,
+    fetcher: Fetcher,
+    feeds: list[str],
+    res: CollectionResult,
+    predicate: Callable[[str, list[str]], bool],
+) -> list[FeedItem]:
+    """Fetch feeds in parallel and return unique items accepted by ``predicate``."""
+    seen: set[str] = set()
+    items: list[FeedItem] = []
+    for feed, xml in zip(feeds, pool.map(fetcher.get, feeds), strict=True):
+        if not xml:
+            res.errors.append(f"feed unreachable: {feed}")
+            continue
+        for it in parse_feed(xml, feed):
+            if it.link and it.link not in seen and predicate(it.title, it.categories):
+                seen.add(it.link)
+                items.append(it)
+    return items
+
+
 def collect(
     records: list[dict[str, Any]],
     *,
@@ -384,16 +405,7 @@ def collect(
 
             # 3) discover new opportunities from feeds
             if discover:
-                seen_links: set[str] = set()
-                items: list[FeedItem] = []
-                for feed, xml in zip(feeds or DEFAULT_FEEDS, pool.map(fetcher.get, feeds or DEFAULT_FEEDS), strict=True):
-                    if not xml:
-                        res.errors.append(f"feed unreachable: {feed}")
-                        continue
-                    for it in parse_feed(xml, feed):
-                        if it.link and it.link not in seen_links and X.is_study_opportunity(it.title, it.categories):
-                            seen_links.add(it.link)
-                            items.append(it)
+                items = gather_items(pool, fetcher, feeds or DEFAULT_FEEDS, res, X.is_study_opportunity)
                 stats["feedItems"] = len(items)
                 items = items[:max_articles]
                 pages = list(pool.map(lambda it: None if len(it.content) > 1500 else fetcher.get(it.link), items))
