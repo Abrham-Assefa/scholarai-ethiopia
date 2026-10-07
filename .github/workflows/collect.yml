@@ -1,6 +1,6 @@
 name: collect
 
-# Refresh data/seed/scholarships.json from the web every two days (the API also does this at runtime).
+# Refresh data/seed/scholarships.json and conferences.json from the web every two days (the API also does this at runtime).
 on:
   schedule:
     - cron: "0 3 */2 * *"
@@ -23,12 +23,14 @@ jobs:
       - name: Collect
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python -m scholarai_ai.collector --seed data/seed/scholarships.json --write
+        run: |
+          python -m scholarai_ai.collector --seed data/seed/scholarships.json --write
+          python -m scholarai_ai.collector --seed data/seed/conferences.json --kind conferences --write
       - name: Commit changes
         run: |
-          if git diff --quiet data/seed/scholarships.json; then echo "No changes"; exit 0; fi
+          if git diff --quiet data/seed/; then echo "No changes"; exit 0; fi
           git config user.name "scholarai-collector[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/seed/scholarships.json
-          git commit -m "chore(data): refresh scholarships from the web"
+          git add data/seed/scholarships.json data/seed/conferences.json
+          git commit -m "chore(data): refresh scholarships and conferences from the web"
           git push

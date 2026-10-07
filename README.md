@@ -65,6 +65,8 @@ scholarai-ethiopia/
 
 ### Live data — the catalogue refreshes itself every 48 h
 
+Both **scholarships and conferences** are refreshed: each run re-verifies existing entries, discovers new Ethiopia-eligible calls from opportunity feeds and expires closed ones. `/conferences` shows a live timeline with countdowns and `/conferences/[id]` a full detail page.
+
 The scholarship list is **not static**. `services/ai/scholarai_ai/collector` is a web collector the API runs
 in the background every `COLLECTOR_INTERVAL_HOURS` (default 48 h, and immediately on boot if a run is overdue):
 
@@ -80,7 +82,7 @@ in the background every `COLLECTOR_INTERVAL_HOURS` (default 48 h, and immediatel
 New programmes get a **New** badge and an "auto-collected" notice in the web app; the scholarships page shows when the
 last refresh ran and offers **Refresh now**. Endpoints: `GET /v1/collector/status`, `GET /v1/collector/runs`,
 `POST /v1/collector/run`. Run it by hand with
-`python -m scholarai_ai.collector --seed data/seed/scholarships.json [--write]`; the
+`python -m scholarai_ai.collector --seed data/seed/scholarships.json [--write]` (add `--seed data/seed/conferences.json --kind conferences` for events); the
 `collect` GitHub workflow also refreshes the committed seed every two days.
 
 ### Screenshots
