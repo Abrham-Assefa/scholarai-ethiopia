@@ -48,7 +48,11 @@ export const api = {
   scholarship: (id: string) => request<Scholarship>(`/v1/scholarships/${id}`),
   collectorStatus: () => request<CollectorStatus>("/v1/collector/status"),
   runCollector: () => request<{ status: string; runId: string }>("/v1/collector/run", { method: "POST" }),
-  conferences: () => request<{ items: Conference[]; total: number }>("/v1/conferences"),
+  conferences: (params: Record<string, string | undefined> = {}) => {
+    const qs = new URLSearchParams(Object.entries(params).filter(([, v]) => v) as [string, string][]).toString();
+    return request<{ items: Conference[]; total: number }>(`/v1/conferences${qs ? `?${qs}` : ""}`);
+  },
+  conference: (id: string) => request<Conference>(`/v1/conferences/${id}`),
   login: async (phone: string, code: string) => {
     const r = await request<{ accessToken: string; user: { id: string; phone: string; name?: string } }>("/v1/auth/otp/verify", {
       method: "POST",

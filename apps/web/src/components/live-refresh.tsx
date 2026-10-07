@@ -17,8 +17,8 @@ export function relTime(iso: string, locale: string, now = Date.now()) {
 }
 
 /** Shows when the catalogue was last refreshed from the web and lets visitors trigger a refresh. */
-export function LiveRefresh({ onUpdated }: { onUpdated?: () => void }) {
-  const t = useTranslations("scholarships.live");
+export function LiveRefresh({ onUpdated, scope = "scholarships" }: { onUpdated?: () => void; scope?: "scholarships" | "conferences" }) {
+  const t = useTranslations(`${scope}.live`);
   const locale = useLocale();
   const [st, setSt] = useState<CollectorStatus | null>(null);
   const [failed, setFailed] = useState(false);
@@ -41,8 +41,10 @@ export function LiveRefresh({ onUpdated }: { onUpdated?: () => void }) {
   if (!st) return null;
   const last = st.lastSuccessAt;
   const run = st.lastRun;
-  const found = run?.status === "ok" ? run.stats.discovered ?? 0 : 0;
-  const updated = run?.status === "ok" ? run.stats.updated ?? 0 : 0;
+  const stats = (scope === "conferences" ? run?.stats.conferences : run?.stats) ?? {};
+  const found = run?.status === "ok" ? stats.discovered ?? 0 : 0;
+  const updated = run?.status === "ok" ? stats.updated ?? 0 : 0;
+  const totalFound = scope === "conferences" ? st.totals.conferencesDiscovered ?? 0 : st.totals.discovered;
 
   const refresh = () => {
     setFailed(false);
@@ -64,8 +66,8 @@ export function LiveRefresh({ onUpdated }: { onUpdated?: () => void }) {
           </p>
         </div>
         <div className="flex flex-wrap items-center gap-2 text-xs">
-          <span className="inline-flex items-center gap-1 rounded-full bg-primary/10 px-2.5 py-1 font-medium text-primary"><Sparkles size={12} />{t("found", { count: st.totals.discovered })}</span>
-          {run?.status === "ok" && <span className="rounded-full bg-muted px-2.5 py-1 text-muted-foreground">{t("lastRunStats", { found, updated, checked: run.stats.checked ?? 0 })}</span>}
+          <span className="inline-flex items-center gap-1 rounded-full bg-primary/10 px-2.5 py-1 font-medium text-primary"><Sparkles size={12} />{t("found", { count: totalFound })}</span>
+          {run?.status === "ok" && <span className="rounded-full bg-muted px-2.5 py-1 text-muted-foreground">{t("lastRunStats", { found, updated, checked: stats.checked ?? 0 })}</span>}
           {st.enabled && (
             <button onClick={refresh} disabled={st.running} className="inline-flex items-center gap-1.5 rounded-full border bg-background px-3 py-1.5 font-medium transition hover:border-primary hover:text-primary disabled:opacity-60">
               {st.running ? <Loader2 size={13} className="animate-spin" /> : <RefreshCw size={13} />}{st.running ? t("refreshing") : t("refresh")}

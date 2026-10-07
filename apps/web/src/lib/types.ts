@@ -36,14 +36,18 @@ export interface Scholarship {
   discoveredAt?: string | null;
 }
 
+export interface CollectorStats {
+  checked?: number; reachable?: number; discovered?: number; updated?: number; closed?: number; rolled?: number; provider?: string;
+}
+
 export interface CollectorRun {
   id: string;
   trigger: "auto" | "manual";
   status: "running" | "ok" | "error";
   startedAt: string;
   finishedAt: string | null;
-  stats: { checked?: number; reachable?: number; discovered?: number; updated?: number; closed?: number; rolled?: number; provider?: string };
-  changes: { id: string; kind: string; detail: string }[];
+  stats: CollectorStats & { conferences?: CollectorStats };
+  changes: { id: string; kind: string; detail: string; type?: "conference" }[];
   errors: string[];
 }
 
@@ -54,7 +58,7 @@ export interface CollectorStatus {
   lastRun: CollectorRun | null;
   lastSuccessAt: string | null;
   nextRunAt: string | null;
-  totals: { scholarships: number; discovered: number };
+  totals: { scholarships: number; discovered: number; conferences?: number; conferencesDiscovered?: number };
 }
 
 export interface ScholarshipDetails {
@@ -81,6 +85,18 @@ export interface Conference {
   url?: string;
   ethiopiansEligible: boolean;
   description?: string;
+  deadline?: string | null;
+  status?: "open" | "closed";
+  dateConfirmed?: boolean;
+  details?: ScholarshipDetails | null;
+  sources?: string[];
+  lastVerified?: string | null;
+  origin?: "curated" | "discovered";
+  lastChecked?: string | null;
+  checkStatus?: string | null;
+  discoveredAt?: string | null;
+  daysLeft?: number | null;
+  startsIn?: number | null;
 }
 
 export interface Match {
