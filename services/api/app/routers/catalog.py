@@ -82,7 +82,7 @@ def scholarship_stats(db: Session = Depends(get_db)):
         or 0
     )
     countries = db.scalar(select(func.count(func.distinct(Scholarship.country)))) or 0
-    conferences = db.scalar(select(func.count()).select_from(Conference)) or 0
+    conferences = db.scalar(select(func.count()).select_from(Conference).where(_conf_open())) or 0
     return {"total": total, "open": open_, "countries": countries, "conferences": conferences}
 
 
@@ -106,12 +106,49 @@ def get_scholarship(sid: str, db: Session = Depends(get_db)):
     return d
 
 
+def _conf_open():
+    return or_(Conference.status.is_(None), Conference.status != "closed")
+
+
+def _conf_dict(c: Conference) -> dict:
+    d = c.to_dict()
+    today = date.today()
+    d["daysLeft"] = (c.deadline - today).days if c.deadline else None
+    d["startsIn"] = (c.start_date - today).days if c.start_date else None
+    return d
+
+
 @router.get("/conferences")
-def list_conferences(db: Session = Depends(get_db), q: str | None = None, funding: str | None = None):
+def list_conferences(
+    db: Session = Depends(get_db),
+    q: str | None = None,
+    funding: str | None = None,
+    origin: str | None = None,
+    includeClosed: bool = False,
+):
     stmt = select(Conference)
+    if not includeClosed:
+        stmt = stmt.where(_conf_open())
     if q:
-        stmt = stmt.where(or_(Conference.title.ilike(f"%{q}%"), Conference.location.ilike(f"%{q}%")))
+        like = f"%{q}%"
+        stmt = stmt.where(
+            or_(Conference.title.ilike(like), Conference.location.ilike(like), Conference.description.ilike(like))
+        )
     if funding:
         stmt = stmt.where(Conference.funding_type == funding)
-    rows = db.scalars(stmt.order_by(Conference.start_date.is_(None), Conference.start_date)).all()
-    return {"items": [r.to_dict() for r in rows], "total": len(rows)}
+    if origin == "discovered":
+        stmt = stmt.where(Conference.origin == "discovered")
+    elif origin == "curated":
+        stmt = stmt.where(or_(Conference.origin.is_(None), Conference.origin != "discovered"))
+    # Soonest action first: application deadline when known, else the event start.
+    key = func.coalesce(Conference.deadline, Conference.start_date)
+    rows = db.scalars(stmt.order_by(key.is_(None), key, Conference.title)).all()
+    return {"items": [_conf_dict(r) for r in rows], "total": len(rows)}
+
+
+@router.get("/conferences/{cid}")
+def get_conference(cid: str, db: Session = Depends(get_db)):
+    c = db.get(Conference, cid)
+    if not c:
+        raise HTTPException(404, "Conference not found")
+    return _conf_dict(c)

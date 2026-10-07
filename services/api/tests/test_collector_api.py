@@ -70,3 +70,50 @@ def test_manual_trigger_conflict(client, monkeypatch):
         run = svc.last_run(db)
         run.status = "ok"
         db.commit()
+
+
+EVENT_FEED = "https://feeds.example/events/"
+EVENT_RSS = """<rss><channel><item><title>Africa Climate Youth Summit 2026 in Nairobi, Kenya (Fully Funded)</title>
+<link>https://news.example/summit</link><category>Conferences</category>
+<description>Application Deadline: 15 November 2026</description>
+<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[
+<p>Application Deadline: 15 November 2026</p><p>Applications are open for young climate leaders from across Africa,
+including Ethiopia. The fully funded summit will take place 3–6 February 2027 in Nairobi, Kenya, and brings together
+two hundred youth delegates for workshops, policy dialogue and mentoring with climate negotiators and researchers.</p>
+<h2>Benefits</h2><li>Return airfare</li><li>Accommodation and meals</li>
+<p><a href="https://climatesummit.example.org/apply">Apply here</a></p>]]></content:encoded></item></channel></rss>"""
+
+
+class FakeBoth:
+    def get(self, url):
+        return {FEED: RSS, EVENT_FEED: EVENT_RSS}.get(url)
+
+
+def test_run_discovers_conferences(client):
+    out = svc.run_collection(
+        trigger="manual", fetcher=FakeBoth(), today=date(2026, 10, 7), feeds=[FEED], event_feeds=[EVENT_FEED]
+    )
+    assert out["status"] == "ok" and out["stats"]["conferences"]["discovered"] == 1
+    assert any(c.get("type") == "conference" for c in out["changes"])
+    items = client.get("/v1/conferences", params={"origin": "discovered"}).json()["items"]
+    assert [i["id"] for i in items] == ["africa-climate-youth-summit-in-nairobi-kenya"]
+    ev = client.get(f"/v1/conferences/{items[0]['id']}").json()
+    assert ev["deadline"] == "2026-11-15" and ev["startDate"] == "2027-02-03" and ev["fundingType"] == "full"
+    assert ev["details"]["benefits"][:2] == ["Return airfare", "Accommodation and meals"]
+    assert "daysLeft" in ev and ev["origin"] == "discovered"
+    assert client.get("/v1/collector/status").json()["totals"]["conferencesDiscovered"] == 1
+
+
+def test_closed_conferences_hidden(client):
+    from app.models import Conference
+
+    with SessionLocal() as db:
+        cid = db.scalars(select(Conference.id).limit(1)).first()
+        db.get(Conference, cid).status = "closed"
+        db.commit()
+    assert cid not in {i["id"] for i in client.get("/v1/conferences").json()["items"]}
+    assert cid in {i["id"] for i in client.get("/v1/conferences", params={"includeClosed": 1}).json()["items"]}
+    assert client.get("/v1/conferences/nope").status_code == 404
+    with SessionLocal() as db:
+        db.get(Conference, cid).status = "open"
+        db.commit()

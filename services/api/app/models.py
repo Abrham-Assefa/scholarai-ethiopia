@@ -157,6 +157,16 @@ class Conference(Base):
     url: Mapped[str | None] = mapped_column(String(400))
     ethiopians_eligible: Mapped[bool] = mapped_column(Boolean, default=True)
     description: Mapped[str | None] = mapped_column(Text)
+    deadline: Mapped[date | None] = mapped_column(Date, index=True)
+    status: Mapped[str | None] = mapped_column(String(16), default="open")
+    date_confirmed: Mapped[bool] = mapped_column(Boolean, default=True)
+    details: Mapped[dict] = mapped_column(JSON, default=dict)
+    sources: Mapped[list] = mapped_column(JSON, default=list)
+    last_verified: Mapped[str | None] = mapped_column(String(10))
+    origin: Mapped[str | None] = mapped_column(String(16), default="curated")  # curated | discovered
+    last_checked: Mapped[str | None] = mapped_column(String(10))
+    check_status: Mapped[str | None] = mapped_column(String(16))
+    discovered_at: Mapped[str | None] = mapped_column(String(10))
 
     def to_dict(self) -> dict:
         return {
@@ -165,6 +175,16 @@ class Conference(Base):
             "location": self.location,
             "when": self.when,
             "startDate": self.start_date.isoformat() if self.start_date else None,
+            "deadline": self.deadline.isoformat() if self.deadline else None,
+            "status": self.status or "open",
+            "dateConfirmed": self.date_confirmed if self.date_confirmed is not None else True,
+            "details": self.details or {},
+            "sources": self.sources or [],
+            "lastVerified": self.last_verified,
+            "origin": self.origin or "curated",
+            "lastChecked": self.last_checked,
+            "checkStatus": self.check_status,
+            "discoveredAt": self.discovered_at,
             "funding": self.funding,
             "fundingType": self.funding_type,
             "audience": self.audience,

@@ -5,7 +5,7 @@ from sqlalchemy.orm import Session
 from .. import collector as svc
 from ..config import settings
 from ..db import get_db
-from ..models import CollectorRun, Scholarship
+from ..models import CollectorRun, Conference, Scholarship
 
 router = APIRouter(prefix="/v1/collector", tags=["collector"])
 
@@ -17,6 +17,8 @@ def status(db: Session = Depends(get_db)):
     last_ok = svc.last_run(db, ok_only=True)
     discovered = db.scalar(select(func.count()).select_from(Scholarship).where(Scholarship.origin == "discovered")) or 0
     total = db.scalar(select(func.count()).select_from(Scholarship)) or 0
+    conf_total = db.scalar(select(func.count()).select_from(Conference)) or 0
+    conf_new = db.scalar(select(func.count()).select_from(Conference).where(Conference.origin == "discovered")) or 0
     return {
         "enabled": settings.collector_enabled,
         "intervalHours": settings.collector_interval_hours,
@@ -24,7 +26,12 @@ def status(db: Session = Depends(get_db)):
         "lastRun": last.to_dict() if last else None,
         "lastSuccessAt": last_ok.to_dict()["finishedAt"] if last_ok else None,
         "nextRunAt": svc.next_run_at(db).isoformat() if settings.collector_enabled else None,
-        "totals": {"scholarships": total, "discovered": discovered},
+        "totals": {
+            "scholarships": total,
+            "discovered": discovered,
+            "conferences": conf_total,
+            "conferencesDiscovered": conf_new,
+        },
     }
 
 

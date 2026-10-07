@@ -7,15 +7,15 @@ import logging
 from datetime import UTC, date, datetime, timedelta
 from typing import Any
 
-from scholarai_ai.collector import Fetcher, collect
+from scholarai_ai.collector import Fetcher, collect, collect_events
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
 from .config import settings
 from .db import SessionLocal
 from .deps import get_router
-from .models import CollectorRun, Scholarship
-from .seed import apply_record
+from .models import CollectorRun, Conference, Scholarship
+from .seed import apply_conference, apply_record
 
 log = logging.getLogger("scholarai.collector")
 STALE_LOCK = timedelta(hours=2)
@@ -67,6 +67,7 @@ def run_collection(
     fetcher: Fetcher | None = None,
     today: date | None = None,
     feeds: list[str] | None = None,
+    event_feeds: list[str] | None = None,
 ) -> dict[str, Any] | None:
     run_id = run_id or start_run(trigger)
     if run_id is None:
@@ -88,10 +89,27 @@ def run_collection(
             for sid in res.touched:
                 rec = by_id[sid]
                 apply_record(db.get(Scholarship, sid) or Scholarship(id=sid), rec, db)
+            db.flush()
+
+            # Same pass for conferences / summits / youth forums.
+            events = [c.to_dict() for c in db.scalars(select(Conference))]
+            eres = collect_events(
+                events,
+                fetcher=fetcher,
+                router=get_router(),
+                today=today,
+                feeds=event_feeds,
+                max_new=settings.collector_max_new,
+                log=log.info,
+            )
+            ev_by_id = {r["id"]: r for r in eres.records}
+            for cid in eres.touched:
+                apply_conference(db.get(Conference, cid) or Conference(id=cid), ev_by_id[cid], db)
+
             run.status = "ok"
-            run.stats = res.summary()
-            run.changes = res.changes[:300]
-            run.errors = res.errors[:50]
+            run.stats = {**res.summary(), "conferences": eres.summary()}
+            run.changes = (res.changes + [{**c, "type": "conference"} for c in eres.changes])[:300]
+            run.errors = (res.errors + eres.errors)[:50]
         except Exception as e:  # noqa: BLE001 — record the failure, keep the API alive
             log.exception("collector run failed")
             db.rollback()

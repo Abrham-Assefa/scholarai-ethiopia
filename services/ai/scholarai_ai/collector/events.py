@@ -205,7 +205,7 @@ def build_event(item: FeedItem, raw_html: str | None, today: date) -> dict[str, 
         "status": "open",
         "details": {
             "overview": ov,
-            "whoCanApply": [w for w in who if w.strip() and w.strip()[0].isalnum()][:7],
+            "whoCanApply": [w for w in who if w.strip() and w.strip()[0].isalnum() and not w.strip().endswith(":")][:7],
             "benefits": benefits[:7],
             "howToApply": (secs.get("howToApply") or [
                 f"Read the full call on the official page ({host(official)})",

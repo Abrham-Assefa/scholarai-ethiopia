@@ -49,6 +49,34 @@ def apply_record(row: Scholarship, s: dict, db: Session | None = None) -> Schola
     return row
 
 
+def apply_conference(row: Conference, c: dict, db: Session | None = None) -> Conference:
+    """Copy a seed/collector conference record (camelCase JSON) onto an ORM row."""
+    row.title = c["title"][:200]
+    row.location = (c.get("location") or None) and c["location"][:200]
+    row.when = (c.get("when") or None) and c["when"][:120]
+    row.start_date = _d(c.get("startDate"))
+    row.funding = (c.get("funding") or None) and c["funding"][:200]
+    row.funding_type = c.get("fundingType", "partial")
+    row.audience = (c.get("audience") or None) and c["audience"][:200]
+    row.age = c.get("age", {})
+    row.url = (c.get("url") or None) and c["url"][:400]
+    row.ethiopians_eligible = c.get("ethiopiansEligible", True)
+    row.description = c.get("description")
+    row.deadline = _d(c.get("deadline"))
+    row.status = c.get("status", "open")
+    row.date_confirmed = bool(c.get("dateConfirmed", True))
+    row.details = c.get("details", {})
+    row.sources = c.get("sources", [])
+    row.last_verified = c.get("lastVerified")
+    row.origin = c.get("origin", "curated")
+    row.last_checked = c.get("lastChecked") or row.last_checked
+    row.check_status = c.get("checkStatus") or row.check_status
+    row.discovered_at = c.get("discoveredAt") or row.discovered_at
+    if db is not None and row not in db:
+        db.add(row)
+    return row
+
+
 def seed(db: Session, seed_dir: Path | None = None) -> dict[str, int]:
     seed_dir = seed_dir or settings.seed_dir
     schol = json.loads((seed_dir / "scholarships.json").read_text(encoding="utf-8"))
@@ -64,31 +92,24 @@ def seed(db: Session, seed_dir: Path | None = None) -> dict[str, int]:
     # programmes found by the web collector are managed by the collector itself.
     keep = {s["id"] for s in schol}
     stale = [
-        r.id
-        for r in db.scalars(select(Scholarship))
-        if r.id not in keep and (r.origin or "curated") != "discovered"
+        r.id for r in db.scalars(select(Scholarship)) if r.id not in keep and (r.origin or "curated") != "discovered"
     ]
     if stale:
         db.execute(delete(Match).where(Match.scholarship_id.in_(stale)))
         db.execute(update(Reminder).where(Reminder.scholarship_id.in_(stale)).values(scholarship_id=None))
         db.execute(delete(Scholarship).where(Scholarship.id.in_(stale)))
     for c in conf:
-        db.merge(
-            Conference(
-                id=c["id"],
-                title=c["title"],
-                location=c.get("location"),
-                when=c.get("when"),
-                start_date=_d(c.get("startDate")),
-                funding=c.get("funding"),
-                funding_type=c.get("fundingType", "partial"),
-                audience=c.get("audience"),
-                age=c.get("age", {}),
-                url=c.get("url"),
-                ethiopians_eligible=c.get("ethiopiansEligible", True),
-                description=c.get("description"),
-            )
-        )
+        row = db.get(Conference, c["id"])
+        fresh = max(row.last_verified or "", row.last_checked or "") if row is not None else ""
+        if row is not None and fresh > max(c.get("lastVerified") or "", c.get("lastChecked") or ""):
+            continue
+        apply_conference(row or Conference(id=c["id"]), c, db)
+    keep_c = {c["id"] for c in conf}
+    stale_c = [
+        r.id for r in db.scalars(select(Conference)) if r.id not in keep_c and (r.origin or "curated") != "discovered"
+    ]
+    if stale_c:
+        db.execute(delete(Conference).where(Conference.id.in_(stale_c)))
     db.commit()
     return {"scholarships": len(schol), "conferences": len(conf)}
 
