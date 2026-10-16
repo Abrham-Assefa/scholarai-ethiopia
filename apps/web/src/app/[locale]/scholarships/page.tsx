@@ -2,8 +2,9 @@
 
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { useTranslations } from "next-intl";
-import { Search } from "lucide-react";
+import { Bookmark, Search } from "lucide-react";
 import { api } from "@/lib/api";
+import { useFavorites } from "@/lib/favorites";
 import type { Scholarship } from "@/lib/types";
 import { Input, Select } from "@/components/ui/input";
 import { Skeleton } from "@/components/ui/skeleton";
@@ -21,9 +22,12 @@ export default function ScholarshipsPage() {
   const [field, setField] = useState("");
   const [funding, setFunding] = useState("");
   const [onlyNew, setOnlyNew] = useState(false);
+  const [onlyFavorites, setOnlyFavorites] = useState(false);
   const [all, setAll] = useState<Scholarship[] | null>(null);
   const [items, setItems] = useState<Scholarship[] | null>(null);
   const [error, setError] = useState<string | null>(null);
+
+  const { favorites, scholarshipCount } = useFavorites();
 
   const loadAll = useCallback(() => { api.scholarships({ limit: "200" }).then((r) => setAll(r.items)).catch(() => undefined); }, []);
   useEffect(loadAll, [loadAll]);
@@ -38,6 +42,12 @@ export default function ScholarshipsPage() {
 
   const countries = useMemo(() => Array.from(new Set((all ?? []).map((s) => s.country))).sort(), [all]);
   const fields = useMemo(() => Array.from(new Set((all ?? []).flatMap((s) => s.fields))).sort(), [all]);
+
+  const displayedItems = useMemo(() => {
+    if (!items) return null;
+    if (!onlyFavorites) return items;
+    return items.filter((s) => favorites.scholarships.includes(s.id));
+  }, [items, onlyFavorites, favorites.scholarships]);
 
   return (
     <div>
@@ -71,20 +81,49 @@ export default function ScholarshipsPage() {
 
       {error && <div className="mt-6"><ApiError message={error} onRetry={() => { load(); if (!all) loadAll(); }} /></div>}
       <div className="mt-6 flex flex-wrap items-center justify-between gap-2">
-        {!error && items ? <p className="text-sm text-muted-foreground">{t("results", { count: items.length })}</p> : <span />}
-        <button
-          onClick={() => setOnlyNew((v) => !v)}
-          aria-pressed={onlyNew}
-          className={`rounded-full border px-3 py-1 text-xs font-medium transition ${onlyNew ? "border-primary bg-primary text-primary-foreground" : "hover:border-primary hover:text-primary"}`}
-        >
-          ✨ {t("onlyNew")}
-        </button>
+        {!error && displayedItems ? <p className="text-sm text-muted-foreground">{t("results", { count: displayedItems.length })}</p> : <span />}
+        <div className="flex flex-wrap items-center gap-2">
+          <button
+            onClick={() => {
+              setOnlyFavorites((v) => !v);
+              if (!onlyFavorites) setOnlyNew(false);
+            }}
+            aria-pressed={onlyFavorites}
+            className={`inline-flex items-center gap-1.5 rounded-full border px-3 py-1 text-xs font-semibold transition ${
+              onlyFavorites
+                ? "border-amber-500 bg-amber-500 text-black shadow-xs"
+                : "border-border hover:border-amber-500/70 hover:text-amber-600"
+            }`}
+          >
+            <Bookmark className={`h-3 w-3 ${onlyFavorites ? "fill-black text-black" : "text-amber-500"}`} />
+            <span>Saved Favorites</span>
+            {scholarshipCount > 0 && (
+              <span className={`rounded-full px-1.5 py-0.2 text-[10px] font-bold ${onlyFavorites ? "bg-black/20 text-black" : "bg-muted text-muted-foreground"}`}>
+                {scholarshipCount}
+              </span>
+            )}
+          </button>
+          <button
+            onClick={() => {
+              setOnlyNew((v) => !v);
+              if (!onlyNew) setOnlyFavorites(false);
+            }}
+            aria-pressed={onlyNew}
+            className={`rounded-full border px-3 py-1 text-xs font-medium transition ${onlyNew ? "border-primary bg-primary text-primary-foreground" : "hover:border-primary hover:text-primary"}`}
+          >
+            ✨ {t("onlyNew")}
+          </button>
+        </div>
       </div>
       <div className="mt-3 grid gap-4 sm:grid-cols-2 lg:grid-cols-3" data-testid="scholarship-grid">
-        {!items && !error && Array.from({ length: 6 }).map((_, i) => <Skeleton key={i} className="h-40" />)}
-        {items?.map((s) => <ScholarshipCard key={s.id} s={s} />)}
+        {!displayedItems && !error && Array.from({ length: 6 }).map((_, i) => <Skeleton key={i} className="h-40" />)}
+        {displayedItems?.map((s) => <ScholarshipCard key={s.id} s={s} />)}
       </div>
-      {items?.length === 0 && <p className="mt-8 text-center text-muted-foreground">{t("empty")}</p>}
+      {displayedItems?.length === 0 && (
+        <p className="mt-8 text-center text-muted-foreground">
+          {onlyFavorites ? "No favorited scholarships yet. Click the bookmark icon on any scholarship to save it here!" : t("empty")}
+        </p>
+      )}
     </div>
   );
 }

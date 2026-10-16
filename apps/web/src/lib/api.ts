@@ -87,4 +87,8 @@ export const api = {
   chat: (message: string, lang: string, history: { role: string; content: string }[]) =>
     request<ChatReply>("/v1/chat", { method: "POST", body: JSON.stringify({ message, lang, history }) }),
   gpa: (gpa: number, scale = 4) => request<{ german: number; german_label: string; uk: string; us_letter: string; percentage: number }>("/v1/tools/gpa", { method: "POST", body: JSON.stringify({ gpa, scale }) }),
+  getFavorites: () => request<{ items: { id: string; itemId: string; itemType: string; createdAt: string }[] }>("/v1/favorites"),
+  addFavorite: (itemId: string, itemType: "scholarship" | "conference") =>
+    request<{ id: string; itemId: string; itemType: string }>("/v1/favorites", { method: "POST", body: JSON.stringify({ itemId, itemType }) }),
+  removeFavorite: (itemId: string) => request<{ ok: boolean; itemId: string }>(`/v1/favorites/${itemId}`, { method: "DELETE" }),
 };

@@ -3,17 +3,19 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import { motion } from "motion/react";
-import { ArrowRight, CalendarClock, Globe2, MapPin, Plane, Search, Sparkles, Ticket, Timer, Users } from "lucide-react";
+import { ArrowRight, Bookmark, CalendarClock, Globe2, MapPin, Plane, Search, Sparkles, Ticket, Timer, Users } from "lucide-react";
 import { Link } from "@/i18n/routing";
 import { api } from "@/lib/api";
+import { useFavorites } from "@/lib/favorites";
 import type { Conference } from "@/lib/types";
 import { Badge } from "@/components/ui/badge";
+import { FavoriteButton } from "@/components/favorite-button";
 import { Skeleton } from "@/components/ui/skeleton";
 import { ApiError } from "@/components/api-error";
 import { LiveRefresh } from "@/components/live-refresh";
 import { countdown, isNewEvent, isOnline, keyDate, urgencyTone as tone } from "@/lib/conferences";
 
-type Filter = "all" | "full" | "partial" | "soon" | "online" | "new";
+type Filter = "all" | "full" | "partial" | "soon" | "online" | "new" | "favorites";
 
 function Stat({ icon, value, label, delay }: { icon: React.ReactNode; value: number; label: string; delay: number }) {
   return (
@@ -33,6 +35,8 @@ export default function ConferencesPage() {
   const [q, setQ] = useState("");
   const [filter, setFilter] = useState<Filter>("all");
 
+  const { favorites, conferenceCount } = useFavorites();
+
   const load = useCallback(() => {
     setError(null);
     api.conferences().then((r) => setItems(r.items)).catch((e) => setError(String(e.message)));
@@ -46,6 +50,7 @@ export default function ConferencesPage() {
     const needle = q.trim().toLowerCase();
     return (items ?? []).filter((c) => {
       if (needle && !`${c.title} ${c.location} ${c.description} ${c.audience}`.toLowerCase().includes(needle)) return false;
+      if (filter === "favorites") return favorites.conferences.includes(c.id);
       if (filter === "full") return c.fundingType === "full";
       if (filter === "partial") return c.fundingType !== "full";
       if (filter === "soon") return typeof c.daysLeft === "number" && c.daysLeft >= 0 && c.daysLeft <= 30;
@@ -53,7 +58,7 @@ export default function ConferencesPage() {
       if (filter === "new") return c.origin === "discovered";
       return true;
     });
-  }, [items, q, filter]);
+  }, [items, q, filter, favorites.conferences]);
 
   const groups = useMemo(() => {
     const out: { key: string; label: string; items: Conference[] }[] = [];
@@ -78,8 +83,13 @@ export default function ConferencesPage() {
     found: all.filter((c) => c.origin === "discovered").length,
   };
   const filters: { id: Filter; label: string }[] = [
-    { id: "all", label: t("all") }, { id: "full", label: t("full") }, { id: "partial", label: t("partial") },
-    { id: "soon", label: t("closingSoon") }, { id: "online", label: t("online") }, { id: "new", label: `✨ ${t("onlyNew")}` },
+    { id: "all", label: t("all") },
+    { id: "favorites", label: `★ Saved (${conferenceCount})` },
+    { id: "full", label: t("full") },
+    { id: "partial", label: t("partial") },
+    { id: "soon", label: t("closingSoon") },
+    { id: "online", label: t("online") },
+    { id: "new", label: `✨ ${t("onlyNew")}` },
   ];
 
   return (
@@ -180,12 +190,15 @@ function EventRow({ c, i, fmtShort }: { c: Conference; i: number; fmtShort: Intl
             </span>
           )}
         </div>
-        <div className="hidden shrink-0 flex-col items-end justify-between sm:flex">
-          {cd && (
-            <span className={`rounded-full px-2.5 py-1 text-xs font-semibold ring-1 ${tone(cd.n)}`} data-testid="countdown">
-              {cd.kind === "apply" ? (cd.n === 0 ? t("applyToday") : t("applyIn", { n: cd.n })) : t("startsIn", { n: cd.n })}
-            </span>
-          )}
+        <div className="flex shrink-0 flex-col items-end justify-between gap-2 sm:flex">
+          <div className="flex items-center gap-2">
+            {cd && (
+              <span className={`rounded-full px-2.5 py-1 text-xs font-semibold ring-1 ${tone(cd.n)}`} data-testid="countdown">
+                {cd.kind === "apply" ? (cd.n === 0 ? t("applyToday") : t("applyIn", { n: cd.n })) : t("startsIn", { n: cd.n })}
+              </span>
+            )}
+            <FavoriteButton id={c.id} type="conference" />
+          </div>
           <span className="inline-flex items-center gap-1 text-xs font-medium text-primary opacity-70 transition group-hover:translate-x-0.5 group-hover:opacity-100">
             {t("details")} <ArrowRight size={13} />
           </span>

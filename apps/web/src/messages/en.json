@@ -3,6 +3,14 @@
     "home": "Home",
     "scholarships": "Scholarships",
     "conferences": "Conferences",
+    "guides": "Guides",
+    "guideMenuEyebrow": "Student guides",
+    "guideMenuDescription": "Helpful steps for your study journey",
+    "guideMenuFooter": "Check official sources for current requirements",
+    "passport": "Passport guide",
+    "passportDescription": "Application steps and official passport service",
+    "embassies": "Embassy scholarships",
+    "embassiesDescription": "Scholarship programs and application documents",
     "cv": "CV Maker",
     "assistant": "Assistant",
     "dashboard": "Dashboard",
@@ -233,57 +241,84 @@
   },
   "cv": {
     "title": "CV Maker",
+    "subtitle": "World-class scholarship CVs with ATS intelligence, Ethiopian GPA conversion, and STAR-bullet AI.",
     "template": "Template",
     "europass": "Europass",
-    "modern": "Modern",
+    "modern": "Modern Emerald",
+    "academic": "Academic Scholar",
+    "minimal": "Minimal Tech",
+    "europassHint": "EU & Erasmus standard",
+    "modernHint": "Top modern international format",
+    "academicHint": "DAAD, Fulbright & research",
+    "minimalHint": "STEM, tech & maximum ATS scan",
     "lang": "Language",
     "sections": {
       "personal": "Personal",
       "summary": "Summary",
       "education": "Education",
       "experience": "Experience",
-      "skills": "Skills",
-      "extras": "Awards & more"
+      "projects": "Projects & Research",
+      "skills": "Skills & Languages",
+      "extras": "Honors & Extras"
     },
     "fullName": "Full name",
     "email": "Email",
     "phone": "Phone",
     "city": "City",
-    "summaryPh": "2–3 sentences: who you are, what you aim for, and your strongest evidence.",
-    "institution": "Institution",
-    "degree": "Degree",
-    "field": "Field",
+    "links": "Links (LinkedIn, GitHub, Portfolio)",
+    "summaryPh": "2–3 sentences: who you are, what scholarship/academic milestone you aim for, and your strongest evidence.",
+    "institution": "Institution / University",
+    "degree": "Degree (e.g. BSc, BA)",
+    "field": "Field of Study (e.g. Software Engineering)",
     "gpa": "GPA",
-    "start": "Start",
-    "end": "End",
-    "org": "Organisation",
-    "role": "Role",
-    "bullets": "Achievements (one per line)",
-    "bulletsPh": "I was a tutor for grade 10 students\nhelped build a dashboard for 40 users",
+    "scale": "Scale",
+    "start": "Start Year",
+    "end": "End / Expected Year",
+    "honors": "Honors / Distinctions (e.g. Very Great Distinction)",
+    "org": "Organisation / University / Company",
+    "role": "Role / Position",
+    "bullets": "Achievements (one per line — use action verbs & numbers)",
+    "bulletsPh": "Led a team of 4 to deploy a health survey system reaching 1,200 rural households\nTutored 35 high school students in Mathematics, improving pass rates by 24%",
+    "projectName": "Project / Paper title",
+    "projectDesc": "Summary & impact",
+    "projectTech": "Technologies / Methodologies (comma separated)",
+    "projectLink": "Link (URL)",
     "technical": "Technical skills (comma separated)",
-    "soft": "Soft skills",
-    "tools": "Tools",
-    "languages": "Languages (e.g. English — IELTS 6.5)",
-    "awards": "Awards (one per line)",
-    "volunteering": "Volunteering (one per line)",
+    "soft": "Soft skills (comma separated)",
+    "tools": "Tools & Software (comma separated)",
+    "languages": "Languages (e.g. English — Fluent, Amharic — Native)",
+    "awards": "Awards & Scholarships (one per line)",
+    "volunteering": "Volunteering & Leadership (one per line)",
     "certifications": "Certifications (one per line)",
-    "add": "Add",
+    "publications": "Publications & Conference Papers (one per line)",
+    "add": "Add another",
     "remove": "Remove",
     "save": "Save",
-    "saved": "Saved",
-    "enhance": "✨ Enhance bullets",
+    "saved": "Saved to cloud",
+    "saving": "Saving…",
+    "enhance": "✨ AI STAR Enhance",
     "enhancing": "Enhancing…",
-    "download": "Download PDF",
-    "ats": "ATS score",
-    "suggestions": "Suggestions",
-    "preview": "Live preview",
-    "questions": "Questions to strengthen your CV",
+    "download": "Export PDF",
+    "print": "Print / A4 View",
+    "ats": "ATS Score",
+    "atsExcellent": "Scholarship Ready (ATS 90+)",
+    "atsGood": "Competitive (ATS 75-89)",
+    "atsNeedsWork": "Needs Improvement",
+    "suggestions": "Suggestions to Maximize Chances",
+    "preview": "Live A4 Preview",
+    "pageCount": "A4 Page · High ATS Readability",
+    "questions": "Strengthen your application",
     "flagged": "{n} invented number(s) rejected by the honesty guard",
-    "gpaConv": "GPA conversion",
-    "german": "Germany",
-    "uk": "UK",
-    "us": "US",
-    "noPreview": "Fill in your name to see the preview."
+    "gpaConv": "Ethiopian GPA Conversion",
+    "german": "Germany (Bavarian)",
+    "uk": "UK Honours",
+    "us": "US Grade",
+    "noPreview": "Fill in your full name to generate your live scholarship CV.",
+    "loadAauSample": "Load AAU CS Sample",
+    "loadMedSample": "Load Health/Med Sample",
+    "clearForm": "Reset Form",
+    "palette": "Accent color",
+    "zoom": "Zoom"
   },
   "assistant": {
     "title": "ScholarAI Assistant",
@@ -300,6 +335,115 @@
     "sources": "Sources",
     "tool": "Tool call",
     "disclaimer": "ScholarAI never guarantees admission or visas. Always verify on the official site."
+  },
+  "passport": {
+    "eyebrow": "Ethiopian travel document guide",
+    "title": "How to apply for an Ethiopian passport",
+    "subtitle": "A practical starting point for Ethiopian citizens. Passport requirements, fees, appointment availability, and processing times can change, so confirm the current instructions with the Ethiopian Immigration and Citizenship Service (ICS) before applying.",
+    "officialLink": "Visit the official ICS website",
+    "stepsTitle": "Application steps",
+    "steps": [
+      {
+        "title": "Choose the right service",
+        "description": "On the official ICS service, select the option that matches your situation: first passport, renewal, replacement, or an application for a minor."
+      },
+      {
+        "title": "Check the current document checklist",
+        "description": "Review the requirements shown for your service before you begin. The documents can differ by application type and personal circumstances. Use official civil and identity records, and make sure your details match."
+      },
+      {
+        "title": "Complete the application",
+        "description": "Follow the official passport application link from ICS, create or sign in to your account, and enter your personal information exactly as it appears on your supporting documents."
+      },
+      {
+        "title": "Submit documents and pay the official fee",
+        "description": "Upload or provide the requested documents and pay only through a payment method authorized by the official service. Keep your confirmation and receipt."
+      },
+      {
+        "title": "Attend any required appointment",
+        "description": "Follow the instructions for booking and attending an appointment. Bring the required originals; the service will tell you whether a photo, fingerprints, or other biometric capture is needed."
+      },
+      {
+        "title": "Track your application and collect your passport",
+        "description": "Use the official tracking instructions and follow the collection or delivery instructions given for your application."
+      }
+    ],
+    "importantTitle": "Before you apply",
+    "important": "This guide is informational, not an official application or legal advice. Exact requirements, fees, appointment steps, and processing times may change. Use the ICS website to reach its current passport service, and avoid unofficial payment or application links.",
+    "source": "Official source: Ethiopian Immigration and Citizenship Service (ICS)"
+  },
+  "embassyScholarships": {
+    "eyebrow": "Scholarship opportunities through embassies",
+    "title": "Embassy scholarships for Ethiopian students",
+    "intro": "Some governments announce scholarships through their embassies in Ethiopia. These examples are useful places to check, but the programs, eligible study levels, application route, and deadlines can change each year.",
+    "programsTitle": "Programs and official links",
+    "programLink": "Scholarship information",
+    "embassyLink": "Embassy website",
+    "availabilityNote": "A program listed here is not necessarily accepting applications right now. Check the embassy announcement and scholarship portal for the latest call, eligibility rules, deadline, and submission method. Apply only through official channels.",
+    "programs": [
+      {
+        "country": "Japan",
+        "embassy": "Embassy of Japan in Ethiopia",
+        "program": "MEXT Japanese Government Scholarships",
+        "description": "MEXT scholarships may be announced through the embassy recommendation route. Categories and eligibility differ by annual call; follow the embassy notice for the application procedure.",
+        "programUrl": "https://www.studyinjapan.go.jp/en/planning/scholarships/",
+        "embassyUrl": "https://www.et.emb-japan.go.jp/"
+      },
+      {
+        "country": "India",
+        "embassy": "Embassy of India in Ethiopia",
+        "program": "ICCR scholarships",
+        "description": "The Indian Council for Cultural Relations (ICCR) runs scholarship programs for international students. Check the portal for the current offer, country eligibility, courses, and application instructions.",
+        "programUrl": "https://a2ascholarships.iccr.gov.in/",
+        "embassyUrl": "https://www.indembassyaddisababa.gov.in/"
+      },
+      {
+        "country": "Republic of Korea",
+        "embassy": "Embassy of the Republic of Korea in Ethiopia",
+        "program": "Global Korea Scholarship (GKS)",
+        "description": "GKS has different application tracks, including an embassy track for some programs. Check the annual notice for Ethiopian eligibility, available degree levels, quotas, and how to submit.",
+        "programUrl": "https://www.studyinkorea.go.kr/en/main.do",
+        "embassyUrl": "https://ethiopia.mofa.go.kr/eng/index.do"
+      }
+    ],
+    "documentsTitle": "Scholarship document checklist",
+    "documentsIntro": "Prepare these common documents as a starting point. Each scholarship has its own checklist, formats, translations, and submission rules; the official call always takes priority.",
+    "documents": [
+      {
+        "title": "Passport and identity records",
+        "description": "A valid passport if available, plus the national ID or other identity documents specifically requested by the scholarship."
+      },
+      {
+        "title": "Academic certificates and transcripts",
+        "description": "Certificates and complete transcripts for the levels already completed. Arrange certified translations or authentication only when the call requires them."
+      },
+      {
+        "title": "Application form and photograph",
+        "description": "The correct form, completed and signed as instructed, and a recent passport-style photo if requested."
+      },
+      {
+        "title": "CV or résumé",
+        "description": "An up-to-date education and experience history in the format requested by the program."
+      },
+      {
+        "title": "Motivation letter or study plan",
+        "description": "A focused statement explaining your study goals and fit. Research-degree applicants may also need a proposal."
+      },
+      {
+        "title": "Recommendation letters",
+        "description": "Letters from the required academic or professional referees, submitted in the way specified in the call."
+      },
+      {
+        "title": "Language test results",
+        "description": "IELTS, TOEFL, or other proof only when required or accepted as an alternative by that program."
+      },
+      {
+        "title": "Additional program-specific evidence",
+        "description": "For example, medical forms, portfolio, proof of work experience, admission letter, or financial documents when the official call asks for them."
+      }
+    ],
+    "appointmentTitle": "If you are asked to attend in person",
+    "appointmentNote": "Take the appointment confirmation and the originals plus copies of the documents requested in the official notice. Do not hand over original documents unless the embassy or program explicitly instructs you to do so. Requirements vary by program and application stage."
   },
   "common": {
     "loading": "Loading…",

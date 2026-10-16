@@ -59,14 +59,14 @@ class ProfileOut(ProfileIn):
 class CVCreate(BaseModel):
     mode: Literal["form"] = "form"
     data: dict[str, Any]
-    template: Literal["europass", "modern"] = "europass"
+    template: Literal["europass", "modern", "academic", "minimal"] = "europass"
     lang: Literal["en", "am"] = "en"
     targetScholarshipId: str | None = None
 
 
 class CVUpdate(BaseModel):
     data: dict[str, Any] | None = None
-    template: Literal["europass", "modern"] | None = None
+    template: Literal["europass", "modern", "academic", "minimal"] | None = None
     lang: Literal["en", "am"] | None = None
 
 
@@ -76,7 +76,7 @@ class CVEnhance(BaseModel):
 
 class CVExport(BaseModel):
     format: Literal["pdf"] = "pdf"
-    template: Literal["europass", "modern"] | None = None
+    template: Literal["europass", "modern", "academic", "minimal"] | None = None
 
 
 class ChatIn(BaseModel):
@@ -97,6 +97,18 @@ class ReminderIn(BaseModel):
     remindAt: str
     channel: Literal["push", "telegram", "sms", "email"] = "push"
     note: str | None = None
+
+
+class FavoriteIn(BaseModel):
+    itemId: str
+    itemType: Literal["scholarship", "conference"] = "scholarship"
+
+
+class FavoriteOut(BaseModel):
+    id: str
+    itemId: str
+    itemType: str
+    createdAt: str
 
 
 class GPAIn(BaseModel):

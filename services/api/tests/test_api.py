@@ -90,7 +90,7 @@ def test_cv_flow(client, auth):
     bullets = r.json()["data"]["experience"][0]["bullets"]
     assert not bullets[0].lower().startswith("i was") and "12" in bullets[0]
     assert r.json()["enhancement"]["scoreAfter"] >= r.json()["enhancement"]["scoreBefore"]
-    for t in ("europass", "modern"):
+    for t in ("europass", "modern", "academic", "minimal"):
         r = client.post(f"/v1/cv/{cid}/export", json={"format": "pdf", "template": t}, headers=auth)
         assert r.status_code == 200 and r.headers["content-type"] == "application/pdf"
         assert r.content.startswith(b"%PDF")
@@ -123,3 +123,19 @@ def test_root_and_favicon(client):
     r = client.get("/")
     assert r.status_code == 200 and r.json()["docs"] == "/docs"
     assert client.get("/favicon.ico").status_code == 204
+
+
+def test_favorites(client, auth):
+    r = client.post("/v1/favorites", json={"itemId": "daad-helmholtz", "itemType": "scholarship"}, headers=auth)
+    assert r.status_code in (200, 201)
+    assert r.json()["itemId"] == "daad-helmholtz"
+
+    r = client.get("/v1/favorites", headers=auth)
+    assert r.status_code == 200
+    assert any(x["itemId"] == "daad-helmholtz" for x in r.json()["items"])
+
+    r = client.delete("/v1/favorites/daad-helmholtz", headers=auth)
+    assert r.status_code == 200
+
+    r = client.get("/v1/favorites", headers=auth)
+    assert not any(x["itemId"] == "daad-helmholtz" for x in r.json()["items"])

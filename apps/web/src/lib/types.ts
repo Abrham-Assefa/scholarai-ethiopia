@@ -146,12 +146,12 @@ export interface CVData {
   certifications: string[];
   volunteering: string[];
   publications: string[];
-  meta: { targetScholarshipId: string | null; template: "europass" | "modern"; lang: "en" | "am" };
+  meta: { targetScholarshipId: string | null; template: "europass" | "modern" | "academic" | "minimal"; lang: "en" | "am" };
 }
 
 export interface CVRecord {
   id: string;
-  template: "europass" | "modern";
+  template: "europass" | "modern" | "academic" | "minimal";
   lang: "en" | "am";
   targetScholarshipId: string | null;
   data: CVData;

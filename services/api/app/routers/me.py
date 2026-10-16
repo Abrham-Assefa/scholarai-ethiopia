@@ -8,8 +8,8 @@ from sqlalchemy.orm import Session
 
 from ..auth import get_current_user
 from ..db import get_db
-from ..models import Match, Profile, Reminder, Scholarship, User
-from ..schemas import ProfileIn, ProfileOut, ReminderIn
+from ..models import Favorite, Match, Profile, Reminder, Scholarship, User
+from ..schemas import FavoriteIn, ProfileIn, ProfileOut, ReminderIn
 
 router = APIRouter(prefix="/v1", tags=["me"])
 
@@ -203,3 +203,36 @@ def create_reminder(body: ReminderIn, user: User = Depends(get_current_user), db
     db.add(r)
     db.commit()
     return {"id": r.id}
+
+
+@router.get("/favorites")
+def list_favorites(user: User = Depends(get_current_user), db: Session = Depends(get_db)):
+    rows = db.scalars(
+        select(Favorite).where(Favorite.user_id == user.id).order_by(Favorite.created_at.desc())
+    ).all()
+    return {"items": [r.to_dict() for r in rows]}
+
+
+@router.post("/favorites", status_code=201)
+def add_favorite(body: FavoriteIn, user: User = Depends(get_current_user), db: Session = Depends(get_db)):
+    existing = db.scalars(
+        select(Favorite).where(Favorite.user_id == user.id, Favorite.item_id == body.itemId)
+    ).first()
+    if existing:
+        return existing.to_dict()
+    fav = Favorite(user_id=user.id, item_id=body.itemId, item_type=body.itemType)
+    db.add(fav)
+    db.commit()
+    db.refresh(fav)
+    return fav.to_dict()
+
+
+@router.delete("/favorites/{item_id}")
+def remove_favorite(item_id: str, user: User = Depends(get_current_user), db: Session = Depends(get_db)):
+    fav = db.scalars(
+        select(Favorite).where(Favorite.user_id == user.id, Favorite.item_id == item_id)
+    ).first()
+    if fav:
+        db.delete(fav)
+        db.commit()
+    return {"ok": True, "itemId": item_id}

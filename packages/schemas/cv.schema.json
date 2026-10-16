@@ -81,7 +81,7 @@
       "type": "object",
       "properties": {
         "targetScholarshipId": { "type": ["string", "null"] },
-        "template": { "type": "string", "enum": ["europass", "modern"], "default": "europass" },
+        "template": { "type": "string", "enum": ["europass", "modern", "academic", "minimal"], "default": "europass" },
         "lang": { "type": "string", "enum": ["en", "am"], "default": "en" }
       }
     }

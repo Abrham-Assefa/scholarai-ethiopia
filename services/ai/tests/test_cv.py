@@ -77,7 +77,7 @@ def test_empty_cv_scores_low():
 
 def test_render_pdf_both_templates():
     cv = parse_form(RAW)
-    for t in ("europass", "modern"):
+    for t in ("europass", "modern", "academic", "minimal"):
         pdf = render_pdf(cv, template=t)
         assert pdf.startswith(b"%PDF")
         assert len(pdf) > 1500

@@ -14,6 +14,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Skeleton } from "@/components/ui/skeleton";
 import { ApiError } from "@/components/api-error";
+import { FavoriteButton } from "@/components/favorite-button";
 import { daysLabel } from "@/lib/utils";
 
 function Section({ icon, title, children, className = "" }: { icon: ReactNode; title: string; children: ReactNode; className?: string }) {
@@ -90,6 +91,7 @@ export default function ScholarshipDetail({ params }: { params: Promise<{ id: st
             <div className="mt-5 flex flex-wrap gap-3">
               <Button asChild><a href={s.url} target="_blank" rel="noreferrer">{t("apply")} <ExternalLink size={14} /></a></Button>
               <Button variant="gold" asChild><Link href={`/cv?target=${s.id}`}><FileText size={14} /> {t("buildCV")}</Link></Button>
+              <FavoriteButton id={s.id} type="scholarship" variant="button" />
             </div>
           </div>
 

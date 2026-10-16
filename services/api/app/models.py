@@ -230,3 +230,20 @@ class Reminder(Base):
     remind_at: Mapped[datetime] = mapped_column(DateTime(timezone=True))
     sent: Mapped[bool] = mapped_column(Boolean, default=False)
     note: Mapped[str | None] = mapped_column(String(200))
+
+
+class Favorite(Base):
+    __tablename__ = "favorites"
+    id: Mapped[str] = mapped_column(String(32), primary_key=True, default=_uuid)
+    user_id: Mapped[str] = mapped_column(ForeignKey("users.id"), index=True)
+    item_id: Mapped[str] = mapped_column(String(80), index=True)
+    item_type: Mapped[str] = mapped_column(String(16))  # scholarship | conference
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=_now)
+
+    def to_dict(self) -> dict:
+        return {
+            "id": self.id,
+            "itemId": self.item_id,
+            "itemType": self.item_type,
+            "createdAt": (self.created_at if self.created_at.tzinfo else self.created_at.replace(tzinfo=UTC)).isoformat(),
+        }

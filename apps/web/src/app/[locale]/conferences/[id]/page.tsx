@@ -15,6 +15,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Skeleton } from "@/components/ui/skeleton";
 import { ApiError } from "@/components/api-error";
+import { FavoriteButton } from "@/components/favorite-button";
 
 function Section({ icon, title, children }: { icon: ReactNode; title: string; children: ReactNode }) {
   return (

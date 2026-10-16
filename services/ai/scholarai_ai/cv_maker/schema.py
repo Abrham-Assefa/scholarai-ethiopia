@@ -54,7 +54,7 @@ class Language(BaseModel):
 
 class Meta(BaseModel):
     targetScholarshipId: str | None = None
-    template: Literal["europass", "modern"] = "europass"
+    template: Literal["europass", "modern", "academic", "minimal"] = "europass"
     lang: Literal["en", "am"] = "en"
 
 
