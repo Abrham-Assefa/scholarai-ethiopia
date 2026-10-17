@@ -120,6 +120,19 @@ flowchart LR
 
 Full design: [`docs/SYSTEM_DESIGN.md`](docs/SYSTEM_DESIGN.md).
 
+## Deploy on Render
+
+The repository includes [`render.yaml`](render.yaml) to create the FastAPI service using the existing Render PostgreSQL database named `scholarai-db`. The database must be in the same Render workspace and region. The Blueprint creates the API only; configure the existing web service as follows:
+
+1. Commit and push the repository changes to the `master` branch.
+2. In Render, choose **New → Blueprint**, select this repository and the `master` branch, then apply the Blueprint. It creates `scholarai-fastapi` and connects it to `scholarai-db`.
+3. Confirm `https://scholarai-fastapi.onrender.com/health` returns JSON containing `"status":"ok"` and open `/docs` to verify this is the FastAPI service.
+4. In the existing `scholarai-ethiopia` web service's **Environment** settings, set `NEXT_PUBLIC_API_URL` to `https://scholarai-fastapi.onrender.com`. Remove backend-only variables from the web service if present (`DATABASE_URL`, `CORS_ORIGINS`, `JWT_SECRET`, `COLLECTOR_ENABLED`, and `ENV`).
+5. Save the web service environment and manually deploy it with **Clear build cache & deploy** so Next.js rebuilds with the API URL.
+6. Reload `/en/scholarships`; the subtitle should show the loaded scholarship count. `/en/conferences` should show conference listings and counts.
+
+The API service reads Render's `PORT`, converts Render Postgres URLs to the psycopg SQLAlchemy driver, seeds the catalog at startup, and permits browser requests from the deployed web origin. Render's free Postgres has an expiration period and free web services can sleep; use paid/persistent services for data you need to keep.
+
 ## Environment variables
 
 | Variable              | Default                                      | Notes                                                  |
