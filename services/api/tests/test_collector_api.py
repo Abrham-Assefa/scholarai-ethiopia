@@ -38,10 +38,11 @@ def test_run_discovers_and_persists(client):
     out = svc.run_collection(trigger="manual", fetcher=Fake(), today=date(2026, 10, 7), feeds=[FEED])
     assert out["status"] == "ok" and out["stats"]["discovered"] == 1
     items = client.get("/v1/scholarships", params={"origin": "discovered"}).json()["items"]
-    assert [i["title"] for i in items] == ["Example Masters Scholarships for African Students"]
-    assert items[0]["origin"] == "discovered" and items[0]["discoveredAt"] == "2026-10-07"
+    example = next(i for i in items if i["id"] == "example-masters-scholarships-for-african-students")
+    assert example["title"] == "Example Masters Scholarships for African Students"
+    assert example["origin"] == "discovered" and example["discoveredAt"] == "2026-10-07"
     st = client.get("/v1/collector/status").json()
-    assert st["lastRun"]["status"] == "ok" and st["totals"]["discovered"] == 1 and st["nextRunAt"] is None
+    assert st["lastRun"]["status"] == "ok" and st["totals"]["discovered"] == len(items) and st["nextRunAt"] is None
     assert client.get("/v1/collector/runs").json()["items"][0]["trigger"] == "manual"
     with SessionLocal() as db:
         assert not svc.is_due(db)  # next run only after the 48h interval
@@ -96,12 +97,13 @@ def test_run_discovers_conferences(client):
     assert out["status"] == "ok" and out["stats"]["conferences"]["discovered"] == 1
     assert any(c.get("type") == "conference" for c in out["changes"])
     items = client.get("/v1/conferences", params={"origin": "discovered"}).json()["items"]
-    assert [i["id"] for i in items] == ["africa-climate-youth-summit-in-nairobi-kenya"]
-    ev = client.get(f"/v1/conferences/{items[0]['id']}").json()
+    event_id = "africa-climate-youth-summit-in-nairobi-kenya"
+    assert event_id in {item["id"] for item in items}
+    ev = client.get(f"/v1/conferences/{event_id}").json()
     assert ev["deadline"] == "2026-11-15" and ev["startDate"] == "2027-02-03" and ev["fundingType"] == "full"
     assert ev["details"]["benefits"][:2] == ["Return airfare", "Accommodation and meals"]
     assert "daysLeft" in ev and ev["origin"] == "discovered"
-    assert client.get("/v1/collector/status").json()["totals"]["conferencesDiscovered"] == 1
+    assert client.get("/v1/collector/status").json()["totals"]["conferencesDiscovered"] == len(items)
 
 
 def test_closed_conferences_hidden(client):

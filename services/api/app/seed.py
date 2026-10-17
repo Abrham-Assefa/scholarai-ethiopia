@@ -6,12 +6,12 @@ import json
 from datetime import date
 from pathlib import Path
 
-from sqlalchemy import delete, select, update
+from sqlalchemy import delete, or_, select, update
 from sqlalchemy.orm import Session
 
 from .config import settings
 from .db import SessionLocal, init_db
-from .models import Conference, Match, Reminder, Scholarship
+from .models import CollectorRun, Conference, Match, Reminder, Scholarship
 
 
 def _d(s: str | None) -> date | None:
@@ -112,6 +112,35 @@ def seed(db: Session, seed_dir: Path | None = None) -> dict[str, int]:
         db.execute(delete(Conference).where(Conference.id.in_(stale_c)))
     db.commit()
     return {"scholarships": len(schol), "conferences": len(conf)}
+
+
+def clear_curated_catalog(db: Session, *, include_discovered: bool = False) -> None:
+    """Remove static catalog entries and, on first live startup, discoveries copied from seed files."""
+    scholarships = select(Scholarship.id)
+    conferences = delete(Conference)
+    if not include_discovered:
+        curated = or_(Scholarship.origin.is_(None), Scholarship.origin != "discovered")
+        scholarships = scholarships.where(curated)
+        conferences = conferences.where(
+            or_(Conference.origin.is_(None), Conference.origin != "discovered")
+        )
+    curated_ids = list(db.scalars(scholarships))
+    if curated_ids:
+        db.execute(delete(Match).where(Match.scholarship_id.in_(curated_ids)))
+        db.execute(update(Reminder).where(Reminder.scholarship_id.in_(curated_ids)).values(scholarship_id=None))
+        db.execute(delete(Scholarship).where(Scholarship.id.in_(curated_ids)))
+    db.execute(conferences)
+    db.commit()
+
+
+def prepare_live_catalog(db: Session) -> None:
+    """Clear seed data once, then preserve records collected into the database."""
+    has_completed_collection = db.scalar(
+        select(CollectorRun.id)
+        .where(CollectorRun.status == "ok", CollectorRun.trigger.in_(("auto", "manual")))
+        .limit(1)
+    )
+    clear_curated_catalog(db, include_discovered=not bool(has_completed_collection))
 
 
 def main() -> None:

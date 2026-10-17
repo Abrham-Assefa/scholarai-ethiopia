@@ -11,15 +11,17 @@ from .config import settings
 from .db import SessionLocal, init_db
 from .deps import get_router
 from .routers import ai, auth, catalog, collector, cv, me
-from .seed import seed
+from .seed import prepare_live_catalog, seed
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     init_db()
     with SessionLocal() as db:
-        # Idempotent upsert keeps the DB in sync with data/seed/*.json on every boot.
-        seed(db)
+        if settings.seed_catalog_enabled:
+            seed(db)
+        else:
+            prepare_live_catalog(db)
     task = asyncio.create_task(scheduler()) if settings.collector_enabled else None
     yield
     if task:

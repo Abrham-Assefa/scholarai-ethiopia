@@ -19,4 +19,8 @@ services:
       - key: CORS_ORIGINS
         value: https://scholarai-ethiopia.onrender.com
       - key: COLLECTOR_ENABLED
+        value: "true"
+      - key: COLLECTOR_INTERVAL_HOURS
+        value: "24"
+      - key: SEED_CATALOG_ENABLED
         value: "false"

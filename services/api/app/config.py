@@ -35,6 +35,7 @@ class Settings(BaseSettings):
     collector_enabled: bool = True
     collector_interval_hours: float = 48
     collector_max_new: int = 40
+    seed_catalog_enabled: bool = True
     admin_token: str | None = None  # if set, POST /v1/collector/run requires X-Admin-Token
 
     @property
