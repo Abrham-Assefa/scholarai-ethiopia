@@ -1,105 +1,91 @@
 [
   {
-    "id": "one-young-world-summit-leading-africa-scholarship",
-    "title": "One Young World Summit – Leading Africa Scholarship",
-    "location": "Cape Town, South Africa",
-    "when": "3–6 Nov 2026",
-    "startDate": "2026-11-03",
-    "funding": "Full (flights, hotel, fees)",
-    "fundingType": "full",
-    "audience": "18–30",
-    "age": {
-      "min": 18,
-      "max": 30
-    },
-    "url": "https://www.oneyoungworld.com",
-    "ethiopiansEligible": true,
-    "description": "One Young World Summit – Leading Africa Scholarship in Cape Town, South Africa (3–6 Nov 2026). Funding: Full (flights, hotel, fees). For: 18–30."
-  },
-  {
-    "id": "world-forum-for-democracy",
-    "title": "World Forum for Democracy (Council of Europe)",
-    "location": "Strasbourg, France",
-    "when": "31 Oct – 4 Nov 2026",
-    "startDate": "2026-11-04",
-    "funding": "Full for youth delegates",
-    "fundingType": "full",
-    "audience": "18–30",
-    "age": {
-      "min": 18,
-      "max": 30
-    },
-    "url": "https://www.coe.int/en/web/world-forum-democracy",
-    "ethiopiansEligible": true,
-    "description": "World Forum for Democracy (Council of Europe) in Strasbourg, France (31 Oct – 4 Nov 2026). Funding: Full for youth delegates. For: 18–30."
-  },
-  {
-    "id": "sdg-innovation-summit",
-    "title": "SDG Innovation Summit",
-    "location": "Malaysia",
-    "when": "19–22 Nov 2026",
-    "startDate": "2026-11-19",
-    "funding": "Flights, visa, hotel, meals",
+    "id": "atlantic-dialogues-volunteer-program-in-morocco",
+    "title": "Atlantic Dialogues Volunteer Program in Morocco",
+    "location": "Rabat, Morocco",
+    "when": "10–12 Dec 2026",
+    "startDate": "2026-12-10",
+    "deadline": "2026-10-18",
+    "funding": "Partial funding — see official page",
     "fundingType": "partial",
-    "audience": "Students / youth",
+    "audience": "The Atlantic Dialogues Volunteer Program is designed for students and young professionals interested in international…",
     "age": {
       "min": null,
       "max": null
     },
-    "url": "https://www.sdgsummit.org",
-    "ethiopiansEligible": false,
-    "description": "SDG Innovation Summit in Malaysia (19–22 Nov 2026). Funding: Flights, visa, hotel, meals. For: Students / youth."
-  },
-  {
-    "id": "asef-linkup-asef-seminar",
-    "title": "ASEF LinkUp / ASEF Seminar",
-    "location": "Slovenia / Mongolia",
-    "when": "Oct–Nov 2026",
-    "startDate": "2026-11-20",
-    "funding": "Full",
-    "fundingType": "full",
-    "audience": "18–30 (check country list)",
-    "age": {
-      "min": 18,
-      "max": 30
-    },
-    "url": "https://asef.org",
-    "ethiopiansEligible": false,
-    "description": "ASEF LinkUp / ASEF Seminar in Slovenia / Mongolia (Oct–Nov 2026). Funding: Full. For: 18–30 (check country list)."
-  },
-  {
-    "id": "youth-action-summit-2027",
-    "title": "Youth Action Summit 2027",
-    "location": "Germany",
-    "when": "11–14 Jan 2027",
-    "startDate": "2027-01-11",
-    "funding": "Full/partial",
-    "fundingType": "full",
-    "audience": "18–35",
-    "age": {
-      "min": 18,
-      "max": 35
-    },
-    "url": "https://cda.org",
-    "ethiopiansEligible": false,
-    "description": "Youth Action Summit 2027 in Germany (11–14 Jan 2027). Funding: Full/partial. For: 18–35."
-  },
-  {
-    "id": "dll-conference",
-    "title": "DLL Conference (AfriLead Network)",
-    "location": "Zanzibar, Tanzania",
-    "when": "2026",
-    "startDate": null,
-    "funding": "Full",
-    "fundingType": "full",
-    "audience": "Young African professionals",
-    "age": {
-      "min": null,
-      "max": null
-    },
-    "url": "https://afrileadnetwork.org",
+    "url": "https://www.policycenter.ma/jobs/call-volunteers-atlantic-dialogues-2026",
     "ethiopiansEligible": true,
-    "description": "DLL Conference (AfriLead Network) in Zanzibar, Tanzania (2026). Funding: Full. For: Young African professionals."
+    "description": "Young leaders, students, and emerging professionals interested in international relations, policy discussions, diplomacy, development, and global affairs now have a unique opportunity to participate in one of the most influential policy forums connecting Africa, Europe, and the Americas. The Policy Center for the New South (PCNS) is officially seeking volunteers for the 15th edition of the Atlantic Dialogues Conference 2026, which will take place in Rabat, Morocco, from December 10 to 12, 2026.",
+    "status": "open",
+    "details": {
+      "overview": "Young leaders, students, and emerging professionals interested in international relations, policy discussions, diplomacy, development, and global affairs now have a unique opportunity to participate in one of the most influential policy forums connecting Africa, Europe, and the Americas. The Policy Center for the New South (PCNS) is officially seeking volunteers for the 15th edition of the Atlantic Dialogues Conference 2026, which will take place in Rabat, Morocco, from December 10 to 12, 2026.",
+      "whoCanApply": [
+        "The Atlantic Dialogues Volunteer Program is designed for students and young professionals interested in international affairs and event management."
+      ],
+      "benefits": [
+        "Although this is a non-paid volunteer opportunity, participants gain significant professional and personal development benefits."
+      ],
+      "howToApply": [
+        "The Atlantic Dialogues Volunteer Program offers an exceptional opportunity to immerse yourself in an international policy environment while developing professional skills, expanding your global network, and contributing to one of the Atlantic region’s most influential conferences.",
+        "Whether you aspire to work in diplomacy, international development, public policy, research, communications, advocacy, or international organizations, this experience can serve as a valuable stepping stone in your career journey.",
+        "Click here for more opportunities of conferences on the Opportunities For Youth (OFY) platform."
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.policycenter.ma/jobs/call-volunteers-atlantic-dialogues-2026",
+      "https://opportunitiesforyouth.org/2026/10/12/atlantic-dialogues-2026-volunteer-program-in-morocco-join-one-of-the-atlantic-regions-premier-global-policy-conferences/"
+    ],
+    "lastVerified": "2026-10-17",
+    "lastChecked": "2026-10-17",
+    "discoveredAt": "2026-10-17",
+    "origin": "discovered",
+    "dateConfirmed": true
+  },
+  {
+    "id": "hsc-youth-ambassador-program",
+    "title": "HSC Youth Ambassador Program",
+    "location": "See official site",
+    "when": "1 Jun 2027",
+    "startDate": "2027-06-01",
+    "deadline": "2026-10-19",
+    "funding": "Fully funded",
+    "fundingType": "full",
+    "audience": "Applicants must meet several requirements to be considered for the HSC Youth Ambassador Program 2027",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://www.sustainability-conference.org/en/hsc27youthform",
+    "ethiopiansEligible": true,
+    "description": "The Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027 is inviting young community leaders from Global South countries to become part of an international cohort working to advance solutions to sustainability challenges. The program provides selected Youth Ambassadors with an opportunity to contribute their perspectives, experiences and ideas to the Hamburg Sustainability Conference, connect with global decision-makers and fellow young leaders, and participate in activities leading up to the main conference. Selected participants will receive fully funded participation, with travel and accommodation costs covered.",
+    "status": "open",
+    "details": {
+      "overview": "The Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027 is inviting young community leaders from Global South countries to become part of an international cohort working to advance solutions to sustainability challenges. The program provides selected Youth Ambassadors with an opportunity to contribute their perspectives, experiences and ideas to the Hamburg Sustainability Conference, connect with global decision-makers and fellow young leaders, and participate in activities leading up to the main conference. Selected participants will receive fully funded participation, with travel and accommodation costs covered.",
+      "whoCanApply": [
+        "Applicants must meet several requirements to be considered for the HSC Youth Ambassador Program 2027."
+      ],
+      "benefits": [
+        "Selected participants will receive fully funded participation, with travel and accommodation costs covered.",
+        "One of the most significant benefits of the HSC Youth Ambassador Program is that selected participants will have their travel and accommodation costs covered."
+      ],
+      "howToApply": [
+        "Read the full call on the official page (sustainability-conference.org)",
+        "Prepare a short CV and a motivation statement",
+        "Submit the application before 19 October 2026",
+        "Start your visa appointment early once accepted — Ethiopian passports need visas for most hosts"
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.sustainability-conference.org/en/hsc27youthform",
+      "https://opportunitiesforyouth.org/2026/10/07/hsc-youth-ambassador-program-2026-empowering-young-leaders-from-emerging-markets-and-developing-economies/"
+    ],
+    "lastVerified": "2026-10-17",
+    "lastChecked": "2026-10-17",
+    "discoveredAt": "2026-10-17",
+    "origin": "discovered",
+    "dateConfirmed": true
   },
   {
     "id": "mandela-washington-fellowship",
@@ -116,160 +102,138 @@
     },
     "url": "https://www.mandelawashingtonfellowship.org",
     "ethiopiansEligible": true,
-    "description": "Mandela Washington Fellowship (YALI) in USA (Jun–Jul 2027 (apply Sept–Oct 2026)). Funding: Full. For: 25–35."
+    "description": "Mandela Washington Fellowship (YALI) in USA (Jun–Jul 2027 (apply Sept–Oct 2026)). Funding: Full. For: 25–35.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
-    "id": "yali-regional-leadership-center-east-africa",
-    "title": "YALI Regional Leadership Center East Africa",
-    "location": "Nairobi, Kenya",
-    "when": "Multiple cohorts",
-    "startDate": null,
-    "funding": "Full",
-    "fundingType": "full",
-    "audience": "18–35",
-    "age": {
-      "min": 18,
-      "max": 35
-    },
-    "url": "https://yalieastafrica.org",
-    "ethiopiansEligible": true,
-    "description": "YALI Regional Leadership Center East Africa in Nairobi, Kenya (Multiple cohorts). Funding: Full. For: 18–35."
-  },
-  {
-    "id": "africa-youth-summit-au-youth-forum",
-    "title": "Africa Youth Summit / AU Youth Forum",
-    "location": "Rotates (Addis often)",
-    "when": "Yearly",
-    "startDate": null,
-    "funding": "Full",
-    "fundingType": "full",
-    "audience": "15–35",
-    "age": {
-      "min": 15,
-      "max": 35
-    },
-    "url": "https://au.int/en/youth",
-    "ethiopiansEligible": true,
-    "description": "Africa Youth Summit / AU Youth Forum in Rotates (Addis often) (Yearly). Funding: Full. For: 15–35."
-  },
-  {
-    "id": "un-youth-forum",
-    "title": "UN Youth Forum (ECOSOC)",
-    "location": "New York",
-    "when": "April",
-    "startDate": "2027-04-30",
-    "funding": "Partial/full via sponsors",
+    "id": "one-young-world-summit-leading-africa-scholarship",
+    "title": "One Young World Summit – Leading Africa Scholarship",
+    "location": "Cape Town, South Africa",
+    "when": "3–6 Nov 2026",
+    "startDate": "2026-11-03",
+    "funding": "Full (flights, hotel, fees)",
     "fundingType": "full",
     "audience": "18–30",
     "age": {
       "min": 18,
       "max": 30
     },
-    "url": "https://ecosoc.un.org",
+    "url": "https://www.oneyoungworld.com",
     "ethiopiansEligible": true,
-    "description": "UN Youth Forum (ECOSOC) in New York (April). Funding: Partial/full via sponsors. For: 18–30."
+    "description": "One Young World Summit – Leading Africa Scholarship in Cape Town, South Africa (3–6 Nov 2026). Funding: Full (flights, hotel, fees). For: 18–30.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
-    "id": "internet-governance-forum-youth-fellowship",
-    "title": "Internet Governance Forum (IGF) Youth Fellowship",
-    "location": "Rotates",
-    "when": "Dec",
-    "startDate": "2026-12-31",
+    "id": "world-forum-for-democracy",
+    "title": "World Forum for Democracy (Council of Europe)",
+    "location": "Strasbourg, France",
+    "when": "31 Oct – 4 Nov 2026",
+    "startDate": "2026-11-04",
+    "funding": "Full for youth delegates",
+    "fundingType": "full",
+    "audience": "18–30",
+    "age": {
+      "min": 18,
+      "max": 30
+    },
+    "url": "https://www.coe.int/en/web/world-forum-democracy",
+    "ethiopiansEligible": true,
+    "description": "World Forum for Democracy (Council of Europe) in Strasbourg, France (31 Oct – 4 Nov 2026). Funding: Full for youth delegates. For: 18–30.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "unreachable"
+  },
+  {
+    "id": "call-for-experts",
+    "title": "Call for Experts",
+    "location": "See official site",
+    "when": "22 Jan 2027",
+    "startDate": "2027-01-22",
+    "deadline": "2026-11-06",
+    "funding": "Partial funding — see official page",
+    "fundingType": "partial",
+    "audience": "The opportunity is open internationally, with no geographical restrictions specified in the summary of the call",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://forms.cloud.microsoft/e/kSvtzhF1i0",
+    "ethiopiansEligible": true,
+    "description": "The SALTO Participation and Information Resource Centre (SALTO PI) has announced a Call for Experts and Contributors to develop the P² Dossiers – Sectorial Blueprints on Participation, a collection of practical publications designed to strengthen democratic participation, common values and civic engagement across different sectors of education, youth development and sport. This opportunity is open to individual experts, researchers, analysts, practitioners, companies and other legal entities from around the world.",
+    "status": "open",
+    "details": {
+      "overview": "The SALTO Participation and Information Resource Centre (SALTO PI) has announced a Call for Experts and Contributors to develop the P² Dossiers – Sectorial Blueprints on Participation, a collection of practical publications designed to strengthen democratic participation, common values and civic engagement across different sectors of education, youth development and sport. This opportunity is open to individual experts, researchers, analysts, practitioners, companies and other legal entities from around the world.",
+      "whoCanApply": [
+        "The opportunity is open internationally, with no geographical restrictions specified in the summary of the call.",
+        "Individual experts and specialists.",
+        "Researchers and analysts.",
+        "Practitioners with relevant sector knowledge.",
+        "Companies.",
+        "Other legal entities.",
+        "Applicants working independently."
+      ],
+      "benefits": [
+        "The call offers a fixed professional fee for the development of the dossiers."
+      ],
+      "howToApply": [
+        "Applications must be submitted in English through the official online application form. Applications submitted through other channels, as well as incomplete or late applications, will not be considered.",
+        "The application form requires candidates to explain their motivation and experience, propose topics for their selected sector or sectors and submit a short writing fragment.",
+        "Applicants should prepare their materials carefully because the selection process assesses both professional suitability and the quality of their proposed content.",
+        "Yes. The call states that there are no geographical limits. Applicants from outside Europe may apply if they meet the requirements.",
+        "The SALTO Participation and Information Resource Centre’s Call for Experts offers a paid opportunity for researchers, analysts, practitioners and organizations to contribute to the development of practical resources on democratic participation, common values and civic engagement.",
+        "Selected contributors will help consolidate research, identify useful tools and networks, annotate key publications and develop accessible content for one or two of six sectors: Higher Education, School Education, Vocational Education and Training, Adult Education, Youth and Sport.",
+        "With a fixed fee of €1,250 for one sector or €2,500 for two sectors, the assignment combines professional remuneration with the opportunity to contribute to resources intended for educators, youth workers, sport organizations, programme beneficiaries and other stakeholders."
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://forms.cloud.microsoft/e/kSvtzhF1i0",
+      "https://opportunitiesforyouth.org/2026/10/16/call-for-experts-salto-participation-and-information-resource-centre-opens-applications-for-p%c2%b2-dossiers-on-democratic-participation/"
+    ],
+    "lastVerified": "2026-10-17",
+    "lastChecked": "2026-10-17",
+    "discoveredAt": "2026-10-17",
+    "origin": "discovered",
+    "dateConfirmed": true
+  },
+  {
+    "id": "sdg-innovation-summit",
+    "title": "SDG Innovation Summit",
+    "location": "Malaysia",
+    "when": "19–22 Nov 2026",
+    "startDate": "2026-11-19",
+    "funding": "Flights, visa, hotel, meals",
+    "fundingType": "partial",
+    "audience": "Students / youth",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://www.sdgsummit.org",
+    "ethiopiansEligible": false,
+    "description": "SDG Innovation Summit in Malaysia (19–22 Nov 2026). Funding: Flights, visa, hotel, meals. For: Students / youth.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "unreachable"
+  },
+  {
+    "id": "asef-linkup-asef-seminar",
+    "title": "ASEF LinkUp / ASEF Seminar",
+    "location": "Slovenia / Mongolia",
+    "when": "Oct–Nov 2026",
+    "startDate": "2026-11-20",
     "funding": "Full",
     "fundingType": "full",
-    "audience": "18–35",
+    "audience": "18–30 (check country list)",
     "age": {
       "min": 18,
-      "max": 35
+      "max": 30
     },
-    "url": "https://www.intgovforum.org",
-    "ethiopiansEligible": true,
-    "description": "Internet Governance Forum (IGF) Youth Fellowship in Rotates (Dec). Funding: Full. For: 18–35."
-  },
-  {
-    "id": "itu-generation-connect",
-    "title": "ITU Generation Connect",
-    "location": "Global",
-    "when": "Various",
-    "startDate": null,
-    "funding": "Travel grants",
-    "fundingType": "partial",
-    "audience": "18–29",
-    "age": {
-      "min": 18,
-      "max": 29
-    },
-    "url": "https://www.itu.int/generationconnect",
-    "ethiopiansEligible": true,
-    "description": "ITU Generation Connect in Global (Various). Funding: Travel grants. For: 18–29."
-  },
-  {
-    "id": "google-deep-learning-indaba",
-    "title": "Google / Deep Learning Indaba",
-    "location": "Africa (rotates)",
-    "when": "Aug–Sept",
-    "startDate": "2027-09-30",
-    "funding": "Travel grants",
-    "fundingType": "partial",
-    "audience": "Students, researchers",
-    "age": {
-      "min": null,
-      "max": null
-    },
-    "url": "https://deeplearningindaba.com",
-    "ethiopiansEligible": true,
-    "description": "Google / Deep Learning Indaba in Africa (rotates) (Aug–Sept). Funding: Travel grants. For: Students, researchers."
-  },
-  {
-    "id": "data-science-africa-summer-school",
-    "title": "Data Science Africa Summer School",
-    "location": "Africa",
-    "when": "Jun–Jul",
-    "startDate": "2027-07-31",
-    "funding": "Travel grants",
-    "fundingType": "partial",
-    "audience": "Students",
-    "age": {
-      "min": null,
-      "max": null
-    },
-    "url": "https://www.datascienceafrica.org",
-    "ethiopiansEligible": true,
-    "description": "Data Science Africa Summer School in Africa (Jun–Jul). Funding: Travel grants. For: Students."
-  },
-  {
-    "id": "africarxiv-black-in-ai-workshop",
-    "title": "AfricArXiv / Black in AI workshop (NeurIPS)",
-    "location": "Global",
-    "when": "Dec",
-    "startDate": "2026-12-31",
-    "funding": "Travel grants",
-    "fundingType": "partial",
-    "audience": "Researchers",
-    "age": {
-      "min": null,
-      "max": null
-    },
-    "url": "https://blackinai.github.io",
-    "ethiopiansEligible": true,
-    "description": "AfricArXiv / Black in AI workshop (NeurIPS) in Global (Dec). Funding: Travel grants. For: Researchers."
-  },
-  {
-    "id": "global-health-conference-cugh-travel-awards",
-    "title": "Global Health Conference – CUGH travel awards",
-    "location": "USA",
-    "when": "Mar–Apr",
-    "startDate": "2027-04-30",
-    "funding": "Travel grants",
-    "fundingType": "partial",
-    "audience": "Students",
-    "age": {
-      "min": null,
-      "max": null
-    },
-    "url": "https://www.cugh.org",
+    "url": "https://asef.org",
     "ethiopiansEligible": false,
-    "description": "Global Health Conference – CUGH travel awards in USA (Mar–Apr). Funding: Travel grants. For: Students."
+    "description": "ASEF LinkUp / ASEF Seminar in Slovenia / Mongolia (Oct–Nov 2026). Funding: Full. For: 18–30 (check country list).",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "falling-walls-lab-ethiopia-berlin-finale",
@@ -286,41 +250,194 @@
     },
     "url": "https://falling-walls.com",
     "ethiopiansEligible": true,
-    "description": "Falling Walls Lab Ethiopia -> Berlin Finale in Addis -> Berlin (Nov). Funding: Full for winner. For: Students / researchers."
+    "description": "Falling Walls Lab Ethiopia -> Berlin Finale in Addis -> Berlin (Nov). Funding: Full for winner. For: Students / researchers.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
-    "id": "mit-global-startup-workshop-mit-africa-innovate",
-    "title": "MIT Global Startup Workshop / MIT Africa Innovate",
-    "location": "Rotates",
-    "when": "Spring",
-    "startDate": null,
-    "funding": "Partial",
+    "id": "free-three-day-training-programme-with-travel-grants-for-eligible-appl",
+    "title": "Free Three-Day Training Programme with Travel Grants for Eligible Applicants",
+    "location": "Okayama, Japan",
+    "when": "1 Jul 2027",
+    "startDate": "2027-07-01",
+    "deadline": "2026-12-10",
+    "funding": "The form asks several questions about travel funding, disability, accommodation, and…",
     "fundingType": "partial",
-    "audience": "Entrepreneurs",
+    "audience": "The programme is designed for people who have already engaged with feminist economics questions and issues through…",
     "age": {
       "min": null,
       "max": null
     },
-    "url": "https://gsw.mit.edu",
-    "ethiopiansEligible": false,
-    "description": "MIT Global Startup Workshop / MIT Africa Innovate in Rotates (Spring). Funding: Partial. For: Entrepreneurs."
+    "url": "https://airtable.com/appSKWCJ79zOxP7Kx/pagcNt0IpCzXz8i2M/form",
+    "ethiopiansEligible": true,
+    "description": "Applications are invited for the 5th International Association for Feminist Economics (IAFFE) Feminist Economics School 2027, an intensive educational programme designed for individuals who want to deepen their understanding of feminist economics, its research methods, and its practical applications in policy, activism, and professional work. The 2027 Feminist Economics School will take place from 29 June to 1 July 2027 at Okayama University in Okayama, Japan. The programme will bring together participants for two and a half days of interactive workshops focused on feminist economic thought, methodologies, and policy applications.",
+    "status": "open",
+    "details": {
+      "overview": "Applications are invited for the 5th International Association for Feminist Economics (IAFFE) Feminist Economics School 2027, an intensive educational programme designed for individuals who want to deepen their understanding of feminist economics, its research methods, and its practical applications in policy, activism, and professional work. The 2027 Feminist Economics School will take place from 29 June to 1 July 2027 at Okayama University in Okayama, Japan. The programme will bring together participants for two and a half days of interactive workshops focused on feminist economic thought, methodologies, and policy applications.",
+      "whoCanApply": [
+        "The programme is designed for people who have already engaged with feminist economics questions and issues through professional work, activism, social movements, or advanced academic study.",
+        "Applicants should be able to demonstrate both relevant experience and a genuine interest in undertaking deeper study of feminist economics.",
+        "The organisers particularly encourage applications from individuals based in the Global South and people from historically discriminated groups around the world.",
+        "Applicants may qualify through a minimum of five years of professional work, activism, or social movement experience in areas related to feminist economics.",
+        "This route recognises that relevant knowledge and experience may be developed outside formal academic programmes.",
+        "For example, an applicant may have worked on issues related to gender and economic inequality, women’s livelihoods, labour conditions, economic justice, unpaid care work, social protection, or other subjects connected to feminist economic questions.",
+        "The key requirement is that the experience should be relevant to feminist economics. The application should make the connection between the candidate’s experience and the field clear."
+      ],
+      "benefits": [
+        "The form asks several questions about travel funding, disability, accommodation, and travel requirements.",
+        "Applicants will need to indicate whether they require full or partial travel funding and provide an estimated amount in US dollars if support is needed. If no travel funding is required, the form instructs applicants to enter “0”.",
+        "Candidates must also respond to questions about disability, shared accommodation, and whether a visa is required to travel to Japan.",
+        "The form asks whether applicants intend to submit a presentation, paper, or session proposal for the conference and apply for an IAFFE conference travel grant. It also asks whether applicants are IAFFE members and how they learned about the school.",
+        "Applicants should answer each question according to their circumstances and follow any instructions shown in the form."
+      ],
+      "howToApply": [
+        "Travel grants are available to support selected participants.",
+        "These grants may help eligible participants with the costs of travelling to Okayama, Japan. The application form asks candidates to indicate whether they require full or partial travel funding and to estimate the amount required in US dollars.",
+        "The announcement does not specify the maximum travel grant, the number of grants available, the selection formula, or whether all requested costs will be covered.",
+        "Applicants who require assistance should therefore provide a realistic estimate and explain their needs through the application form.",
+        "Applicants must complete the official Feminist Economics School application form.",
+        "The organisers state that all sections must be completed and that incomplete submissions will not be considered. After submission, applicants will receive a confirmation email.",
+        "The application form collects personal information, educational and employment details, a statement of purpose, and information about funding and other needs."
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://airtable.com/appSKWCJ79zOxP7Kx/pagcNt0IpCzXz8i2M/form",
+      "https://opportunitiesforyouth.org/2026/10/12/iaffes-2nd-feminist-economics-school-call-for-applicationsfully-funded/"
+    ],
+    "lastVerified": "2026-10-17",
+    "lastChecked": "2026-10-17",
+    "discoveredAt": "2026-10-17",
+    "origin": "discovered",
+    "dateConfirmed": true
   },
   {
-    "id": "tony-elumelu-foundation-entrepreneurship-programme",
-    "title": "Tony Elumelu Foundation Entrepreneurship Programme",
-    "location": "Online + Lagos forum",
-    "when": "Jan–Mar apply",
-    "startDate": "2027-03-31",
-    "funding": "$5,000 seed + training",
-    "fundingType": "partial",
-    "audience": "18+",
+    "id": "internet-governance-forum-youth-fellowship",
+    "title": "Internet Governance Forum (IGF) Youth Fellowship",
+    "location": "Rotates",
+    "when": "Dec",
+    "startDate": "2026-12-31",
+    "funding": "Full",
+    "fundingType": "full",
+    "audience": "18–35",
     "age": {
       "min": 18,
+      "max": 35
+    },
+    "url": "https://www.intgovforum.org",
+    "ethiopiansEligible": true,
+    "description": "Internet Governance Forum (IGF) Youth Fellowship in Rotates (Dec). Funding: Full. For: 18–35.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "unreachable"
+  },
+  {
+    "id": "africarxiv-black-in-ai-workshop",
+    "title": "AfricArXiv / Black in AI workshop (NeurIPS)",
+    "location": "Global",
+    "when": "Dec",
+    "startDate": "2026-12-31",
+    "funding": "Travel grants",
+    "fundingType": "partial",
+    "audience": "Researchers",
+    "age": {
+      "min": null,
       "max": null
     },
-    "url": "https://www.tonyelumelufoundation.org",
+    "url": "https://blackinai.github.io",
     "ethiopiansEligible": true,
-    "description": "Tony Elumelu Foundation Entrepreneurship Programme in Online + Lagos forum (Jan–Mar apply). Funding: $5,000 seed + training. For: 18+."
+    "description": "AfricArXiv / Black in AI workshop (NeurIPS) in Global (Dec). Funding: Travel grants. For: Researchers.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "nobel-peace-prize-forum-nobel-week-dialogue-youth",
+    "title": "Nobel Peace Prize Forum / Nobel Week Dialogue youth",
+    "location": "Norway / Sweden",
+    "when": "Dec",
+    "startDate": "2026-12-31",
+    "funding": "Travel grants",
+    "fundingType": "partial",
+    "audience": "Youth",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://www.nobelpeacecenter.org",
+    "ethiopiansEligible": false,
+    "description": "Nobel Peace Prize Forum / Nobel Week Dialogue youth in Norway / Sweden (Dec). Funding: Travel grants. For: Youth.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "csw71-saef-delegate-application",
+    "title": "CSW71 SAEF Delegate Application",
+    "location": "New York, USA",
+    "when": "8–19 Mar 2027",
+    "startDate": "2027-03-08",
+    "deadline": "2026-12-31",
+    "funding": "Partial funding — see official page",
+    "fundingType": "partial",
+    "audience": "The application invitation is intended for individuals interested in advancing gender equality and contributing to…",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScEK_uUEiM2pB3FnC54fbaKsc2Yx9l2hLQ2Ro7SYCXkYUV30g/viewform",
+    "ethiopiansEligible": true,
+    "description": "The CSW71 SAEF Delegate Application 2027 offers individuals interested in gender equality, women’s empowerment, women’s rights and youth development an opportunity to apply to join the Southern Africa Embrace Foundation (SAEF) delegation to the 71st Session of the United Nations Commission on the Status of Women (CSW71) in New York City, United States. The international gathering will take place from 8 to 19 March 2027, bringing together stakeholders to discuss gender equality and the empowerment of women and girls.",
+    "status": "open",
+    "details": {
+      "overview": "The CSW71 SAEF Delegate Application 2027 offers individuals interested in gender equality, women’s empowerment, women’s rights and youth development an opportunity to apply to join the Southern Africa Embrace Foundation (SAEF) delegation to the 71st Session of the United Nations Commission on the Status of Women (CSW71) in New York City, United States. The international gathering will take place from 8 to 19 March 2027, bringing together stakeholders to discuss gender equality and the empowerment of women and girls.",
+      "whoCanApply": [
+        "The application invitation is intended for individuals interested in advancing gender equality and contributing to discussions on women’s empowerment and youth development.",
+        "The supplied announcement does not establish a specific nationality, residency, academic qualification or professional experience requirement. Applicants should consult the application form for any additional conditions and should not assume that a particular degree or employment background is mandatory.",
+        "The following considerations can help prospective delegates assess whether the opportunity aligns with their interests and circumstances.",
+        "Applicants must understand that participation is self-funded.",
+        "Selected delegates are responsible for arranging and paying for their own travel, accommodation and related expenses. They must also pay the required CAD $100 donation before official INDIGO registration.",
+        "Candidates should assess whether they can meet these financial commitments before applying. The announcement does not promise reimbursement or general travel funding.",
+        "Because the event takes place in the United States, international applicants must consider the visa or entry requirements applicable to their circumstances."
+      ],
+      "benefits": [
+        "Selected delegates must make the CAD $100 donation before completing official INDIGO registration and receiving the UN ECOSOC approval letter.",
+        "Because the contribution is non-refundable, applicants should carefully consider their ability to travel before making the payment."
+      ],
+      "howToApply": [
+        "Yes. The announcement expressly states that needing to apply for a visa does not disqualify someone from applying to join the delegation.",
+        "Nevertheless, applicants should understand that visa-related circumstances may affect selection priorities and that a visa is not guaranteed.",
+        "Interested applicants must complete the online application form before the deadline of 31 December 2026.",
+        "The following steps outline the application process and the main considerations applicants should address.",
+        "Yes. Applicants who need a visa may still apply. However, SAEF states that priority will be given to applicants who already hold valid US visas, are based in regions with fewer travel restrictions or are from visa-exempt countries."
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://docs.google.com/forms/d/e/1FAIpQLScEK_uUEiM2pB3FnC54fbaKsc2Yx9l2hLQ2Ro7SYCXkYUV30g/viewform",
+      "https://opportunitiesforyouth.org/2026/10/13/csw71-saef-delegate-application-2027/"
+    ],
+    "lastVerified": "2026-10-17",
+    "lastChecked": "2026-10-17",
+    "discoveredAt": "2026-10-17",
+    "origin": "discovered",
+    "dateConfirmed": true
+  },
+  {
+    "id": "youth-action-summit-2027",
+    "title": "Youth Action Summit 2027",
+    "location": "Germany",
+    "when": "11–14 Jan 2027",
+    "startDate": "2027-01-11",
+    "funding": "Full/partial",
+    "fundingType": "full",
+    "audience": "18–35",
+    "age": {
+      "min": 18,
+      "max": 35
+    },
+    "url": "https://cda.org",
+    "ethiopiansEligible": false,
+    "description": "Youth Action Summit 2027 in Germany (11–14 Jan 2027). Funding: Full/partial. For: 18–35.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "unreachable"
   },
   {
     "id": "obama-foundation-leaders-africa",
@@ -337,41 +454,9 @@
     },
     "url": "https://www.obama.org/programs/leaders",
     "ethiopiansEligible": true,
-    "description": "Obama Foundation Leaders: Africa in Johannesburg + virtual (Apply Jan–Feb). Funding: Full. For: Emerging leaders."
-  },
-  {
-    "id": "ashoka-acumen-fellowships",
-    "title": "Ashoka / Acumen Fellowships",
-    "location": "Global/East Africa",
-    "when": "Rolling",
-    "startDate": null,
-    "funding": "Full",
-    "fundingType": "full",
-    "audience": "Social entrepreneurs",
-    "age": {
-      "min": null,
-      "max": null
-    },
-    "url": "https://acumen.org/fellowships",
-    "ethiopiansEligible": true,
-    "description": "Ashoka / Acumen Fellowships in Global/East Africa (Rolling). Funding: Full. For: Social entrepreneurs."
-  },
-  {
-    "id": "who-unicef-undp-youth-internships-forums",
-    "title": "WHO / UNICEF / UNDP Youth Internships & Forums",
-    "location": "Addis (UNECA, AU HQ)",
-    "when": "Rolling",
-    "startDate": null,
-    "funding": "Stipend",
-    "fundingType": "partial",
-    "audience": "18–32",
-    "age": {
-      "min": 18,
-      "max": 32
-    },
-    "url": "https://careers.un.org",
-    "ethiopiansEligible": true,
-    "description": "WHO / UNICEF / UNDP Youth Internships & Forums in Addis (UNECA, AU HQ) (Rolling). Funding: Stipend. For: 18–32."
+    "description": "Obama Foundation Leaders: Africa in Johannesburg + virtual (Apply Jan–Feb). Funding: Full. For: Emerging leaders.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "harvard-project-for-asian-international-relations",
@@ -388,7 +473,237 @@
     },
     "url": "https://www.hpair.org",
     "ethiopiansEligible": false,
-    "description": "Harvard Project for Asian & International Relations (HPAIR) in Asia / Boston (Aug / Feb). Funding: Scholarships available. For: University students."
+    "description": "Harvard Project for Asian & International Relations (HPAIR) in Asia / Boston (Aug / Feb). Funding: Scholarships available. For: University students.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "tony-elumelu-foundation-entrepreneurship-programme",
+    "title": "Tony Elumelu Foundation Entrepreneurship Programme",
+    "location": "Online + Lagos forum",
+    "when": "Jan–Mar apply",
+    "startDate": "2027-03-31",
+    "funding": "$5,000 seed + training",
+    "fundingType": "partial",
+    "audience": "18+",
+    "age": {
+      "min": 18,
+      "max": null
+    },
+    "url": "https://www.tonyelumelufoundation.org",
+    "ethiopiansEligible": true,
+    "description": "Tony Elumelu Foundation Entrepreneurship Programme in Online + Lagos forum (Jan–Mar apply). Funding: $5,000 seed + training. For: 18+.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "un-youth-forum",
+    "title": "UN Youth Forum (ECOSOC)",
+    "location": "New York",
+    "when": "April",
+    "startDate": "2027-04-30",
+    "funding": "Partial/full via sponsors",
+    "fundingType": "full",
+    "audience": "18–30",
+    "age": {
+      "min": 18,
+      "max": 30
+    },
+    "url": "https://ecosoc.un.org",
+    "ethiopiansEligible": true,
+    "description": "UN Youth Forum (ECOSOC) in New York (April). Funding: Partial/full via sponsors. For: 18–30.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "global-health-conference-cugh-travel-awards",
+    "title": "Global Health Conference – CUGH travel awards",
+    "location": "USA",
+    "when": "Mar–Apr",
+    "startDate": "2027-04-30",
+    "funding": "Travel grants",
+    "fundingType": "partial",
+    "audience": "Students",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://www.cugh.org",
+    "ethiopiansEligible": false,
+    "description": "Global Health Conference – CUGH travel awards in USA (Mar–Apr). Funding: Travel grants. For: Students.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "data-science-africa-summer-school",
+    "title": "Data Science Africa Summer School",
+    "location": "Africa",
+    "when": "Jun–Jul",
+    "startDate": "2027-07-31",
+    "funding": "Travel grants",
+    "fundingType": "partial",
+    "audience": "Students",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://www.datascienceafrica.org",
+    "ethiopiansEligible": true,
+    "description": "Data Science Africa Summer School in Africa (Jun–Jul). Funding: Travel grants. For: Students.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "google-deep-learning-indaba",
+    "title": "Google / Deep Learning Indaba",
+    "location": "Africa (rotates)",
+    "when": "Aug–Sept",
+    "startDate": "2027-09-30",
+    "funding": "Travel grants",
+    "fundingType": "partial",
+    "audience": "Students, researchers",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://deeplearningindaba.com",
+    "ethiopiansEligible": true,
+    "description": "Google / Deep Learning Indaba in Africa (rotates) (Aug–Sept). Funding: Travel grants. For: Students, researchers.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "dll-conference",
+    "title": "DLL Conference (AfriLead Network)",
+    "location": "Zanzibar, Tanzania",
+    "when": "2026",
+    "startDate": null,
+    "funding": "Full",
+    "fundingType": "full",
+    "audience": "Young African professionals",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://afrileadnetwork.org",
+    "ethiopiansEligible": true,
+    "description": "DLL Conference (AfriLead Network) in Zanzibar, Tanzania (2026). Funding: Full. For: Young African professionals.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "yali-regional-leadership-center-east-africa",
+    "title": "YALI Regional Leadership Center East Africa",
+    "location": "Nairobi, Kenya",
+    "when": "Multiple cohorts",
+    "startDate": null,
+    "funding": "Full",
+    "fundingType": "full",
+    "audience": "18–35",
+    "age": {
+      "min": 18,
+      "max": 35
+    },
+    "url": "https://yalieastafrica.org",
+    "ethiopiansEligible": true,
+    "description": "YALI Regional Leadership Center East Africa in Nairobi, Kenya (Multiple cohorts). Funding: Full. For: 18–35.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "africa-youth-summit-au-youth-forum",
+    "title": "Africa Youth Summit / AU Youth Forum",
+    "location": "Rotates (Addis often)",
+    "when": "Yearly",
+    "startDate": null,
+    "funding": "Full",
+    "fundingType": "full",
+    "audience": "15–35",
+    "age": {
+      "min": 15,
+      "max": 35
+    },
+    "url": "https://au.int/en/youth",
+    "ethiopiansEligible": true,
+    "description": "Africa Youth Summit / AU Youth Forum in Rotates (Addis often) (Yearly). Funding: Full. For: 15–35.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "unreachable"
+  },
+  {
+    "id": "itu-generation-connect",
+    "title": "ITU Generation Connect",
+    "location": "Global",
+    "when": "Various",
+    "startDate": null,
+    "funding": "Travel grants",
+    "fundingType": "partial",
+    "audience": "18–29",
+    "age": {
+      "min": 18,
+      "max": 29
+    },
+    "url": "https://www.itu.int/generationconnect",
+    "ethiopiansEligible": true,
+    "description": "ITU Generation Connect in Global (Various). Funding: Travel grants. For: 18–29.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "mit-global-startup-workshop-mit-africa-innovate",
+    "title": "MIT Global Startup Workshop / MIT Africa Innovate",
+    "location": "Rotates",
+    "when": "Spring",
+    "startDate": null,
+    "funding": "Partial",
+    "fundingType": "partial",
+    "audience": "Entrepreneurs",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://gsw.mit.edu",
+    "ethiopiansEligible": false,
+    "description": "MIT Global Startup Workshop / MIT Africa Innovate in Rotates (Spring). Funding: Partial. For: Entrepreneurs.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "ashoka-acumen-fellowships",
+    "title": "Ashoka / Acumen Fellowships",
+    "location": "Global/East Africa",
+    "when": "Rolling",
+    "startDate": null,
+    "funding": "Full",
+    "fundingType": "full",
+    "audience": "Social entrepreneurs",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://acumen.org/fellowships",
+    "ethiopiansEligible": true,
+    "description": "Ashoka / Acumen Fellowships in Global/East Africa (Rolling). Funding: Full. For: Social entrepreneurs.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "unreachable"
+  },
+  {
+    "id": "who-unicef-undp-youth-internships-forums",
+    "title": "WHO / UNICEF / UNDP Youth Internships & Forums",
+    "location": "Addis (UNECA, AU HQ)",
+    "when": "Rolling",
+    "startDate": null,
+    "funding": "Stipend",
+    "fundingType": "partial",
+    "audience": "18–32",
+    "age": {
+      "min": 18,
+      "max": 32
+    },
+    "url": "https://careers.un.org",
+    "ethiopiansEligible": true,
+    "description": "WHO / UNICEF / UNDP Youth Internships & Forums in Addis (UNECA, AU HQ) (Rolling). Funding: Stipend. For: 18–32.",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "model-un-ethiopian-mun-addis-ababa-mun-aimun",
@@ -406,22 +721,5 @@
     "url": "Facebook/Telegram groups",
     "ethiopiansEligible": false,
     "description": "Model UN: Ethiopian MUN / Addis Ababa MUN / AIMUN in Addis Ababa (Yearly). Funding: Low cost / local. For: Students."
-  },
-  {
-    "id": "nobel-peace-prize-forum-nobel-week-dialogue-youth",
-    "title": "Nobel Peace Prize Forum / Nobel Week Dialogue youth",
-    "location": "Norway / Sweden",
-    "when": "Dec",
-    "startDate": "2026-12-31",
-    "funding": "Travel grants",
-    "fundingType": "partial",
-    "audience": "Youth",
-    "age": {
-      "min": null,
-      "max": null
-    },
-    "url": "https://www.nobelpeacecenter.org",
-    "ethiopiansEligible": false,
-    "description": "Nobel Peace Prize Forum / Nobel Week Dialogue youth in Norway / Sweden (Dec). Funding: Travel grants. For: Youth."
   }
 ]

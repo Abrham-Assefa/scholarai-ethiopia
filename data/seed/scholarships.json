@@ -1,91 +1,5 @@
 [
   {
-    "id": "mastercard-foundation-university-of-rwanda",
-    "title": "Mastercard Foundation Scholars Program at the University of Rwanda",
-    "provider": "Mastercard Foundation / University of Rwanda",
-    "country": "Rwanda",
-    "countries": [
-      "Rwanda"
-    ],
-    "level": [
-      "bachelor",
-      "master"
-    ],
-    "fields": [
-      "health",
-      "engineering",
-      "agriculture",
-      "technology",
-      "education"
-    ],
-    "fundingType": "full",
-    "covers": "Tuition, accommodation, monthly stipend, return travel and holistic academic/leadership support.",
-    "eligibility": {
-      "ethiopiansEligible": true,
-      "englishTest": "required",
-      "workYearsMin": 0,
-      "ageLimit": 30,
-      "nationalities": [
-        "ET"
-      ]
-    },
-    "deadline": "2026-10-12",
-    "deadlineConfirmed": true,
-    "deadlineText": "Current University of Rwanda recruitment portal deadline: 12 Oct 2026, 23:59 Kigali time.",
-    "url": "https://mcfsp.ur.ac.rw/",
-    "source": "web-research",
-    "tags": [
-      "fully-funded"
-    ],
-    "description": "The University of Rwanda Mastercard Foundation Scholars Program supports talented young Africans with financial need. Ethiopian citizens are eligible as African applicants when they meet the programme and admission criteria. The programme funds selected undergraduate and master’s pathways and includes leadership, mentorship and career support. It is especially relevant because the 2026/27 call is open immediately after the verification date. Competition is high and the deadline is close.",
-    "status": "open",
-    "details": {
-      "overview": "The University of Rwanda Mastercard Foundation Scholars Program supports talented young Africans with financial need. Ethiopian citizens are eligible as African applicants when they meet the programme and admission criteria. The programme funds selected undergraduate and master’s pathways and includes leadership, mentorship and career support. It is especially relevant because the 2026/27 call is open immediately after the verification date. Competition is high and the deadline is close.",
-      "whoCanApply": [
-        "Citizen of any African country, including Ethiopia, or eligible refugee/displaced young person in Africa",
-        "Demonstrated academic talent and critical socio-economic need",
-        "Meet University of Rwanda admission requirements for eligible programmes",
-        "Age limits apply, with limited flexibility for documented protracted circumstances",
-        "Commitment to give back to community"
-      ],
-      "benefits": [
-        "Full tuition",
-        "On-campus accommodation",
-        "Monthly stipend",
-        "Return airfare where applicable",
-        "Academic mentoring, leadership and career development"
-      ],
-      "howToApply": [
-        "Open the official UR Mastercard Foundation recruitment portal",
-        "Create an account and complete the online application",
-        "Upload academic, need and identity documents",
-        "Submit before the Kigali-time deadline and monitor email"
-      ],
-      "documents": [
-        "Academic transcripts and certificates",
-        "National ID or passport",
-        "Proof of financial need",
-        "Essays or motivation statements",
-        "Recommendation information",
-        "Refugee/disability/disadvantage evidence if applicable"
-      ],
-      "selection": "The programme screens for eligibility, admission fit, financial need and leadership potential. Shortlisted applicants may be interviewed or asked for additional verification. Final decisions are communicated by the University of Rwanda programme office.",
-      "ethiopiaTips": [
-        "This deadline is very close to 2026-10-07; apply immediately if interested",
-        "Prepare scanned documents before starting the portal",
-        "Explain Ethiopian grading and national exam results clearly",
-        "Do not wait for third-party agents; application is through the official UR portal"
-      ],
-      "applicationOpens": "Open as of early October 2026 for the listed cohort"
-    },
-    "sources": [
-      "https://mcfsp.ur.ac.rw/",
-      "https://mcfsprecruitment.ur.ac.rw/",
-      "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
-    ],
-    "lastVerified": "2026-10-07"
-  },
-  {
     "id": "daad-in-country-in-region",
     "title": "DAAD In-Country/In-Region Scholarship Programme Sub-Saharan Africa",
     "provider": "German Academic Exchange Service (DAAD)",
@@ -168,7 +82,100 @@
       "https://www.daad-ghana.org/en/2024/10/04/in-country-in-region-scholarship-programme-2025-26/",
       "https://www.daad-ethiopia.org/en/scholarship-database/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-17",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "daejin-university-scholarships-in-south-korea-for-east-african-student",
+    "title": "Daejin University Scholarships in South Korea for East African Students",
+    "provider": "iucea.org",
+    "country": "South Korea",
+    "countries": [
+      "South Korea"
+    ],
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "fields": [
+      "business",
+      "education",
+      "environment"
+    ],
+    "fundingType": "full",
+    "covers": "The scholarship arrangements differ between undergraduate and master’s students",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "ageLimit": 25,
+      "englishTest": "required"
+    },
+    "deadline": "2026-11-15",
+    "deadlineText": "Application deadline: 15 November 2026 (published on opportunitiesforyouth.org)",
+    "url": "https://iucea.org/call-for-applications-daejin-university-scholarships-for-east-african-students-march-2027-intake/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "The Daejin University Scholarships for East African Students 2027 offer eligible students from eight East African Community (EAC) Partner States an opportunity to pursue undergraduate and master’s degree programmes in South Korea. Offered through a partnership between Daejin University and the Inter-University Council for East Africa (IUCEA), the scholarship initiative aims to strengthen international educational cooperation and expand access to higher education for qualified students from the region.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The Daejin University Scholarships for East African Students 2027 offer eligible students from eight East African Community (EAC) Partner States an opportunity to pursue undergraduate and master’s degree programmes in South Korea. Offered through a partnership between Daejin University and the Inter-University Council for East Africa (IUCEA), the scholarship initiative aims to strengthen international educational cooperation and expand access to higher education for qualified students from the region.",
+      "whoCanApply": [
+        "Applicants must satisfy the requirements outlined in the scholarship announcement. Meeting the basic conditions does not guarantee selection, as IUCEA conducts preliminary merit-based assessment and Daejin University undertakes further evaluation.",
+        "The call identifies eight EAC Partner States: the Democratic Republic of the Congo, Burundi, Kenya, Rwanda, South Sudan, Tanzania, Uganda and Somalia. Applicants must be citizens and residents of an eligible country.",
+        "The announcement lists IELTS 5.5 or higher, CEFR B2, New TEPS 202 or higher, or a TOEFL score meeting the requirement specified in the official call. Applicants should confirm the exact TOEFL threshold with IUCEA or Daejin University."
+      ],
+      "benefits": [
+        "The scholarship arrangements differ between undergraduate and master’s students. Applicants should distinguish between the initial tuition and accommodation benefits and the performance-based support available in later study periods.",
+        "The undergraduate scheme provides selected beneficiaries with full tuition and dormitory coverage for the first year only.",
+        "The announcement indicates that 16 students are expected to benefit annually, with two students selected from each of the eight eligible EAC Partner States. The university may accept additional students in accordance with its policies and scholarship regulations.",
+        "After the first year, tuition support is determined by the student’s grade point average (GPA).",
+        "The master’s scholarship provides tuition and accommodation waivers for the first semester only. The scheme then uses academic performance to determine the tuition waiver for the following semester.",
+        "Yes. Selected candidates must provide a six-month bank statement and a bank balance certificate showing more than USD 16,000 before final admission. The permitted sponsor must be the applicant, a parent, or a biological sibling where the parents are deceased."
+      ],
+      "howToApply": [
+        "The application process has two main stages: preliminary selection by IUCEA and final assessment by Daejin University.",
+        "Confirm eligibility. Check citizenship and residency, educational completion year, grades, age, English proficiency and financial requirements.",
+        "Choose the appropriate programme. Decide whether to apply for International Business or International Politics at undergraduate level, or International Business at master’s level.",
+        "Prepare the statement of interest. Address it to the Executive Secretary of IUCEA and clearly state your interest in the scholarship.",
+        "Prepare your CV. Ensure that your education and relevant experience are presented clearly.",
+        "Gather academic and identification documents. Include a valid passport copy, transcripts and graduation certificates for every completed level.",
+        "Obtain English-language evidence. Provide one of the accepted forms of proficiency documentation."
+      ],
+      "documents": [
+        "Applicants must submit the required documents to IUCEA for preliminary assessment. The announcement instructs candidates to combine all required documents into one PDF file.",
+        "Statement of interest: Addressed to the Executive Secretary of IUCEA. This should communicate the applicant’s interest in the scholarship and intended programme.",
+        "Résumé or curriculum vitae: A clear summary of the applicant’s educational background and relevant experience.",
+        "Copy of a valid passport: The passport should be valid and the copy should be legible.",
+        "Academic transcripts and graduation certificates: Documents for every completed level of education must be included.",
+        "Accepted proof of English proficiency: Such as the required IELTS, CEFR, New TEPS or TOEFL evidence.",
+        "Financial proof: Including the required six-month bank statement and bank balance evidence.",
+        "Daejin University application through the Study in Korea portal: The announcement lists this among the application requirements."
+      ],
+      "selection": "Applicants who progress beyond the preliminary stage will undergo further assessment by Daejin University.",
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 15 November 2026.",
+        "Book IELTS/TOEFL in Addis Ababa early — test dates fill up weeks ahead.",
+        "Apply for or renew your Ethiopian passport now — processing can take several weeks.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://iucea.org/call-for-applications-daejin-university-scholarships-for-east-african-students-march-2027-intake/",
+      "https://opportunitiesforyouth.org/2026/10/15/daejin-university-iucea-scholarship-2026-fully-funded-study-opportunity-in-south-korea-for-east-african-students/"
+    ],
+    "lastVerified": "2026-10-17",
+    "lastChecked": "2026-10-17",
+    "discoveredAt": "2026-10-17",
+    "origin": "discovered"
   },
   {
     "id": "ashesi-university-mcf-scholars",
@@ -250,7 +257,9 @@
       "https://www.ashesi.edu.gh/",
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "swiss-government-excellence-scholarships",
@@ -330,7 +339,9 @@
       "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships",
       "https://www.eda.admin.ch/countries/ethiopia/en/home/services/scholarships.html"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "eth-zurich-excellence-scholarship",
@@ -406,7 +417,165 @@
     "sources": [
       "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "asian-development-bank-japan-scholarship-program",
+    "title": "Asian Development Bank–Japan Scholarship Program",
+    "provider": "eastwestcenter.submittable.com",
+    "country": "USA",
+    "countries": [
+      "USA"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "business",
+      "economics",
+      "education",
+      "environment"
+    ],
+    "fundingType": "full",
+    "covers": "Books and instructional materials, medical insurance and travel expenses",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-12-01",
+    "deadlineText": "Application deadline: 01 December 2026 (published on opportunitiesforyouth.org)",
+    "url": "https://eastwestcenter.submittable.com/submit/c537e27c-c696-4362-9e9f-1711d1aa9fa7/asian-development-bank-japan-scholarship-program-adb-jsp-2026",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Are you an ambitious graduate from an eligible developing country looking to pursue a master’s degree in the United States but concerned about the cost of international education? The Asian Development Bank–Japan Scholarship Program (ADB-JSP) at the East-West Center, University of Hawaiʻi at Mānoa, offers an opportunity for eligible students to undertake postgraduate studies with financial support for tuition, living expenses and other essential educational costs.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Are you an ambitious graduate from an eligible developing country looking to pursue a master’s degree in the United States but concerned about the cost of international education? The Asian Development Bank–Japan Scholarship Program (ADB-JSP) at the East-West Center, University of Hawaiʻi at Mānoa, offers an opportunity for eligible students to undertake postgraduate studies with financial support for tuition, living expenses and other essential educational costs.",
+      "whoCanApply": [
+        "Citizens of eligible ADB developing member countries and territories who meet the programme requirements"
+      ],
+      "benefits": [
+        "Books and instructional materials, medical insurance and travel expenses",
+        "One of the major attractions of the ADB-JSP is its comprehensive financial support for eligible graduate students.",
+        "Studying in the United States can involve substantial expenses, including university tuition, accommodation, food, transport, health insurance and academic materials. The scholarship is designed to reduce these financial barriers so that selected students can concentrate on their education.",
+        "The Asian Development Bank identifies the following benefits under the programme.",
+        "Although ADB-JSP is widely described as a fully funded graduate scholarship, applicants should read the award terms carefully. The general programme’s benefits and the specific arrangements available through a participating institution may differ.",
+        "Candidates should confirm the current stipend amount, covered travel costs, insurance arrangements, funding duration and any additional conditions with the East-West Center before making financial commitments."
+      ],
+      "howToApply": [
+        "Read the full call on the official page (eastwestcenter.submittable.com)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 01 December 2026",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 01 December 2026.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://eastwestcenter.submittable.com/submit/c537e27c-c696-4362-9e9f-1711d1aa9fa7/asian-development-bank-japan-scholarship-program-adb-jsp-2026",
+      "https://opportunitiesforyouth.org/2026/10/16/asian-development-bank-japan-scholarship-program-2026-fully-funded-masters-scholarships-at-the-east-west-center-in-the-usa/"
+    ],
+    "lastVerified": "2026-10-17",
+    "lastChecked": "2026-10-17",
+    "discoveredAt": "2026-10-17",
+    "origin": "discovered"
+  },
+  {
+    "id": "harvard-kennedy-school-equity-fellowship",
+    "title": "Harvard Kennedy School Equity Fellowship",
+    "provider": "hks.harvard.edu",
+    "country": "USA",
+    "countries": [
+      "USA"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Full tuition scholarship, with financial support subject to the fellowship’s stated cost-of-attendance rules",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-12-01",
+    "deadlineText": "Application deadline: 01 December 2026 (published on opportunitiesforyouth.org)",
+    "url": "https://www.hks.harvard.edu/admissions-aid/masters-program-admissions/how-apply",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "The Harvard Kennedy School Equity Fellowship 2027 offers eligible students an opportunity to receive financial support toward a master’s degree at Harvard Kennedy School (HKS), Harvard University, in Cambridge, Massachusetts, United States. Administered by the Center for Public Leadership (CPL), the fellowship supports students who demonstrate leadership promise and a commitment to reducing disparities affecting underserved communities.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The Harvard Kennedy School Equity Fellowship 2027 offers eligible students an opportunity to receive financial support toward a master’s degree at Harvard Kennedy School (HKS), Harvard University, in Cambridge, Massachusetts, United States. Administered by the Center for Public Leadership (CPL), the fellowship supports students who demonstrate leadership promise and a commitment to reducing disparities affecting underserved communities.",
+      "whoCanApply": [
+        "The official programme information states that the fellowship is open to all newly admitted degree programme students at Harvard Kennedy School. It also states that students from all backgrounds are eligible and that applicants from underrepresented groups are encouraged to apply.",
+        "Candidates are considered based on their academic credentials and demonstrated leadership promise, interest, and work in reducing disparities in Black/African American, Latino, and other underserved communities.",
+        "This eligibility statement is important because it distinguishes the fellowship’s intended impact from a restriction on who may apply. The programme focuses on particular communities and populations, but the announcement does not say that applicants must personally belong to a particular racial or ethnic group.",
+        "Before submitting, applicants should confirm that all required materials meet the stated word limits and content requirements.",
+        "The fellowship is open to all newly admitted Harvard Kennedy School degree programme students. Students from all backgrounds are eligible, and underrepresented groups are encouraged to apply.",
+        "Candidates are considered based on their academic credentials and demonstrated leadership promise, interest, and work in reducing disparities."
+      ],
+      "benefits": [
+        "Full tuition scholarship, with financial support subject to the fellowship’s stated cost-of-attendance rules",
+        "The fellowship offers financial support and a structured leadership development experience. Its benefits extend beyond tuition assistance to include learning opportunities, mentorship, peer connections, and experiential activities.",
+        "One of the fellowship’s main benefits is financial support toward a master’s degree programme at Harvard Kennedy School.",
+        "The fellowship information identifies full tuition as the funding amount. This can significantly reduce the tuition burden for selected students pursuing graduate education at the institution.",
+        "Applicants should therefore confirm the precise funding arrangements for their degree programme. They should not automatically assume that all accommodation, travel, personal expenses, or other costs will be covered.",
+        "The second step is to apply for the CPL Equity Fellowship through the Harvard Kennedy School financial aid application.",
+        "Deadline: January 15, 2027, at 12 p.m. noon ET."
+      ],
+      "howToApply": [
+        "The supplied fellowship information does not list a restricted set of eligible nationalities. It states that the fellowship is open to all newly admitted Harvard Kennedy School degree programme students and that students from all backgrounds are eligible.",
+        "International applicants should still review the relevant admission and financial aid requirements to confirm that they meet all applicable conditions. Admission to a degree programme and eligibility for a particular form of financial aid should not be treated as interchangeable.",
+        "The fellowship’s third focus area, global marginalized populations, may be relevant to applicants interested in equity issues affecting underserved communities around the world. However, the focus area is not itself a nationality-based eligibility category.",
+        "Applicants from Africa, Asia, Europe, North America, South America, and other regions should consult Harvard Kennedy School’s official information to verify any requirements applicable to their circumstances.",
+        "Candidates should also review the financial aid rules concerning the cost of attendance, particularly if they intend to pursue a joint or concurrent degree. The programme states that fellowship financial aid for joint or concurrent degree students is provided when Harvard Kennedy School is their school in residence, as determined by the financial aid office.",
+        "The fellowship application process has two main steps. Candidates must complete both steps and observe the separate admission and financial aid deadlines.",
+        "Applicants must first complete the admission application for their selected HKS master’s degree programme."
+      ],
+      "documents": [
+        "The supplied instructions require a biographical profile of no more than 150 words, a first essay of no more than 500 words, and a second essay of no more than 200 words. Applicants must also select one focus area and submit the materials through the HKS financial aid application.",
+        "Candidates should review the official application information for any additional instructions."
+      ],
+      "selection": "The fellowship selection process considers applicants’ academic credentials and their demonstrated leadership promise, interest, and work in reducing disparities. According to the programme information, finalists for the CPL Equity Fellowship will be interviewed in late February by members of the fellowship selection committee. The interview stage is an important part of the selection process for finalists. Candidates should review the fellowship’s purpose, the focus area they selected, and the information they provided in their application so that they can discuss their interests and leadersh",
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 01 December 2026.",
+        "Tailor your motivation letter to Ethiopian development priorities and your concrete plans after study.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.hks.harvard.edu/admissions-aid/masters-program-admissions/how-apply",
+      "https://opportunitiesforyouth.org/2026/10/15/harvard-kennedy-school-carr-ryan-center-fellowships-2026-2027-fully-detailed-guide-to-all-fellowship-opportunities-unpaid-paid-options/"
+    ],
+    "lastVerified": "2026-10-17",
+    "lastChecked": "2026-10-17",
+    "discoveredAt": "2026-10-17",
+    "origin": "discovered"
   },
   {
     "id": "african-union-pan-african-university",
@@ -496,7 +665,9 @@
       "https://www.au-pau.org/submission/",
       "https://au.int/sites/default/files/announcements/45594-annc-2026_PAU_Admission_Call_Englsih.pdf"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "yale-harvard-mit-need-based-aid",
@@ -576,7 +747,9 @@
       "https://college.harvard.edu/financial-aid/how-aid-works/types-aid",
       "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "eiffel-excellence-scholarship",
@@ -662,7 +835,9 @@
       "https://www.campusfrance.org/en/actu/call-for-france-excellence-eiffel-applications-2027",
       "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "unreachable"
   },
   {
     "id": "gates-cambridge-scholarship",
@@ -742,7 +917,9 @@
       "https://www.postgraduate.study.cam.ac.uk/apply/application-deadlines",
       "https://www.gatescambridge.org/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "unreachable"
   },
   {
     "id": "clarendon-scholarships",
@@ -820,7 +997,9 @@
       "https://www.ox.ac.uk/clarendon",
       "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "unreachable"
   },
   {
     "id": "kaist-international-scholarship",
@@ -901,7 +1080,9 @@
       "https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist",
       "https://www.kaist.ac.kr/en/html/edu/03100502.html"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "erasmus-mundus-joint-masters",
@@ -978,7 +1159,9 @@
     "sources": [
       "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "stipendium-hungaricum",
@@ -1060,7 +1243,9 @@
       "https://stipendiumhungaricum.hu/",
       "https://stipendiumhungaricum.hu/apply/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "russian-government-quota",
@@ -1141,7 +1326,162 @@
       "https://education-in-russia.com/",
       "https://education-in-russia.com/selection"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "apdd-individual-research-fellowships-for-african-researchers",
+    "title": "APDD Individual Research Fellowships for African Researchers",
+    "provider": "ssrc.org",
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "phd",
+      "postdoc"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Fully funded",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-01-15",
+    "deadlineText": "Application deadline: 15 January 2027 (published on opportunitiesforafricans.com)",
+    "url": "https://www.ssrc.org/programs/african-peacebuilding-and-developmental-dynamics-apdd/individual-research-fellowships/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027 APDD Individual Research Fellowships. The APDD program of the Social Science Research Council (SSRC) invites applications from African researchers, policy analysts, and practitioners working on conflict and peacebuilding issues at universities and research institutions or regional, governmental, and nongovernmental agencies based in Africa. Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027 APDD Individual Research Fellowships. The APDD program of the Social Science Research Council (SSRC) invites applications from African researchers, policy analysts, and practitioners working on conflict and peacebuilding issues at universities and research institutions or regional, governmental, and nongovernmental agencies based in Africa. Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+      "whoCanApply": [
+        "All applicants must be African citizens currently residing in an African country. This competition is open to African academics, as well as policy analysts and practitioners.",
+        "Applicants who are academics must hold a full-time faculty or research position at an African university or research organization, and have a PhD obtained no earlier than January 2016. Applicants who have not been awarded their PhDs by June 2026 will not have their cases prioritized to be eligible as academics.",
+        "Applicants who are policy analysts or practitioners must be based in Africa at a regional or sub-regional institution; a government agency; or a nongovernmental, media, or civil society organization, and have at least a master’s degree obtained before January 2021 with at least five years of proven research and work experience in peacebuilding-related activities on the continent."
+      ],
+      "benefits": [],
+      "howToApply": [
+        "Read the full call on the official page (ssrc.org)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 15 January 2027",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 15 January 2027.",
+        "Tailor your motivation letter to Ethiopian development priorities and your concrete plans after study.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.ssrc.org/programs/african-peacebuilding-and-developmental-dynamics-apdd/individual-research-fellowships/",
+      "https://www.opportunitiesforafricans.com/the-apdd-individual-research-fellowships-2027-for-african-researchers/"
+    ],
+    "lastVerified": "2026-10-17",
+    "lastChecked": "2026-10-17",
+    "discoveredAt": "2026-10-17",
+    "origin": "discovered"
+  },
+  {
+    "id": "liverpool-john-moores-university-vice-chancellor-s-phd-scholarships-in",
+    "title": "Liverpool John Moores University Vice-Chancellor’s PhD Scholarships in the UK",
+    "provider": "ljmu.ac.uk",
+    "country": "UK",
+    "countries": [
+      "UK"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "partial",
+    "covers": "Tuition fees, stipend and research bench-fee support, subject to the scheme’s conditions",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-01-29",
+    "deadlineText": "Application deadline: 29 January 2027 (published on opportunitiesforyouth.org)",
+    "url": "https://www.ljmu.ac.uk/research/phd-studentship-application",
+    "source": "web-collector",
+    "tags": [
+      "partial-funding",
+      "auto-collected"
+    ],
+    "description": "Are you an ambitious graduate looking to pursue a PhD in the United Kingdom and contribute to innovative research that addresses important academic, social, scientific and technological challenges? The Liverpool John Moores University (LJMU) Vice-Chancellor’s PhD Scholarships Scheme 2027 offers an opportunity for outstanding prospective doctoral researchers to undertake research at a UK university known for its work across a wide range of disciplines. The 2027 scholarship competition is open to applicants from the United Kingdom and other countries, including international students who meet the relevant academic and admission requirements.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Are you an ambitious graduate looking to pursue a PhD in the United Kingdom and contribute to innovative research that addresses important academic, social, scientific and technological challenges? The Liverpool John Moores University (LJMU) Vice-Chancellor’s PhD Scholarships Scheme 2027 offers an opportunity for outstanding prospective doctoral researchers to undertake research at a UK university known for its work across a wide range of disciplines. The 2027 scholarship competition is open to applicants from the United Kingdom and other countries, including international students who meet the relevant academic and admission requirements.",
+      "whoCanApply": [
+        "UK and non-UK applicants, subject to applicable eligibility and immigration requirements",
+        "The 2027 competition is open to applicants from the UK and outside the UK, including international candidates, provided they meet the relevant academic and admission requirements.",
+        "However, eligibility depends on more than nationality. Applicants must also satisfy the rules governing their current academic registration, proposed doctoral programme and supervisory arrangements.",
+        "Applicants must meet the relevant academic requirements for study at PhD level at Liverpool John Moores University.",
+        "Candidates should review the university’s doctoral admission requirements and ensure that their qualifications, research experience and proposed research are appropriate for doctoral study.",
+        "A strong application should demonstrate the candidate’s ability to undertake independent research, engage critically with existing scholarship and complete a substantial research project.",
+        "The university specifies the information that must be included in a Vice-Chancellor’s PhD Scholarship application."
+      ],
+      "benefits": [
+        "Tuition fees, stipend and research bench-fee support, subject to the scheme’s conditions",
+        "Tuition fees; the advertised part-time arrangement does not include the full-time stipend and bench-fee package",
+        "The funding arrangements differ according to whether a candidate applies for a full-time or part-time studentship. Applicants should understand these differences before committing to a particular mode of study.",
+        "Full-time awardees are eligible for a stipend. The university directs applicants to the Doctoral Academy for the applicable stipend information.",
+        "A stipend is a regular financial payment intended to support a research student’s living expenses during the funded period. The precise amount, payment arrangements and applicable conditions should be checked through LJMU’s official funding information.",
+        "Candidates should not assume a particular stipend amount without verifying the current figure directly with the university.",
+        "The main distinction is that the full-time scheme offers a broader funding package, while the part-time scheme is advertised as covering course fees."
+      ],
+      "howToApply": [
+        "Applicants should consult the official scholarship webpage for the complete and current conditions, particularly regarding the stipend amount, immigration requirements, eligible research projects and the formal doctoral enrolment process.",
+        "Identify a clearly defined research problem.",
+        "Review relevant literature and existing debates in the field.",
+        "Identify an appropriate LJMU school, institute or research centre.",
+        "Find an eligible lead supervisor with relevant expertise.",
+        "Develop a realistic research and training plan.",
+        "Explain how the project aligns with the university’s research and knowledge exchange strategy."
+      ],
+      "documents": [
+        "LJMU explicitly states that no additional material is expected beyond the required application content.",
+        "If extra material is attached, it will not be included in the assessment.",
+        "Applicants should therefore concentrate on preparing the requested information to a high standard rather than submitting unrequested documents in the hope of improving their chances.",
+        "The application should be complete, clear and directly responsive to the scheme’s criteria.",
+        "The scholarship webpage states that no additional material is expected beyond the required application content and that extra material will not be included in the assessment. Candidates should follow the official instructions rather than attaching unrequested documents."
+      ],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 29 January 2027.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.ljmu.ac.uk/research/phd-studentship-application",
+      "https://opportunitiesforyouth.org/2026/10/15/liverpool-john-moores-university-vice-chancellors-phd-scholarships-2027-in-the-uk-funding-eligibility-application-process-and-deadline/"
+    ],
+    "lastVerified": "2026-10-17",
+    "lastChecked": "2026-10-17",
+    "discoveredAt": "2026-10-17",
+    "origin": "discovered"
   },
   {
     "id": "islamic-development-bank-scholarship",
@@ -1231,7 +1571,9 @@
     "sources": [
       "https://www.isdb.org/scholarships/scholarship-programs"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "ethiopian-ministry-of-education-bilateral-scholarships",
@@ -1316,7 +1658,9 @@
     "sources": [
       "https://moe.gov.et/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "icipe-arppis-daad-phd-scholarships",
@@ -1401,7 +1745,9 @@
       "https://www.icipe.org/index.php/news/announcements/daad-arppis-doctoral-scholarships-announced",
       "https://www.daad.de/en/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "nl-scholarship",
@@ -1478,7 +1824,9 @@
       "https://www.studyinnl.org/finances/nl-scholarship",
       "https://www.studyinnl.org/finances/scholarships"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "brunei-government-scholarship",
@@ -1560,7 +1908,9 @@
     "sources": [
       "https://www.mfa.gov.bn/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "cas-twas-presidents-fellowship",
@@ -1644,7 +1994,9 @@
       "https://twas.org/opportunities/fellowships",
       "https://twas.org/opportunities/fellowships/phd"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "turkiye-burslari",
@@ -1726,7 +2078,9 @@
       "https://www.turkiyeburslari.gov.tr/",
       "https://tbbs.turkiyeburslari.gov.tr/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "swedish-institute-scholarships-for-global-professionals",
@@ -1803,7 +2157,9 @@
     "sources": [
       "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "tica-thailand-international-postgraduate-programme",
@@ -1891,7 +2247,9 @@
       "https://tica-thaigov.mfa.go.th/en",
       "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?page=5f4ddf7588a720370a799e12"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "global-korea-scholarship",
@@ -1972,7 +2330,9 @@
     "sources": [
       "https://www.studyinkorea.go.kr/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "african-leadership-university-mcf",
@@ -2054,7 +2414,9 @@
       "https://www.alueducation.com/financial-aid-at-alu/",
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "romanian-government-scholarship",
@@ -2137,7 +2499,9 @@
       "https://scholarships.studyinromania.gov.ro/",
       "https://studyinromania.gov.ro/scholarships"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "aims",
@@ -2222,7 +2586,9 @@
       "https://apply.aims-network.org/",
       "https://www.nexteinstein.org/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "chinese-government-scholarship",
@@ -2302,7 +2668,9 @@
     "sources": [
       "https://www.campuschina.org/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "unreachable"
   },
   {
     "id": "indian-iccr-scholarships",
@@ -2383,7 +2751,9 @@
       "https://a2ascholarships.iccr.gov.in/",
       "https://eoiaddisababa.gov.in/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "azerbaijan-government-scholarship",
@@ -2467,7 +2837,9 @@
       "https://www.studyinazerbaijan.edu.az/",
       "https://mfa.gov.az/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "mandela-rhodes-scholarship",
@@ -2547,7 +2919,9 @@
     "sources": [
       "https://www.mandelarhodes.org/scholarship/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "australia-awards-africa",
@@ -2633,7 +3007,9 @@
       "https://australiaawardsafrica.org/",
       "https://www.dfat.gov.au/sites/default/files/australia-awards-africa-information-for-intake.pdf"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "rotary-peace-fellowship",
@@ -2724,7 +3100,9 @@
       "https://www.rotary.org/en/our-programs/peace-fellowships",
       "https://www.rotary.org/get-involved/our-programs/peace-fellowships"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "unreachable"
   },
   {
     "id": "joint-japan-world-bank-graduate-scholarship",
@@ -2812,7 +3190,9 @@
       "https://www.worldbank.org/en/programs/scholarships/jj-wbgsp",
       "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "mext-japanese-government-scholarship",
@@ -2895,7 +3275,9 @@
       "https://www.et.emb-japan.go.jp/itpr_ja/11_000001_01481.html",
       "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "fulbright-foreign-student-program",
@@ -2975,7 +3357,9 @@
       "https://foreign.fulbrightonline.org/about/foreign-student-program",
       "https://foreign.fulbrightonline.org/apply"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "mastercard-foundation-addis-ababa-university",
@@ -3054,7 +3438,9 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/",
       "https://www.aau.edu.et/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "hubert-h-humphrey-fellowship",
@@ -3141,7 +3527,9 @@
       "https://www.humphreyfellowship.org/how-to-apply/",
       "https://et.usembassy.gov/education-culture/educational-exchange/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "daad-helmut-schmidt",
@@ -3224,7 +3612,9 @@
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/helmut-schmidt-programme/",
       "http://daad.de/go/de/stipa50026397"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "koica-scholarship-program",
@@ -3309,7 +3699,9 @@
     "sources": [
       "https://www.koica.go.kr/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "unreachable"
   },
   {
     "id": "schwarzman-scholars",
@@ -3395,7 +3787,9 @@
       "https://www.schwarzmanscholars.org/admissions/application-instructions/",
       "https://connect.schwarzmanscholars.org/apply/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "unreachable"
   },
   {
     "id": "chevening-scholarships",
@@ -3472,7 +3866,9 @@
       "https://www.chevening.org/scholarship/ethiopia/",
       "https://www.chevening.org/scholarships/application-timeline/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "knight-hennessy-scholars",
@@ -3552,7 +3948,98 @@
       "https://knight-hennessy.stanford.edu/admission/preparing-your-applications/application-deadlines",
       "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "mastercard-foundation-university-of-rwanda",
+    "title": "Mastercard Foundation Scholars Program at the University of Rwanda",
+    "provider": "Mastercard Foundation / University of Rwanda",
+    "country": "Rwanda",
+    "countries": [
+      "Rwanda"
+    ],
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "fields": [
+      "health",
+      "engineering",
+      "agriculture",
+      "technology",
+      "education"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, accommodation, monthly stipend, return travel and holistic academic/leadership support.",
+    "eligibility": {
+      "ethiopiansEligible": true,
+      "englishTest": "required",
+      "workYearsMin": 0,
+      "ageLimit": 30,
+      "nationalities": [
+        "ET"
+      ]
+    },
+    "deadline": "2027-10-12",
+    "deadlineConfirmed": false,
+    "deadlineText": "Current University of Rwanda recruitment portal deadline: 12 Oct 2026, 23:59 Kigali time.",
+    "url": "https://mcfsp.ur.ac.rw/",
+    "source": "web-research",
+    "tags": [
+      "fully-funded",
+      "estimated-deadline"
+    ],
+    "description": "The University of Rwanda Mastercard Foundation Scholars Program supports talented young Africans with financial need. Ethiopian citizens are eligible as African applicants when they meet the programme and admission criteria. The programme funds selected undergraduate and master’s pathways and includes leadership, mentorship and career support. It is especially relevant because the 2026/27 call is open immediately after the verification date. Competition is high and the deadline is close.",
+    "status": "open",
+    "details": {
+      "overview": "The University of Rwanda Mastercard Foundation Scholars Program supports talented young Africans with financial need. Ethiopian citizens are eligible as African applicants when they meet the programme and admission criteria. The programme funds selected undergraduate and master’s pathways and includes leadership, mentorship and career support. It is especially relevant because the 2026/27 call is open immediately after the verification date. Competition is high and the deadline is close.",
+      "whoCanApply": [
+        "Citizen of any African country, including Ethiopia, or eligible refugee/displaced young person in Africa",
+        "Demonstrated academic talent and critical socio-economic need",
+        "Meet University of Rwanda admission requirements for eligible programmes",
+        "Age limits apply, with limited flexibility for documented protracted circumstances",
+        "Commitment to give back to community"
+      ],
+      "benefits": [
+        "Full tuition",
+        "On-campus accommodation",
+        "Monthly stipend",
+        "Return airfare where applicable",
+        "Academic mentoring, leadership and career development"
+      ],
+      "howToApply": [
+        "Open the official UR Mastercard Foundation recruitment portal",
+        "Create an account and complete the online application",
+        "Upload academic, need and identity documents",
+        "Submit before the Kigali-time deadline and monitor email"
+      ],
+      "documents": [
+        "Academic transcripts and certificates",
+        "National ID or passport",
+        "Proof of financial need",
+        "Essays or motivation statements",
+        "Recommendation information",
+        "Refugee/disability/disadvantage evidence if applicable"
+      ],
+      "selection": "The programme screens for eligibility, admission fit, financial need and leadership potential. Shortlisted applicants may be interviewed or asked for additional verification. Final decisions are communicated by the University of Rwanda programme office.",
+      "ethiopiaTips": [
+        "This deadline is very close to 2026-10-07; apply immediately if interested",
+        "Prepare scanned documents before starting the portal",
+        "Explain Ethiopian grading and national exam results clearly",
+        "Do not wait for third-party agents; application is through the official UR portal"
+      ],
+      "applicationOpens": "Open as of early October 2026 for the listed cohort"
+    },
+    "sources": [
+      "https://mcfsp.ur.ac.rw/",
+      "https://mcfsprecruitment.ur.ac.rw/",
+      "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
+    ],
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "daad-epos",
@@ -3638,7 +4125,9 @@
       "https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/epos/",
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "mastercard-foundation-scholars-program",
@@ -3716,7 +4205,9 @@
     "sources": [
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   },
   {
     "id": "alx-altschool-andela-tech-fellowships",
@@ -3798,6 +4289,8 @@
       "https://tech.alxafrica.com/interest",
       "https://mastercardfdn.org/en/news/alx-kick-starts-inaugural-all-tech-training-programs-for-over-32000-learners-across-africa/"
     ],
-    "lastVerified": "2026-10-07"
+    "lastVerified": "2026-10-07",
+    "lastChecked": "2026-10-17",
+    "checkStatus": "reachable"
   }
 ]
