@@ -35,7 +35,7 @@ export default function NotFound() {
             }}
           >
             Return to ScholarAI Home
-          </a>
+          </a>GIT 
         </div>
       </body>
     </html>
