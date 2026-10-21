@@ -1,5 +1,82 @@
 [
   {
+    "id": "niger-delta-development-commission-nddc-local-postgraduate-scholarship",
+    "title": "Niger Delta Development Commission (NDDC) Local Postgraduate Scholarship Programme for Nigerian Students",
+    "provider": "nddc.gov.ng",
+    "country": "Nigeria",
+    "countries": [
+      "Nigeria"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Fully funded",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-11-08",
+    "deadlineText": "Application deadline: 08 November 2026 (published on opportunitiesforafricans.com)",
+    "url": "https://www.nddc.gov.ng/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2026/2027 Niger Delta Development Commission (NDDC) Local Postgraduate Scholarship Programme. The Niger Delta Development Commission (NDDC), in furtherance of its mandate to promote sustainable human capital development in the Niger Delta Region, invites applications from suitably qualified and interested Niger Delta indigenes for its 2026/2027 Local Postgraduate Scholarship Programme.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2026/2027 Niger Delta Development Commission (NDDC) Local Postgraduate Scholarship Programme. The Niger Delta Development Commission (NDDC), in furtherance of its mandate to promote sustainable human capital development in the Niger Delta Region, invites applications from suitably qualified and interested Niger Delta indigenes for its 2026/2027 Local Postgraduate Scholarship Programme.",
+      "whoCanApply": [
+        "WAEC/NECO results",
+        "Undergraduate academic qualifications",
+        "Relevant postgraduate qualifications, where applicable",
+        "Valid Local Government Identification",
+        "NIN slip",
+        "Other approved eligibility requirements"
+      ],
+      "benefits": [],
+      "howToApply": [
+        "Read the full call on the official page (nddc.gov.ng)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 08 November 2026",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [
+        "Recent passport photograph",
+        "Local Government Identification Letter",
+        "Master’s degree admission letter from a recognised conventional university in Nigeria",
+        "Relevant academic certificates and qualifications",
+        "NYSC Discharge or Exemption Certificate",
+        "Birth Certificate or Valid Statutory Age Declaration",
+        "Any additional documents required by the Commission"
+      ],
+      "selection": "Candidates who meet the prescribed CBT threshold will undergo further shortlisting and may be invited for an oral interview in accordance with the Commission’s approved selection criteria.",
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 08 November 2026.",
+        "Apply for or renew your Ethiopian passport now — processing can take several weeks.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.nddc.gov.ng/",
+      "https://www.opportunitiesforafricans.com/niger-delta-development-commission-nddc-local-postgraduate-scholarship-programme-2026-2027-for-nigerian-students/"
+    ],
+    "lastVerified": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "discoveredAt": "2026-10-21",
+    "origin": "discovered"
+  },
+  {
     "id": "daad-in-country-in-region",
     "title": "DAAD In-Country/In-Region Scholarship Programme Sub-Saharan Africa",
     "provider": "German Academic Exchange Service (DAAD)",
@@ -83,7 +160,7 @@
       "https://www.daad-ethiopia.org/en/scholarship-database/"
     ],
     "lastVerified": "2026-10-17",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "unreachable"
   },
   {
@@ -258,7 +335,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -340,7 +417,7 @@
       "https://www.eda.admin.ch/countries/ethiopia/en/home/services/scholarships.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -418,7 +495,7 @@
       "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -666,7 +743,7 @@
       "https://au.int/sites/default/files/announcements/45594-annc-2026_PAU_Admission_Call_Englsih.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -748,7 +825,7 @@
       "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -836,7 +913,7 @@
       "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -918,7 +995,7 @@
       "https://www.gatescambridge.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "unreachable"
   },
   {
@@ -998,8 +1075,92 @@
       "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "unreachable"
+  },
+  {
+    "id": "dahdaleh-global-health-graduate-scholarship-at-york-university-canada",
+    "title": "Dahdaleh Global Health Graduate Scholarship – at York University, Canada",
+    "provider": "yorku.ca",
+    "country": "Canada",
+    "countries": [
+      "Canada"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "health"
+    ],
+    "fundingType": "partial",
+    "covers": "Up to CAD $15,000 for domestic students and CAD $25,000 for international students",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-01-08",
+    "deadlineText": "Application deadline: 08 January 2027 (published on opportunitiesforyouth.org)",
+    "url": "https://www.yorku.ca/dighr/scholarship/",
+    "source": "web-collector",
+    "tags": [
+      "partial-funding",
+      "auto-collected"
+    ],
+    "description": "The Dahdaleh Global Health Graduate Scholarship 2027–2028 at York University in Canada is a competitive graduate research funding opportunity for outstanding domestic and international students pursuing master’s or doctoral studies. Administered by the Dahdaleh Institute for Global Health Research in collaboration with York University’s graduate funding offices, the scholarship supports researchers whose work contributes to global health, planetary health, humanitarianism, and global health foresighting.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The Dahdaleh Global Health Graduate Scholarship 2027–2028 at York University in Canada is a competitive graduate research funding opportunity for outstanding domestic and international students pursuing master’s or doctoral studies. Administered by the Dahdaleh Institute for Global Health Research in collaboration with York University’s graduate funding offices, the scholarship supports researchers whose work contributes to global health, planetary health, humanitarianism, and global health foresighting.",
+      "whoCanApply": [
+        "New or continuing graduate students, subject to the stated eligibility requirements",
+        "Applicants must carefully review the eligibility criteria before preparing an application. Meeting the general academic requirements does not guarantee selection, and the scholarship is restricted to eligible graduate students at York University.",
+        "The scholarship is open to both domestic and international students.",
+        "International applicants may apply if they are entering or continuing an eligible graduate program at York University and meet the scholarship’s other requirements.",
+        "However, the scholarship is not a general award for anyone planning to study in Canada. Applicants must be connected to an eligible York University graduate program and must provide the required documentation concerning their application, admission, or continuing student status.",
+        "Applicants must be applying to or enrolled in an eligible graduate program within one of the following faculties or schools:",
+        "School of the Arts, Media, Performance & Design."
+      ],
+      "benefits": [
+        "Up to CAD $15,000 for domestic students and CAD $25,000 for international students",
+        "Up to CAD $20,000 for domestic students and CAD $30,000 for international students",
+        "Up to one or two years for eligible master’s students and up to four years for eligible doctoral students, subject to the applicable study category and annual review",
+        "The Dahdaleh Global Health Graduate Scholarship provides financial assistance alongside opportunities to participate in a research-focused academic community.",
+        "The principal benefit is the opportunity to receive a competitive annual scholarship ranging from CAD $5,000 to CAD $30,000.",
+        "The exact amount depends on the applicant’s degree level, domestic or international status, available funds, the year of study, the number of recipients selected, and other relevant considerations.",
+        "The scholarship can contribute toward the financial costs associated with graduate study and research. However, the amount awarded is not necessarily the same for every recipient, and applicants should not assume that they will receive the maximum amount."
+      ],
+      "howToApply": [
+        "Applications must be submitted through the official Dahdaleh Global Health Graduate Scholarship application form. Applicants must provide all required documents in PDF format.",
+        "Incomplete applications cannot be considered, so it is important to prepare the full application package before submitting it.",
+        "Yes. The program considers eligible incoming students as well as continuing graduate students. Applicants must provide the appropriate documentation confirming their application status, admission offer, or relevant graduate program status.",
+        "No. The scholarship does not support coursework-only master’s programs. The graduate program must require a research proposal or statement of research interest as part of its application process."
+      ],
+      "documents": [
+        "An official annual progress report approved and signed for the previous academic year.",
+        "A letter of support from the graduate research supervisor.",
+        "The most recent York University academic transcript.",
+        "An itemized financial budget detailing anticipated income and expenses for the upcoming year.",
+        "A letter to the scholarship committee explaining how the recipient engaged with the Dahdaleh Institute during the past academic year and how they plan to contribute in the coming academic year."
+      ],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 08 January 2027.",
+        "Tailor your motivation letter to Ethiopian development priorities and your concrete plans after study.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.yorku.ca/dighr/scholarship/",
+      "https://opportunitiesforyouth.org/2026/10/19/dahdaleh-global-health-graduate-scholarship-2027-2028/"
+    ],
+    "lastVerified": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "discoveredAt": "2026-10-21",
+    "origin": "discovered"
   },
   {
     "id": "kaist-international-scholarship",
@@ -1081,7 +1242,7 @@
       "https://www.kaist.ac.kr/en/html/edu/03100502.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -1160,7 +1321,7 @@
       "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -1244,7 +1405,7 @@
       "https://stipendiumhungaricum.hu/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -1327,7 +1488,7 @@
       "https://education-in-russia.com/selection"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -1395,6 +1556,96 @@
     "lastVerified": "2026-10-17",
     "lastChecked": "2026-10-17",
     "discoveredAt": "2026-10-17",
+    "origin": "discovered"
+  },
+  {
+    "id": "diw-berlin-graduate-center-phd-program-in-germany",
+    "title": "DIW Berlin Graduate Center PhD Program in Germany",
+    "provider": "diw.de",
+    "country": "Germany",
+    "countries": [
+      "Germany"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "economics"
+    ],
+    "fundingType": "full",
+    "covers": "Normally paid research employment at DIW Berlin, subject to performance requirements",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "englishTest": "required"
+    },
+    "deadline": "2027-01-15",
+    "deadlineText": "Application deadline: 15 January 2027 (published on opportunitiesforyouth.org)",
+    "url": "https://www.diw.de/de/diw_01.c.799242.de/application.html",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "The DIW Berlin Graduate Center PhD Program 2027 offers an opportunity for highly qualified graduates to pursue advanced doctoral studies in economics in Berlin, Germany, with financial support throughout the expected five-year program. Designed for promising researchers who want to develop expertise in economic analysis, empirical research, and public policy, the program combines rigorous academic coursework with practical research experience at one of Germany’s leading economic research institutes.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The DIW Berlin Graduate Center PhD Program 2027 offers an opportunity for highly qualified graduates to pursue advanced doctoral studies in economics in Berlin, Germany, with financial support throughout the expected five-year program. Designed for promising researchers who want to develop expertise in economic analysis, empirical research, and public policy, the program combines rigorous academic coursework with practical research experience at one of Germany’s leading economic research institutes.",
+      "whoCanApply": [
+        "Qualified candidates from around the world who meet the admission requirements",
+        "Applicants should carefully review the admission requirements before beginning their applications. Meeting the minimum academic conditions does not guarantee admission, as selection also depends on academic performance, research potential, and the overall strength of the applicant pool.",
+        "Applicants should normally hold a master’s degree in Economics or Business Studies and should have performed exceptionally well in their studies.",
+        "Candidates who have not yet completed their master’s degree may apply while still enrolled, provided they successfully complete the required degree before the doctoral program begins.",
+        "Applicants from related disciplines may also be considered if they have a sufficiently strong background in economics or business studies. Relevant fields may include:",
+        "Industrial Engineering or related engineering disciplines.",
+        "Statistics."
+      ],
+      "benefits": [
+        "Normally paid research employment at DIW Berlin, subject to performance requirements",
+        "The program provides a combination of financial support, advanced academic training, and practical research experience. These benefits make it an opportunity worth considering for qualified graduates who intend to pursue doctoral research in economics.",
+        "One of the program’s most important benefits is its funding structure. Doctoral researchers receive financial support for the expected duration of the program, which is five years.",
+        "During the first year, participants receive a monthly stipend of €1,650 to support them throughout the coursework phase. During Years 2–5, funding is normally provided through employment at one of DIW Berlin’s research departments.",
+        "Research-phase employment is generally offered under the German public-sector pay framework, TVöD, pay group EG 13, at 75% of a full-time position. Continuation of funding during this phase depends on meeting the program’s established performance criteria.",
+        "Applicants should understand that the first-year stipend and subsequent employment arrangement are different funding mechanisms. They should also review the institution’s current conditions carefully when preparing their applications.",
+        "Participants generally enroll at the university where their supervisor holds a professorship. Depending on the individual supervisory arrangement, the doctoral degree may be awarded by a participating Berlin university or the University of Potsdam."
+      ],
+      "howToApply": [
+        "Applications are submitted online through the official application portal during the designated application period.",
+        "Follow these steps to prepare a complete application.",
+        "Yes. Applicants may apply while completing their master’s studies, provided that they successfully complete the required degree before the doctoral program begins.",
+        "The published application information describes a possible route for bachelor’s-degree holders who also apply for a master’s program with a fast-track option. Applicants should check the official FAQ to confirm the current requirements for this pathway.",
+        "No. German-language proficiency is not required for admission, and the program’s courses are taught in English. Learning German can nevertheless be useful for everyday life and professional integration.",
+        "No. Admission is not based on an existing supervision agreement. Students have time to identify a supervisor during the first year, and applicants are advised not to contact researchers seeking supervision before applying.",
+        "Before submitting your application, ensure that you have completed the following tasks:"
+      ],
+      "documents": [
+        "Applicants must prepare the required documents before submitting the online application. The application must be completed in English, and incomplete applications will not be considered.",
+        "The following documents are required under the supplied application instructions.",
+        "Gather your motivation letter, CV, academic transcripts, certificates, application form, and applicable English-language or GRE test reports.",
+        "Check that all files are legible, correctly formatted, and ready to upload.",
+        "The program’s FAQ states that applicants cannot upload additional documents after the deadline. All required documents and recommendation letters should therefore be submitted before the portal closes."
+      ],
+      "selection": "After submitting your application, you should receive an automatic confirmation email indicating that your application has been registered. The actual evaluation takes place after the application deadline. The selection committee reviews applications and invites selected candidates to a personal interview. Interviews are conducted by video conference, so candidates do not need to travel to Berlin for the interview stage.",
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 15 January 2027.",
+        "Book IELTS/TOEFL in Addis Ababa early — test dates fill up weeks ahead.",
+        "Ask your lecturers or employer for recommendation letters at least four weeks before the deadline.",
+        "Tailor your motivation letter to Ethiopian development priorities and your concrete plans after study.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.diw.de/de/diw_01.c.799242.de/application.html",
+      "https://opportunitiesforyouth.org/2026/10/19/diw-berlin-graduate-center-phd-program-2027-in-germany-fully-funded-five-year-economics-doctoral-scholarship-for-international-students/"
+    ],
+    "lastVerified": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "discoveredAt": "2026-10-21",
     "origin": "discovered"
   },
   {
@@ -1572,7 +1823,7 @@
       "https://www.isdb.org/scholarships/scholarship-programs"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -1659,7 +1910,7 @@
       "https://moe.gov.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -1746,7 +1997,7 @@
       "https://www.daad.de/en/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -1825,7 +2076,7 @@
       "https://www.studyinnl.org/finances/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -1909,7 +2160,7 @@
       "https://www.mfa.gov.bn/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -1995,7 +2246,7 @@
       "https://twas.org/opportunities/fellowships/phd"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -2079,7 +2330,7 @@
       "https://tbbs.turkiyeburslari.gov.tr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -2158,7 +2409,7 @@
       "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -2248,7 +2499,7 @@
       "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?page=5f4ddf7588a720370a799e12"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -2331,7 +2582,7 @@
       "https://www.studyinkorea.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -2415,7 +2666,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -2500,7 +2751,7 @@
       "https://studyinromania.gov.ro/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -2587,8 +2838,8 @@
       "https://www.nexteinstein.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
-    "checkStatus": "reachable"
+    "lastChecked": "2026-10-21",
+    "checkStatus": "unreachable"
   },
   {
     "id": "chinese-government-scholarship",
@@ -2669,7 +2920,7 @@
       "https://www.campuschina.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "unreachable"
   },
   {
@@ -2752,7 +3003,7 @@
       "https://eoiaddisababa.gov.in/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -2838,7 +3089,7 @@
       "https://mfa.gov.az/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -2920,7 +3171,7 @@
       "https://www.mandelarhodes.org/scholarship/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -3008,7 +3259,7 @@
       "https://www.dfat.gov.au/sites/default/files/australia-awards-africa-information-for-intake.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -3101,7 +3352,7 @@
       "https://www.rotary.org/get-involved/our-programs/peace-fellowships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "unreachable"
   },
   {
@@ -3191,7 +3442,7 @@
       "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -3276,7 +3527,7 @@
       "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -3358,7 +3609,7 @@
       "https://foreign.fulbrightonline.org/apply"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -3439,7 +3690,7 @@
       "https://www.aau.edu.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -3528,7 +3779,7 @@
       "https://et.usembassy.gov/education-culture/educational-exchange/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -3613,7 +3864,7 @@
       "http://daad.de/go/de/stipa50026397"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "unreachable"
   },
   {
@@ -3700,7 +3951,7 @@
       "https://www.koica.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "unreachable"
   },
   {
@@ -3788,7 +4039,7 @@
       "https://connect.schwarzmanscholars.org/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "unreachable"
   },
   {
@@ -3867,7 +4118,7 @@
       "https://www.chevening.org/scholarships/application-timeline/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -3949,7 +4200,7 @@
       "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -4038,7 +4289,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -4126,7 +4377,7 @@
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "unreachable"
   },
   {
@@ -4206,7 +4457,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -4290,7 +4541,7 @@
       "https://mastercardfdn.org/en/news/alx-kick-starts-inaugural-all-tech-training-programs-for-over-32000-learners-across-africa/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   }
 ]

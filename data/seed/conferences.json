@@ -60,7 +60,7 @@
     "url": "https://www.sustainability-conference.org/en/hsc27youthform",
     "ethiopiansEligible": true,
     "description": "The Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027 is inviting young community leaders from Global South countries to become part of an international cohort working to advance solutions to sustainability challenges. The program provides selected Youth Ambassadors with an opportunity to contribute their perspectives, experiences and ideas to the Hamburg Sustainability Conference, connect with global decision-makers and fellow young leaders, and participate in activities leading up to the main conference. Selected participants will receive fully funded participation, with travel and accommodation costs covered.",
-    "status": "open",
+    "status": "closed",
     "details": {
       "overview": "The Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027 is inviting young community leaders from Global South countries to become part of an international cohort working to advance solutions to sustainability challenges. The program provides selected Youth Ambassadors with an opportunity to contribute their perspectives, experiences and ideas to the Hamburg Sustainability Conference, connect with global decision-makers and fellow young leaders, and participate in activities leading up to the main conference. Selected participants will receive fully funded participation, with travel and accommodation costs covered.",
       "whoCanApply": [
@@ -83,30 +83,11 @@
       "https://opportunitiesforyouth.org/2026/10/07/hsc-youth-ambassador-program-2026-empowering-young-leaders-from-emerging-markets-and-developing-economies/"
     ],
     "lastVerified": "2026-10-17",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "discoveredAt": "2026-10-17",
     "origin": "discovered",
     "dateConfirmed": true,
-    "checkStatus": "reachable"
-  },
-  {
-    "id": "mandela-washington-fellowship",
-    "title": "Mandela Washington Fellowship (YALI)",
-    "location": "USA",
-    "when": "Jun–Jul 2027 (apply Sept–Oct 2026)",
-    "startDate": "2026-10-20",
-    "funding": "Full",
-    "fundingType": "full",
-    "audience": "25–35",
-    "age": {
-      "min": 25,
-      "max": 35
-    },
-    "url": "https://www.mandelawashingtonfellowship.org",
-    "ethiopiansEligible": true,
-    "description": "Mandela Washington Fellowship (YALI) in USA (Jun–Jul 2027 (apply Sept–Oct 2026)). Funding: Full. For: 25–35.",
-    "lastChecked": "2026-10-19",
-    "checkStatus": "reachable"
+    "checkStatus": "unreachable"
   },
   {
     "id": "one-young-world-summit-leading-africa-scholarship",
@@ -124,7 +105,7 @@
     "url": "https://www.oneyoungworld.com",
     "ethiopiansEligible": true,
     "description": "One Young World Summit – Leading Africa Scholarship in Cape Town, South Africa (3–6 Nov 2026). Funding: Full (flights, hotel, fees). For: 18–30.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -143,7 +124,7 @@
     "url": "https://www.coe.int/en/web/world-forum-democracy",
     "ethiopiansEligible": true,
     "description": "World Forum for Democracy (Council of Europe) in Strasbourg, France (31 Oct – 4 Nov 2026). Funding: Full for youth delegates. For: 18–30.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "unreachable"
   },
   {
@@ -194,11 +175,109 @@
       "https://opportunitiesforyouth.org/2026/10/16/call-for-experts-salto-participation-and-information-resource-centre-opens-applications-for-p%c2%b2-dossiers-on-democratic-participation/"
     ],
     "lastVerified": "2026-10-17",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "discoveredAt": "2026-10-17",
     "origin": "discovered",
     "dateConfirmed": true,
     "checkStatus": "reachable"
+  },
+  {
+    "id": "hp-ucl-ioe-fellowship-in-ai-in-education",
+    "title": "HP-UCL IOE Fellowship in AI in Education",
+    "location": "UK",
+    "when": "25–30 Mar 2027",
+    "startDate": "2027-03-25",
+    "deadline": "2026-11-07",
+    "funding": "Fully funded",
+    "fundingType": "full",
+    "audience": "Geographies: Europe, Asia and Africa",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://www.ucl.ac.uk/ioe/hp-ucl-ioe-fellowship-ai-education",
+    "ethiopiansEligible": true,
+    "description": "Applications are now open for the HP-UCL IOE Fellowship in AI in Education. A global executive leadership programme for senior education leaders; building knowledge, governance and strategic leadership to drive responsible AI transformation in education systems. Fellows engage with global experts in AI in Education practice and policy, applied case studies, and peer learning to design responsible AI strategies and practices for education systems. The HP-UCL IOE Fellowship in AI in Education equips senior policymakers and organisational leaders to lead AI transformation responsibly.",
+    "status": "open",
+    "details": {
+      "overview": "Applications are now open for the HP-UCL IOE Fellowship in AI in Education. A global executive leadership programme for senior education leaders; building knowledge, governance and strategic leadership to drive responsible AI transformation in education systems. Fellows engage with global experts in AI in Education practice and policy, applied case studies, and peer learning to design responsible AI strategies and practices for education systems. The HP-UCL IOE Fellowship in AI in Education equips senior policymakers and organisational leaders to lead AI transformation responsibly.",
+      "whoCanApply": [
+        "Geographies: Europe, Asia and Africa."
+      ],
+      "benefits": [
+        "The programme covers accommodation and catering during the programme hours. Travel costs for the residential and evening meals whilst in London are the responsibility of learners.",
+        "Fully funded: all programme costs are covered on acceptance (excluding airfares and visas).",
+        "Reputation: the world’s leading institution for education: UCL Institute of Education has ranked number one in the world for Education in the QS World University Rankings for 13 consecutive years.",
+        "Expert academic team: learn with academics whose work informs AI in global education policy with UNESCO, the OECD, the Council of Europe and the European Commission.",
+        "Real impact: a nine-month mentored capstone project on a live policy or implementation challenge from your work and organisation.",
+        "Application: curriculum covers ethics, governance, procurement, evidence and scaling, so leaders can interrogate vendor claims and guide effective AI policy.",
+        "Network: connect with a select cohort of international senior leaders and become a member of a global network of fellows."
+      ],
+      "howToApply": [
+        "Participants will be required to fully commit to all components of the programme.",
+        "The programme covers all costs upon acceptance, excluding airfares and visa expenses.",
+        "Programme alumni will be able to join a global network of fellows."
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.ucl.ac.uk/ioe/hp-ucl-ioe-fellowship-ai-education",
+      "https://www.opportunitiesforafricans.com/the-hp-ucl-ioe-fellowship-in-ai-in-education-global-executive-leadership-programme-for-senior-education-leaders/"
+    ],
+    "lastVerified": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "discoveredAt": "2026-10-21",
+    "origin": "discovered",
+    "dateConfirmed": true
+  },
+  {
+    "id": "apfsd-youth-forum-in-bangkok-thailand",
+    "title": "APFSD Youth Forum in Bangkok, Thailand",
+    "location": "Bangkok, Thailand",
+    "when": "18–20 Feb 2027",
+    "startDate": "2027-02-18",
+    "deadline": "2026-11-16",
+    "funding": "No guaranteed funding, stipend, travel grant, or accommodation package is specified in…",
+    "fundingType": "partial",
+    "audience": "Up to 18 years",
+    "age": {
+      "min": null,
+      "max": 18
+    },
+    "url": "https://opportunitiesforyouth.org/2026/10/20/apfsd-youth-forum-2027-in-bangkok-thailand-call-for-applications-and-abstracts-for-young-people-in-asia-and-the-pacific/",
+    "ethiopiansEligible": true,
+    "description": "The APFSD Youth Forum 2027 is inviting applications from young people aged 13 to 30 across the Asia-Pacific region to participate in discussions on sustainable development, human rights, climate action, gender equality, and the United Nations Sustainable Development Goals (SDGs). The forum will provide a platform for adolescents and young people to share their experiences, present youth-led initiatives, engage with regional stakeholders, and contribute to recommendations that can influence sustainable development policies at national, regional, and global levels.",
+    "status": "open",
+    "details": {
+      "overview": "The APFSD Youth Forum 2027 is inviting applications from young people aged 13 to 30 across the Asia-Pacific region to participate in discussions on sustainable development, human rights, climate action, gender equality, and the United Nations Sustainable Development Goals (SDGs). The forum will provide a platform for adolescents and young people to share their experiences, present youth-led initiatives, engage with regional stakeholders, and contribute to recommendations that can influence sustainable development policies at national, regional, and global levels.",
+      "whoCanApply": [
+        "The general Call for Applications is intended for young people aged 13 to 30 from across Asia and the Pacific who are interested in sustainable development and can contribute relevant perspectives, experiences, or initiatives.",
+        "Applicants should demonstrate an understanding of the SDGs and their importance at the national, regional, or global level. They should also show a commitment to progressive, human rights-based approaches and identify strengths or experiences relevant to the goals being reviewed.",
+        "The forum welcomes applications from young people with diverse backgrounds and experiences. Applicants do not necessarily need to represent a large organisation to have relevant contributions; individual experiences, community engagement, and youth-led initiatives may also be important.",
+        "Age requirement: Applicants must be between 13 and 30 years old. The announcement specifies a birth date on or after 21 February 1997.",
+        "Geographical eligibility: Applicants must be from the Asia and Pacific region.",
+        "Commitment to human rights: Applicants should demonstrate progressive values and support human rights-based approaches.",
+        "Relevant strengths and experience: Applicants should demonstrate unique strengths relevant to the SDGs scheduled for review as part of the 14th APFSD."
+      ],
+      "benefits": [
+        "No guaranteed funding, stipend, travel grant, or accommodation package is specified in the supplied announcement. Applicants should confirm the available arrangements through the official application materials or by contacting the organisers."
+      ],
+      "howToApply": [
+        "Interested applicants should use the official ARROW announcement to access the application form and any additional instructions.",
+        "Follow these steps to prepare your application.",
+        "Yes. The organisers specifically state that applications from marginalised or socially excluded groups and communities, as well as applicants from hard-to-reach areas, will be prioritised to support diversity and inclusion.",
+        "No. According to the announcement, anyone submitting an abstract must also apply through the general Call for Applications."
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://opportunitiesforyouth.org/2026/10/20/apfsd-youth-forum-2027-in-bangkok-thailand-call-for-applications-and-abstracts-for-young-people-in-asia-and-the-pacific/"
+    ],
+    "lastVerified": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "discoveredAt": "2026-10-21",
+    "origin": "discovered",
+    "dateConfirmed": true
   },
   {
     "id": "sdg-innovation-summit",
@@ -216,7 +295,7 @@
     "url": "https://www.sdgsummit.org",
     "ethiopiansEligible": false,
     "description": "SDG Innovation Summit in Malaysia (19–22 Nov 2026). Funding: Flights, visa, hotel, meals. For: Students / youth.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "unreachable"
   },
   {
@@ -235,8 +314,61 @@
     "url": "https://asef.org",
     "ethiopiansEligible": false,
     "description": "ASEF LinkUp / ASEF Seminar in Slovenia / Mongolia (Oct–Nov 2026). Funding: Full. For: 18–30 (check country list).",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
+  },
+  {
+    "id": "ye-youth-ecopreneurs-programme-yeco-for-young-green-entrepreneurs-100",
+    "title": "Ye! Youth Ecopreneurs Programme (YECO) for young Green Entrepreneurs ($100,000 prize & All-Expenses-Paid Trip to International Conference)",
+    "location": "See official site",
+    "when": "Apply by 22 Nov 2026",
+    "startDate": null,
+    "deadline": "2026-11-22",
+    "funding": "Fully funded",
+    "fundingType": "full",
+    "audience": "Up to 35 years",
+    "age": {
+      "min": null,
+      "max": 35
+    },
+    "url": "https://social.yecommunity.com/topics/49027/page/yeco",
+    "ethiopiansEligible": true,
+    "description": "Applications are now open for the 2026/2027 Ye! Youth Ecopreneurs Programme. a global initiative by ITC and the UNCCD-G20 Global Land Initiative supporting young entrepreneurs who are developing innovative green businesses and land restoration solutions. The programme offers young entrepreneurs the opportunity to strengthen and scale their businesses through expert-led training, investment readiness support, international networking opportunities and access to global partners, including EY, Sidley Austin, WIPO and Google.",
+    "status": "open",
+    "details": {
+      "overview": "Applications are now open for the 2026/2027 Ye! Youth Ecopreneurs Programme. a global initiative by ITC and the UNCCD-G20 Global Land Initiative supporting young entrepreneurs who are developing innovative green businesses and land restoration solutions. The programme offers young entrepreneurs the opportunity to strengthen and scale their businesses through expert-led training, investment readiness support, international networking opportunities and access to global partners, including EY, Sidley Austin, WIPO and Google.",
+      "whoCanApply": [
+        "The programme is looking for passionate innovators with a clear understanding of the environmental challenges they tackle and scalable solutions ready for acceleration.",
+        "Legally registered and majority-run by a young person",
+        "The bootcamp is open globally, the accelerator is reserved for eligible countries – see the list here",
+        "Focused on Land Restoration or Green Business solutions"
+      ],
+      "benefits": [
+        "Capacity-building for scaling your venture",
+        "Seed Funding (shared pool of $100,000 USD for the land-restoration cohort in total, equity free)",
+        "Access to a Global Network & Exposure",
+        "Mentorship & Coaching",
+        "Legal and IP Guidance",
+        "Preferential access to Pro-Bono Legal Services from Sidley Austin",
+        "Preferential access to the Google StartUp for Sustainable Development Programme"
+      ],
+      "howToApply": [
+        "Read the full call on the official page (social.yecommunity.com)",
+        "Prepare a short CV and a motivation statement",
+        "Submit the application before 22 November 2026",
+        "Start your visa appointment early once accepted — Ethiopian passports need visas for most hosts"
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://social.yecommunity.com/topics/49027/page/yeco",
+      "https://www.opportunitiesforafricans.com/the-ye-youth-ecopreneurs-programme-yeco-2026-2027/"
+    ],
+    "lastVerified": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "discoveredAt": "2026-10-21",
+    "origin": "discovered",
+    "dateConfirmed": false
   },
   {
     "id": "falling-walls-lab-ethiopia-berlin-finale",
@@ -254,8 +386,66 @@
     "url": "https://falling-walls.com",
     "ethiopiansEligible": true,
     "description": "Falling Walls Lab Ethiopia -> Berlin Finale in Addis -> Berlin (Nov). Funding: Full for winner. For: Students / researchers.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
+  },
+  {
+    "id": "crossculture-programme-ccp-fellowships",
+    "title": "CrossCulture Programme (CCP) Fellowships",
+    "location": "Germany",
+    "when": "Apply by 08 Dec 2026",
+    "startDate": null,
+    "deadline": "2026-12-08",
+    "funding": "Fully funded",
+    "fundingType": "full",
+    "audience": "The CCP Fellowships are intended for professionals and volunteers who are actively involved in civil society…",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://applications-ccp.ifa.de/job-offers.html",
+    "ethiopiansEligible": true,
+    "description": "The CrossCulture Programme (CCP) Fellowships 2027, organised by the Institut für Auslandsbeziehungen (ifa), offers professionals and volunteers working in civil society an opportunity to strengthen their expertise, develop international networks, and gain practical experience through a professional placement with a host organisation in Germany or one of the programme’s partner countries. The programme supports civil society actors who contribute to social change, human rights, cultural exchange, democratic development, peacebuilding, and sustainable development.",
+    "status": "open",
+    "details": {
+      "overview": "The CrossCulture Programme (CCP) Fellowships 2027, organised by the Institut für Auslandsbeziehungen (ifa), offers professionals and volunteers working in civil society an opportunity to strengthen their expertise, develop international networks, and gain practical experience through a professional placement with a host organisation in Germany or one of the programme’s partner countries. The programme supports civil society actors who contribute to social change, human rights, cultural exchange, democratic development, peacebuilding, and sustainable development.",
+      "whoCanApply": [
+        "The CCP Fellowships are intended for professionals and volunteers who are actively involved in civil society organisations in their home countries.",
+        "Applicants must meet the programme’s stated participation requirements. Meeting the minimum requirements does not automatically guarantee selection, as applicants should also demonstrate relevant experience and a commitment to civil society work.",
+        "The programme lists two explicit exclusion criteria.",
+        "Students are not eligible to participate. The fellowship is designed for civil society professionals and volunteers with relevant experience, rather than students seeking an academic exchange or study opportunity.",
+        "Individuals who receive another form of funding in the same year, such as another fellowship, are also excluded under the stated programme rules.",
+        "Applicants should review these restrictions carefully before beginning an application. If they are currently enrolled as students or expect to receive another fellowship or similar funding in 2027, they should not assume that they qualify."
+      ],
+      "benefits": [
+        "Applicants should note that the programme is not open to everyone who wishes to undertake an international exchange. It is designed for people who already have professional or volunteer experience in civil society organisations and who can demonstrate a commitment to their work.",
+        "The CrossCulture Programme combines a professional placement with mentoring, professional development, transcultural learning, and international networking.",
+        "The CCP Fellowship offers financial and practical support to participants travelling from abroad. According to the programme information, the Institut für Auslandsbeziehungen covers several costs associated with participation.",
+        "For eligible international participants, the funding includes the following:",
+        "Fellows receive a monthly stipend of €650. This contribution is intended to support participants during their fellowship.",
+        "The CrossCulture Programme is also designed to support organisations that host fellows.",
+        "Host organisations have an opportunity to collaborate with international professionals and volunteers who bring relevant expertise, regional knowledge, and professional networks. The exchange can introduce new perspectives and create opportunities for learning across cultural and organisational contexts."
+      ],
+      "howToApply": [
+        "The CrossCulture Programme works with participants from more than 40 countries. However, applicants must consult the programme’s currently participating countries and the relevant country-specific call for applications.",
+        "The programme website directs applicants to select the appropriate country call through its application portal. This means applicants should not assume that every country is eligible for every fellowship cycle or that all countries participate in the same way.",
+        "The available programme information does not provide a complete written list of participating countries in the supplied text. Therefore, the exact countries eligible for the 2027 application round cannot be confirmed from this information alone.",
+        "Applicants from Africa, Asia, Europe, Latin America, the Middle East, and other regions should check the official participating-country information rather than assuming eligibility based only on their continent or nationality.",
+        "The programme’s emphasis on international civil society exchange makes it relevant to applicants from different regions, but eligibility must be confirmed through the current country-specific call.",
+        "The programme outlines a three-step application process. Applications must be submitted online through the official application portal.",
+        "No. The programme explicitly states that students are not eligible to participate."
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://applications-ccp.ifa.de/job-offers.html",
+      "https://opportunitiesforyouth.org/2026/10/21/crossculture-programfully-funded-to-germany/"
+    ],
+    "lastVerified": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "discoveredAt": "2026-10-21",
+    "origin": "discovered",
+    "dateConfirmed": false
   },
   {
     "id": "free-three-day-training-programme-with-travel-grants-for-eligible-appl",
@@ -309,7 +499,7 @@
       "https://opportunitiesforyouth.org/2026/10/12/iaffes-2nd-feminist-economics-school-call-for-applicationsfully-funded/"
     ],
     "lastVerified": "2026-10-17",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "discoveredAt": "2026-10-17",
     "origin": "discovered",
     "dateConfirmed": true,
@@ -331,7 +521,7 @@
     "url": "https://www.intgovforum.org",
     "ethiopiansEligible": true,
     "description": "Internet Governance Forum (IGF) Youth Fellowship in Rotates (Dec). Funding: Full. For: 18–35.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "unreachable"
   },
   {
@@ -350,7 +540,7 @@
     "url": "https://blackinai.github.io",
     "ethiopiansEligible": true,
     "description": "AfricArXiv / Black in AI workshop (NeurIPS) in Global (Dec). Funding: Travel grants. For: Researchers.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -369,7 +559,7 @@
     "url": "https://www.nobelpeacecenter.org",
     "ethiopiansEligible": false,
     "description": "Nobel Peace Prize Forum / Nobel Week Dialogue youth in Norway / Sweden (Dec). Funding: Travel grants. For: Youth.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -419,11 +609,66 @@
       "https://opportunitiesforyouth.org/2026/10/13/csw71-saef-delegate-application-2027/"
     ],
     "lastVerified": "2026-10-17",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "discoveredAt": "2026-10-17",
     "origin": "discovered",
     "dateConfirmed": true,
     "checkStatus": "reachable"
+  },
+  {
+    "id": "international-institute-for-applied-systems-analysis-iiasa-young-scien",
+    "title": "International Institute for Applied Systems Analysis (IIASA) Young Scientists Summer Program",
+    "location": "Vienna, Austria",
+    "when": "Apply by 10 Jan 2027",
+    "startDate": null,
+    "deadline": "2027-01-10",
+    "funding": "Partial funding — see official page",
+    "fundingType": "partial",
+    "audience": "Be enrolled in a PhD program, ideally within one to two years of completing your degree",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://iiasa.ac.at/early-career/yssp",
+    "ethiopiansEligible": true,
+    "description": "Applications are now open for the IIASA Young Scientists Summer Program. The International Institute for Applied Systems Analysis (IIASA) is an independent, international research institute in Laxenburg, near Vienna, Austria. Since 1977, the YSSP has brought doctoral researchers from around the world together for a summer of discovery, collaboration, and new connections at IIASA. Over three months, you will work with your IIASA mentor on a research project that opens up new ideas and perspectives. Together, you will shape a focused project that can be accomplished during the summer.",
+    "status": "open",
+    "details": {
+      "overview": "Applications are now open for the IIASA Young Scientists Summer Program. The International Institute for Applied Systems Analysis (IIASA) is an independent, international research institute in Laxenburg, near Vienna, Austria. Since 1977, the YSSP has brought doctoral researchers from around the world together for a summer of discovery, collaboration, and new connections at IIASA. Over three months, you will work with your IIASA mentor on a research project that opens up new ideas and perspectives. Together, you will shape a focused project that can be accomplished during the summer.",
+      "whoCanApply": [
+        "Be enrolled in a PhD program, ideally within one to two years of completing your degree.",
+        "Propose research that connects with IIASA’s research areas.",
+        "Be able to formulate research questions and work independently, with guidance from a mentor.",
+        "Be interested in interdisciplinary research and the wider relevance of your work.",
+        "Have sufficient proficiency in English to conduct research, discuss your work, and participate fully in the program.",
+        "Be available to participate full-time and in person for the full program period (3 months, June, July & August)"
+      ],
+      "benefits": [
+        "Academic mentorship: Develop your project with guidance and feedback from IIASA researchers.",
+        "Interdisciplinary perspectives: Exchange ideas with scientists working across disciplines on global challenges.",
+        "Research and professional development: Build your knowledge and skills through the YSSP training program.",
+        "International connections: Become part of a cohort of around 50 doctoral researchers and connect with the wider IIASA community.",
+        "The YSSP is a three-month mentored research program. It consists of three aspects:",
+        "YSSP Training Program – tailored to early career researchers to build their skills and knowledge through seminars, workshops, and talks. It is expected that approximately 20% of your YSSP time will be spent on this aspect.",
+        "YSSP social program – helps participants build connections within their cohort and across the institute. It is expected that approximately 10% of your YSSP time will be spent on this aspect."
+      ],
+      "howToApply": [
+        "Read the full call on the official page (iiasa.ac.at)",
+        "Prepare a short CV and a motivation statement",
+        "Submit the application before 10 January 2027",
+        "Start your visa appointment early once accepted — Ethiopian passports need visas for most hosts"
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://iiasa.ac.at/early-career/yssp",
+      "https://www.opportunitiesforafricans.com/the-international-institute-for-applied-systems-analysis-iiasa-young-scientists-summer-program-2027/"
+    ],
+    "lastVerified": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "discoveredAt": "2026-10-21",
+    "origin": "discovered",
+    "dateConfirmed": false
   },
   {
     "id": "youth-action-summit-2027",
@@ -441,7 +686,7 @@
     "url": "https://cda.org",
     "ethiopiansEligible": false,
     "description": "Youth Action Summit 2027 in Germany (11–14 Jan 2027). Funding: Full/partial. For: 18–35.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "unreachable"
   },
   {
@@ -460,7 +705,7 @@
     "url": "https://www.obama.org/programs/leaders",
     "ethiopiansEligible": true,
     "description": "Obama Foundation Leaders: Africa in Johannesburg + virtual (Apply Jan–Feb). Funding: Full. For: Emerging leaders.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -479,7 +724,7 @@
     "url": "https://www.hpair.org",
     "ethiopiansEligible": false,
     "description": "Harvard Project for Asian & International Relations (HPAIR) in Asia / Boston (Aug / Feb). Funding: Scholarships available. For: University students.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -498,7 +743,7 @@
     "url": "https://www.tonyelumelufoundation.org",
     "ethiopiansEligible": true,
     "description": "Tony Elumelu Foundation Entrepreneurship Programme in Online + Lagos forum (Jan–Mar apply). Funding: $5,000 seed + training. For: 18+.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -517,7 +762,7 @@
     "url": "https://ecosoc.un.org",
     "ethiopiansEligible": true,
     "description": "UN Youth Forum (ECOSOC) in New York (April). Funding: Partial/full via sponsors. For: 18–30.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -536,7 +781,7 @@
     "url": "https://www.cugh.org",
     "ethiopiansEligible": false,
     "description": "Global Health Conference – CUGH travel awards in USA (Mar–Apr). Funding: Travel grants. For: Students.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -555,7 +800,7 @@
     "url": "https://www.datascienceafrica.org",
     "ethiopiansEligible": true,
     "description": "Data Science Africa Summer School in Africa (Jun–Jul). Funding: Travel grants. For: Students.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -574,8 +819,28 @@
     "url": "https://deeplearningindaba.com",
     "ethiopiansEligible": true,
     "description": "Google / Deep Learning Indaba in Africa (rotates) (Aug–Sept). Funding: Travel grants. For: Students, researchers.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
+  },
+  {
+    "id": "mandela-washington-fellowship",
+    "title": "Mandela Washington Fellowship (YALI)",
+    "location": "USA",
+    "when": "Jun–Jul 2028 (apply Sept–Oct 2027)",
+    "startDate": "2027-10-20",
+    "funding": "Full",
+    "fundingType": "full",
+    "audience": "25–35",
+    "age": {
+      "min": 25,
+      "max": 35
+    },
+    "url": "https://www.mandelawashingtonfellowship.org",
+    "ethiopiansEligible": true,
+    "description": "Mandela Washington Fellowship (YALI) in USA (Jun–Jul 2027 (apply Sept–Oct 2026)). Funding: Full. For: 25–35.",
+    "lastChecked": "2026-10-21",
+    "checkStatus": "reachable",
+    "dateConfirmed": false
   },
   {
     "id": "dll-conference",
@@ -593,7 +858,7 @@
     "url": "https://afrileadnetwork.org",
     "ethiopiansEligible": true,
     "description": "DLL Conference (AfriLead Network) in Zanzibar, Tanzania (2026). Funding: Full. For: Young African professionals.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -612,7 +877,7 @@
     "url": "https://yalieastafrica.org",
     "ethiopiansEligible": true,
     "description": "YALI Regional Leadership Center East Africa in Nairobi, Kenya (Multiple cohorts). Funding: Full. For: 18–35.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -631,7 +896,7 @@
     "url": "https://au.int/en/youth",
     "ethiopiansEligible": true,
     "description": "Africa Youth Summit / AU Youth Forum in Rotates (Addis often) (Yearly). Funding: Full. For: 15–35.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "unreachable"
   },
   {
@@ -650,7 +915,7 @@
     "url": "https://www.itu.int/generationconnect",
     "ethiopiansEligible": true,
     "description": "ITU Generation Connect in Global (Various). Funding: Travel grants. For: 18–29.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -669,7 +934,7 @@
     "url": "https://gsw.mit.edu",
     "ethiopiansEligible": false,
     "description": "MIT Global Startup Workshop / MIT Africa Innovate in Rotates (Spring). Funding: Partial. For: Entrepreneurs.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "reachable"
   },
   {
@@ -688,7 +953,7 @@
     "url": "https://acumen.org/fellowships",
     "ethiopiansEligible": true,
     "description": "Ashoka / Acumen Fellowships in Global/East Africa (Rolling). Funding: Full. For: Social entrepreneurs.",
-    "lastChecked": "2026-10-19",
+    "lastChecked": "2026-10-21",
     "checkStatus": "unreachable"
   },
   {
@@ -707,8 +972,8 @@
     "url": "https://careers.un.org",
     "ethiopiansEligible": true,
     "description": "WHO / UNICEF / UNDP Youth Internships & Forums in Addis (UNECA, AU HQ) (Rolling). Funding: Stipend. For: 18–32.",
-    "lastChecked": "2026-10-19",
-    "checkStatus": "reachable"
+    "lastChecked": "2026-10-21",
+    "checkStatus": "unreachable"
   },
   {
     "id": "model-un-ethiopian-mun-addis-ababa-mun-aimun",
