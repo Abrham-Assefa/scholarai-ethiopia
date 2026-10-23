@@ -160,7 +160,7 @@
       "https://www.daad-ethiopia.org/en/scholarship-database/"
     ],
     "lastVerified": "2026-10-17",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "unreachable"
   },
   {
@@ -335,8 +335,77 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
+  },
+  {
+    "id": "us-mepi-tomorrow-s-leaders-program-for-undergraduate-graduate-students",
+    "title": "US-MEPI Tomorrow’s Leaders Program for undergraduate & graduate Students from the Middle East and North Africa",
+    "provider": "tomorrowsleadersprogram.org",
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "bachelor"
+    ],
+    "fields": [
+      "computer science",
+      "business",
+      "law"
+    ],
+    "fundingType": "full",
+    "covers": "Fully funded",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "englishTest": "recommended"
+    },
+    "deadline": "2026-11-18",
+    "deadlineText": "Application deadline: 18 November 2026 (published on opportunitiesforafricans.com)",
+    "url": "https://www.tomorrowsleadersprogram.org/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027/2028 US-MEPI Tomorrow’s Leaders Program. Sponsored by the Department of State’s U.S.-Middle East Partnership Initiative (MEPI), the Tomorrow’s Leaders Program offers undergraduate scholarships and leadership training to highly motivated candidates from the Middle East and North Africa (MENA) region. The Tomorrow’s Leaders Program partners with prominent American style universities in the MENA region to build a dynamic network of future leaders.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027/2028 US-MEPI Tomorrow’s Leaders Program. Sponsored by the Department of State’s U.S.-Middle East Partnership Initiative (MEPI), the Tomorrow’s Leaders Program offers undergraduate scholarships and leadership training to highly motivated candidates from the Middle East and North Africa (MENA) region. The Tomorrow’s Leaders Program partners with prominent American style universities in the MENA region to build a dynamic network of future leaders.",
+      "whoCanApply": [
+        "Applicants must be citizens of Algeria, Egypt, Iraq, Jordan, Lebanon, Libya, Morocco, Syria, Tunisia, West Bank or Palestinian students who currently reside in a third country with legal residency status, or Yemen.",
+        "U.S. citizens and U.S. legal permanent residents are not eligible to apply.",
+        "Applicants must also meet the following requirements:"
+      ],
+      "benefits": [],
+      "howToApply": [
+        "Read the full call on the official page (tomorrowsleadersprogram.org)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 18 November 2026",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 18 November 2026.",
+        "Book IELTS/TOEFL in Addis Ababa early — test dates fill up weeks ahead.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.tomorrowsleadersprogram.org/",
+      "https://www.opportunitiesforafricans.com/us-mepi-tomorrows-leaders-program-2027-2028/"
+    ],
+    "lastVerified": "2026-10-23",
+    "lastChecked": "2026-10-23",
+    "discoveredAt": "2026-10-23",
+    "origin": "discovered"
   },
   {
     "id": "swiss-government-excellence-scholarships",
@@ -417,7 +486,7 @@
       "https://www.eda.admin.ch/countries/ethiopia/en/home/services/scholarships.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -495,8 +564,85 @@
       "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
+  },
+  {
+    "id": "city-st-george-s-university-of-london-phd-studentship-in-economics",
+    "title": "City St George’s University of London PhD Studentship in Economics",
+    "provider": null,
+    "country": "UK",
+    "countries": [
+      "UK"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "economics"
+    ],
+    "fundingType": "full",
+    "covers": "The university is offering four fully funded scholarship opportunities for successful applicants to the PhD programme in Economics",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-11-30",
+    "deadlineText": "Application deadline: 30 November 2026 (published on opportunitiesforyouth.org)",
+    "url": "https://opportunitiesforyouth.org/2026/10/22/city-st-georges-university-of-london-phd-studentship-in-economics-2027-fully-funded-phd-scholarships-for-uk-eu-and-international-students/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Are you looking for a fully funded PhD scholarship in Economics in the United Kingdom? The City St George’s, University of London PhD Studentship in Economics offers an excellent opportunity for aspiring researchers to pursue doctoral studies at a leading London university. The programme provides access to research training, academic supervision, interdisciplinary collaboration, and potential funding opportunities covering tuition fees, living expenses, and research costs. For the 2027 entry cycle, the Department of Economics is offering four fully funded scholarships for eligible doctoral applicants.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Are you looking for a fully funded PhD scholarship in Economics in the United Kingdom? The City St George’s, University of London PhD Studentship in Economics offers an excellent opportunity for aspiring researchers to pursue doctoral studies at a leading London university. The programme provides access to research training, academic supervision, interdisciplinary collaboration, and potential funding opportunities covering tuition fees, living expenses, and research costs. For the 2027 entry cycle, the Department of Economics is offering four fully funded scholarships for eligible doctoral applicants.",
+      "whoCanApply": [
+        "Applicants must satisfy the university’s academic admission requirements and any additional criteria associated with the funding award for which they apply.",
+        "The advertisement specifically identifies a Master’s degree in Economics or a related field as the academic background expected of applicants.",
+        "Applicants should have an MSc in Economics or a related discipline.",
+        "Candidates with a relevant postgraduate background should examine the official programme requirements to determine whether their degree and previous academic preparation meet the university’s expectations.",
+        "Because doctoral research requires substantial independent study, applicants should be prepared to demonstrate the academic knowledge and research capability needed to develop a PhD project.",
+        "The advert does not provide a complete list of accepted related degrees, minimum grades, English-language requirements, or other admission conditions. These should be checked on the official programme webpage.",
+        "https://www.city.ac.uk/prospective-students/courses/research/economics"
+      ],
+      "benefits": [
+        "The university is offering four fully funded scholarship opportunities for successful applicants to the PhD programme in Economics.",
+        "These awards are intended to support doctoral researchers during the first three years of their studies and reduce the financial barriers associated with postgraduate research in the United Kingdom.",
+        "Two departmental studentships",
+        "One School studentship",
+        "One SENSS scholarship through the SENSS Doctoral Training Partnership",
+        "Each full scholarship covers student fees, provides a stipend, and contributes towards research expenses across the first three years of study.",
+        "The department will support applicants who apply for the SENSS scholarship. Candidates should carefully review the relevant funding requirements to understand the application process and any additional conditions associated with the individual awards."
+      ],
+      "howToApply": [
+        "Applicants should prepare carefully before submitting an application, particularly if they intend to compete for one of the limited full scholarships.",
+        "Follow these steps to begin the application process.",
+        "Yes. The advert lists UK students, EU students, and international students among the groups eligible for funding. Applicants must still satisfy the programme’s admission requirements and the specific conditions of the funding award.",
+        "The university advises applicants to review faculty research and contact potential supervisors to discuss their research projects before submitting an application."
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 30 November 2026.",
+        "Tailor your motivation letter to Ethiopian development priorities and your concrete plans after study.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://opportunitiesforyouth.org/2026/10/22/city-st-georges-university-of-london-phd-studentship-in-economics-2027-fully-funded-phd-scholarships-for-uk-eu-and-international-students/"
+    ],
+    "lastVerified": "2026-10-23",
+    "lastChecked": "2026-10-23",
+    "discoveredAt": "2026-10-23",
+    "origin": "discovered"
   },
   {
     "id": "asian-development-bank-japan-scholarship-program",
@@ -743,7 +889,7 @@
       "https://au.int/sites/default/files/announcements/45594-annc-2026_PAU_Admission_Call_Englsih.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -825,7 +971,7 @@
       "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -913,7 +1059,7 @@
       "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -995,8 +1141,84 @@
       "https://www.gatescambridge.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "unreachable"
+  },
+  {
+    "id": "fully-funded-centa-phd-studentships-in-earth-and-environmental-science",
+    "title": "Fully Funded CENTA PhD Studentships in Earth and Environmental Sciences",
+    "provider": "centa.ac.uk",
+    "country": "UK",
+    "countries": [
+      "UK"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "environment"
+    ],
+    "fundingType": "full",
+    "covers": "Successful applicants will receive an annual stipend to support their living expenses while undertaking doctoral research",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-01-06",
+    "deadlineText": "Application deadline: 06 January 2027 (published on opportunitiesforyouth.org)",
+    "url": "https://centa.ac.uk/apply/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are open for the CENTA fully funded PhD studentships for autumn 2027 entry, offering prospective doctoral researchers the opportunity to pursue advanced research in Earth and Environmental Sciences through a partnership of leading universities and research centres in the English Midlands. The studentships are designed for candidates who want to develop specialist research skills, contribute to scientific knowledge, and prepare for careers in research, academia, environmental management, and related fields.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are open for the CENTA fully funded PhD studentships for autumn 2027 entry, offering prospective doctoral researchers the opportunity to pursue advanced research in Earth and Environmental Sciences through a partnership of leading universities and research centres in the English Midlands. The studentships are designed for candidates who want to develop specialist research skills, contribute to scientific knowledge, and prepare for careers in research, academia, environmental management, and related fields.",
+      "whoCanApply": [
+        "The programme is intended for prospective doctoral researchers interested in pursuing PhD-level research in Earth and Environmental Sciences for autumn 2027 entry.",
+        "It may be particularly relevant to graduates who want to build on their previous academic training and develop advanced research expertise in an appropriate scientific discipline.",
+        "Potential applicants should be prepared to demonstrate that their qualifications and research interests match the requirements of their chosen project.",
+        "The announcement does not provide a complete list of required degrees, minimum grades, or subject-specific entry criteria. These requirements should therefore be checked separately for each available project.",
+        "As a general guide, prospective applicants should review whether their academic background meets the following types of requirements:",
+        "A relevant undergraduate degree, where accepted by the particular project.",
+        "A master’s degree or equivalent qualification, if required by the project."
+      ],
+      "benefits": [
+        "Successful applicants will receive an annual stipend to support their living expenses while undertaking doctoral research.",
+        "A stipend can help doctoral researchers cover everyday costs during their studies, allowing them to devote more time to research, academic training, and related activities.",
+        "However, the announcement does not specify the exact stipend amount for the 2027 entry cycle. Candidates should check the official CENTA website and the details attached to their preferred projects for the applicable rate, payment arrangements, and funding duration.",
+        "The studentships cover a range of research projects in Earth and Environmental Sciences. The specific topics should be reviewed in the official CENTA project listings.",
+        "The announcement lists an annual stipend, tuition fee support at the home-fee level, and a Research Training Support Grant for research costs, training, and conference attendance. The exact amounts and conditions should be checked on the official website."
+      ],
+      "howToApply": [
+        "Interested candidates can begin by visiting the official CENTA application website:",
+        "Official application and project information: https://centa.ac.uk/apply/",
+        "The following steps provide a practical way to approach the application process.",
+        "The announcement does not specify a complete list of eligible countries or confirm unrestricted international eligibility. International candidates should consult the official eligibility guidance and confirm how the home-fee-level funding condition applies to them."
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 06 January 2027.",
+        "Tailor your motivation letter to Ethiopian development priorities and your concrete plans after study.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://centa.ac.uk/apply/",
+      "https://opportunitiesforyouth.org/2026/10/21/apply-now-fully-funded-phd-studentships-in-earth-and-environmental-sciences-centa-2026-entry/"
+    ],
+    "lastVerified": "2026-10-23",
+    "lastChecked": "2026-10-23",
+    "discoveredAt": "2026-10-23",
+    "origin": "discovered"
   },
   {
     "id": "clarendon-scholarships",
@@ -1075,7 +1297,7 @@
       "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "unreachable"
   },
   {
@@ -1163,6 +1385,84 @@
     "origin": "discovered"
   },
   {
+    "id": "lse-mphil-phd-demography-social-formal-28",
+    "title": "LSE MPhil/PhD Demography (Social/Formal) /28",
+    "provider": "lse.ac.uk",
+    "country": "UK",
+    "countries": [
+      "UK"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "economics",
+      "public policy"
+    ],
+    "fundingType": "partial",
+    "covers": "LSE PhD Studentships and ESRC funding, subject to eligibility and competition",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "englishTest": "required"
+    },
+    "deadline": "2027-01-13",
+    "deadlineText": "Application deadline: 13 January 2027 (published on opportunitiesforyouth.org)",
+    "url": "https://www.lse.ac.uk/study-at-lse/graduate/mphilphd-demography-social-formal",
+    "source": "web-collector",
+    "tags": [
+      "partial-funding",
+      "auto-collected"
+    ],
+    "description": "The LSE MPhil/PhD Demography (Social/Formal) 2027/28 is a postgraduate research programme offered by the London School of Economics and Political Science (LSE) in the United Kingdom. The programme is designed for graduates who want to develop advanced demographic research skills and investigate how human populations change over time through births, deaths, migration, ageing, and other social and economic processes. Demography plays an important role in understanding some of the most pressing issues facing societies today.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The LSE MPhil/PhD Demography (Social/Formal) 2027/28 is a postgraduate research programme offered by the London School of Economics and Political Science (LSE) in the United Kingdom. The programme is designed for graduates who want to develop advanced demographic research skills and investigate how human populations change over time through births, deaths, migration, ageing, and other social and economic processes. Demography plays an important role in understanding some of the most pressing issues facing societies today.",
+      "whoCanApply": [
+        "The programme is intended for academically qualified graduates who want to pursue advanced research in demography and related social science disciplines. Applicants should assess both the minimum academic requirements and the suitability of their proposed research before applying.",
+        "The programme lists its English-language requirement category as Research.",
+        "Applicants should consult LSE’s official English-language requirements page to determine which evidence of English proficiency may be required in their circumstances.",
+        "Requirements can depend on an applicant’s previous education, qualifications, and other circumstances recognized by the university.",
+        "Applicants should not assume that an English-language test is either mandatory or automatically waived without checking the applicable rules. Where evidence is required, applicants should establish which tests and scores are accepted and ensure that any evidence remains valid under the university’s policy."
+      ],
+      "benefits": [
+        "LSE PhD Studentships and ESRC funding, subject to eligibility and competition",
+        "Although applicants must account for tuition and living costs, LSE identifies funding opportunities that may help eligible students finance their doctoral studies.",
+        "The programme also identifies Economic and Social Research Council funding as an available funding route.",
+        "ESRC funding is relevant to social science research and may support eligible doctoral researchers, subject to the applicable scheme and selection criteria.",
+        "The structure and duration of an ESRC studentship, including arrangements for part-time study where applicable, can depend on the candidate’s previous academic experience and social research training.",
+        "Applicants should review the current funding conditions carefully to establish which awards apply to their circumstances.",
+        "The deadline for consideration for LSE PhD Studentships and ESRC funding is 13 January 2027."
+      ],
+      "howToApply": [
+        "Applications are managed through LSE Graduate Admissions. Prospective students should prepare a strong application that demonstrates academic ability, research potential, and alignment with the department’s expertise.",
+        "Applicants seeking LSE PhD Studentships or ESRC funding should submit their complete applications by 13 January 2027.",
+        "Applicants who are not seeking consideration for these funding opportunities should note the main programme application deadline of 27 May 2027 and verify any other relevant funding deadlines.",
+        "The university may require additional information or evidence during the admissions process, so applicants should monitor their application accounts and email communications."
+      ],
+      "documents": [],
+      "selection": "LSE emphasizes that competition for places is strong. Meeting the minimum entry requirements does not guarantee an offer. The admissions process considers the complete application, including academic performance, the statement of academic purpose, references, CV, research proposal, and sample of written work. Applicants should therefore pay careful attention to the quality, clarity, and coherence of their research proposal and explain how their academic background has prepared them for doctoral research.",
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 13 January 2027.",
+        "Book IELTS/TOEFL in Addis Ababa early — test dates fill up weeks ahead.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.lse.ac.uk/study-at-lse/graduate/mphilphd-demography-social-formal",
+      "https://opportunitiesforyouth.org/2026/10/22/lse-mphil-phd-demography-social-formal-2027-28/"
+    ],
+    "lastVerified": "2026-10-23",
+    "lastChecked": "2026-10-23",
+    "discoveredAt": "2026-10-23",
+    "origin": "discovered"
+  },
+  {
     "id": "kaist-international-scholarship",
     "title": "KAIST International Student Scholarship",
     "provider": "Korea Advanced Institute of Science and Technology (KAIST)",
@@ -1242,7 +1542,7 @@
       "https://www.kaist.ac.kr/en/html/edu/03100502.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -1321,7 +1621,7 @@
       "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -1405,7 +1705,7 @@
       "https://stipendiumhungaricum.hu/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -1488,7 +1788,7 @@
       "https://education-in-russia.com/selection"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -1646,6 +1946,154 @@
     "lastVerified": "2026-10-21",
     "lastChecked": "2026-10-21",
     "discoveredAt": "2026-10-21",
+    "origin": "discovered"
+  },
+  {
+    "id": "swedish-institute-scholarships-for-global-professionals",
+    "title": "SI Scholarship for Global Professionals",
+    "provider": "Swedish Institute",
+    "country": "Sweden",
+    "countries": [
+      "Sweden"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Full tuition, monthly living allowance, insurance, travel grant and SI professional network membership.",
+    "eligibility": {
+      "ethiopiansEligible": true,
+      "englishTest": "required",
+      "workYearsMin": 1,
+      "nationalities": [
+        "ET"
+      ]
+    },
+    "deadline": "2027-01-15",
+    "deadlineConfirmed": true,
+    "deadlineText": "Application deadline: 15 January 2027 (published on opportunitiesforyouth.org)",
+    "url": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+    "source": "web-research",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "The Swedish Institute Scholarship for Global Professionals funds master’s study in Sweden for future leaders from eligible countries, including Ethiopia under recent country lists. Applicants first apply to eligible Swedish master’s programmes through University Admissions. SI then runs a separate scholarship application using its own CV, reference and work/leadership templates. The award is competitive and focuses on applicants who can contribute to sustainable development in their home countries. It is one of the best-known fully funded Swedish master’s routes.",
+    "status": "open",
+    "details": {
+      "overview": "The Swedish Institute Scholarship for Global Professionals funds master’s study in Sweden for future leaders from eligible countries, including Ethiopia under recent country lists. Applicants first apply to eligible Swedish master’s programmes through University Admissions. SI then runs a separate scholarship application using its own CV, reference and work/leadership templates. The award is competitive and focuses on applicants who can contribute to sustainable development in their home countries. It is one of the best-known fully funded Swedish master’s routes.",
+      "whoCanApply": [
+        "Citizens of SI-eligible countries including Ethiopia when listed for the cycle",
+        "Applicants admitted or liable to pay tuition for an eligible Swedish master’s programme",
+        "Applicants with documented work and leadership experience",
+        "Applicants who follow SI document templates exactly"
+      ],
+      "benefits": [
+        "Full tuition fee coverage paid directly to the Swedish university",
+        "Monthly living allowance",
+        "Travel grant for scholars from eligible countries",
+        "Insurance against illness and accident",
+        "Membership in SI Network for Future Global Professionals"
+      ],
+      "howToApply": [
+        "Apply for Swedish master’s programmes at UniversityAdmissions.se by the January deadline",
+        "Pay any university application fee if required",
+        "Prepare SI CV, work/leadership proof, references and ID using official templates",
+        "Submit the SI scholarship application during 9-25 February"
+      ],
+      "documents": [
+        "SI CV template",
+        "Proof of work and leadership experience template",
+        "Two SI reference letters",
+        "Passport or national ID copy",
+        "University application number and eligible programme choices"
+      ],
+      "selection": "SI checks eligibility and documents, then ranks applicants by leadership, motivation, professional background and fit with Swedish development priorities. Scholarship results are normally released after university admission results.",
+      "ethiopiaTips": [
+        "Stamp and sign employer/reference templates before scanning; unstamped forms are a common problem",
+        "Choose Swedish programmes that clearly connect to Ethiopia’s development needs",
+        "Keep the University Admissions application number because SI asks for it",
+        "Do not upload extra documents beyond SI instructions unless requested"
+      ],
+      "applicationOpens": "University applications usually open in October; SI scholarship portal opens 9 February"
+    },
+    "sources": [
+      "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+      "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/"
+    ],
+    "lastVerified": "2026-10-23",
+    "lastChecked": "2026-10-23",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "swedish-institute-scholarships-for-global-professionals-for-master-s-l",
+    "title": "Swedish Institute Scholarships for Global Professionals for Master’s Level Studies in Sweden",
+    "provider": "si.se",
+    "country": "Sweden",
+    "countries": [
+      "Sweden"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "business"
+    ],
+    "fundingType": "full",
+    "covers": "Fully funded",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-01-15",
+    "deadlineText": "Application deadline: 15 January 2027 (published on opportunitiesforafricans.com)",
+    "url": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027 Swedish Institute Scholarships for Global Professionals. The SI Scholarship for Global Professionals offers you the opportunity to access world-class education, cutting edge research and gain new perspectives. You will also expand your professional network while developing the knowledge, skills and experiences needed to take on leadership roles and drive change in your local context. Through the scholarship, Sweden invests in global talent to build lasting partnerships for a more sustainable and equitable world. The scholarship supports full-time, one- or two-year master’s studies at Swedish universities within the following study fields:",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027 Swedish Institute Scholarships for Global Professionals. The SI Scholarship for Global Professionals offers you the opportunity to access world-class education, cutting edge research and gain new perspectives. You will also expand your professional network while developing the knowledge, skills and experiences needed to take on leadership roles and drive change in your local context. Through the scholarship, Sweden invests in global talent to build lasting partnerships for a more sustainable and equitable world. The scholarship supports full-time, one- or two-year master’s studies at Swedish universities within the following study fields:",
+      "whoCanApply": [
+        "The scholarship is open for applications once every year, for master’s studies beginning in the autumn semester. In order to apply you must:",
+        "Be a citizen of one of the 34 eligible countries for the SI Scholarship for Global Professionals",
+        "Apply for a master’s programme that is eligible for the SI scholarship",
+        "Be liable to pay tuition fees at University Admissions (SI will cover the fees if you are awarded the scholarship)",
+        "Have demonstrated work experience",
+        "Have demonstrated leadership experience from a current or previous employer, entrepreneurship or from civil society engagement."
+      ],
+      "benefits": [],
+      "howToApply": [
+        "Apply for a master’s programme – Date:16 Oct 2026 – 15 Jan 2027",
+        "Apply for a Global Professionals scholarship: 8 Feb 2027 – 24 Feb 2027",
+        "SI screening and evaluation: 25 Feb 2027 – 31 Mar 2027",
+        "Notifications from University Admissions: 1 Apr 2027",
+        "Final evaluation and announcement of scholarship recipients: 1 Apr 2027 – 22 Apr 2027"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 15 January 2027.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+      "https://www.opportunitiesforafricans.com/swedish-institute-scholarships-2027-for-global-professionals-for-masters-level-studies-in-sweden/"
+    ],
+    "lastVerified": "2026-10-23",
+    "lastChecked": "2026-10-23",
+    "discoveredAt": "2026-10-23",
     "origin": "discovered"
   },
   {
@@ -1823,7 +2271,7 @@
       "https://www.isdb.org/scholarships/scholarship-programs"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -1910,7 +2358,7 @@
       "https://moe.gov.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -1997,7 +2445,7 @@
       "https://www.daad.de/en/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -2076,7 +2524,7 @@
       "https://www.studyinnl.org/finances/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -2160,7 +2608,7 @@
       "https://www.mfa.gov.bn/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -2246,7 +2694,7 @@
       "https://twas.org/opportunities/fellowships/phd"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -2330,86 +2778,7 @@
       "https://tbbs.turkiyeburslari.gov.tr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
-    "checkStatus": "reachable"
-  },
-  {
-    "id": "swedish-institute-scholarships-for-global-professionals",
-    "title": "SI Scholarship for Global Professionals",
-    "provider": "Swedish Institute",
-    "country": "Sweden",
-    "countries": [
-      "Sweden"
-    ],
-    "level": [
-      "master"
-    ],
-    "fields": [
-      "any"
-    ],
-    "fundingType": "full",
-    "covers": "Full tuition, monthly living allowance, insurance, travel grant and SI professional network membership.",
-    "eligibility": {
-      "ethiopiansEligible": true,
-      "englishTest": "required",
-      "workYearsMin": 1,
-      "nationalities": [
-        "ET"
-      ]
-    },
-    "deadline": "2027-02-25",
-    "deadlineConfirmed": false,
-    "deadlineText": "Official page states the SI portal runs 9-25 February; year-specific 2027 date should be reconfirmed.",
-    "url": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
-    "source": "web-research",
-    "tags": [
-      "fully-funded",
-      "estimated-deadline"
-    ],
-    "description": "The Swedish Institute Scholarship for Global Professionals funds master’s study in Sweden for future leaders from eligible countries, including Ethiopia under recent country lists. Applicants first apply to eligible Swedish master’s programmes through University Admissions. SI then runs a separate scholarship application using its own CV, reference and work/leadership templates. The award is competitive and focuses on applicants who can contribute to sustainable development in their home countries. It is one of the best-known fully funded Swedish master’s routes.",
-    "status": "upcoming",
-    "details": {
-      "overview": "The Swedish Institute Scholarship for Global Professionals funds master’s study in Sweden for future leaders from eligible countries, including Ethiopia under recent country lists. Applicants first apply to eligible Swedish master’s programmes through University Admissions. SI then runs a separate scholarship application using its own CV, reference and work/leadership templates. The award is competitive and focuses on applicants who can contribute to sustainable development in their home countries. It is one of the best-known fully funded Swedish master’s routes.",
-      "whoCanApply": [
-        "Citizens of SI-eligible countries including Ethiopia when listed for the cycle",
-        "Applicants admitted or liable to pay tuition for an eligible Swedish master’s programme",
-        "Applicants with documented work and leadership experience",
-        "Applicants who follow SI document templates exactly"
-      ],
-      "benefits": [
-        "Full tuition fee coverage paid directly to the Swedish university",
-        "Monthly living allowance",
-        "Travel grant for scholars from eligible countries",
-        "Insurance against illness and accident",
-        "Membership in SI Network for Future Global Professionals"
-      ],
-      "howToApply": [
-        "Apply for Swedish master’s programmes at UniversityAdmissions.se by the January deadline",
-        "Pay any university application fee if required",
-        "Prepare SI CV, work/leadership proof, references and ID using official templates",
-        "Submit the SI scholarship application during 9-25 February"
-      ],
-      "documents": [
-        "SI CV template",
-        "Proof of work and leadership experience template",
-        "Two SI reference letters",
-        "Passport or national ID copy",
-        "University application number and eligible programme choices"
-      ],
-      "selection": "SI checks eligibility and documents, then ranks applicants by leadership, motivation, professional background and fit with Swedish development priorities. Scholarship results are normally released after university admission results.",
-      "ethiopiaTips": [
-        "Stamp and sign employer/reference templates before scanning; unstamped forms are a common problem",
-        "Choose Swedish programmes that clearly connect to Ethiopia’s development needs",
-        "Keep the University Admissions application number because SI asks for it",
-        "Do not upload extra documents beyond SI instructions unless requested"
-      ],
-      "applicationOpens": "University applications usually open in October; SI scholarship portal opens 9 February"
-    },
-    "sources": [
-      "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/"
-    ],
-    "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -2499,7 +2868,7 @@
       "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?page=5f4ddf7588a720370a799e12"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -2582,7 +2951,7 @@
       "https://www.studyinkorea.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -2666,7 +3035,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -2751,7 +3120,7 @@
       "https://studyinromania.gov.ro/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -2838,7 +3207,7 @@
       "https://www.nexteinstein.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "unreachable"
   },
   {
@@ -2920,7 +3289,7 @@
       "https://www.campuschina.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "unreachable"
   },
   {
@@ -3003,7 +3372,7 @@
       "https://eoiaddisababa.gov.in/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -3089,7 +3458,7 @@
       "https://mfa.gov.az/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -3171,7 +3540,7 @@
       "https://www.mandelarhodes.org/scholarship/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -3259,7 +3628,7 @@
       "https://www.dfat.gov.au/sites/default/files/australia-awards-africa-information-for-intake.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -3352,7 +3721,7 @@
       "https://www.rotary.org/get-involved/our-programs/peace-fellowships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "unreachable"
   },
   {
@@ -3442,7 +3811,7 @@
       "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -3527,7 +3896,7 @@
       "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -3609,7 +3978,7 @@
       "https://foreign.fulbrightonline.org/apply"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -3690,7 +4059,7 @@
       "https://www.aau.edu.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -3779,7 +4148,7 @@
       "https://et.usembassy.gov/education-culture/educational-exchange/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -3864,7 +4233,7 @@
       "http://daad.de/go/de/stipa50026397"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "unreachable"
   },
   {
@@ -3951,7 +4320,7 @@
       "https://www.koica.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "unreachable"
   },
   {
@@ -4039,7 +4408,7 @@
       "https://connect.schwarzmanscholars.org/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "unreachable"
   },
   {
@@ -4118,7 +4487,7 @@
       "https://www.chevening.org/scholarships/application-timeline/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -4200,7 +4569,7 @@
       "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -4289,7 +4658,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -4377,7 +4746,7 @@
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "unreachable"
   },
   {
@@ -4457,7 +4826,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   },
   {
@@ -4541,7 +4910,7 @@
       "https://mastercardfdn.org/en/news/alx-kick-starts-inaugural-all-tech-training-programs-for-over-32000-learners-across-africa/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-10-21",
+    "lastChecked": "2026-10-23",
     "checkStatus": "reachable"
   }
 ]
