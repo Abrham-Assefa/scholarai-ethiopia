@@ -119,7 +119,7 @@
       "auto-collected"
     ],
     "description": "Applications are now open for the 2027 Policy Center for the New South (PCNS) Raisina Young Fellows Programme. The Raisina Young Fellows Programme convenes emerging leaders from around the world to discuss current political, economic, and social issues, with a particular focus on Asia. Fellows engage directly with senior political, business, and academic figures, gaining insights and building networks to contribute to global debates. Participants will also be inducted as Raisina Young Fellows at the Raisina Dialogue, India’s flagship conference on geopolitics and geo-economics, co-hosted with the Ministry of External Affairs of India.",
-    "status": "open",
+    "status": "closed",
     "deadlineConfirmed": true,
     "details": {
       "overview": "Applications are now open for the 2027 Policy Center for the New South (PCNS) Raisina Young Fellows Programme. The Raisina Young Fellows Programme convenes emerging leaders from around the world to discuss current political, economic, and social issues, with a particular focus on Asia. Fellows engage directly with senior political, business, and academic figures, gaining insights and building networks to contribute to global debates. Participants will also be inducted as Raisina Young Fellows at the Raisina Dialogue, India’s flagship conference on geopolitics and geo-economics, co-hosted with the Ministry of External Affairs of India.",
@@ -307,8 +307,8 @@
       "https://www.daad-ghana.org/en/2024/10/04/in-country-in-region-scholarship-programme-2025-26/",
       "https://www.daad-ethiopia.org/en/scholarship-database/"
     ],
-    "lastVerified": "2026-11-01",
-    "lastChecked": "2026-11-01",
+    "lastVerified": "2026-11-03",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -483,7 +483,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -634,7 +634,7 @@
       "https://www.eda.admin.ch/countries/ethiopia/en/home/services/scholarships.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -712,7 +712,7 @@
       "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -1273,8 +1273,78 @@
       "https://au.int/sites/default/files/announcements/45594-annc-2026_PAU_Admission_Call_Englsih.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
+  },
+  {
+    "id": "waaw-foundation-scholarship-for-african-female-students-500-award",
+    "title": "WAAW Foundation Scholarship for African Female Students ($500 award)",
+    "provider": "waawfoundation.org",
+    "country": "South Korea",
+    "countries": [
+      "South Korea"
+    ],
+    "level": [
+      "bachelor"
+    ],
+    "fields": [
+      "health"
+    ],
+    "fundingType": "partial",
+    "covers": "Partial funding",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "ageLimit": 32
+    },
+    "deadline": "2026-12-18",
+    "deadlineText": "Application deadline: 18 December 2026 (published on opportunitiesforafricans.com)",
+    "url": "https://waawfoundation.org/scholarship/",
+    "source": "web-collector",
+    "tags": [
+      "partial-funding",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2026 WAAW Foundation Scholarship. WAAW Foundation Scholarship enables female college students in Africa to pursue their studies in a STEM-related course. With this scholarship, you are free to focus on achieving your academic goal and volunteer to give back to your community and promote the engagement of women in STEM through the STEM Outreach Chapter at their university. Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2026 WAAW Foundation Scholarship. WAAW Foundation Scholarship enables female college students in Africa to pursue their studies in a STEM-related course. With this scholarship, you are free to focus on achieving your academic goal and volunteer to give back to your community and promote the engagement of women in STEM through the STEM Outreach Chapter at their university. Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+      "whoCanApply": [
+        "Female students of African origin, living and studying in Africa.",
+        "Currently enrolled in a Bachelor’s degree program.",
+        "Studying STEM-related courses in a University or college in Africa.",
+        "Presently a first or second year student or a third-year student for a 5-year course in a University.",
+        "Ability to demonstrate financial need",
+        "Excellent Academic Record.",
+        "Proven leadership, volunteering, and community service"
+      ],
+      "benefits": [],
+      "howToApply": [
+        "Read the full call on the official page (waawfoundation.org)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 18 December 2026",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 18 December 2026.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://waawfoundation.org/scholarship/",
+      "https://www.opportunitiesforafricans.com/waaw-foundation-scholarship-2026-for-african-female-students/"
+    ],
+    "lastVerified": "2026-11-03",
+    "lastChecked": "2026-11-03",
+    "discoveredAt": "2026-11-03",
+    "origin": "discovered"
   },
   {
     "id": "yale-harvard-mit-need-based-aid",
@@ -1355,7 +1425,7 @@
       "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -1443,7 +1513,7 @@
       "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -1525,7 +1595,7 @@
       "https://www.gatescambridge.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -1681,7 +1751,7 @@
       "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "unreachable"
   },
   {
@@ -1766,6 +1836,74 @@
     "lastVerified": "2026-10-21",
     "lastChecked": "2026-10-21",
     "discoveredAt": "2026-10-21",
+    "origin": "discovered"
+  },
+  {
+    "id": "erasmus-mundus-master-s-scholarship-in-journalism-media-and-globalisat",
+    "title": "Erasmus Mundus Master’s Scholarship in Journalism, Media and Globalisation",
+    "provider": "mundusjournalism.com",
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "An Erasmus Mundus scholarship covers both your tuition and your living costs for the full Mundus Journalism programme",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "englishTest": "recommended"
+    },
+    "deadline": "2027-01-10",
+    "deadlineText": "Application deadline: 10 January 2027 (published on opportunitiesforafricans.com)",
+    "url": "https://mundusjournalism.com/admissions/application-process",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027/2029 Erasmus Mundus Master’s Scholarship in Journalism, Media and Globalisation. The Mundus Journalism master’s degree offers a curriculum that is uniquely focused on developing an analytical and critical lens on journalism, media and globalisation. Since 2005, Mundus Journalism has been connecting people and building networks of like-minded peers and colleagues across the globe! Ready to become a resilient journalist with a global perspective? Study at leading universities in at least two European countries, beginning in Denmark at Aarhus University and the Danmarks Medie- og Journalisthøjskole, before specialising in your second year:",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027/2029 Erasmus Mundus Master’s Scholarship in Journalism, Media and Globalisation. The Mundus Journalism master’s degree offers a curriculum that is uniquely focused on developing an analytical and critical lens on journalism, media and globalisation. Since 2005, Mundus Journalism has been connecting people and building networks of like-minded peers and colleagues across the globe! Ready to become a resilient journalist with a global perspective? Study at leading universities in at least two European countries, beginning in Denmark at Aarhus University and the Danmarks Medie- og Journalisthøjskole, before specialising in your second year:",
+      "whoCanApply": [
+        "Hold a bachelor’s degree (or equivalent) based on at least three years of full-time study",
+        "When commencing the Mundus Journalism programme by the 1st of September, students must have completed a bachelor’s degree in a relevant subject. The bachelor’s degree must be a degree approved by both Aarhus University and by the university chosen for the second-year studies*."
+      ],
+      "benefits": [
+        "An Erasmus Mundus scholarship covers both your tuition and your living costs for the full Mundus Journalism programme.",
+        "All Mundus Journalism students can apply for an Erasmus+ stipend. So far, all eligible students have received this stipend. Due to the nature of the Erasmus+ programme, the stipend will be awarded to support the second year studies at the specialisation university."
+      ],
+      "howToApply": [
+        "Read the full call on the official page (mundusjournalism.com)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 10 January 2027",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 10 January 2027.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://mundusjournalism.com/admissions/application-process",
+      "https://www.opportunitiesforafricans.com/2027-2029-erasmus-mundus-masters-scholarship-in-journalism/"
+    ],
+    "lastVerified": "2026-11-03",
+    "lastChecked": "2026-11-03",
+    "discoveredAt": "2026-11-03",
     "origin": "discovered"
   },
   {
@@ -1926,7 +2064,7 @@
       "https://www.kaist.ac.kr/en/html/edu/03100502.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -2005,7 +2143,7 @@
       "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -2089,7 +2227,7 @@
       "https://stipendiumhungaricum.hu/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -2172,7 +2310,7 @@
       "https://education-in-russia.com/selection"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -2408,7 +2546,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/"
     ],
     "lastVerified": "2026-10-23",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -2723,7 +2861,7 @@
       "https://www.isdb.org/scholarships/scholarship-programs"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -2810,7 +2948,7 @@
       "https://moe.gov.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -2897,7 +3035,7 @@
       "https://www.daad.de/en/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -2976,7 +3114,7 @@
       "https://www.studyinnl.org/finances/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -3060,7 +3198,7 @@
       "https://www.mfa.gov.bn/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -3146,7 +3284,7 @@
       "https://twas.org/opportunities/fellowships/phd"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -3315,7 +3453,7 @@
       "https://tbbs.turkiyeburslari.gov.tr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -3405,7 +3543,7 @@
       "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?page=5f4ddf7588a720370a799e12"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -3560,7 +3698,7 @@
       "https://www.studyinkorea.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -3644,7 +3782,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -3729,7 +3867,7 @@
       "https://studyinromania.gov.ro/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -3816,7 +3954,7 @@
       "https://www.nexteinstein.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "unreachable"
   },
   {
@@ -3898,7 +4036,7 @@
       "https://www.campuschina.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "unreachable"
   },
   {
@@ -3981,7 +4119,7 @@
       "https://eoiaddisababa.gov.in/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -4067,7 +4205,7 @@
       "https://mfa.gov.az/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -4149,7 +4287,7 @@
       "https://www.mandelarhodes.org/scholarship/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -4237,7 +4375,7 @@
       "https://www.dfat.gov.au/sites/default/files/australia-awards-africa-information-for-intake.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -4330,7 +4468,7 @@
       "https://www.rotary.org/get-involved/our-programs/peace-fellowships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "unreachable"
   },
   {
@@ -4420,7 +4558,7 @@
       "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -4505,7 +4643,7 @@
       "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -4587,7 +4725,7 @@
       "https://foreign.fulbrightonline.org/apply"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -4668,7 +4806,7 @@
       "https://www.aau.edu.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -4757,7 +4895,7 @@
       "https://et.usembassy.gov/education-culture/educational-exchange/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -4842,7 +4980,7 @@
       "http://daad.de/go/de/stipa50026397"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -4929,7 +5067,7 @@
       "https://www.koica.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "unreachable"
   },
   {
@@ -5017,7 +5155,7 @@
       "https://connect.schwarzmanscholars.org/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -5096,7 +5234,7 @@
       "https://www.chevening.org/scholarships/application-timeline/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -5178,7 +5316,7 @@
       "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -5267,7 +5405,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -5355,7 +5493,7 @@
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -5435,7 +5573,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -5519,7 +5657,7 @@
       "https://mastercardfdn.org/en/news/alx-kick-starts-inaugural-all-tech-training-programs-for-over-32000-learners-across-africa/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   }
 ]

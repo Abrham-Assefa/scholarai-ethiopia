@@ -209,7 +209,7 @@
     "url": "https://www.oneyoungworld.com",
     "ethiopiansEligible": true,
     "description": "One Young World Summit – Leading Africa Scholarship in Cape Town, South Africa (3–6 Nov 2026). Funding: Full (flights, hotel, fees). For: 18–30.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -228,7 +228,7 @@
     "url": "https://www.coe.int/en/web/world-forum-democracy",
     "ethiopiansEligible": true,
     "description": "World Forum for Democracy (Council of Europe) in Strasbourg, France (31 Oct – 4 Nov 2026). Funding: Full for youth delegates. For: 18–30.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "unreachable"
   },
   {
@@ -279,7 +279,7 @@
       "https://opportunitiesforyouth.org/2026/10/16/call-for-experts-salto-participation-and-information-resource-centre-opens-applications-for-p%c2%b2-dossiers-on-democratic-participation/"
     ],
     "lastVerified": "2026-10-17",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "discoveredAt": "2026-10-17",
     "origin": "discovered",
     "dateConfirmed": true,
@@ -329,7 +329,7 @@
       "https://www.opportunitiesforafricans.com/the-hp-ucl-ioe-fellowship-in-ai-in-education-global-executive-leadership-programme-for-senior-education-leaders/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": true,
@@ -379,7 +379,7 @@
       "https://opportunitiesforyouth.org/2026/10/20/apfsd-youth-forum-2027-in-bangkok-thailand-call-for-applications-and-abstracts-for-young-people-in-asia-and-the-pacific/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": true,
@@ -401,7 +401,7 @@
     "url": "https://www.sdgsummit.org",
     "ethiopiansEligible": false,
     "description": "SDG Innovation Summit in Malaysia (19–22 Nov 2026). Funding: Flights, visa, hotel, meals. For: Students / youth.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "unreachable"
   },
   {
@@ -420,7 +420,7 @@
     "url": "https://asef.org",
     "ethiopiansEligible": false,
     "description": "ASEF LinkUp / ASEF Seminar in Slovenia / Mongolia (Oct–Nov 2026). Funding: Full. For: 18–30 (check country list).",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -471,11 +471,63 @@
       "https://www.opportunitiesforafricans.com/the-ye-youth-ecopreneurs-programme-yeco-2026-2027/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": false,
     "checkStatus": "reachable"
+  },
+  {
+    "id": "journalismai-strategy-lab-for-african-journalists-and-media-profession",
+    "title": "JournalismAI Strategy Lab for African journalists and media professionals",
+    "location": "See official site",
+    "when": "Apply by 29 Nov 2026",
+    "startDate": null,
+    "deadline": "2026-11-29",
+    "funding": "Fully funded",
+    "fundingType": "full",
+    "audience": "Journalists and media professionals from newsrooms in AFRICA",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://www.journalismai.info/programmes/strategylab",
+    "ethiopiansEligible": true,
+    "description": "Applications are now open for the JournalismAI Strategy Lab. The JournalismAI Strategy Lab, previously the JournalismAI Academy, is a no-cost, five-week online programme for journalists and media professionals across Africa who want to move beyond experimenting with AI tools and start making informed, deliberate decisions about how AI fits into their journalism and their newsroom. The programme is designed by the JournalismAI team at the London School of Economics and Political Science (LSE) and supported by Google. Previous editions of the programme focused on Sub-Saharan Africa.",
+    "status": "open",
+    "details": {
+      "overview": "Applications are now open for the JournalismAI Strategy Lab. The JournalismAI Strategy Lab, previously the JournalismAI Academy, is a no-cost, five-week online programme for journalists and media professionals across Africa who want to move beyond experimenting with AI tools and start making informed, deliberate decisions about how AI fits into their journalism and their newsroom. The programme is designed by the JournalismAI team at the London School of Economics and Political Science (LSE) and supported by Google. Previous editions of the programme focused on Sub-Saharan Africa.",
+      "whoCanApply": [
+        "Journalists and media professionals from newsrooms in AFRICA.",
+        "Each edition of the Strategy Lab is open to journalists and media professionals working in newsrooms in the region served by that edition. Fluency in English is required. Each cohort is limited to 20 participants.",
+        "The programme prioritises candidates who can take what they learn back to their organisation, whether as editors, senior journalists, product leads, or founders of small independent outlets.",
+        "Applications are welcome from all career stages, roles, and newsroom sizes.",
+        "No coding or technical background is required."
+      ],
+      "benefits": [
+        "Participants leave the Strategy Lab with more than a certificate. By the end of the five weeks, you will have:",
+        "A grounded understanding of AI in journalism – what it is, what it can do, and where its limits lie",
+        "Hands-on experience evaluating and working with AI tools in a structured environment",
+        "A concrete action plan or project proposal to take back to your newsroom",
+        "A network of peers from your region and beyond, working through the same challenges"
+      ],
+      "howToApply": [
+        "Applications are submitted via this application form",
+        "The application includes questions about your background, your newsroom, and the work you hope to undertake during the programme.",
+        "This is a template for the letter of intent; you are welcome to use it or adapt it.",
+        "To submit your application, you will need to upload a letter of organisational commitment from your employer."
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.journalismai.info/programmes/strategylab",
+      "https://www.opportunitiesforafricans.com/the-journalismai-strategy-lab-2026-for-african-journalists-and-media-professionals/"
+    ],
+    "lastVerified": "2026-11-03",
+    "lastChecked": "2026-11-03",
+    "discoveredAt": "2026-11-03",
+    "origin": "discovered",
+    "dateConfirmed": false
   },
   {
     "id": "falling-walls-lab-ethiopia-berlin-finale",
@@ -493,7 +545,7 @@
     "url": "https://falling-walls.com",
     "ethiopiansEligible": true,
     "description": "Falling Walls Lab Ethiopia -> Berlin Finale in Addis -> Berlin (Nov). Funding: Full for winner. For: Students / researchers.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -549,7 +601,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/crossculture-programfully-funded-to-germany/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -607,7 +659,7 @@
       "https://opportunitiesforyouth.org/2026/10/12/iaffes-2nd-feminist-economics-school-call-for-applicationsfully-funded/"
     ],
     "lastVerified": "2026-10-17",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "discoveredAt": "2026-10-17",
     "origin": "discovered",
     "dateConfirmed": true,
@@ -660,7 +712,7 @@
       "https://opportunitiesforyouth.org/2026/10/22/young-southeast-asian-leaders-initiative-professional-fellows-program-2023-call-for-applications-fully-fundedusa/"
     ],
     "lastVerified": "2026-10-23",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "discoveredAt": "2026-10-23",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -682,7 +734,7 @@
     "url": "https://www.intgovforum.org",
     "ethiopiansEligible": true,
     "description": "Internet Governance Forum (IGF) Youth Fellowship in Rotates (Dec). Funding: Full. For: 18–35.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "unreachable"
   },
   {
@@ -701,7 +753,7 @@
     "url": "https://blackinai.github.io",
     "ethiopiansEligible": true,
     "description": "AfricArXiv / Black in AI workshop (NeurIPS) in Global (Dec). Funding: Travel grants. For: Researchers.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -720,7 +772,7 @@
     "url": "https://www.nobelpeacecenter.org",
     "ethiopiansEligible": false,
     "description": "Nobel Peace Prize Forum / Nobel Week Dialogue youth in Norway / Sweden (Dec). Funding: Travel grants. For: Youth.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -740,7 +792,7 @@
     "url": "https://docs.google.com/forms/d/e/1FAIpQLScEK_uUEiM2pB3FnC54fbaKsc2Yx9l2hLQ2Ro7SYCXkYUV30g/viewform",
     "ethiopiansEligible": true,
     "description": "The CSW71 SAEF Delegate Application 2027 offers individuals interested in gender equality, women’s empowerment, women’s rights and youth development an opportunity to apply to join the Southern Africa Embrace Foundation (SAEF) delegation to the 71st Session of the United Nations Commission on the Status of Women (CSW71) in New York City, United States. The international gathering will take place from 8 to 19 March 2027, bringing together stakeholders to discuss gender equality and the empowerment of women and girls.",
-    "status": "open",
+    "status": "closed",
     "details": {
       "overview": "The CSW71 SAEF Delegate Application 2027 offers individuals interested in gender equality, women’s empowerment, women’s rights and youth development an opportunity to apply to join the Southern Africa Embrace Foundation (SAEF) delegation to the 71st Session of the United Nations Commission on the Status of Women (CSW71) in New York City, United States. The international gathering will take place from 8 to 19 March 2027, bringing together stakeholders to discuss gender equality and the empowerment of women and girls.",
       "whoCanApply": [
@@ -770,7 +822,7 @@
       "https://opportunitiesforyouth.org/2026/10/13/csw71-saef-delegate-application-2027/"
     ],
     "lastVerified": "2026-10-17",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "discoveredAt": "2026-10-17",
     "origin": "discovered",
     "dateConfirmed": true,
@@ -826,7 +878,7 @@
       "https://www.opportunitiesforafricans.com/the-international-institute-for-applied-systems-analysis-iiasa-young-scientists-summer-program-2027/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -848,8 +900,60 @@
     "url": "https://cda.org",
     "ethiopiansEligible": false,
     "description": "Youth Action Summit 2027 in Germany (11–14 Jan 2027). Funding: Full/partial. For: 18–35.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
+  },
+  {
+    "id": "st-gallen-symposium-global-ideas-competition-chf-20-000-prize-expenses",
+    "title": "St. Gallen Symposium Global Ideas Competition (CHF 20,000 Prize & expenses-paid participation to the 56th St. Gallen Symposium in Switzerland)",
+    "location": "Switzerland",
+    "when": "Apply by 01 Feb 2027",
+    "startDate": null,
+    "deadline": "2027-02-01",
+    "funding": "The International Journalists‘ Programmes (IJP) Southern-African Journalists’ Fellowship…",
+    "fundingType": "partial",
+    "audience": "Enrolled in a graduate or postgraduate programme (master level or higher) in any field of study at a regular university",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://symposium.org/initiatives/global-ideas-competition/",
+    "ethiopiansEligible": true,
+    "description": "Applications are now open for the 2027 St. Gallen Symposium Global Ideas Competition. Compete in the Global Ideas Competition and qualify for an all-expenses-covered participation as a Leader of Tomorrow in the world’s premier opportunity for cross-generational debates: The St. Gallen Symposium. As a Leader of Tomorrow, you’ll join a unique global community that extends far beyond the Symposium. Be inspired by world-renowned speakers, challenge your perspectives, and contribute to the conversations shaping tomorrow. Cooperation increasingly comes with terms, and those terms determine what gets built and what is left undone.",
+    "status": "open",
+    "details": {
+      "overview": "Applications are now open for the 2027 St. Gallen Symposium Global Ideas Competition. Compete in the Global Ideas Competition and qualify for an all-expenses-covered participation as a Leader of Tomorrow in the world’s premier opportunity for cross-generational debates: The St. Gallen Symposium. As a Leader of Tomorrow, you’ll join a unique global community that extends far beyond the Symposium. Be inspired by world-renowned speakers, challenge your perspectives, and contribute to the conversations shaping tomorrow. Cooperation increasingly comes with terms, and those terms determine what gets built and what is left undone.",
+      "whoCanApply": [
+        "Enrolled in a graduate or postgraduate programme (master level or higher) in any field of study at a regular university",
+        "Born in 1997 or later",
+        "Form: Solution Brief (max. 1000 words using our template) + 3-minute Video-Explainer",
+        "Individuality: Individual work expected, no group work allowed. The solution brief must be written exclusively for this contest. The idea must be the author’s own.",
+        "Citation: All sources must be cited and referred to the respective part in the essay. All contributions will be tested for plagiarism.",
+        "Any auxiliary aids (AI, proofreading, layout/graphics services, writing and translation programs, etc.) are to be listed. All auxiliary aids and resources used must be fully and correctly cited. Failure to acknowledge or reference any aid will result in disqualification. Transparency and academic integrity are mandatory.",
+        "Template:Download Template for the Solution Brief & Watch the Instruction Video"
+      ],
+      "benefits": [
+        "Compete in the Global Ideas Competition and qualify for an all-expenses-covered participation as a Leader of Tomorrow in the world’s premier opportunity for cross-generational debates: The St.",
+        "The International Journalists‘ Programmes (IJP) Southern-African Journalists’ Fellowship Programme 2027 in Germany (3,500 Euro Stipend).",
+        "2015 Ian Perry Scholarship Prize for Young Photo Journalists (..."
+      ],
+      "howToApply": [
+        "Copy of passport or other identification (in English for non-Roman languages)",
+        "Confirmation of matriculation/enrolment from your university which proves your enrollment in a graduate/postgraduate level programme as of 1 February 2027 (download sample document here)",
+        "Your Solution Brief with no indication of your name in the file name, the file metadata or the file itself",
+        "Your Video Explainer (max. 3 minutes)"
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://symposium.org/initiatives/global-ideas-competition/",
+      "https://www.opportunitiesforafricans.com/st-gallen-symposium-global-ideas-competition-2027/"
+    ],
+    "lastVerified": "2026-11-03",
+    "lastChecked": "2026-11-03",
+    "discoveredAt": "2026-11-03",
+    "origin": "discovered",
+    "dateConfirmed": false
   },
   {
     "id": "obama-foundation-leaders-africa",
@@ -867,7 +971,7 @@
     "url": "https://www.obama.org/programs/leaders",
     "ethiopiansEligible": true,
     "description": "Obama Foundation Leaders: Africa in Johannesburg + virtual (Apply Jan–Feb). Funding: Full. For: Emerging leaders.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -886,7 +990,7 @@
     "url": "https://www.hpair.org",
     "ethiopiansEligible": false,
     "description": "Harvard Project for Asian & International Relations (HPAIR) in Asia / Boston (Aug / Feb). Funding: Scholarships available. For: University students.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -905,7 +1009,7 @@
     "url": "https://www.tonyelumelufoundation.org",
     "ethiopiansEligible": true,
     "description": "Tony Elumelu Foundation Entrepreneurship Programme in Online + Lagos forum (Jan–Mar apply). Funding: $5,000 seed + training. For: 18+.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -924,7 +1028,7 @@
     "url": "https://ecosoc.un.org",
     "ethiopiansEligible": true,
     "description": "UN Youth Forum (ECOSOC) in New York (April). Funding: Partial/full via sponsors. For: 18–30.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -943,7 +1047,7 @@
     "url": "https://www.cugh.org",
     "ethiopiansEligible": false,
     "description": "Global Health Conference – CUGH travel awards in USA (Mar–Apr). Funding: Travel grants. For: Students.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -962,7 +1066,7 @@
     "url": "https://www.datascienceafrica.org",
     "ethiopiansEligible": true,
     "description": "Data Science Africa Summer School in Africa (Jun–Jul). Funding: Travel grants. For: Students.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -981,7 +1085,7 @@
     "url": "https://deeplearningindaba.com",
     "ethiopiansEligible": true,
     "description": "Google / Deep Learning Indaba in Africa (rotates) (Aug–Sept). Funding: Travel grants. For: Students, researchers.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -1000,7 +1104,7 @@
     "url": "https://www.mandelawashingtonfellowship.org",
     "ethiopiansEligible": true,
     "description": "Mandela Washington Fellowship (YALI) in USA (Jun–Jul 2027 (apply Sept–Oct 2026)). Funding: Full. For: 25–35.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable",
     "dateConfirmed": false
   },
@@ -1020,7 +1124,7 @@
     "url": "https://afrileadnetwork.org",
     "ethiopiansEligible": true,
     "description": "DLL Conference (AfriLead Network) in Zanzibar, Tanzania (2026). Funding: Full. For: Young African professionals.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -1039,7 +1143,7 @@
     "url": "https://yalieastafrica.org",
     "ethiopiansEligible": true,
     "description": "YALI Regional Leadership Center East Africa in Nairobi, Kenya (Multiple cohorts). Funding: Full. For: 18–35.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -1058,7 +1162,7 @@
     "url": "https://au.int/en/youth",
     "ethiopiansEligible": true,
     "description": "Africa Youth Summit / AU Youth Forum in Rotates (Addis often) (Yearly). Funding: Full. For: 15–35.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "unreachable"
   },
   {
@@ -1077,7 +1181,7 @@
     "url": "https://www.itu.int/generationconnect",
     "ethiopiansEligible": true,
     "description": "ITU Generation Connect in Global (Various). Funding: Travel grants. For: 18–29.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -1096,7 +1200,7 @@
     "url": "https://gsw.mit.edu",
     "ethiopiansEligible": false,
     "description": "MIT Global Startup Workshop / MIT Africa Innovate in Rotates (Spring). Funding: Partial. For: Entrepreneurs.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -1115,7 +1219,7 @@
     "url": "https://acumen.org/fellowships",
     "ethiopiansEligible": true,
     "description": "Ashoka / Acumen Fellowships in Global/East Africa (Rolling). Funding: Full. For: Social entrepreneurs.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
@@ -1134,7 +1238,7 @@
     "url": "https://careers.un.org",
     "ethiopiansEligible": true,
     "description": "WHO / UNICEF / UNDP Youth Internships & Forums in Addis (UNECA, AU HQ) (Rolling). Funding: Stipend. For: 18–32.",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-03",
     "checkStatus": "reachable"
   },
   {
