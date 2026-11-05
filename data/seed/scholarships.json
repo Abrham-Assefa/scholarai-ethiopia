@@ -307,8 +307,8 @@
       "https://www.daad-ghana.org/en/2024/10/04/in-country-in-region-scholarship-programme-2025-26/",
       "https://www.daad-ethiopia.org/en/scholarship-database/"
     ],
-    "lastVerified": "2026-11-03",
-    "lastChecked": "2026-11-03",
+    "lastVerified": "2026-11-05",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -483,7 +483,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -634,7 +634,7 @@
       "https://www.eda.admin.ch/countries/ethiopia/en/home/services/scholarships.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -712,7 +712,7 @@
       "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -1097,6 +1097,76 @@
     "origin": "discovered"
   },
   {
+    "id": "cannes-lions-scholarships-for-underrepresented-talent-in-the-creative",
+    "title": "Cannes Lions Scholarships for underrepresented talent in the creative industry",
+    "provider": "canneslions.com",
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "environment"
+    ],
+    "fundingType": "full",
+    "covers": "Fully funded",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "ageLimit": 30
+    },
+    "deadline": "2026-12-04",
+    "deadlineText": "Application deadline: 04 December 2026 (published on opportunitiesforafricans.com)",
+    "url": "https://www.canneslions.com/impact/lions-scholarship",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027 Cannes Lions Scholarships. The LIONS Scholarship is designed to support the next generation of talent, placing an emphasis on diversity of location, gender, race, class, preference and perspective. With five places available in the Brand Marketers Academy and five in the Creative Academy, a total of 10 under-30s from 10 countries will be accepted for the Scholarship. Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027 Cannes Lions Scholarships. The LIONS Scholarship is designed to support the next generation of talent, placing an emphasis on diversity of location, gender, race, class, preference and perspective. With five places available in the Brand Marketers Academy and five in the Creative Academy, a total of 10 under-30s from 10 countries will be accepted for the Scholarship. Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+      "whoCanApply": [
+        "The LIONS Scholarship applications are open to anyone working full time as a creative or marketer with at least two years’ experience and aged 30 or under (specifically, born on or after 26 June 1996).",
+        "Proof of age will be required.",
+        "The LIONS Academies are presented in English",
+        "As part of your LIONS Scholarship application, you’ll be asked to submit:",
+        "A video, recorded in English, telling us who you are and what you would bring to the Academy. (Max. 2 minutes)",
+        "A written response to the question: ‘How has creativity shaped your journey?’ (Max. 250 words)",
+        "a character reference from your employer, your company’s talent officer, a senior executive of your company, a previous LIONS Academy graduate or a customer whose life has been impacted by your work. (Max. 250 words)"
+      ],
+      "benefits": [],
+      "howToApply": [
+        "Read the full call on the official page (canneslions.com)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 04 December 2026",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 04 December 2026.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.canneslions.com/impact/lions-scholarship",
+      "https://www.opportunitiesforafricans.com/the-cannes-lions-2027-scholarships/"
+    ],
+    "lastVerified": "2026-11-05",
+    "lastChecked": "2026-11-05",
+    "discoveredAt": "2026-11-05",
+    "origin": "discovered"
+  },
+  {
     "id": "university-of-exeter-epsrc-fully-funded-engineering-phd-studentships-i",
     "title": "University of Exeter EPSRC Fully Funded Engineering PhD Studentships in the UK",
     "provider": "exeter.ac.uk",
@@ -1273,7 +1343,7 @@
       "https://au.int/sites/default/files/announcements/45594-annc-2026_PAU_Admission_Call_Englsih.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -1425,7 +1495,7 @@
       "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -1513,7 +1583,7 @@
       "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -1595,7 +1665,7 @@
       "https://www.gatescambridge.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -1751,7 +1821,7 @@
       "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "unreachable"
   },
   {
@@ -2064,7 +2134,7 @@
       "https://www.kaist.ac.kr/en/html/edu/03100502.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -2143,7 +2213,7 @@
       "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -2227,7 +2297,7 @@
       "https://stipendiumhungaricum.hu/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -2310,7 +2380,7 @@
       "https://education-in-russia.com/selection"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -2546,7 +2616,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/"
     ],
     "lastVerified": "2026-10-23",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -2861,7 +2931,7 @@
       "https://www.isdb.org/scholarships/scholarship-programs"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -2948,7 +3018,7 @@
       "https://moe.gov.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -3035,7 +3105,7 @@
       "https://www.daad.de/en/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -3114,7 +3184,7 @@
       "https://www.studyinnl.org/finances/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -3198,7 +3268,7 @@
       "https://www.mfa.gov.bn/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -3284,7 +3354,7 @@
       "https://twas.org/opportunities/fellowships/phd"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -3453,7 +3523,7 @@
       "https://tbbs.turkiyeburslari.gov.tr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -3543,7 +3613,7 @@
       "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?page=5f4ddf7588a720370a799e12"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -3698,7 +3768,7 @@
       "https://www.studyinkorea.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -3782,7 +3852,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -3867,7 +3937,7 @@
       "https://studyinromania.gov.ro/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -3954,7 +4024,7 @@
       "https://www.nexteinstein.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "unreachable"
   },
   {
@@ -4036,7 +4106,7 @@
       "https://www.campuschina.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "unreachable"
   },
   {
@@ -4119,7 +4189,7 @@
       "https://eoiaddisababa.gov.in/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -4205,7 +4275,7 @@
       "https://mfa.gov.az/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -4287,7 +4357,7 @@
       "https://www.mandelarhodes.org/scholarship/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -4375,7 +4445,7 @@
       "https://www.dfat.gov.au/sites/default/files/australia-awards-africa-information-for-intake.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -4468,7 +4538,7 @@
       "https://www.rotary.org/get-involved/our-programs/peace-fellowships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "unreachable"
   },
   {
@@ -4558,7 +4628,7 @@
       "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -4643,7 +4713,7 @@
       "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -4725,7 +4795,7 @@
       "https://foreign.fulbrightonline.org/apply"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -4806,7 +4876,7 @@
       "https://www.aau.edu.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -4895,7 +4965,7 @@
       "https://et.usembassy.gov/education-culture/educational-exchange/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -4980,7 +5050,7 @@
       "http://daad.de/go/de/stipa50026397"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -5067,7 +5137,7 @@
       "https://www.koica.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "unreachable"
   },
   {
@@ -5155,7 +5225,7 @@
       "https://connect.schwarzmanscholars.org/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -5234,7 +5304,7 @@
       "https://www.chevening.org/scholarships/application-timeline/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -5316,7 +5386,7 @@
       "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -5405,7 +5475,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -5493,7 +5563,7 @@
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -5573,7 +5643,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   },
   {
@@ -5657,7 +5727,7 @@
       "https://mastercardfdn.org/en/news/alx-kick-starts-inaugural-all-tech-training-programs-for-over-32000-learners-across-africa/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-05",
     "checkStatus": "reachable"
   }
 ]
