@@ -307,8 +307,8 @@
       "https://www.daad-ghana.org/en/2024/10/04/in-country-in-region-scholarship-programme-2025-26/",
       "https://www.daad-ethiopia.org/en/scholarship-database/"
     ],
-    "lastVerified": "2026-11-05",
-    "lastChecked": "2026-11-05",
+    "lastVerified": "2026-11-07",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -483,7 +483,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -553,6 +553,68 @@
     "lastVerified": "2026-10-23",
     "lastChecked": "2026-10-23",
     "discoveredAt": "2026-10-23",
+    "origin": "discovered"
+  },
+  {
+    "id": "cfa-institute-access-scholarship-programme-for-aspiring-finance-profes",
+    "title": "CFA Institute Access Scholarship Programme for aspiring Finance Professionals",
+    "provider": "cfainstitute.org",
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "business"
+    ],
+    "fundingType": "full",
+    "covers": "Fully funded",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-11-23",
+    "deadlineText": "Application deadline: 23 November 2026 (published on opportunitiesforafricans.com)",
+    "url": "https://www.cfainstitute.org/programs/cfa-program/scholarships/access",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027 CFA Institute Program Access Scholarships. The CFA Institute Access Scholarship Programme is designed to make the Chartered Financial Analyst (CFA) Programme more accessible to individuals who cannot afford the full programme fees. The scholarship provides eligible candidates with discounted CFA examination registration fees, helping reduce the financial barriers associated with pursuing the CFA designation. The Access scholarship reduces the CFA Program exam registration fee to USD 400 under the Premium Registration Package which includes Practice Pack.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027 CFA Institute Program Access Scholarships. The CFA Institute Access Scholarship Programme is designed to make the Chartered Financial Analyst (CFA) Programme more accessible to individuals who cannot afford the full programme fees. The scholarship provides eligible candidates with discounted CFA examination registration fees, helping reduce the financial barriers associated with pursuing the CFA designation. The Access scholarship reduces the CFA Program exam registration fee to USD 400 under the Premium Registration Package which includes Practice Pack.",
+      "whoCanApply": [],
+      "benefits": [],
+      "howToApply": [
+        "Read the full call on the official page (cfainstitute.org)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 23 November 2026",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 23 November 2026.",
+        "Apply for or renew your Ethiopian passport now — processing can take several weeks.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.cfainstitute.org/programs/cfa-program/scholarships/access",
+      "https://www.opportunitiesforafricans.com/cfa-institute-access-scholarship-programme-2026-2027/"
+    ],
+    "lastVerified": "2026-11-07",
+    "lastChecked": "2026-11-07",
+    "discoveredAt": "2026-11-07",
     "origin": "discovered"
   },
   {
@@ -634,7 +696,7 @@
       "https://www.eda.admin.ch/countries/ethiopia/en/home/services/scholarships.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -712,7 +774,7 @@
       "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -856,6 +918,78 @@
     "lastVerified": "2026-10-29",
     "lastChecked": "2026-10-29",
     "discoveredAt": "2026-10-29",
+    "origin": "discovered"
+  },
+  {
+    "id": "hurford-youth-fellows-program-for-emerging-youth-leaders",
+    "title": "Hurford Youth Fellows Program for emerging youth Leaders",
+    "provider": "ned.org",
+    "country": "USA",
+    "countries": [
+      "USA"
+    ],
+    "level": [
+      "master",
+      "postdoc"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "NED staff work with fellows to refine their project’s focus, scope, and intended outcome",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "ageLimit": 30
+    },
+    "deadline": "2026-11-30",
+    "deadlineText": "Application deadline: 30 November 2026 (published on opportunitiesforafricans.com)",
+    "url": "https://www.ned.org/fellowships/hurford-youth-fellows-program/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027 Hurford Youth Fellows Program. The Hurford Youth Fellows Program equips emerging democracy leaders from around the world with the skills, networks, and practical tools to turn youth energy into democratic change. Over the course of four months in Washington, D.C., fellows explore new ideas, initiatives, and innovations, share experiences and lessons learned with activists from other countries, and contribute to the global youth movement for democracy.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027 Hurford Youth Fellows Program. The Hurford Youth Fellows Program equips emerging democracy leaders from around the world with the skills, networks, and practical tools to turn youth energy into democratic change. Over the course of four months in Washington, D.C., fellows explore new ideas, initiatives, and innovations, share experiences and lessons learned with activists from other countries, and contribute to the global youth movement for democracy.",
+      "whoCanApply": [
+        "Applicants must be 30 years of age or younger and demonstrate a commitment to—and experience in—advancing youth participation in democracy.",
+        "Applications are especially encouraged from leaders affiliated with civic organizations, human rights groups, and initiatives working to strengthen democracy."
+      ],
+      "benefits": [
+        "NED staff work with fellows to refine their project’s focus, scope, and intended outcome. Each fellow must complete at least one product, such as an article, handbook, toolkit, podcast, tech tool, or video. Products may be created in English or another language.",
+        "Fellows participate in seminars, roundtables, field trips, and other activities that help them:",
+        "learn about NED and its core institutes",
+        "explore pressing challenges and new approaches to advancing democracy",
+        "connect with government, civil society, academic, and media communities in Washington and beyond",
+        "build relationships and exchange ideas with other fellows.",
+        "Each fellow receives a monthly stipend for living expenses, basic health insurance coverage, and roundtrip economy-class travel to and from Washington, D.C., at the beginning and end of the fellowship."
+      ],
+      "howToApply": [
+        "Visit the Online Application System to create an account and apply. If you have any questions, please contact [email protected]."
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 30 November 2026.",
+        "Ask your lecturers or employer for recommendation letters at least four weeks before the deadline.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.ned.org/fellowships/hurford-youth-fellows-program/",
+      "https://www.opportunitiesforafricans.com/the-hurford-youth-fellows-program-2027/"
+    ],
+    "lastVerified": "2026-11-07",
+    "lastChecked": "2026-11-07",
+    "discoveredAt": "2026-11-07",
     "origin": "discovered"
   },
   {
@@ -1343,7 +1477,7 @@
       "https://au.int/sites/default/files/announcements/45594-annc-2026_PAU_Admission_Call_Englsih.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -1495,7 +1629,7 @@
       "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -1583,7 +1717,7 @@
       "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -1665,7 +1799,7 @@
       "https://www.gatescambridge.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -1821,7 +1955,7 @@
       "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "unreachable"
   },
   {
@@ -2134,7 +2268,7 @@
       "https://www.kaist.ac.kr/en/html/edu/03100502.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -2213,7 +2347,7 @@
       "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -2297,7 +2431,7 @@
       "https://stipendiumhungaricum.hu/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -2380,7 +2514,7 @@
       "https://education-in-russia.com/selection"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -2616,7 +2750,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/"
     ],
     "lastVerified": "2026-10-23",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -2754,6 +2888,67 @@
     "lastVerified": "2026-10-27",
     "lastChecked": "2026-10-27",
     "discoveredAt": "2026-10-27",
+    "origin": "discovered"
+  },
+  {
+    "id": "center-for-effective-global-action-cega-visiting-fellowship-for-africa",
+    "title": "Center for Effective Global Action (CEGA) Visiting Fellowship for African researchers",
+    "provider": "cega.submittable.com",
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "economics"
+    ],
+    "fundingType": "full",
+    "covers": "Fully funded",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-01-17",
+    "deadlineText": "Application deadline: 17 January 2027 (published on opportunitiesforafricans.com)",
+    "url": "https://cega.submittable.com/submit",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027/2028 Center for Effective Global Action (CEGA) Visiting Fellowship. The Center for Effective Global Action (CEGA) invites African researchers and practitioners interested in developing their skills in impact evaluation to apply for its Fellowship Program to be completed in Fall 2027 or Spring 2028. Selected fellows will audit coursework, develop skills in quantitative development research, access a personalized mentorship program to develop their research ideas, and build their research networks. Fellows will spend 16 weeks either in residence at UC Berkeley or participating virtually.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027/2028 Center for Effective Global Action (CEGA) Visiting Fellowship. The Center for Effective Global Action (CEGA) invites African researchers and practitioners interested in developing their skills in impact evaluation to apply for its Fellowship Program to be completed in Fall 2027 or Spring 2028. Selected fellows will audit coursework, develop skills in quantitative development research, access a personalized mentorship program to develop their research ideas, and build their research networks. Fellows will spend 16 weeks either in residence at UC Berkeley or participating virtually.",
+      "whoCanApply": [],
+      "benefits": [],
+      "howToApply": [
+        "Read the full call on the official page (cega.submittable.com)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 17 January 2027",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 17 January 2027.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://cega.submittable.com/submit",
+      "https://www.opportunitiesforafricans.com/the-center-for-effective-global-action-cega-2027-2028-visiting-fellowship-for-african-researchers/"
+    ],
+    "lastVerified": "2026-11-07",
+    "lastChecked": "2026-11-07",
+    "discoveredAt": "2026-11-07",
     "origin": "discovered"
   },
   {
@@ -2931,7 +3126,7 @@
       "https://www.isdb.org/scholarships/scholarship-programs"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -3018,7 +3213,7 @@
       "https://moe.gov.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -3105,7 +3300,7 @@
       "https://www.daad.de/en/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -3184,7 +3379,7 @@
       "https://www.studyinnl.org/finances/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -3268,7 +3463,7 @@
       "https://www.mfa.gov.bn/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -3354,7 +3549,7 @@
       "https://twas.org/opportunities/fellowships/phd"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -3523,8 +3718,76 @@
       "https://tbbs.turkiyeburslari.gov.tr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
+  },
+  {
+    "id": "firstrand-oxford-blavatnik-school-of-government-scholarship-for-a-mast",
+    "title": "FirstRand Oxford Blavatnik School of Government Scholarship for a Master of Public Policy at the University of Oxford",
+    "provider": "bursaries.firstrand.co.za",
+    "country": "UK",
+    "countries": [
+      "UK"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "public policy"
+    ],
+    "fundingType": "full",
+    "covers": "FirstRand’s five-year partnership with Wadham College entails providing",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-02-25",
+    "deadlineText": "Application deadline: 25 February 2027 (published on opportunitiesforafricans.com)",
+    "url": "https://bursaries.firstrand.co.za/Bursary/FirstRandFNBFundOxfordEducationScholarship",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027 FirstRand Oxford Blavatnik School of Government Scholarship. FirstRand Empowerment Foundation (FREF) has entered into a five-year partnership with Wadham College at the University of Oxford. The purpose of this partnership is to enable one outstanding South African student a year to undertake postgraduate study at the Blavatnik School of Government at the University of Oxford. The successful candidate will wish to deepen their understanding of public policy challenges in order to become a more effective leader and changemaker. Visit the Official Webpage of the FirstRand Oxford Blavatnik School of Government Scholarship",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027 FirstRand Oxford Blavatnik School of Government Scholarship. FirstRand Empowerment Foundation (FREF) has entered into a five-year partnership with Wadham College at the University of Oxford. The purpose of this partnership is to enable one outstanding South African student a year to undertake postgraduate study at the Blavatnik School of Government at the University of Oxford. The successful candidate will wish to deepen their understanding of public policy challenges in order to become a more effective leader and changemaker. Visit the Official Webpage of the FirstRand Oxford Blavatnik School of Government Scholarship",
+      "whoCanApply": [
+        "FirstRand will conduct the interviewing and selection process, which will run concurrently with the FirstRand international postgraduate scholarship programme.",
+        "Candidates will be assessed based on academic excellence, leadership ability, community involvement and their potential to be a destiny changer. Applications can be submitted online only.",
+        "FirstRand and Blavatnik School of Government are looking for the best applicants who will truly benefit from the opportunity and contribute to South Africa on their return."
+      ],
+      "benefits": [
+        "FirstRand’s five-year partnership with Wadham College entails providing",
+        "Full funding for one student a year to study for a Master of Public Policy at the Blavatnik School of Government, as well as residency at Wadham College."
+      ],
+      "howToApply": [
+        "Read the full call on the official page (bursaries.firstrand.co.za)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 25 February 2027",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 25 February 2027.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://bursaries.firstrand.co.za/Bursary/FirstRandFNBFundOxfordEducationScholarship",
+      "https://www.opportunitiesforafricans.com/the-firstrand-oxford-blavatnik-school-of-government-scholarship-2027-2028-for-a-master-of-public-policy/"
+    ],
+    "lastVerified": "2026-11-07",
+    "lastChecked": "2026-11-07",
+    "discoveredAt": "2026-11-07",
+    "origin": "discovered"
   },
   {
     "id": "tica-thailand-international-postgraduate-programme",
@@ -3613,7 +3876,7 @@
       "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?page=5f4ddf7588a720370a799e12"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -3768,8 +4031,8 @@
       "https://www.studyinkorea.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
-    "checkStatus": "reachable"
+    "lastChecked": "2026-11-07",
+    "checkStatus": "unreachable"
   },
   {
     "id": "african-leadership-university-mcf",
@@ -3852,7 +4115,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -3937,7 +4200,7 @@
       "https://studyinromania.gov.ro/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -4024,7 +4287,7 @@
       "https://www.nexteinstein.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "unreachable"
   },
   {
@@ -4106,7 +4369,7 @@
       "https://www.campuschina.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "unreachable"
   },
   {
@@ -4189,7 +4452,7 @@
       "https://eoiaddisababa.gov.in/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -4275,7 +4538,7 @@
       "https://mfa.gov.az/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -4357,7 +4620,7 @@
       "https://www.mandelarhodes.org/scholarship/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -4445,7 +4708,7 @@
       "https://www.dfat.gov.au/sites/default/files/australia-awards-africa-information-for-intake.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -4538,7 +4801,7 @@
       "https://www.rotary.org/get-involved/our-programs/peace-fellowships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "unreachable"
   },
   {
@@ -4628,7 +4891,7 @@
       "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -4713,7 +4976,7 @@
       "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -4795,7 +5058,7 @@
       "https://foreign.fulbrightonline.org/apply"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -4876,7 +5139,7 @@
       "https://www.aau.edu.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -4965,7 +5228,7 @@
       "https://et.usembassy.gov/education-culture/educational-exchange/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -5050,7 +5313,7 @@
       "http://daad.de/go/de/stipa50026397"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -5137,7 +5400,7 @@
       "https://www.koica.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "unreachable"
   },
   {
@@ -5225,7 +5488,7 @@
       "https://connect.schwarzmanscholars.org/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -5304,7 +5567,7 @@
       "https://www.chevening.org/scholarships/application-timeline/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -5386,7 +5649,7 @@
       "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -5475,7 +5738,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -5563,7 +5826,7 @@
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -5643,7 +5906,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   },
   {
@@ -5727,7 +5990,7 @@
       "https://mastercardfdn.org/en/news/alx-kick-starts-inaugural-all-tech-training-programs-for-over-32000-learners-across-africa/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-05",
+    "lastChecked": "2026-11-07",
     "checkStatus": "reachable"
   }
 ]
