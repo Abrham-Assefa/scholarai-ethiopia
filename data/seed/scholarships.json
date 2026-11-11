@@ -307,9 +307,93 @@
       "https://www.daad-ghana.org/en/2024/10/04/in-country-in-region-scholarship-programme-2025-26/",
       "https://www.daad-ethiopia.org/en/scholarship-database/"
     ],
-    "lastVerified": "2026-11-07",
-    "lastChecked": "2026-11-09",
-    "checkStatus": "unreachable"
+    "lastVerified": "2026-11-11",
+    "lastChecked": "2026-11-11",
+    "checkStatus": "reachable"
+  },
+  {
+    "id": "ashesi-university-mcf-scholars",
+    "title": "Mastercard Foundation Scholars Program at Ashesi University",
+    "provider": "Mastercard Foundation / Ashesi University",
+    "country": "Ghana",
+    "countries": [
+      "Ghana"
+    ],
+    "level": [
+      "bachelor"
+    ],
+    "fields": [
+      "engineering",
+      "computer science",
+      "business",
+      "social sciences"
+    ],
+    "fundingType": "full",
+    "covers": "Full tuition, housing, meals, laptop and holistic academic/career support.",
+    "eligibility": {
+      "ethiopiansEligible": true,
+      "englishTest": "required",
+      "workYearsMin": 0,
+      "nationalities": [
+        "ET"
+      ]
+    },
+    "deadline": "2026-11-14",
+    "deadlineConfirmed": true,
+    "deadlineText": "Application deadline: 14 November 2026 (published on scholars4dev.com)",
+    "url": "https://www.ashesi.edu.gh/",
+    "source": "web-research",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "Ashesi University in Ghana is a long-standing Mastercard Foundation Scholars Program partner. The scholarship supports talented African undergraduates with financial need and leadership potential. Ethiopians are eligible as African applicants if they meet Ashesi admission standards. Ashesi is known for liberal arts, ethical leadership, engineering, computer science and business education. The award is highly competitive and seeks students likely to return impact to their communities.",
+    "status": "open",
+    "details": {
+      "overview": "Ashesi University in Ghana is a long-standing Mastercard Foundation Scholars Program partner. The scholarship supports talented African undergraduates with financial need and leadership potential. Ethiopians are eligible as African applicants if they meet Ashesi admission standards. Ashesi is known for liberal arts, ethical leadership, engineering, computer science and business education. The award is highly competitive and seeks students likely to return impact to their communities.",
+      "whoCanApply": [
+        "African applicant, including Ethiopian citizens",
+        "Strong academic record for undergraduate admission",
+        "Demonstrated financial need",
+        "Leadership, service and commitment to ethical impact"
+      ],
+      "benefits": [
+        "Full or substantial tuition support through the Scholars Program",
+        "Residential accommodation and meals for selected scholars",
+        "Laptop and learning materials support",
+        "Leadership, mentoring, career and transition support"
+      ],
+      "howToApply": [
+        "Apply for undergraduate admission to Ashesi",
+        "Complete financial aid and Mastercard Foundation Scholars materials",
+        "Submit academic and need documentation",
+        "Participate in interviews or additional assessments if invited"
+      ],
+      "documents": [
+        "Secondary-school transcripts/certificates",
+        "National exam results",
+        "Essays",
+        "Recommendation forms",
+        "Financial aid documents",
+        "Passport or ID",
+        "English proficiency evidence if requested"
+      ],
+      "selection": "Ashesi reviews admission first alongside scholarship and financial-need evidence. Shortlisted applicants may complete interviews. Final awards depend on both admission strength and verified need.",
+      "ethiopiaTips": [
+        "Explain Ethiopian grading and national exam context clearly",
+        "Use examples of community leadership rather than generic claims",
+        "Prepare financial documents early and truthfully",
+        "Check Ghana visa and travel-document timelines after admission"
+      ],
+      "applicationOpens": "Usually opens in late summer or early autumn"
+    },
+    "sources": [
+      "https://www.ashesi.edu.gh/",
+      "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/",
+      "https://www.scholars4dev.com/mastercard-foundation-scholarship-program-for-africans/"
+    ],
+    "lastVerified": "2026-11-11",
+    "lastChecked": "2026-11-11",
+    "checkStatus": "reachable"
   },
   {
     "id": "daejin-university-scholarships-in-south-korea-for-east-african-student",
@@ -403,88 +487,80 @@
     "origin": "discovered"
   },
   {
-    "id": "ashesi-university-mcf-scholars",
-    "title": "Mastercard Foundation Scholars Program at Ashesi University",
-    "provider": "Mastercard Foundation / Ashesi University",
-    "country": "Ghana",
+    "id": "african-development-bank-group-shanghai-ocean-university-scholarship-b",
+    "title": "African Development Bank Group Shanghai Ocean University Scholarship Bachelor, Master’s, and PhD Program",
+    "provider": "afdb.org",
+    "country": "China",
     "countries": [
-      "Ghana"
+      "China"
     ],
     "level": [
-      "bachelor"
+      "bachelor",
+      "master",
+      "phd"
     ],
     "fields": [
       "engineering",
-      "computer science",
       "business",
-      "social sciences"
+      "economics",
+      "environment"
     ],
     "fundingType": "full",
-    "covers": "Full tuition, housing, meals, laptop and holistic academic/career support.",
+    "covers": "Fully funded",
     "eligibility": {
-      "ethiopiansEligible": true,
-      "englishTest": "required",
-      "workYearsMin": 0,
       "nationalities": [
         "ET"
-      ]
+      ],
+      "ethiopiansEligible": true,
+      "englishTest": "required"
     },
-    "deadline": "2026-11-16",
-    "deadlineConfirmed": false,
-    "deadlineText": "Reported 2026/27 Ashesi deadline is mid-November; verify on Ashesi admissions page.",
-    "url": "https://www.ashesi.edu.gh/",
-    "source": "web-research",
+    "deadline": "2026-11-17",
+    "deadlineText": "Application deadline: 17 November 2026 (published on opportunitiesforafricans.com)",
+    "url": "https://www.afdb.org/en/about-careers/current-vacancies",
+    "source": "web-collector",
     "tags": [
       "fully-funded",
-      "estimated-deadline"
+      "auto-collected"
     ],
-    "description": "Ashesi University in Ghana is a long-standing Mastercard Foundation Scholars Program partner. The scholarship supports talented African undergraduates with financial need and leadership potential. Ethiopians are eligible as African applicants if they meet Ashesi admission standards. Ashesi is known for liberal arts, ethical leadership, engineering, computer science and business education. The award is highly competitive and seeks students likely to return impact to their communities.",
+    "description": "Applications are now open for the 2027 African Development Bank Group Shanghai Ocean University Scholarship. The African Development Bank Group (AfDB) and the Shanghai Ocean University (SHOU) are pleased to invite interested and qualified African candidates to apply for the 2027 SHOU Scholarship Programmes. The aim of the scholarship programmes is to strengthen Africa’s institutional and technical capacity in sustainable fisheries, aquaculture, marine science and resource management, in line with the Bank’s Ten-Year Strategy (2024–2033). Note: Successful candidates will be responsible for flight tickets and visa fees.",
     "status": "open",
+    "deadlineConfirmed": true,
     "details": {
-      "overview": "Ashesi University in Ghana is a long-standing Mastercard Foundation Scholars Program partner. The scholarship supports talented African undergraduates with financial need and leadership potential. Ethiopians are eligible as African applicants if they meet Ashesi admission standards. Ashesi is known for liberal arts, ethical leadership, engineering, computer science and business education. The award is highly competitive and seeks students likely to return impact to their communities.",
+      "overview": "Applications are now open for the 2027 African Development Bank Group Shanghai Ocean University Scholarship. The African Development Bank Group (AfDB) and the Shanghai Ocean University (SHOU) are pleased to invite interested and qualified African candidates to apply for the 2027 SHOU Scholarship Programmes. The aim of the scholarship programmes is to strengthen Africa’s institutional and technical capacity in sustainable fisheries, aquaculture, marine science and resource management, in line with the Bank’s Ten-Year Strategy (2024–2033). Note: Successful candidates will be responsible for flight tickets and visa fees.",
       "whoCanApply": [
-        "African applicant, including Ethiopian citizens",
-        "Strong academic record for undergraduate admission",
-        "Demonstrated financial need",
-        "Leadership, service and commitment to ethical impact"
+        "HSK Level 4 with a score above 180 (received within the last two years)",
+        "Take the China Scholastic Competency Assessment (CSCA).",
+        "1. Master of Translation and Interpreting (MTI) (Chinese-taught, 3 years)",
+        "The programme trains high-level translators and interpreters for the global language services industry, covering translation practice, conference interpreting and modern translation technology.",
+        "2. Master of Foreign Languages and Literatures (Area Studies) (English-taught, 3 years)",
+        "Applicants must be nationals of an AfDB Regional Member Country.",
+        "Applicants to either programme must hold at least a bachelor’s degree and must not be older than 30 years as at 1 September 2027."
       ],
-      "benefits": [
-        "Full or substantial tuition support through the Scholars Program",
-        "Residential accommodation and meals for selected scholars",
-        "Laptop and learning materials support",
-        "Leadership, mentoring, career and transition support"
-      ],
+      "benefits": [],
       "howToApply": [
-        "Apply for undergraduate admission to Ashesi",
-        "Complete financial aid and Mastercard Foundation Scholars materials",
-        "Submit academic and need documentation",
-        "Participate in interviews or additional assessments if invited"
+        "Read the full call on the official page (afdb.org)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 17 November 2026",
+        "Monitor your email for shortlisting or interview invitations"
       ],
-      "documents": [
-        "Secondary-school transcripts/certificates",
-        "National exam results",
-        "Essays",
-        "Recommendation forms",
-        "Financial aid documents",
-        "Passport or ID",
-        "English proficiency evidence if requested"
-      ],
-      "selection": "Ashesi reviews admission first alongside scholarship and financial-need evidence. Shortlisted applicants may complete interviews. Final awards depend on both admission strength and verified need.",
+      "documents": [],
+      "selection": null,
       "ethiopiaTips": [
-        "Explain Ethiopian grading and national exam context clearly",
-        "Use examples of community leadership rather than generic claims",
-        "Prepare financial documents early and truthfully",
-        "Check Ghana visa and travel-document timelines after admission"
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 17 November 2026.",
+        "Book IELTS/TOEFL in Addis Ababa early — test dates fill up weeks ahead.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
       ],
-      "applicationOpens": "Usually opens in late summer or early autumn"
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
     },
     "sources": [
-      "https://www.ashesi.edu.gh/",
-      "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
+      "https://www.afdb.org/en/about-careers/current-vacancies",
+      "https://www.opportunitiesforafricans.com/2027-african-development-bank-group-shanghai-ocean-university-scholarship-bachelor-masters-and-phd-program/"
     ],
-    "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
-    "checkStatus": "reachable"
+    "lastVerified": "2026-11-11",
+    "lastChecked": "2026-11-11",
+    "discoveredAt": "2026-11-11",
+    "origin": "discovered"
   },
   {
     "id": "us-mepi-tomorrow-s-leaders-program-for-undergraduate-graduate-students",
@@ -696,7 +772,7 @@
       "https://www.eda.admin.ch/countries/ethiopia/en/home/services/scholarships.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -774,7 +850,7 @@
       "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -1477,7 +1553,7 @@
       "https://au.int/sites/default/files/announcements/45594-annc-2026_PAU_Admission_Call_Englsih.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -1629,7 +1705,7 @@
       "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -1717,7 +1793,7 @@
       "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -1799,7 +1875,7 @@
       "https://www.gatescambridge.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -1955,7 +2031,7 @@
       "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "unreachable"
   },
   {
@@ -2268,7 +2344,7 @@
       "https://www.kaist.ac.kr/en/html/edu/03100502.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -2347,7 +2423,7 @@
       "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -2431,7 +2507,7 @@
       "https://stipendiumhungaricum.hu/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -2514,7 +2590,7 @@
       "https://education-in-russia.com/selection"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -2750,7 +2826,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/"
     ],
     "lastVerified": "2026-10-23",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -3126,7 +3202,7 @@
       "https://www.isdb.org/scholarships/scholarship-programs"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -3213,7 +3289,7 @@
       "https://moe.gov.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "unreachable"
   },
   {
@@ -3300,7 +3376,7 @@
       "https://www.daad.de/en/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -3379,7 +3455,7 @@
       "https://www.studyinnl.org/finances/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -3463,7 +3539,7 @@
       "https://www.mfa.gov.bn/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -3549,7 +3625,7 @@
       "https://twas.org/opportunities/fellowships/phd"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -3718,7 +3794,7 @@
       "https://tbbs.turkiyeburslari.gov.tr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -3876,7 +3952,7 @@
       "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?page=5f4ddf7588a720370a799e12"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -4031,7 +4107,7 @@
       "https://www.studyinkorea.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -4115,7 +4191,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -4200,7 +4276,7 @@
       "https://studyinromania.gov.ro/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -4287,7 +4363,7 @@
       "https://www.nexteinstein.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "unreachable"
   },
   {
@@ -4369,7 +4445,7 @@
       "https://www.campuschina.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "unreachable"
   },
   {
@@ -4452,7 +4528,7 @@
       "https://eoiaddisababa.gov.in/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -4538,7 +4614,7 @@
       "https://mfa.gov.az/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -4620,7 +4696,7 @@
       "https://www.mandelarhodes.org/scholarship/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -4708,7 +4784,7 @@
       "https://www.dfat.gov.au/sites/default/files/australia-awards-africa-information-for-intake.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -4801,7 +4877,7 @@
       "https://www.rotary.org/get-involved/our-programs/peace-fellowships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "unreachable"
   },
   {
@@ -4891,7 +4967,7 @@
       "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -4976,7 +5052,7 @@
       "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -5058,7 +5134,7 @@
       "https://foreign.fulbrightonline.org/apply"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -5139,7 +5215,7 @@
       "https://www.aau.edu.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -5228,7 +5304,7 @@
       "https://et.usembassy.gov/education-culture/educational-exchange/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -5313,8 +5389,8 @@
       "http://daad.de/go/de/stipa50026397"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
-    "checkStatus": "unreachable"
+    "lastChecked": "2026-11-11",
+    "checkStatus": "reachable"
   },
   {
     "id": "koica-scholarship-program",
@@ -5400,7 +5476,7 @@
       "https://www.koica.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "unreachable"
   },
   {
@@ -5488,7 +5564,7 @@
       "https://connect.schwarzmanscholars.org/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -5567,7 +5643,7 @@
       "https://www.chevening.org/scholarships/application-timeline/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -5649,7 +5725,7 @@
       "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -5738,7 +5814,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -5826,8 +5902,8 @@
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
-    "checkStatus": "unreachable"
+    "lastChecked": "2026-11-11",
+    "checkStatus": "reachable"
   },
   {
     "id": "mastercard-foundation-scholars-program",
@@ -5906,7 +5982,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   },
   {
@@ -5990,7 +6066,7 @@
       "https://mastercardfdn.org/en/news/alx-kick-starts-inaugural-all-tech-training-programs-for-over-32000-learners-across-africa/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-11",
     "checkStatus": "reachable"
   }
 ]
