@@ -225,93 +225,6 @@
     "origin": "discovered"
   },
   {
-    "id": "daad-in-country-in-region",
-    "title": "DAAD In-Country/In-Region Scholarship Programme Sub-Saharan Africa",
-    "provider": "German Academic Exchange Service (DAAD)",
-    "country": "Multiple",
-    "countries": [
-      "Multiple"
-    ],
-    "level": [
-      "master",
-      "phd"
-    ],
-    "fields": [
-      "development",
-      "health",
-      "agriculture",
-      "engineering",
-      "environment"
-    ],
-    "fundingType": "full",
-    "covers": "Tuition, monthly stipend, study/research allowance and, for in-region scholars, insurance and travel allowance.",
-    "eligibility": {
-      "ethiopiansEligible": true,
-      "englishTest": "required",
-      "workYearsMin": 0,
-      "nationalities": [
-        "ET"
-      ]
-    },
-    "deadline": "2026-11-12",
-    "deadlineConfirmed": true,
-    "deadlineText": "Current DAAD regional calls list 12 Nov 2026 for 2027 intake programmes; individual calls may differ.",
-    "url": "https://www.daad-kenya.org/en/in-country-in-region-programmes/",
-    "source": "web-research",
-    "tags": [
-      "fully-funded"
-    ],
-    "description": "DAAD’s In-Country/In-Region programme supports master’s and PhD study at selected universities in Sub-Saharan Africa. Official DAAD regional pages state that scholarships are for Sub-Saharan African citizens, which includes Ethiopians. The programme strengthens African higher education and development-related research capacity. Calls are tied to specific host institutions and programmes rather than one central degree. It is a strong option for students who want fully funded postgraduate study within Africa.",
-    "status": "open",
-    "details": {
-      "overview": "DAAD’s In-Country/In-Region programme supports master’s and PhD study at selected universities in Sub-Saharan Africa. Official DAAD regional pages state that scholarships are for Sub-Saharan African citizens, which includes Ethiopians. The programme strengthens African higher education and development-related research capacity. Calls are tied to specific host institutions and programmes rather than one central degree. It is a strong option for students who want fully funded postgraduate study within Africa.",
-      "whoCanApply": [
-        "Citizens of Sub-Saharan African countries including Ethiopia",
-        "Applicants accepted by a listed host programme in their home country or another Sub-Saharan African country",
-        "Master’s or PhD applicants meeting host academic rules",
-        "Women and candidates from underrepresented groups are especially encouraged"
-      ],
-      "benefits": [
-        "Tuition fees",
-        "Monthly stipend",
-        "Study and research allowance",
-        "Thesis publishing support where listed",
-        "Health insurance and travel allowance for in-region scholars"
-      ],
-      "howToApply": [
-        "Review current DAAD regional calls and choose an eligible host programme",
-        "Apply to the host institution and DAAD process as instructed in the call",
-        "Upload academic documents, proposal and references by the call deadline",
-        "Complete host or DAAD interviews if required"
-      ],
-      "documents": [
-        "Application form",
-        "Degree certificates and transcripts",
-        "Research proposal for PhD or thesis-based routes",
-        "CV",
-        "Recommendation letters",
-        "Proof of admission or host application",
-        "Language proof if required"
-      ],
-      "selection": "Host institutions and DAAD assess eligibility, academic quality, development relevance and regional fit. Some programmes interview shortlisted candidates. Final awards are issued after host admission and DAAD scholarship approval.",
-      "ethiopiaTips": [
-        "Look for East Africa and Africa-wide host programmes where Ethiopian citizens are explicitly eligible",
-        "If applying in-region, plan passport and visa steps early",
-        "Align research with Ethiopian or regional development priorities",
-        "Read each call PDF because benefits and deadlines differ by host"
-      ],
-      "applicationOpens": "Calls often appear in September or October"
-    },
-    "sources": [
-      "https://www.daad-kenya.org/en/in-country-in-region-programmes/",
-      "https://www.daad-ghana.org/en/2024/10/04/in-country-in-region-scholarship-programme-2025-26/",
-      "https://www.daad-ethiopia.org/en/scholarship-database/"
-    ],
-    "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-11",
-    "checkStatus": "reachable"
-  },
-  {
     "id": "ashesi-university-mcf-scholars",
     "title": "Mastercard Foundation Scholars Program at Ashesi University",
     "provider": "Mastercard Foundation / Ashesi University",
@@ -392,7 +305,7 @@
       "https://www.scholars4dev.com/mastercard-foundation-scholarship-program-for-africans/"
     ],
     "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -694,6 +607,133 @@
     "origin": "discovered"
   },
   {
+    "id": "hkust-global-learners-scholarship-for-international-students",
+    "title": "HKUST Global Learners Scholarship for International Students",
+    "provider": null,
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "bachelor"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "• a full tuition waiver (tuition for non-local students is HK$260,000 a year in 2027/28)",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-11-25",
+    "deadlineText": "Application deadline: 25 November 2026 (published on scholars4dev.com)",
+    "url": "https://www.scholars4dev.com/hkust-global-learners-scholarship/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "The Hong Kong University of Science and Technology (HKUST) set up the Global Learners Scholarship to make its student community more diverse. It goes to undergraduate applicants from nationalities that are underrepresented at HKUST, and it pays their full tuition for the whole degree. All HKUST undergraduate programs, in science, engineering, business and management, humanities and social science, and interdisciplinary studies. Undergraduate applicants from nationalities that are underrepresented at HKUST. The university does not publish a list of these nationalities. • a full tuition waiver (tuition for non-local students is HK$260,000 a year in 2027/28);",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The Hong Kong University of Science and Technology (HKUST) set up the Global Learners Scholarship to make its student community more diverse. It goes to undergraduate applicants from nationalities that are underrepresented at HKUST, and it pays their full tuition for the whole degree. All HKUST undergraduate programs, in science, engineering, business and management, humanities and social science, and interdisciplinary studies. Undergraduate applicants from nationalities that are underrepresented at HKUST. The university does not publish a list of these nationalities. • a full tuition waiver (tuition for non-local students is HK$260,000 a year in 2027/28);",
+      "whoCanApply": [],
+      "benefits": [
+        "• a full tuition waiver (tuition for non-local students is HK$260,000 a year in 2027/28)",
+        "• renewable for the normal length of study, as long as your academic performance is satisfactory.",
+        "A school or program office may add a top-up scholarship, as long as the total stays within full tuition plus a HK$65,000 allowance a year. Students who also have financial need can apply for the HKUST Future Leaders Award."
+      ],
+      "howToApply": [
+        "• meet HKUST’s general, program and English language admission requirements.",
+        "There is no separate application. All undergraduate applicants from underrepresented nationalities are considered automatically, and you will usually hear about the scholarship with your admission offer.",
+        "Apply for admission through HKUST’s online application system. The Priority Round deadline for 2027 entry is 25 November 2026. HKUST also considers later applications on a rolling basis.",
+        "It is important to visit the official website (link found below) for detailed information on how to apply for this scholarship."
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 25 November 2026.",
+        "This entry was collected automatically from scholars4dev.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.scholars4dev.com/hkust-global-learners-scholarship/"
+    ],
+    "lastVerified": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "discoveredAt": "2026-11-13",
+    "origin": "discovered"
+  },
+  {
+    "id": "top-15-scholarships-in-asia-for-international-students",
+    "title": "Top 15+ Scholarships in Asia for International Students",
+    "provider": null,
+    "country": "Japan",
+    "countries": [
+      "Japan"
+    ],
+    "level": [
+      "bachelor",
+      "phd"
+    ],
+    "fields": [
+      "health"
+    ],
+    "fundingType": "full",
+    "covers": "SINGA funds international students for a PhD at A*STAR research institutes and partner universities in Singapore",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-11-25",
+    "deadlineText": "Application deadline: 25 November 2026 (published on scholars4dev.com)",
+    "url": "https://www.scholars4dev.com/asia-scholarships-international-students/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Many international students dream of studying in the USA, UK or Australia without knowing that Asia also has world-class universities and generous funding. Governments and top universities in Japan, China, Korea, Taiwan, Hong Kong, Singapore, Malaysia and Türkiye offer scholarships in Asia for international students, many of them fully funded. Here are some of the best. The Japanese Government offers MEXT scholarships to international research students who want to study for a Master’s or PhD at a Japanese university. The scholarships include tuition, airfare and a monthly allowance, and each Japanese embassy sets its own deadline. The scholarships cover all subject areas.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Many international students dream of studying in the USA, UK or Australia without knowing that Asia also has world-class universities and generous funding. Governments and top universities in Japan, China, Korea, Taiwan, Hong Kong, Singapore, Malaysia and Türkiye offer scholarships in Asia for international students, many of them fully funded. Here are some of the best. The Japanese Government offers MEXT scholarships to international research students who want to study for a Master’s or PhD at a Japanese university. The scholarships include tuition, airfare and a monthly allowance, and each Japanese embassy sets its own deadline. The scholarships cover all subject areas.",
+      "whoCanApply": [],
+      "benefits": [
+        "SINGA funds international students for a PhD at A*STAR research institutes and partner universities in Singapore. The award includes full tuition fees, a monthly stipend, a settling-in allowance and an airfare grant. The next deadline is 1 December 2026 for the August 2027 intake. The scholarships cover science and engineering."
+      ],
+      "howToApply": [
+        "Read the full call on the official page (scholars4dev.com)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 25 November 2026",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 25 November 2026.",
+        "This entry was collected automatically from scholars4dev.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.scholars4dev.com/asia-scholarships-international-students/"
+    ],
+    "lastVerified": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "discoveredAt": "2026-11-13",
+    "origin": "discovered"
+  },
+  {
     "id": "swiss-government-excellence-scholarships",
     "title": "Swiss Government Excellence Scholarships",
     "provider": "Swiss Confederation / Federal Commission for Scholarships for Foreign Students",
@@ -772,7 +812,7 @@
       "https://www.eda.admin.ch/countries/ethiopia/en/home/services/scholarships.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -850,7 +890,7 @@
       "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -1066,6 +1106,150 @@
     "lastVerified": "2026-11-07",
     "lastChecked": "2026-11-07",
     "discoveredAt": "2026-11-07",
+    "origin": "discovered"
+  },
+  {
+    "id": "eth-zurich-excellence-scholarship-esop-in-switzerland",
+    "title": "ETH Zurich Excellence Scholarship (ESOP) – in Switzerland",
+    "provider": "ethz.ch",
+    "country": "Switzerland",
+    "countries": [
+      "Switzerland"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "The ETH Zurich Excellence Scholarship 2027–2028 provides comprehensive financial assistance to successful applicants",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-11-30",
+    "deadlineText": "Application deadline: 30 November 2026 (published on opportunitiesforyouth.org)",
+    "url": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Are you an outstanding undergraduate student aspiring to pursue a fully funded Master’s degree at one of the world’s leading universities? The ETH Zurich Excellence Scholarship & Opportunity Programme (ESOP) 2027–2028 offers an exceptional opportunity for academically excellent students from around the world to pursue postgraduate studies in Switzerland with comprehensive financial support.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Are you an outstanding undergraduate student aspiring to pursue a fully funded Master’s degree at one of the world’s leading universities? The ETH Zurich Excellence Scholarship & Opportunity Programme (ESOP) 2027–2028 offers an exceptional opportunity for academically excellent students from around the world to pursue postgraduate studies in Switzerland with comprehensive financial support.",
+      "whoCanApply": [
+        "The ETH Zurich Excellence Scholarship is open to outstanding students from all nationalities who intend to pursue an eligible Master’s degree at ETH Zurich.",
+        "However, applicants must satisfy the programme’s academic and admission requirements.",
+        "The scholarship covers ETH Zurich’s regular Master’s degree programmes.",
+        "Master of Advanced Studies (MAS) programmes are excluded.",
+        "Applicants should therefore carefully examine the programme they intend to pursue and confirm that it falls within the regular Master’s degree category.",
+        "After identifying your preferred programme, carefully review its admission requirements.",
+        "Check the academic qualifications, language requirements, supporting documents, and any programme-specific conditions."
+      ],
+      "benefits": [
+        "The ETH Zurich Excellence Scholarship 2027–2028 provides comprehensive financial assistance to successful applicants.",
+        "The scholarship is designed to cover students’ study-related and living expenses throughout the regular duration of their Master’s programmes.",
+        "The scholarship is provided for the regular duration of the eligible Master’s degree programme.",
+        "Depending on the chosen programme, this generally means three or four semesters of financial support.",
+        "Students should therefore consider the official duration of their intended Master’s programme when planning their studies."
+      ],
+      "howToApply": [
+        "The ETH Zurich Excellence Scholarship is open to students from all countries.",
+        "There is no specific nationality restriction stated in the scholarship information.",
+        "International students from Africa, Asia, Europe, North America, South America, and other regions are therefore eligible to apply, provided they satisfy the academic and admission requirements.",
+        "This makes ESOP an attractive opportunity for talented students seeking fully funded postgraduate education in Switzerland.",
+        "One of the most important requirements is submitting the application during the correct admission period.",
+        "For international applicants holding bachelor’s degrees from universities outside Switzerland, the ESOP application window runs from:",
+        "1 November 2026 to 30 November 2026."
+      ],
+      "documents": [
+        "Applicants must prepare the standard documents required for admission to their chosen ETH Zurich Master’s programme, together with the additional materials required for ESOP consideration.",
+        "Gather all the documents required for your Master’s admission application.",
+        "These may include academic transcripts, degree certificates, language evidence, your CV, and programme-specific documentation.",
+        "Ensure that the information in all documents is consistent and accurate."
+      ],
+      "selection": "The scholarship selection process may include a telephone or video interview in February 2027. Applicants should therefore provide a valid and reachable telephone number in their curriculum vitae. Candidates who expect to be unavailable during the interview period should inform the programme coordinator accordingly.",
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 30 November 2026.",
+        "Ask your lecturers or employer for recommendation letters at least four weeks before the deadline.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html",
+      "https://opportunitiesforyouth.org/2026/11/09/eth-zurich-excellence-scholarship-esop-2027-2028-in-switzerland-fully-funded-masters-scholarship-for-international-students-chf-13500-per-semester/"
+    ],
+    "lastVerified": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "discoveredAt": "2026-11-13",
+    "origin": "discovered"
+  },
+  {
+    "id": "top-10-scholarships-in-new-zealand-for-international-students",
+    "title": "Top 10 Scholarships in New Zealand for International Students",
+    "provider": null,
+    "country": "New Zealand",
+    "countries": [
+      "New Zealand"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Fully funded",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-11-30",
+    "deadlineText": "Application deadline: 30 November 2026 (published on scholars4dev.com)",
+    "url": "https://www.scholars4dev.com/scholarships-in-new-zealand-for-international-students/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "New Zealand universities charge international students high tuition fees for Bachelor’s and Master’s degrees (about NZ$51,000 a year for a Bachelor of Arts or Bachelor of Commerce at the University of Auckland in 2027), but international PhD students pay the same fees as New Zealand students. The New Zealand Government and New Zealand universities offer a number of scholarships for international students, from fully funded government and doctoral scholarships to awards towards tuition fees. scholars4dev.com lists the top scholarships in New Zealand for international students below.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "New Zealand universities charge international students high tuition fees for Bachelor’s and Master’s degrees (about NZ$51,000 a year for a Bachelor of Arts or Bachelor of Commerce at the University of Auckland in 2027), but international PhD students pay the same fees as New Zealand students. The New Zealand Government and New Zealand universities offer a number of scholarships for international students, from fully funded government and doctoral scholarships to awards towards tuition fees. scholars4dev.com lists the top scholarships in New Zealand for international students below.",
+      "whoCanApply": [],
+      "benefits": [],
+      "howToApply": [
+        "Read the full call on the official page (scholars4dev.com)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 30 November 2026",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 30 November 2026.",
+        "This entry was collected automatically from scholars4dev.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.scholars4dev.com/scholarships-in-new-zealand-for-international-students/"
+    ],
+    "lastVerified": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "discoveredAt": "2026-11-13",
     "origin": "discovered"
   },
   {
@@ -1377,6 +1561,74 @@
     "origin": "discovered"
   },
   {
+    "id": "nnpc-limited-totalenergies-national-merit-scholarship-scheme-nmss-for",
+    "title": "NNPC Limited / TotalEnergies National Merit Scholarship Scheme (NMSS) for young Nigerian students",
+    "provider": "csr-ngscholarship.totalenergies.com",
+    "country": "Nigeria",
+    "countries": [
+      "Nigeria"
+    ],
+    "level": [
+      "bachelor"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "partial",
+    "covers": "An annual scholarship grant from the year of award to the completion of the undergraduate programme",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-12-07",
+    "deadlineText": "Application deadline: 07 December 2026 (published on opportunitiesforafricans.com)",
+    "url": "https://csr-ngscholarship.totalenergies.com/scholarships/nmss",
+    "source": "web-collector",
+    "tags": [
+      "partial-funding",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2026/2027 NNPC Limited / TotalEnergies National Merit Scholarship Scheme. NNPL Limited and TotalEnergies Upstream Nigeria Limited (TUPNI), operator of PML 2/3/4 and PPL261, together with their corporate partners, in pursuance of their commitment to corporate social responsibility, invite suitably qualified Nigerian students to apply. The scheme supports first-year and second-year full-time undergraduates, irrespective of course of study, in financing their education. Follow the document requirements shown in your programme’s application. Upload clear, readable documents.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2026/2027 NNPC Limited / TotalEnergies National Merit Scholarship Scheme. NNPL Limited and TotalEnergies Upstream Nigeria Limited (TUPNI), operator of PML 2/3/4 and PPL261, together with their corporate partners, in pursuance of their commitment to corporate social responsibility, invite suitably qualified Nigerian students to apply. The scheme supports first-year and second-year full-time undergraduates, irrespective of course of study, in financing their education. Follow the document requirements shown in your programme’s application. Upload clear, readable documents.",
+      "whoCanApply": [
+        "Be a Nigerian student registered for full-time undergraduate study at an NUC-accredited Nigerian university.",
+        "Be a certified 100- or 200-level student at the time of application.",
+        "Have a UTME score of at least 200.",
+        "For 200-level students, have a CGPA of at least 2.5 on a 5.0-point grading system."
+      ],
+      "benefits": [
+        "An annual scholarship grant from the year of award to the completion of the undergraduate programme."
+      ],
+      "howToApply": [
+        "Review the requirements, complete your application, upload supporting documents, then review and submit.",
+        "View the application guide"
+      ],
+      "documents": [
+        "Follow the document requirements shown in your programme’s application. Upload clear, readable documents."
+      ],
+      "selection": "Applications are online only via the scholarship website. Do not send applications by email. Only shortlisted candidates will be invited to selection tests. TotalEnergies reserves the right to change the schedule or selection test process.",
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 07 December 2026.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://csr-ngscholarship.totalenergies.com/scholarships/nmss",
+      "https://www.opportunitiesforafricans.com/nnpc-limited-totalenergies-national-merit-scholarship-scheme-nmss-2026-2027-for-young-nigerian-students/"
+    ],
+    "lastVerified": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "discoveredAt": "2026-11-13",
+    "origin": "discovered"
+  },
+  {
     "id": "university-of-exeter-epsrc-fully-funded-engineering-phd-studentships-i",
     "title": "University of Exeter EPSRC Fully Funded Engineering PhD Studentships in the UK",
     "provider": "exeter.ac.uk",
@@ -1553,7 +1805,7 @@
       "https://au.int/sites/default/files/announcements/45594-annc-2026_PAU_Admission_Call_Englsih.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -1705,7 +1957,7 @@
       "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -1793,7 +2045,7 @@
       "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -1875,7 +2127,7 @@
       "https://www.gatescambridge.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -2031,7 +2283,7 @@
       "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "unreachable"
   },
   {
@@ -2184,6 +2436,74 @@
     "lastVerified": "2026-11-03",
     "lastChecked": "2026-11-03",
     "discoveredAt": "2026-11-03",
+    "origin": "discovered"
+  },
+  {
+    "id": "egypt-japan-university-of-science-and-technology-e-just-ticad9-postgra",
+    "title": "Egypt-Japan University of Science and Technology (E-JUST) TICAD9 Postgraduate Scholarship Program for African graduates",
+    "provider": "ejust.edu.eg",
+    "country": "Japan",
+    "countries": [
+      "Japan"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Fully funded",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-01-10",
+    "deadlineText": "Application deadline: 10 January 2027 (published on opportunitiesforafricans.com)",
+    "url": "https://www.ejust.edu.eg/international-scholarships",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the Egypt-Japan University of Science and Technology (E-JUST) TICAD9 Postgraduate Scholarship Program. E-JUST offers “E-JUST TICAD9 African Scholarship for STI” – i.e. TICAD9 Scholarships to develop high-quality human resources in the field of STI (Science, Technology and Innovation) toward future African STI network and beyond. These scholarships are provided under the cooperation of the governments of Egypt and Japan as a cost-sharing scheme between E-JUST and JICA. TICAD9 Scholarships are available for applicants who wish to pursue their M.Sc. degree or Ph.D.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the Egypt-Japan University of Science and Technology (E-JUST) TICAD9 Postgraduate Scholarship Program. E-JUST offers “E-JUST TICAD9 African Scholarship for STI” – i.e. TICAD9 Scholarships to develop high-quality human resources in the field of STI (Science, Technology and Innovation) toward future African STI network and beyond. These scholarships are provided under the cooperation of the governments of Egypt and Japan as a cost-sharing scheme between E-JUST and JICA. TICAD9 Scholarships are available for applicants who wish to pursue their M.Sc. degree or Ph.D.",
+      "whoCanApply": [
+        "Applicants shall be researchers or instructors (or potentially expected to become those) who needs to obtain their M.Sc. or Ph.D. degree in the fields of Science, Engineering, or other specialization.",
+        "Applicant must be a holder of nationality of a country in Africa except for Egypt.",
+        "Applicant must have a current home address in an African country.",
+        "Applicant must not be serving in the military.",
+        "Applicants should fulfill all the admission requirements and pass the academic interview and oral examination.",
+        "Applicants who shall continue their jobs in their home universities or institutions after completion of their postgraduate program at E-JUST are preferable. In this case, Endorsement of the application forms by their home institution is required to assure that they would return to home institutions in the future."
+      ],
+      "benefits": [],
+      "howToApply": [
+        "Read the full call on the official page (ejust.edu.eg)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 10 January 2027",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 10 January 2027.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.ejust.edu.eg/international-scholarships",
+      "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/"
+    ],
+    "lastVerified": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "discoveredAt": "2026-11-13",
     "origin": "discovered"
   },
   {
@@ -2344,7 +2664,7 @@
       "https://www.kaist.ac.kr/en/html/edu/03100502.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -2423,7 +2743,7 @@
       "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -2507,7 +2827,7 @@
       "https://stipendiumhungaricum.hu/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -2590,7 +2910,7 @@
       "https://education-in-russia.com/selection"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -2826,7 +3146,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/"
     ],
     "lastVerified": "2026-10-23",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -3202,7 +3522,7 @@
       "https://www.isdb.org/scholarships/scholarship-programs"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -3289,8 +3609,8 @@
       "https://moe.gov.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
-    "checkStatus": "unreachable"
+    "lastChecked": "2026-11-13",
+    "checkStatus": "reachable"
   },
   {
     "id": "icipe-arppis-daad-phd-scholarships",
@@ -3376,8 +3696,75 @@
       "https://www.daad.de/en/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
+  },
+  {
+    "id": "nnpc-ltd-totalenergies-international-masters-degree-scholarship-for-st",
+    "title": "NNPC Ltd/ TotalEnergies International Masters Degree Scholarship for Study in France",
+    "provider": "csr-ngscholarship.totalenergies.com",
+    "country": "France",
+    "countries": [
+      "France"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "A full-board scholarship",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-01-31",
+    "deadlineText": "Application deadline: 31 January 2027 (published on opportunitiesforafricans.com)",
+    "url": "https://csr-ngscholarship.totalenergies.com/scholarships/tis",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027/2028 NNPC Limited / TotalEnergies International Scholarship. NNPC Limited/TotalEnergies and its corporate partners sponsor young Nigerian scholars to pursue master’s degree programmes at universities in France in Management Science, Engineering and Geosciences. Application to a public university can be an added advantage. Visit the Official Webpage of the NNPC Limited / TotalEnergies International Scholarship Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027/2028 NNPC Limited / TotalEnergies International Scholarship. NNPC Limited/TotalEnergies and its corporate partners sponsor young Nigerian scholars to pursue master’s degree programmes at universities in France in Management Science, Engineering and Geosciences. Application to a public university can be an added advantage. Visit the Official Webpage of the NNPC Limited / TotalEnergies International Scholarship Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+      "whoCanApply": [
+        "Be a suitably qualified young Nigerian.",
+        "Hold a university degree with a minimum of Second Class Upper, obtained no earlier than five years ago.",
+        "Have completed the mandatory National Youth Service Corps (NYSC) scheme."
+      ],
+      "benefits": [
+        "A full-board scholarship."
+      ],
+      "howToApply": [
+        "Review the requirements, complete your application, upload supporting documents, then review and submit.",
+        "View the application guide"
+      ],
+      "documents": [
+        "Follow the document requirements shown in your programme’s application. Upload clear, readable documents."
+      ],
+      "selection": "Only applications submitted through the scholarship website will be considered. Only shortlisted candidates will be contacted.",
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 31 January 2027.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://csr-ngscholarship.totalenergies.com/scholarships/tis",
+      "https://www.opportunitiesforafricans.com/nnpc-ltd-totalenergies-international-masters-degree-scholarship-2027-2028/"
+    ],
+    "lastVerified": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "discoveredAt": "2026-11-13",
+    "origin": "discovered"
   },
   {
     "id": "nl-scholarship",
@@ -3455,7 +3842,7 @@
       "https://www.studyinnl.org/finances/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -3539,7 +3926,7 @@
       "https://www.mfa.gov.bn/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -3625,7 +4012,7 @@
       "https://twas.org/opportunities/fellowships/phd"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -3794,7 +4181,7 @@
       "https://tbbs.turkiyeburslari.gov.tr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -3952,7 +4339,7 @@
       "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?page=5f4ddf7588a720370a799e12"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -4107,7 +4494,7 @@
       "https://www.studyinkorea.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -4191,7 +4578,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -4276,7 +4663,7 @@
       "https://studyinromania.gov.ro/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -4363,7 +4750,7 @@
       "https://www.nexteinstein.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "unreachable"
   },
   {
@@ -4445,7 +4832,7 @@
       "https://www.campuschina.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "unreachable"
   },
   {
@@ -4528,7 +4915,7 @@
       "https://eoiaddisababa.gov.in/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -4614,7 +5001,7 @@
       "https://mfa.gov.az/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -4696,7 +5083,7 @@
       "https://www.mandelarhodes.org/scholarship/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -4784,7 +5171,7 @@
       "https://www.dfat.gov.au/sites/default/files/australia-awards-africa-information-for-intake.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -4877,7 +5264,7 @@
       "https://www.rotary.org/get-involved/our-programs/peace-fellowships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "unreachable"
   },
   {
@@ -4967,7 +5354,7 @@
       "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -5052,7 +5439,7 @@
       "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -5134,8 +5521,82 @@
       "https://foreign.fulbrightonline.org/apply"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
+  },
+  {
+    "id": "ucl-global-mental-health-msc",
+    "title": "UCL Global Mental Health MSc",
+    "provider": "ucl.ac.uk",
+    "country": "UK",
+    "countries": [
+      "UK"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "health"
+    ],
+    "fundingType": "partial",
+    "covers": "The tuition fees for students entering the Global Mental Health MSc in the 2027/28 academic year depend on their fee status and study mode",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-06-25",
+    "deadlineText": "Application deadline: 25 June 2027 (published on opportunitiesforyouth.org)",
+    "url": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/global-mental-health-msc#course-structure-attendance%7Cmf",
+    "source": "web-collector",
+    "tags": [
+      "partial-funding",
+      "auto-collected"
+    ],
+    "description": "The Global Mental Health MSc at University College London (UCL) is a postgraduate degree designed for graduates and professionals who want to understand mental health challenges across different countries and develop practical, evidence-based approaches to improving mental health services and reducing inequalities worldwide. Offered by UCL’s Institute for Global Health, the programme combines public health, psychology, epidemiology and social science to examine how mental health conditions affect populations differently and how effective interventions can be developed, evaluated and implemented. Applications are open for the September 2027 intake.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The Global Mental Health MSc at University College London (UCL) is a postgraduate degree designed for graduates and professionals who want to understand mental health challenges across different countries and develop practical, evidence-based approaches to improving mental health services and reducing inequalities worldwide. Offered by UCL’s Institute for Global Health, the programme combines public health, psychology, epidemiology and social science to examine how mental health conditions affect populations differently and how effective interventions can be developed, evaluated and implemented. Applications are open for the September 2027 intake.",
+      "whoCanApply": [
+        "Relevant social science or health-related degree, or equivalent overseas qualification",
+        "The UCL Global Mental Health MSc is open to graduates with an academic background in social sciences or a health-related discipline. The programme is interdisciplinary, meaning applicants do not necessarily need to have studied psychology before applying.",
+        "The English-language requirement for the Global Mental Health MSc is UCL English Language Level 2.",
+        "Applicants must provide evidence that they meet the university’s required English-language standard. Details of acceptable qualifications, evidence and approved test providers are available through UCL’s English language requirements information.",
+        "UCL also offers English-language programmes through its Centre for Languages and International Education.",
+        "Applicants should review the official requirements carefully to determine which form of evidence applies to their circumstances."
+      ],
+      "benefits": [
+        "The tuition fees for students entering the Global Mental Health MSc in the 2027/28 academic year depend on their fee status and study mode.",
+        "Students seeking financial assistance can visit the Institute for Global Health website for information about departmental funding opportunities.",
+        "One opportunity identified by UCL is the Institute for Global Health Postgraduate Bursary.",
+        "The course information does not provide a guaranteed scholarship or funding award for every applicant. Students should therefore check the department’s funding page for eligibility requirements, availability, application procedures and relevant deadlines."
+      ],
+      "howToApply": [
+        "Interested applicants can apply through UCL’s official postgraduate application system.",
+        "The university assesses applications based on academic qualifications and the applicant’s reasons for wanting to study the programme.",
+        "A particularly important part of the application is the personal statement."
+      ],
+      "documents": [],
+      "selection": "The Global Mental Health MSc uses a variety of teaching and learning approaches to help students understand complex issues and apply their knowledge to real-world challenges. Students are assessed through a combination of examinations, presentations and written assignments. Unseen examinations.",
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 25 June 2027.",
+        "Ask your lecturers or employer for recommendation letters at least four weeks before the deadline.",
+        "Tailor your motivation letter to Ethiopian development priorities and your concrete plans after study.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/global-mental-health-msc#course-structure-attendance%7Cmf",
+      "https://opportunitiesforyouth.org/2026/11/11/ucl-global-mental-health-msc-2027-one-year-masters-degree-in-london-for-uk-and-international-students/"
+    ],
+    "lastVerified": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "discoveredAt": "2026-11-13",
+    "origin": "discovered"
   },
   {
     "id": "mastercard-foundation-addis-ababa-university",
@@ -5215,7 +5676,7 @@
       "https://www.aau.edu.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -5304,7 +5765,7 @@
       "https://et.usembassy.gov/education-culture/educational-exchange/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -5389,8 +5850,8 @@
       "http://daad.de/go/de/stipa50026397"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
-    "checkStatus": "reachable"
+    "lastChecked": "2026-11-13",
+    "checkStatus": "unreachable"
   },
   {
     "id": "koica-scholarship-program",
@@ -5476,7 +5937,7 @@
       "https://www.koica.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "unreachable"
   },
   {
@@ -5564,7 +6025,7 @@
       "https://connect.schwarzmanscholars.org/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -5643,7 +6104,7 @@
       "https://www.chevening.org/scholarships/application-timeline/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -5725,7 +6186,7 @@
       "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -5814,7 +6275,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -5902,8 +6363,96 @@
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
-    "checkStatus": "reachable"
+    "lastChecked": "2026-11-13",
+    "checkStatus": "unreachable"
+  },
+  {
+    "id": "daad-in-country-in-region",
+    "title": "DAAD In-Country/In-Region Scholarship Programme Sub-Saharan Africa",
+    "provider": "German Academic Exchange Service (DAAD)",
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "development",
+      "health",
+      "agriculture",
+      "engineering",
+      "environment"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, monthly stipend, study/research allowance and, for in-region scholars, insurance and travel allowance.",
+    "eligibility": {
+      "ethiopiansEligible": true,
+      "englishTest": "required",
+      "workYearsMin": 0,
+      "nationalities": [
+        "ET"
+      ]
+    },
+    "deadline": "2027-11-12",
+    "deadlineConfirmed": false,
+    "deadlineText": "Current DAAD regional calls list 12 Nov 2026 for 2027 intake programmes; individual calls may differ.",
+    "url": "https://www.daad-kenya.org/en/in-country-in-region-programmes/",
+    "source": "web-research",
+    "tags": [
+      "fully-funded",
+      "estimated-deadline"
+    ],
+    "description": "DAAD’s In-Country/In-Region programme supports master’s and PhD study at selected universities in Sub-Saharan Africa. Official DAAD regional pages state that scholarships are for Sub-Saharan African citizens, which includes Ethiopians. The programme strengthens African higher education and development-related research capacity. Calls are tied to specific host institutions and programmes rather than one central degree. It is a strong option for students who want fully funded postgraduate study within Africa.",
+    "status": "open",
+    "details": {
+      "overview": "DAAD’s In-Country/In-Region programme supports master’s and PhD study at selected universities in Sub-Saharan Africa. Official DAAD regional pages state that scholarships are for Sub-Saharan African citizens, which includes Ethiopians. The programme strengthens African higher education and development-related research capacity. Calls are tied to specific host institutions and programmes rather than one central degree. It is a strong option for students who want fully funded postgraduate study within Africa.",
+      "whoCanApply": [
+        "Citizens of Sub-Saharan African countries including Ethiopia",
+        "Applicants accepted by a listed host programme in their home country or another Sub-Saharan African country",
+        "Master’s or PhD applicants meeting host academic rules",
+        "Women and candidates from underrepresented groups are especially encouraged"
+      ],
+      "benefits": [
+        "Tuition fees",
+        "Monthly stipend",
+        "Study and research allowance",
+        "Thesis publishing support where listed",
+        "Health insurance and travel allowance for in-region scholars"
+      ],
+      "howToApply": [
+        "Review current DAAD regional calls and choose an eligible host programme",
+        "Apply to the host institution and DAAD process as instructed in the call",
+        "Upload academic documents, proposal and references by the call deadline",
+        "Complete host or DAAD interviews if required"
+      ],
+      "documents": [
+        "Application form",
+        "Degree certificates and transcripts",
+        "Research proposal for PhD or thesis-based routes",
+        "CV",
+        "Recommendation letters",
+        "Proof of admission or host application",
+        "Language proof if required"
+      ],
+      "selection": "Host institutions and DAAD assess eligibility, academic quality, development relevance and regional fit. Some programmes interview shortlisted candidates. Final awards are issued after host admission and DAAD scholarship approval.",
+      "ethiopiaTips": [
+        "Look for East Africa and Africa-wide host programmes where Ethiopian citizens are explicitly eligible",
+        "If applying in-region, plan passport and visa steps early",
+        "Align research with Ethiopian or regional development priorities",
+        "Read each call PDF because benefits and deadlines differ by host"
+      ],
+      "applicationOpens": "Calls often appear in September or October"
+    },
+    "sources": [
+      "https://www.daad-kenya.org/en/in-country-in-region-programmes/",
+      "https://www.daad-ghana.org/en/2024/10/04/in-country-in-region-scholarship-programme-2025-26/",
+      "https://www.daad-ethiopia.org/en/scholarship-database/"
+    ],
+    "lastVerified": "2026-11-11",
+    "lastChecked": "2026-11-13",
+    "checkStatus": "unreachable"
   },
   {
     "id": "mastercard-foundation-scholars-program",
@@ -5982,7 +6531,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   },
   {
@@ -6066,7 +6615,7 @@
       "https://mastercardfdn.org/en/news/alx-kick-starts-inaugural-all-tech-training-programs-for-over-32000-learners-across-africa/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-11",
+    "lastChecked": "2026-11-13",
     "checkStatus": "reachable"
   }
 ]
