@@ -225,90 +225,6 @@
     "origin": "discovered"
   },
   {
-    "id": "ashesi-university-mcf-scholars",
-    "title": "Mastercard Foundation Scholars Program at Ashesi University",
-    "provider": "Mastercard Foundation / Ashesi University",
-    "country": "Ghana",
-    "countries": [
-      "Ghana"
-    ],
-    "level": [
-      "bachelor"
-    ],
-    "fields": [
-      "engineering",
-      "computer science",
-      "business",
-      "social sciences"
-    ],
-    "fundingType": "full",
-    "covers": "Full tuition, housing, meals, laptop and holistic academic/career support.",
-    "eligibility": {
-      "ethiopiansEligible": true,
-      "englishTest": "required",
-      "workYearsMin": 0,
-      "nationalities": [
-        "ET"
-      ]
-    },
-    "deadline": "2026-11-14",
-    "deadlineConfirmed": true,
-    "deadlineText": "Application deadline: 14 November 2026 (published on scholars4dev.com)",
-    "url": "https://www.ashesi.edu.gh/",
-    "source": "web-research",
-    "tags": [
-      "fully-funded"
-    ],
-    "description": "Ashesi University in Ghana is a long-standing Mastercard Foundation Scholars Program partner. The scholarship supports talented African undergraduates with financial need and leadership potential. Ethiopians are eligible as African applicants if they meet Ashesi admission standards. Ashesi is known for liberal arts, ethical leadership, engineering, computer science and business education. The award is highly competitive and seeks students likely to return impact to their communities.",
-    "status": "open",
-    "details": {
-      "overview": "Ashesi University in Ghana is a long-standing Mastercard Foundation Scholars Program partner. The scholarship supports talented African undergraduates with financial need and leadership potential. Ethiopians are eligible as African applicants if they meet Ashesi admission standards. Ashesi is known for liberal arts, ethical leadership, engineering, computer science and business education. The award is highly competitive and seeks students likely to return impact to their communities.",
-      "whoCanApply": [
-        "African applicant, including Ethiopian citizens",
-        "Strong academic record for undergraduate admission",
-        "Demonstrated financial need",
-        "Leadership, service and commitment to ethical impact"
-      ],
-      "benefits": [
-        "Full or substantial tuition support through the Scholars Program",
-        "Residential accommodation and meals for selected scholars",
-        "Laptop and learning materials support",
-        "Leadership, mentoring, career and transition support"
-      ],
-      "howToApply": [
-        "Apply for undergraduate admission to Ashesi",
-        "Complete financial aid and Mastercard Foundation Scholars materials",
-        "Submit academic and need documentation",
-        "Participate in interviews or additional assessments if invited"
-      ],
-      "documents": [
-        "Secondary-school transcripts/certificates",
-        "National exam results",
-        "Essays",
-        "Recommendation forms",
-        "Financial aid documents",
-        "Passport or ID",
-        "English proficiency evidence if requested"
-      ],
-      "selection": "Ashesi reviews admission first alongside scholarship and financial-need evidence. Shortlisted applicants may complete interviews. Final awards depend on both admission strength and verified need.",
-      "ethiopiaTips": [
-        "Explain Ethiopian grading and national exam context clearly",
-        "Use examples of community leadership rather than generic claims",
-        "Prepare financial documents early and truthfully",
-        "Check Ghana visa and travel-document timelines after admission"
-      ],
-      "applicationOpens": "Usually opens in late summer or early autumn"
-    },
-    "sources": [
-      "https://www.ashesi.edu.gh/",
-      "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/",
-      "https://www.scholars4dev.com/mastercard-foundation-scholarship-program-for-africans/"
-    ],
-    "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-13",
-    "checkStatus": "reachable"
-  },
-  {
     "id": "daejin-university-scholarships-in-south-korea-for-east-african-student",
     "title": "Daejin University Scholarships in South Korea for East African Students",
     "provider": "iucea.org",
@@ -397,6 +313,142 @@
     "lastVerified": "2026-10-17",
     "lastChecked": "2026-10-17",
     "discoveredAt": "2026-10-17",
+    "origin": "discovered"
+  },
+  {
+    "id": "9-scholarship-opportunities-for-refugees-in",
+    "title": "9 Scholarship Opportunities for Refugees in",
+    "provider": "carleton.ca",
+    "country": "USA",
+    "countries": [
+      "USA"
+    ],
+    "level": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "education"
+    ],
+    "fundingType": "partial",
+    "covers": "Partial funding",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-11-16",
+    "deadlineText": "Application deadline: 16 November 2026 (published on opportunitiesforyouth.org)",
+    "url": "https://carleton.ca/lerrn/education-scholarship-opportunities-for-refugees-2/",
+    "source": "web-collector",
+    "tags": [
+      "partial-funding",
+      "auto-collected"
+    ],
+    "description": "Refugee students seeking access to higher education have several scholarship opportunities to consider for the 2026–2027 academic period. A new list shared by the Local Engagement Refugee Research Network (LERRN) highlights higher education scholarship opportunities with application deadlines between November 2026 and January 2027. The opportunities cover undergraduate, master’s and doctoral studies at universities and higher education institutions across Africa, Europe, North America and Latin America.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Refugee students seeking access to higher education have several scholarship opportunities to consider for the 2026–2027 academic period. A new list shared by the Local Engagement Refugee Research Network (LERRN) highlights higher education scholarship opportunities with application deadlines between November 2026 and January 2027. The opportunities cover undergraduate, master’s and doctoral studies at universities and higher education institutions across Africa, Europe, North America and Latin America.",
+      "whoCanApply": [
+        "Start by reviewing the official scholarship page of your chosen institution. Check whether refugee applicants are eligible and whether there are specific conditions relating to country of origin, current country of residence, displacement status or legal documentation.",
+        "If the website does not clearly explain how refugee status is treated, contact the institution’s admissions or scholarship office for clarification."
+      ],
+      "benefits": [],
+      "howToApply": [
+        "Which academic programmes are covered by the scholarship.",
+        "The level of study available under the current application cycle.",
+        "Whether refugee applicants are eligible under the programme’s current criteria.",
+        "The academic and other qualifications required.",
+        "The documents that must accompany the application.",
+        "The application procedure and final submission requirements.",
+        "The application deadline listed for this opportunity is 30 November 2026. Interested applicants should begin reviewing the requirements early enough to prepare their application materials."
+      ],
+      "documents": [
+        "The original LERRN-shared list does not specify the documents required by each institution. However, prospective applicants should consult the official application instructions and prepare the documents requested by their chosen university.",
+        "Where relevant, they should clarify what evidence is accepted to establish refugee status and whether alternative documentation is available for applicants who cannot obtain standard academic or identity records."
+      ],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 16 November 2026.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://carleton.ca/lerrn/education-scholarship-opportunities-for-refugees-2/",
+      "https://opportunitiesforyouth.org/2026/11/15/9-scholarship-opportunities-for-refugees-in-2026-2027-undergraduate-masters-and-phd-funding-in-africa-europe-north-america-and-latin-america/"
+    ],
+    "lastVerified": "2026-11-15",
+    "lastChecked": "2026-11-15",
+    "discoveredAt": "2026-11-15",
+    "origin": "discovered"
+  },
+  {
+    "id": "top-15-research-scholarships-for-international-students",
+    "title": "Top 15+ Research Scholarships for International Students",
+    "provider": null,
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "health",
+      "engineering",
+      "social sciences"
+    ],
+    "fundingType": "full",
+    "covers": "SINGA funds international students for a PhD at A*STAR research institutes and partner universities, including the National University of Singapore and Nanyang…",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-11-16",
+    "deadlineText": "Application deadline: 16 November 2026 (published on scholars4dev.com)",
+    "url": "https://www.scholars4dev.com/top-25-research-scholarships-for-international-students/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Research scholarships are among the best-funded scholarships for international students. Governments fund them to attract talented researchers, and universities offer them to bring strong students into their research groups. Most are for a PhD or a research Master’s, and many pay tuition fees and a living stipend. scholars4dev.com lists the top research scholarships for international students below. The Fulbright Foreign Student Program funds students and young professionals from more than 160 countries for graduate study in the USA. Each country’s Fulbright Commission or US Embassy runs its own competition and deadline.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Research scholarships are among the best-funded scholarships for international students. Governments fund them to attract talented researchers, and universities offer them to bring strong students into their research groups. Most are for a PhD or a research Master’s, and many pay tuition fees and a living stipend. scholars4dev.com lists the top research scholarships for international students below. The Fulbright Foreign Student Program funds students and young professionals from more than 160 countries for graduate study in the USA. Each country’s Fulbright Commission or US Embassy runs its own competition and deadline.",
+      "whoCanApply": [],
+      "benefits": [
+        "SINGA funds international students for a PhD at A*STAR research institutes and partner universities, including the National University of Singapore and Nanyang Technological University. It covers full tuition, a monthly stipend, a settling-in allowance and an airfare grant; the next deadline is 1 December 2026 for the August 2027 intake. The awards cover PhD research in science and engineering."
+      ],
+      "howToApply": [
+        "Read the full call on the official page (scholars4dev.com)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 16 November 2026",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 16 November 2026.",
+        "This entry was collected automatically from scholars4dev.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.scholars4dev.com/top-25-research-scholarships-for-international-students/"
+    ],
+    "lastVerified": "2026-11-15",
+    "lastChecked": "2026-11-15",
+    "discoveredAt": "2026-11-15",
     "origin": "discovered"
   },
   {
@@ -812,7 +864,7 @@
       "https://www.eda.admin.ch/countries/ethiopia/en/home/services/scholarships.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -890,7 +942,7 @@
       "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1409,6 +1461,70 @@
     "origin": "discovered"
   },
   {
+    "id": "top-10-science-engineering-and-technology-scholarships-for-internation",
+    "title": "Top 10+ Science, Engineering and Technology Scholarships for International Students",
+    "provider": null,
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "engineering"
+    ],
+    "fundingType": "full",
+    "covers": "SINGA funds international students for a PhD at A*STAR research institutes and partner universities, including the National University of Singapore and Nanyang…",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-12-01",
+    "deadlineText": "Application deadline: 01 December 2026 (published on scholars4dev.com)",
+    "url": "https://www.scholars4dev.com/science-engineering-technology-scholarships-for-international-students/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Science, engineering and technology are among the best-funded fields for international students. Science faculties and technical universities offer their own scholarships to attract the strongest students, and governments and foundations fund PhD and research fellowships in these fields, many of them for researchers from developing countries. scholars4dev.com lists the top science, engineering and technology scholarships for international students below. KU Leuven’s Faculty of Science and its alumni association give Science@Leuven Scholarships to talented international students in the faculty’s English-taught Master’s programmes.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Science, engineering and technology are among the best-funded fields for international students. Science faculties and technical universities offer their own scholarships to attract the strongest students, and governments and foundations fund PhD and research fellowships in these fields, many of them for researchers from developing countries. scholars4dev.com lists the top science, engineering and technology scholarships for international students below. KU Leuven’s Faculty of Science and its alumni association give Science@Leuven Scholarships to talented international students in the faculty’s English-taught Master’s programmes.",
+      "whoCanApply": [],
+      "benefits": [
+        "SINGA funds international students for a PhD at A*STAR research institutes and partner universities, including the National University of Singapore and Nanyang Technological University. It covers full tuition, a monthly stipend, a settling-in allowance and an airfare grant; the next deadline is 1 December 2026 for the August 2027 intake. The awards cover PhD research in science and engineering."
+      ],
+      "howToApply": [
+        "Read the full call on the official page (scholars4dev.com)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 01 December 2026",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 01 December 2026.",
+        "Ask your lecturers or employer for recommendation letters at least four weeks before the deadline.",
+        "This entry was collected automatically from scholars4dev.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.scholars4dev.com/science-engineering-technology-scholarships-for-international-students/"
+    ],
+    "lastVerified": "2026-11-15",
+    "lastChecked": "2026-11-15",
+    "discoveredAt": "2026-11-15",
+    "origin": "discovered"
+  },
+  {
     "id": "e5-doctoral-training-partnership-phd-studentships-at-the-university-of",
     "title": "E5 Doctoral Training Partnership PhD Studentships at the University of Edinburgh",
     "provider": "study.ed.ac.uk",
@@ -1805,7 +1921,7 @@
       "https://au.int/sites/default/files/announcements/45594-annc-2026_PAU_Admission_Call_Englsih.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1957,7 +2073,7 @@
       "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -2045,7 +2161,7 @@
       "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -2127,7 +2243,7 @@
       "https://www.gatescambridge.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -2283,7 +2399,7 @@
       "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "unreachable"
   },
   {
@@ -2664,7 +2780,7 @@
       "https://www.kaist.ac.kr/en/html/edu/03100502.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -2743,7 +2859,7 @@
       "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -2827,7 +2943,7 @@
       "https://stipendiumhungaricum.hu/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -2910,7 +3026,7 @@
       "https://education-in-russia.com/selection"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -3146,7 +3262,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/"
     ],
     "lastVerified": "2026-10-23",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -3348,6 +3464,83 @@
     "origin": "discovered"
   },
   {
+    "id": "bayer-foundation-scientific-fellowships-for-master-phd-and-medical-stu",
+    "title": "Bayer Foundation Scientific Fellowships for Master, PhD, and Medical Students (10.000 € grant)",
+    "provider": "bayer-foundation.com",
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "health"
+    ],
+    "fundingType": "full",
+    "covers": "The maximum funding for a fellowship is 10,000€",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-01-18",
+    "deadlineText": "Application deadline: 18 January 2027 (published on opportunitiesforafricans.com)",
+    "url": "https://www.bayer-foundation.com/en/science/fellowships",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027 Bayer Foundation Scientific Fellowships. The Bayer Foundation offer scientific fellowships for outstanding master’s, PhD, and medical students to pursue international research projects, internships, and more, providing additional funding for international placements to enhance their study programs. For master or PhD students from all scientific disciplines including pharmacy and data science, with fundamental or applied studies with relevance to the pharmaceutical and consumer healthcare (over-the-counter) industries.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027 Bayer Foundation Scientific Fellowships. The Bayer Foundation offer scientific fellowships for outstanding master’s, PhD, and medical students to pursue international research projects, internships, and more, providing additional funding for international placements to enhance their study programs. For master or PhD students from all scientific disciplines including pharmacy and data science, with fundamental or applied studies with relevance to the pharmaceutical and consumer healthcare (over-the-counter) industries.",
+      "whoCanApply": [
+        "Applicants are eligible for up to 10.000 € funding and can undertake fellowships for up to six months.",
+        "The fellowship can be used for research projects, internships, and more.",
+        "People studying in Germany must undertake placements in a second country and those studying outside Germany must undertake their fellowships at a German research institution",
+        "Currently enrolled in an MSc, PhD, medical degree program, or equivalent program.",
+        "Students currently enrolled in an MBBS or Pharm D program are eligible to apply and may be funded.",
+        "Bachelor students, postdoctoral researchers, medical doctors, and holders of a completed MBBS or Pharm D are not eligible. Students who will have completed their doctoral studies (defense of thesis) before the end of the proposed fellowship are also not eligible. This means: If you are already holding a PhD or MD you are not eligible to apply.",
+        "Observerships (hospitations) are not eligible for funding and are excluded from support under this fellowship."
+      ],
+      "benefits": [
+        "The maximum funding for a fellowship is 10,000€.",
+        "Exceptional costs and caregiving costs may be requested separately and must be justified.",
+        "Bayer Foundation Fellowships may be combined with other funding sources or fellowships.",
+        "Funding may be used for activities lasting up to six months."
+      ],
+      "howToApply": [
+        "Read the full call on the official page (bayer-foundation.com)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 18 January 2027",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 18 January 2027.",
+        "Ask your lecturers or employer for recommendation letters at least four weeks before the deadline.",
+        "Tailor your motivation letter to Ethiopian development priorities and your concrete plans after study.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.bayer-foundation.com/en/science/fellowships",
+      "https://www.opportunitiesforafricans.com/the-bayer-foundation-scientific-fellowships-2027/"
+    ],
+    "lastVerified": "2026-11-15",
+    "lastChecked": "2026-11-15",
+    "discoveredAt": "2026-11-15",
+    "origin": "discovered"
+  },
+  {
     "id": "liverpool-john-moores-university-vice-chancellor-s-phd-scholarships-in",
     "title": "Liverpool John Moores University Vice-Chancellor’s PhD Scholarships in the UK",
     "provider": "ljmu.ac.uk",
@@ -3522,7 +3715,7 @@
       "https://www.isdb.org/scholarships/scholarship-programs"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -3609,8 +3802,8 @@
       "https://moe.gov.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
-    "checkStatus": "reachable"
+    "lastChecked": "2026-11-15",
+    "checkStatus": "unreachable"
   },
   {
     "id": "icipe-arppis-daad-phd-scholarships",
@@ -3696,7 +3889,7 @@
       "https://www.daad.de/en/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -3842,7 +4035,7 @@
       "https://www.studyinnl.org/finances/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -3926,7 +4119,7 @@
       "https://www.mfa.gov.bn/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -4012,7 +4205,7 @@
       "https://twas.org/opportunities/fellowships/phd"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -4181,7 +4374,7 @@
       "https://tbbs.turkiyeburslari.gov.tr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -4339,7 +4532,7 @@
       "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?page=5f4ddf7588a720370a799e12"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -4494,7 +4687,7 @@
       "https://www.studyinkorea.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -4578,7 +4771,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -4663,7 +4856,7 @@
       "https://studyinromania.gov.ro/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -4750,7 +4943,7 @@
       "https://www.nexteinstein.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "unreachable"
   },
   {
@@ -4832,8 +5025,68 @@
       "https://www.campuschina.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "unreachable"
+  },
+  {
+    "id": "bartlett-promise-sub-saharan-africa-master-s-scholarship-at-ucl",
+    "title": "Bartlett Promise Sub-Saharan Africa Master’s Scholarship at UCL",
+    "provider": null,
+    "country": "UK",
+    "countries": [
+      "UK"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "environment"
+    ],
+    "fundingType": "partial",
+    "covers": "Up to three, plus one Bartlett Promise Prescot Scholarship for a woman on the MSc Infrastructure Investment and Finance",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-03-31",
+    "deadlineText": "Application deadline: 31 March 2027 (published on scholars4dev.com)",
+    "url": "https://www.scholars4dev.com/the-barlett-masters-scholarship-scheme-at-the-university-of-london/",
+    "source": "web-collector",
+    "tags": [
+      "partial-funding",
+      "auto-collected"
+    ],
+    "description": "The Bartlett Promise is the scholarship programme of the Bartlett, UCL’s Faculty of the Built Environment, for students from backgrounds that are underrepresented in the built environment. Its Sub-Saharan Africa Master’s Scholarship fully funds a Master’s at the Bartlett for nationals and residents of eligible Sub-Saharan African countries who are in financial need. The Bartlett also runs a Bartlett Promise Master’s Scholarship for UK-domiciled students; this post focuses on the scholarship open to international students.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The Bartlett Promise is the scholarship programme of the Bartlett, UCL’s Faculty of the Built Environment, for students from backgrounds that are underrepresented in the built environment. Its Sub-Saharan Africa Master’s Scholarship fully funds a Master’s at the Bartlett for nationals and residents of eligible Sub-Saharan African countries who are in financial need. The Bartlett also runs a Bartlett Promise Master’s Scholarship for UK-domiciled students; this post focuses on the scholarship open to international students.",
+      "whoCanApply": [],
+      "benefits": [
+        "Up to three, plus one Bartlett Promise Prescot Scholarship for a woman on the MSc Infrastructure Investment and Finance"
+      ],
+      "howToApply": [
+        "Applications are currently closed.",
+        "It is important to visit the official website (link found below) for detailed information on how to apply for this scholarship."
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 31 March 2027.",
+        "This entry was collected automatically from scholars4dev.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.scholars4dev.com/the-barlett-masters-scholarship-scheme-at-the-university-of-london/"
+    ],
+    "lastVerified": "2026-11-15",
+    "lastChecked": "2026-11-15",
+    "discoveredAt": "2026-11-15",
+    "origin": "discovered"
   },
   {
     "id": "indian-iccr-scholarships",
@@ -4915,7 +5168,7 @@
       "https://eoiaddisababa.gov.in/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -5001,7 +5254,7 @@
       "https://mfa.gov.az/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -5083,7 +5336,7 @@
       "https://www.mandelarhodes.org/scholarship/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -5171,7 +5424,7 @@
       "https://www.dfat.gov.au/sites/default/files/australia-awards-africa-information-for-intake.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -5264,7 +5517,7 @@
       "https://www.rotary.org/get-involved/our-programs/peace-fellowships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "unreachable"
   },
   {
@@ -5354,7 +5607,7 @@
       "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -5439,7 +5692,7 @@
       "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -5521,7 +5774,7 @@
       "https://foreign.fulbrightonline.org/apply"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -5676,7 +5929,7 @@
       "https://www.aau.edu.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -5765,7 +6018,7 @@
       "https://et.usembassy.gov/education-culture/educational-exchange/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -5850,7 +6103,7 @@
       "http://daad.de/go/de/stipa50026397"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "unreachable"
   },
   {
@@ -5937,7 +6190,7 @@
       "https://www.koica.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "unreachable"
   },
   {
@@ -6025,7 +6278,7 @@
       "https://connect.schwarzmanscholars.org/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -6104,7 +6357,7 @@
       "https://www.chevening.org/scholarships/application-timeline/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -6186,7 +6439,7 @@
       "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -6275,7 +6528,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -6363,7 +6616,7 @@
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "unreachable"
   },
   {
@@ -6451,8 +6704,93 @@
       "https://www.daad-ethiopia.org/en/scholarship-database/"
     ],
     "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "unreachable"
+  },
+  {
+    "id": "ashesi-university-mcf-scholars",
+    "title": "Mastercard Foundation Scholars Program at Ashesi University",
+    "provider": "Mastercard Foundation / Ashesi University",
+    "country": "Ghana",
+    "countries": [
+      "Ghana"
+    ],
+    "level": [
+      "bachelor"
+    ],
+    "fields": [
+      "engineering",
+      "computer science",
+      "business",
+      "social sciences"
+    ],
+    "fundingType": "full",
+    "covers": "Full tuition, housing, meals, laptop and holistic academic/career support.",
+    "eligibility": {
+      "ethiopiansEligible": true,
+      "englishTest": "required",
+      "workYearsMin": 0,
+      "nationalities": [
+        "ET"
+      ]
+    },
+    "deadline": "2027-11-14",
+    "deadlineConfirmed": false,
+    "deadlineText": "Application deadline: 14 November 2026 (published on scholars4dev.com)",
+    "url": "https://www.ashesi.edu.gh/",
+    "source": "web-research",
+    "tags": [
+      "fully-funded",
+      "estimated-deadline"
+    ],
+    "description": "Ashesi University in Ghana is a long-standing Mastercard Foundation Scholars Program partner. The scholarship supports talented African undergraduates with financial need and leadership potential. Ethiopians are eligible as African applicants if they meet Ashesi admission standards. Ashesi is known for liberal arts, ethical leadership, engineering, computer science and business education. The award is highly competitive and seeks students likely to return impact to their communities.",
+    "status": "open",
+    "details": {
+      "overview": "Ashesi University in Ghana is a long-standing Mastercard Foundation Scholars Program partner. The scholarship supports talented African undergraduates with financial need and leadership potential. Ethiopians are eligible as African applicants if they meet Ashesi admission standards. Ashesi is known for liberal arts, ethical leadership, engineering, computer science and business education. The award is highly competitive and seeks students likely to return impact to their communities.",
+      "whoCanApply": [
+        "African applicant, including Ethiopian citizens",
+        "Strong academic record for undergraduate admission",
+        "Demonstrated financial need",
+        "Leadership, service and commitment to ethical impact"
+      ],
+      "benefits": [
+        "Full or substantial tuition support through the Scholars Program",
+        "Residential accommodation and meals for selected scholars",
+        "Laptop and learning materials support",
+        "Leadership, mentoring, career and transition support"
+      ],
+      "howToApply": [
+        "Apply for undergraduate admission to Ashesi",
+        "Complete financial aid and Mastercard Foundation Scholars materials",
+        "Submit academic and need documentation",
+        "Participate in interviews or additional assessments if invited"
+      ],
+      "documents": [
+        "Secondary-school transcripts/certificates",
+        "National exam results",
+        "Essays",
+        "Recommendation forms",
+        "Financial aid documents",
+        "Passport or ID",
+        "English proficiency evidence if requested"
+      ],
+      "selection": "Ashesi reviews admission first alongside scholarship and financial-need evidence. Shortlisted applicants may complete interviews. Final awards depend on both admission strength and verified need.",
+      "ethiopiaTips": [
+        "Explain Ethiopian grading and national exam context clearly",
+        "Use examples of community leadership rather than generic claims",
+        "Prepare financial documents early and truthfully",
+        "Check Ghana visa and travel-document timelines after admission"
+      ],
+      "applicationOpens": "Usually opens in late summer or early autumn"
+    },
+    "sources": [
+      "https://www.ashesi.edu.gh/",
+      "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/",
+      "https://www.scholars4dev.com/mastercard-foundation-scholarship-program-for-africans/"
+    ],
+    "lastVerified": "2026-11-11",
+    "lastChecked": "2026-11-15",
+    "checkStatus": "reachable"
   },
   {
     "id": "mastercard-foundation-scholars-program",
@@ -6531,7 +6869,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -6615,7 +6953,7 @@
       "https://mastercardfdn.org/en/news/alx-kick-starts-inaugural-all-tech-training-programs-for-over-32000-learners-across-africa/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   }
 ]

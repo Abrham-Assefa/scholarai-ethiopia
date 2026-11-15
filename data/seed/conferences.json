@@ -385,7 +385,7 @@
       "https://opportunitiesforyouth.org/2026/10/20/apfsd-youth-forum-2027-in-bangkok-thailand-call-for-applications-and-abstracts-for-young-people-in-asia-and-the-pacific/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": true,
@@ -431,10 +431,11 @@
       "https://opportunitiesforyouth.org/2026/11/09/malawi-creative-economy-and-investment-forum-2026-registration-opens-for-creatives-investors-artists-and-development-partners-in-malawi/"
     ],
     "lastVerified": "2026-11-13",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "discoveredAt": "2026-11-13",
     "origin": "discovered",
-    "dateConfirmed": true
+    "dateConfirmed": true,
+    "checkStatus": "reachable"
   },
   {
     "id": "sdg-innovation-summit",
@@ -452,7 +453,7 @@
     "url": "https://www.sdgsummit.org",
     "ethiopiansEligible": false,
     "description": "SDG Innovation Summit in Malaysia (19–22 Nov 2026). Funding: Flights, visa, hotel, meals. For: Students / youth.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "unreachable"
   },
   {
@@ -500,7 +501,7 @@
       "https://www.opportunitiesforafricans.com/the-sir-cyril-taylor-young-african-leaders-fellowship-program-2027/"
     ],
     "lastVerified": "2026-11-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "discoveredAt": "2026-11-07",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -522,7 +523,7 @@
     "url": "https://asef.org",
     "ethiopiansEligible": false,
     "description": "ASEF LinkUp / ASEF Seminar in Slovenia / Mongolia (Oct–Nov 2026). Funding: Full. For: 18–30 (check country list).",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -573,7 +574,7 @@
       "https://www.opportunitiesforafricans.com/the-ye-youth-ecopreneurs-programme-yeco-2026-2027/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -595,7 +596,7 @@
     "url": "https://www.obama.org/programs/leaders",
     "ethiopiansEligible": true,
     "description": "Obama Foundation Leaders: Africa in Johannesburg + virtual (Apply Jan–Feb). Funding: Full. For: Emerging leaders.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable",
     "deadline": "2026-11-23",
     "status": "open",
@@ -651,7 +652,7 @@
       "https://www.opportunitiesforafricans.com/the-journalismai-strategy-lab-2026-for-african-journalists-and-media-professionals/"
     ],
     "lastVerified": "2026-11-03",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "discoveredAt": "2026-11-03",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -673,8 +674,53 @@
     "url": "https://falling-walls.com",
     "ethiopiansEligible": true,
     "description": "Falling Walls Lab Ethiopia -> Berlin Finale in Addis -> Berlin (Nov). Funding: Full for winner. For: Students / researchers.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
+  },
+  {
+    "id": "council-of-europe-congress-in-strasbourg",
+    "title": "Council of Europe Congress in Strasbourg",
+    "location": "Strasbourg, France",
+    "when": "Apply by 30 Nov 2026",
+    "startDate": null,
+    "deadline": "2026-11-30",
+    "funding": "Fully funded",
+    "fundingType": "full",
+    "audience": "Students & young professionals",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=grBJPtViSUilsIbtUZKH0otpS3OcHcpKtPmUP-ZlXw5UQ1NQM1NQS0cwSzg4REdXTEM2TVVENlBMVS4u",
+    "ethiopiansEligible": true,
+    "description": "As part of its Rejuvenating Politics initiative, the Congress of the Council of Europe invites young people aged 18 to 30 years old to: The deadline for submitting completed applications to the Congress is 30 November 2026. The Congress of Local and Regional Authorities is the Council of Europe’s political assembly dedicated to strengthening local and regional democracy and upholding human rights and the rule of law at grassroots level in the organisation’s 46 member states. It brings together elected representatives from local and regional authorities and provides a forum for political dialogue.",
+    "status": "open",
+    "details": {
+      "overview": "As part of its Rejuvenating Politics initiative, the Congress of the Council of Europe invites young people aged 18 to 30 years old to: The deadline for submitting completed applications to the Congress is 30 November 2026. The Congress of Local and Regional Authorities is the Council of Europe’s political assembly dedicated to strengthening local and regional democracy and upholding human rights and the rule of law at grassroots level in the organisation’s 46 member states. It brings together elected representatives from local and regional authorities and provides a forum for political dialogue.",
+      "whoCanApply": [],
+      "benefits": [
+        "Funding: Travel and subsistence expenses covered; accommodation provided and paid for by the organisers"
+      ],
+      "howToApply": [
+        "Those wishing to apply to take part in the programme in 2027, including participating in the 52nd and 53rd Congress sessions, must do so by means of the online application form. Participation in only one session is not possible.",
+        "Please note that the written application form includes detailed questions and may take some time to complete.",
+        "1 During the non-formal sessions organised alongside the official debates and committee meetings, the working language will be English.",
+        "but must answer the question indicated in the application form. The video is an integral part of the application.",
+        "The deadline for submitting completed applications, including the short video, is 23:59 CET on 30 November 2026.",
+        "The youth delegates will be appointed by a selection panel which includes the Congress Spokesperson on Youth, the youth trainers and two members of the Council of Europe’s Advisory Council on Youth. The panel will ensure that the selected applicants represent a balanced group with regard to gender, cultural background and experience.",
+        "Applicants will be informed of the results of the selection procedure by 15 February 2027."
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=grBJPtViSUilsIbtUZKH0otpS3OcHcpKtPmUP-ZlXw5UQ1NQM1NQS0cwSzg4REdXTEM2TVVENlBMVS4u",
+      "https://opportunitiesforyouth.org/2026/11/14/2027-fully-funded-youth-delegate-programme-apply-for-the-council-of-europe-congress-in-strasbourg/"
+    ],
+    "lastVerified": "2026-11-15",
+    "lastChecked": "2026-11-15",
+    "discoveredAt": "2026-11-15",
+    "origin": "discovered",
+    "dateConfirmed": false
   },
   {
     "id": "mcw-global-s-young-leaders-fellowship-for-young-changemakers-worldwide",
@@ -714,7 +760,7 @@
       "https://www.opportunitiesforafricans.com/the-mcw-globals-young-leaders-fellowship-2027/"
     ],
     "lastVerified": "2026-11-07",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "discoveredAt": "2026-11-07",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -760,7 +806,7 @@
       "https://www.opportunitiesforafricans.com/the-internet-corporation-for-assigned-names-and-numbers-icann89-policy-forum-fellowship-program-2027/"
     ],
     "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "discoveredAt": "2026-11-11",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -819,7 +865,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/crossculture-programfully-funded-to-germany/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -877,7 +923,7 @@
       "https://opportunitiesforyouth.org/2026/10/12/iaffes-2nd-feminist-economics-school-call-for-applicationsfully-funded/"
     ],
     "lastVerified": "2026-10-17",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "discoveredAt": "2026-10-17",
     "origin": "discovered",
     "dateConfirmed": true,
@@ -930,7 +976,7 @@
       "https://opportunitiesforyouth.org/2026/10/22/young-southeast-asian-leaders-initiative-professional-fellows-program-2023-call-for-applications-fully-fundedusa/"
     ],
     "lastVerified": "2026-10-23",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "discoveredAt": "2026-10-23",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -971,7 +1017,7 @@
       "https://www.opportunitiesforafricans.com/the-friedrich-ebert-stiftung-young-leaders-programme-2027-for-young-cameroonians/"
     ],
     "lastVerified": "2026-11-05",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "discoveredAt": "2026-11-05",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -993,7 +1039,7 @@
     "url": "https://www.intgovforum.org",
     "ethiopiansEligible": true,
     "description": "Internet Governance Forum (IGF) Youth Fellowship in Rotates (Dec). Funding: Full. For: 18–35.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "unreachable"
   },
   {
@@ -1012,7 +1058,7 @@
     "url": "https://blackinai.github.io",
     "ethiopiansEligible": true,
     "description": "AfricArXiv / Black in AI workshop (NeurIPS) in Global (Dec). Funding: Travel grants. For: Researchers.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1031,7 +1077,7 @@
     "url": "https://www.nobelpeacecenter.org",
     "ethiopiansEligible": false,
     "description": "Nobel Peace Prize Forum / Nobel Week Dialogue youth in Norway / Sweden (Dec). Funding: Travel grants. For: Youth.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1137,7 +1183,7 @@
       "https://www.opportunitiesforafricans.com/the-international-institute-for-applied-systems-analysis-iiasa-young-scientists-summer-program-2027/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1159,7 +1205,7 @@
     "url": "https://cda.org",
     "ethiopiansEligible": false,
     "description": "Youth Action Summit 2027 in Germany (11–14 Jan 2027). Funding: Full/partial. For: 18–35.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1209,7 +1255,7 @@
       "https://www.opportunitiesforafricans.com/st-gallen-symposium-global-ideas-competition-2027/"
     ],
     "lastVerified": "2026-11-03",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "discoveredAt": "2026-11-03",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1231,7 +1277,7 @@
     "url": "https://www.hpair.org",
     "ethiopiansEligible": false,
     "description": "Harvard Project for Asian & International Relations (HPAIR) in Asia / Boston (Aug / Feb). Funding: Scholarships available. For: University students.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1250,7 +1296,7 @@
     "url": "https://www.tonyelumelufoundation.org",
     "ethiopiansEligible": true,
     "description": "Tony Elumelu Foundation Entrepreneurship Programme in Online + Lagos forum (Jan–Mar apply). Funding: $5,000 seed + training. For: 18+.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1269,7 +1315,7 @@
     "url": "https://ecosoc.un.org",
     "ethiopiansEligible": true,
     "description": "UN Youth Forum (ECOSOC) in New York (April). Funding: Partial/full via sponsors. For: 18–30.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1288,7 +1334,7 @@
     "url": "https://www.cugh.org",
     "ethiopiansEligible": false,
     "description": "Global Health Conference – CUGH travel awards in USA (Mar–Apr). Funding: Travel grants. For: Students.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1337,10 +1383,11 @@
       "https://opportunitiesforyouth.org/2026/11/05/european-youth-event-2027-eye2027-european-parliament-opens-call-for-youth-groups-to-receive-financial-support-to-participate-in-strasbourg/"
     ],
     "lastVerified": "2026-11-13",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "discoveredAt": "2026-11-13",
     "origin": "discovered",
-    "dateConfirmed": false
+    "dateConfirmed": false,
+    "checkStatus": "reachable"
   },
   {
     "id": "data-science-africa-summer-school",
@@ -1358,7 +1405,7 @@
     "url": "https://www.datascienceafrica.org",
     "ethiopiansEligible": true,
     "description": "Data Science Africa Summer School in Africa (Jun–Jul). Funding: Travel grants. For: Students.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1377,7 +1424,7 @@
     "url": "https://deeplearningindaba.com",
     "ethiopiansEligible": true,
     "description": "Google / Deep Learning Indaba in Africa (rotates) (Aug–Sept). Funding: Travel grants. For: Students, researchers.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1396,7 +1443,7 @@
     "url": "https://www.mandelawashingtonfellowship.org",
     "ethiopiansEligible": true,
     "description": "Mandela Washington Fellowship (YALI) in USA (Jun–Jul 2027 (apply Sept–Oct 2026)). Funding: Full. For: 25–35.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable",
     "dateConfirmed": false
   },
@@ -1416,7 +1463,7 @@
     "url": "https://www.oneyoungworld.com",
     "ethiopiansEligible": true,
     "description": "One Young World Summit – Leading Africa Scholarship in Cape Town, South Africa (3–6 Nov 2026). Funding: Full (flights, hotel, fees). For: 18–30.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable",
     "dateConfirmed": false
   },
@@ -1436,7 +1483,7 @@
     "url": "https://www.coe.int/en/web/world-forum-democracy",
     "ethiopiansEligible": true,
     "description": "World Forum for Democracy (Council of Europe) in Strasbourg, France (31 Oct – 4 Nov 2026). Funding: Full for youth delegates. For: 18–30.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "unreachable",
     "dateConfirmed": false
   },
@@ -1456,7 +1503,7 @@
     "url": "https://afrileadnetwork.org",
     "ethiopiansEligible": true,
     "description": "DLL Conference (AfriLead Network) in Zanzibar, Tanzania (2026). Funding: Full. For: Young African professionals.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1475,7 +1522,7 @@
     "url": "https://yalieastafrica.org",
     "ethiopiansEligible": true,
     "description": "YALI Regional Leadership Center East Africa in Nairobi, Kenya (Multiple cohorts). Funding: Full. For: 18–35.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1494,7 +1541,7 @@
     "url": "https://au.int/en/youth",
     "ethiopiansEligible": true,
     "description": "Africa Youth Summit / AU Youth Forum in Rotates (Addis often) (Yearly). Funding: Full. For: 15–35.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "unreachable"
   },
   {
@@ -1513,7 +1560,7 @@
     "url": "https://www.itu.int/generationconnect",
     "ethiopiansEligible": true,
     "description": "ITU Generation Connect in Global (Various). Funding: Travel grants. For: 18–29.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1532,7 +1579,7 @@
     "url": "https://gsw.mit.edu",
     "ethiopiansEligible": false,
     "description": "MIT Global Startup Workshop / MIT Africa Innovate in Rotates (Spring). Funding: Partial. For: Entrepreneurs.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1551,7 +1598,7 @@
     "url": "https://acumen.org/fellowships",
     "ethiopiansEligible": true,
     "description": "Ashoka / Acumen Fellowships in Global/East Africa (Rolling). Funding: Full. For: Social entrepreneurs.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
@@ -1570,7 +1617,7 @@
     "url": "https://careers.un.org",
     "ethiopiansEligible": true,
     "description": "WHO / UNICEF / UNDP Youth Internships & Forums in Addis (UNECA, AU HQ) (Rolling). Funding: Stipend. For: 18–32.",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-15",
     "checkStatus": "reachable"
   },
   {
