@@ -260,7 +260,7 @@
       "auto-collected"
     ],
     "description": "The Daejin University Scholarships for East African Students 2027 offer eligible students from eight East African Community (EAC) Partner States an opportunity to pursue undergraduate and master’s degree programmes in South Korea. Offered through a partnership between Daejin University and the Inter-University Council for East Africa (IUCEA), the scholarship initiative aims to strengthen international educational cooperation and expand access to higher education for qualified students from the region.",
-    "status": "open",
+    "status": "closed",
     "deadlineConfirmed": true,
     "details": {
       "overview": "The Daejin University Scholarships for East African Students 2027 offer eligible students from eight East African Community (EAC) Partner States an opportunity to pursue undergraduate and master’s degree programmes in South Korea. Offered through a partnership between Daejin University and the Inter-University Council for East Africa (IUCEA), the scholarship initiative aims to strengthen international educational cooperation and expand access to higher education for qualified students from the region.",
@@ -348,7 +348,7 @@
       "auto-collected"
     ],
     "description": "Refugee students seeking access to higher education have several scholarship opportunities to consider for the 2026–2027 academic period. A new list shared by the Local Engagement Refugee Research Network (LERRN) highlights higher education scholarship opportunities with application deadlines between November 2026 and January 2027. The opportunities cover undergraduate, master’s and doctoral studies at universities and higher education institutions across Africa, Europe, North America and Latin America.",
-    "status": "open",
+    "status": "closed",
     "deadlineConfirmed": true,
     "details": {
       "overview": "Refugee students seeking access to higher education have several scholarship opportunities to consider for the 2026–2027 academic period. A new list shared by the Local Engagement Refugee Research Network (LERRN) highlights higher education scholarship opportunities with application deadlines between November 2026 and January 2027. The opportunities cover undergraduate, master’s and doctoral studies at universities and higher education institutions across Africa, Europe, North America and Latin America.",
@@ -420,7 +420,7 @@
       "auto-collected"
     ],
     "description": "Research scholarships are among the best-funded scholarships for international students. Governments fund them to attract talented researchers, and universities offer them to bring strong students into their research groups. Most are for a PhD or a research Master’s, and many pay tuition fees and a living stipend. scholars4dev.com lists the top research scholarships for international students below. The Fulbright Foreign Student Program funds students and young professionals from more than 160 countries for graduate study in the USA. Each country’s Fulbright Commission or US Embassy runs its own competition and deadline.",
-    "status": "open",
+    "status": "closed",
     "deadlineConfirmed": true,
     "details": {
       "overview": "Research scholarships are among the best-funded scholarships for international students. Governments fund them to attract talented researchers, and universities offer them to bring strong students into their research groups. Most are for a PhD or a research Master’s, and many pay tuition fees and a living stipend. scholars4dev.com lists the top research scholarships for international students below. The Fulbright Foreign Student Program funds students and young professionals from more than 160 countries for graduate study in the USA. Each country’s Fulbright Commission or US Embassy runs its own competition and deadline.",
@@ -864,7 +864,7 @@
       "https://www.eda.admin.ch/countries/ethiopia/en/home/services/scholarships.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -942,7 +942,7 @@
       "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -1921,8 +1921,70 @@
       "https://au.int/sites/default/files/announcements/45594-annc-2026_PAU_Admission_Call_Englsih.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
+  },
+  {
+    "id": "epfl-excellence-fellowships-for-bachelor-s-and-master-s-students",
+    "title": "EPFL Excellence Fellowships for Bachelor’s and Master’s Students",
+    "provider": null,
+    "country": "Switzerland",
+    "countries": [
+      "Switzerland"
+    ],
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "partial",
+    "covers": "Partial funding",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-12-15",
+    "deadlineText": "Application deadline: 15 December 2026 (published on scholars4dev.com)",
+    "url": "https://www.scholars4dev.com/epfl-excellence-fellowships/",
+    "source": "web-collector",
+    "tags": [
+      "partial-funding",
+      "auto-collected"
+    ],
+    "description": "École Polytechnique Fédérale de Lausanne (EPFL) offers a limited number of Excellence Fellowships at Bachelor’s and Master’s level to the most deserving students, chosen on academic excellence, qualifications and motivation. Some fellowships are funded by EPFL and others through partnerships with foundations and companies. Bachelor’s and Master’s programmes at EPFL, in fields such as engineering, computer and communication sciences, the basic sciences, life sciences, architecture, civil and environmental engineering, and management of technology",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "École Polytechnique Fédérale de Lausanne (EPFL) offers a limited number of Excellence Fellowships at Bachelor’s and Master’s level to the most deserving students, chosen on academic excellence, qualifications and motivation. Some fellowships are funded by EPFL and others through partnerships with foundations and companies. Bachelor’s and Master’s programmes at EPFL, in fields such as engineering, computer and communication sciences, the basic sciences, life sciences, architecture, civil and environmental engineering, and management of technology",
+      "whoCanApply": [
+        "The Master Excellence Fellowships are for outstanding students starting a Master’s programme at EPFL. Applicants who already hold a Master’s degree or are already enrolled in an EPFL Master’s are not eligible, and you can apply for only one Master’s programme a year. The Bachelor fellowships are for final-year high school students with remarkable school and extracurricular results."
+      ],
+      "benefits": [],
+      "howToApply": [
+        "It is important to read the fellowship guidelines and visit the official websites (links found below) for detailed information on how to apply."
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 15 December 2026.",
+        "Ask your lecturers or employer for recommendation letters at least four weeks before the deadline.",
+        "Tailor your motivation letter to Ethiopian development priorities and your concrete plans after study.",
+        "This entry was collected automatically from scholars4dev.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.scholars4dev.com/epfl-excellence-fellowships/"
+    ],
+    "lastVerified": "2026-11-17",
+    "lastChecked": "2026-11-17",
+    "discoveredAt": "2026-11-17",
+    "origin": "discovered"
   },
   {
     "id": "waaw-foundation-scholarship-for-african-female-students-500-award",
@@ -2073,7 +2135,7 @@
       "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -2161,7 +2223,7 @@
       "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -2243,7 +2305,7 @@
       "https://www.gatescambridge.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -2323,6 +2385,66 @@
     "origin": "discovered"
   },
   {
+    "id": "mastercard-foundation-afox-graduate-scholarships-for-the-oxford-mba",
+    "title": "Mastercard Foundation AfOx Graduate Scholarships for the Oxford MBA",
+    "provider": null,
+    "country": "UK",
+    "countries": [
+      "UK"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "business"
+    ],
+    "fundingType": "partial",
+    "covers": "Partial funding",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-01-06",
+    "deadlineText": "Application deadline: 06 January 2027 (published on scholars4dev.com)",
+    "url": "https://www.scholars4dev.com/mastercard-foundation-afox-graduate-scholarships-oxford-mba/",
+    "source": "web-collector",
+    "tags": [
+      "partial-funding",
+      "auto-collected"
+    ],
+    "description": "The Mastercard Foundation AfOx Graduate Scholarships fund talented Africans to study the one-year Oxford MBA at Saïd Business School. The scholarships come from a partnership between the University of Oxford, the Mastercard Foundation and the Africa Oxford Initiative (AfOx), and they are for people who want to drive Africa’s development. Oxford MBA (Master of Business Administration), full-time, starting in 2027-28. The MBA covers business and management, including strategy, finance, entrepreneurship and leadership. • tailor-made training, networking opportunities and support before, during and after your time at Oxford. There is no separate scholarship application.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The Mastercard Foundation AfOx Graduate Scholarships fund talented Africans to study the one-year Oxford MBA at Saïd Business School. The scholarships come from a partnership between the University of Oxford, the Mastercard Foundation and the Africa Oxford Initiative (AfOx), and they are for people who want to drive Africa’s development. Oxford MBA (Master of Business Administration), full-time, starting in 2027-28. The MBA covers business and management, including strategy, finance, entrepreneurship and leadership. • tailor-made training, networking opportunities and support before, during and after your time at Oxford. There is no separate scholarship application.",
+      "whoCanApply": [
+        "• not already hold a Master’s degree."
+      ],
+      "benefits": [],
+      "howToApply": [
+        "There is no separate scholarship application. Submit your Oxford MBA application by 6 January 2027 and you will be considered automatically. If you are shortlisted for interview, the University will contact you.",
+        "It is important to visit the official website (link found below) for detailed information on how to apply for this scholarship."
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 06 January 2027.",
+        "This entry was collected automatically from scholars4dev.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.scholars4dev.com/mastercard-foundation-afox-graduate-scholarships-oxford-mba/"
+    ],
+    "lastVerified": "2026-11-17",
+    "lastChecked": "2026-11-17",
+    "discoveredAt": "2026-11-17",
+    "origin": "discovered"
+  },
+  {
     "id": "clarendon-scholarships",
     "title": "Clarendon Scholarships",
     "provider": "University of Oxford Clarendon Fund",
@@ -2399,7 +2521,7 @@
       "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "unreachable"
   },
   {
@@ -2623,6 +2745,63 @@
     "origin": "discovered"
   },
   {
+    "id": "president-s-phd-scholarships-at-imperial-college-london",
+    "title": "President’s PhD Scholarships at Imperial College London",
+    "provider": null,
+    "country": "UK",
+    "countries": [
+      "UK"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Fully funded",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-01-11",
+    "deadlineText": "Application deadline: 11 January 2027 (published on scholars4dev.com)",
+    "url": "https://www.scholars4dev.com/imperial-presidents-phd-scholarships/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "The President’s PhD Scholarships give high-achieving undergraduate and Master’s students the chance to do a fully funded PhD at Imperial College London. Around 50 scholars a year choose their own research project with the support of a leading supervisor and join a cohort of other President’s PhD Scholars. PhD programmes in all of Imperial’s faculties (Engineering, Natural Sciences, Medicine) and the Business School. • a programme of opportunities and events run by the Early Career Researcher Institute • hold, or expect to receive, a first-class undergraduate or integrated Master’s degree, or a distinction in a standalone Master’s degree (or the international equivalent);",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The President’s PhD Scholarships give high-achieving undergraduate and Master’s students the chance to do a fully funded PhD at Imperial College London. Around 50 scholars a year choose their own research project with the support of a leading supervisor and join a cohort of other President’s PhD Scholars. PhD programmes in all of Imperial’s faculties (Engineering, Natural Sciences, Medicine) and the Business School. • a programme of opportunities and events run by the Early Career Researcher Institute • hold, or expect to receive, a first-class undergraduate or integrated Master’s degree, or a distinction in a standalone Master’s degree (or the international equivalent);",
+      "whoCanApply": [],
+      "benefits": [],
+      "howToApply": [
+        "It is important to visit the official website (link found below) for detailed information on how to apply for this scholarship."
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 11 January 2027.",
+        "This entry was collected automatically from scholars4dev.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.scholars4dev.com/imperial-presidents-phd-scholarships/"
+    ],
+    "lastVerified": "2026-11-17",
+    "lastChecked": "2026-11-17",
+    "discoveredAt": "2026-11-17",
+    "origin": "discovered"
+  },
+  {
     "id": "lse-mphil-phd-demography-social-formal-28",
     "title": "LSE MPhil/PhD Demography (Social/Formal) /28",
     "provider": "lse.ac.uk",
@@ -2780,7 +2959,7 @@
       "https://www.kaist.ac.kr/en/html/edu/03100502.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -2859,7 +3038,7 @@
       "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -2943,7 +3122,7 @@
       "https://stipendiumhungaricum.hu/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -3026,7 +3205,7 @@
       "https://education-in-russia.com/selection"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -3262,7 +3441,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/"
     ],
     "lastVerified": "2026-10-23",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -3541,6 +3720,93 @@
     "origin": "discovered"
   },
   {
+    "id": "esade-fully-funded-master-of-research-mres-in-management-sciences-in-s",
+    "title": "Esade Fully Funded Master of Research (MRes) in Management Sciences in Spain | Applications",
+    "provider": "esade.my.site.com",
+    "country": "Spain",
+    "countries": [
+      "Spain"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "business"
+    ],
+    "fundingType": "full",
+    "covers": "One of the most important features of the Esade research program is the financial support associated with its doctoral pathway",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "englishTest": "required"
+    },
+    "deadline": "2027-01-22",
+    "deadlineText": "Application deadline: 22 January 2027 (published on opportunitiesforyouth.org)",
+    "url": "https://esade.my.site.com/TX_SiteLogin?startURL=%2FTargetX_Portal__PB",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "The Esade Master of Research (MRes) in Management Sciences 2027 is an excellent postgraduate research opportunity for ambitious graduates who want to pursue advanced studies, develop academic research skills, and establish an international career in academia. Offered by Esade Business School in Barcelona, Spain, this two-year, full-time program provides comprehensive training in management theories, research methodologies, and scholarly investigation. The program is scheduled to begin in September 2027 and is designed for candidates who have a genuine passion for research and aspire to become leading scholars in their respective fields.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The Esade Master of Research (MRes) in Management Sciences 2027 is an excellent postgraduate research opportunity for ambitious graduates who want to pursue advanced studies, develop academic research skills, and establish an international career in academia. Offered by Esade Business School in Barcelona, Spain, this two-year, full-time program provides comprehensive training in management theories, research methodologies, and scholarly investigation. The program is scheduled to begin in September 2027 and is designed for candidates who have a genuine passion for research and aspire to become leading scholars in their respective fields.",
+      "whoCanApply": [
+        "Esade welcomes candidates from different academic disciplines, provided their educational background and research interests are relevant to management sciences.",
+        "According to the published Esade admissions requirements, candidates generally need:",
+        "A minimum of 240 ECTS credits from university degree or postgraduate studies.",
+        "A degree in Business or Management, or a degree in a related discipline with at least 18 ECTS credits in Business or Management.",
+        "Candidates with fewer than 18 relevant credits may be required to complete additional courses before joining the MRes.",
+        "Exceptionally, outstanding candidates with a bachelor’s degree of 180 ECTS may be admitted, subject to the institution’s conditions.",
+        "Professional work experience is not a requirement for admission to the Master of Research in Management Sciences."
+      ],
+      "benefits": [
+        "One of the most important features of the Esade research program is the financial support associated with its doctoral pathway.",
+        "Esade’s official 2027 PhD admissions information states that it offers full funding for the two-year Master of Research program, which covers the specialized research coursework of the doctoral program.",
+        "The subsequent doctoral stage is dedicated to developing the PhD dissertation over three years.",
+        "Candidates should carefully review the official funding conditions, scholarship arrangements, and eligibility requirements before applying.",
+        "The full funding information is particularly important for international graduates who want to pursue advanced research studies in Spain and are looking for financial support to undertake a full-time postgraduate program.",
+        "Applicants should note that funding is subject to the institution’s official admissions and award conditions. They should confirm exactly what expenses are covered, whether living expenses are included, and the terms applicable to the 2027 intake."
+      ],
+      "howToApply": [
+        "Candidates interested in the September 2027 intake should follow the official admissions procedure.",
+        "Program Intake: September 2027",
+        "Exact Starting Date: To be confirmed",
+        "Application Deadline: January 22, 2027",
+        "Program Duration: Two academic years for the MRes",
+        "Study Location: Barcelona-Sant Cugat Campus, Spain",
+        "Expected Intake: 15 students"
+      ],
+      "documents": [
+        "Applicants should prepare the academic and supporting documents requested by Esade.",
+        "The admissions process may also require official university diplomas and academic records in PDF format, along with English-language test results and other supporting documentation.",
+        "Applicants should always follow the official document checklist provided through the application process.",
+        "Submit your university transcripts, degree qualifications, CV, and other requested supporting documents."
+      ],
+      "selection": "Candidates may be invited to an interview, which can take place online or face-to-face. Applicants should monitor their email and application portal for additional instructions and admissions updates.",
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 22 January 2027.",
+        "Book IELTS/TOEFL in Addis Ababa early — test dates fill up weeks ahead.",
+        "Ask your lecturers or employer for recommendation letters at least four weeks before the deadline.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://esade.my.site.com/TX_SiteLogin?startURL=%2FTargetX_Portal__PB",
+      "https://opportunitiesforyouth.org/2026/11/16/esade-fully-funded-master-of-research-mres-in-management-sciences-2027-in-spain-applications-open/"
+    ],
+    "lastVerified": "2026-11-17",
+    "lastChecked": "2026-11-17",
+    "discoveredAt": "2026-11-17",
+    "origin": "discovered"
+  },
+  {
     "id": "liverpool-john-moores-university-vice-chancellor-s-phd-scholarships-in",
     "title": "Liverpool John Moores University Vice-Chancellor’s PhD Scholarships in the UK",
     "provider": "ljmu.ac.uk",
@@ -3715,7 +3981,7 @@
       "https://www.isdb.org/scholarships/scholarship-programs"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -3802,7 +4068,7 @@
       "https://moe.gov.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "unreachable"
   },
   {
@@ -3889,7 +4155,7 @@
       "https://www.daad.de/en/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -4035,7 +4301,7 @@
       "https://www.studyinnl.org/finances/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -4119,7 +4385,7 @@
       "https://www.mfa.gov.bn/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -4205,7 +4471,7 @@
       "https://twas.org/opportunities/fellowships/phd"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -4374,7 +4640,7 @@
       "https://tbbs.turkiyeburslari.gov.tr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -4532,7 +4798,7 @@
       "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?page=5f4ddf7588a720370a799e12"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -4605,6 +4871,82 @@
     "lastVerified": "2026-10-27",
     "lastChecked": "2026-10-27",
     "discoveredAt": "2026-10-27",
+    "origin": "discovered"
+  },
+  {
+    "id": "uniqlo-global-management-program-for-undergraduates-and-postgraduates",
+    "title": "UNIQLO Global Management Program for undergraduates and postgraduates worldwide",
+    "provider": "fastretailing.com",
+    "country": "Japan",
+    "countries": [
+      "Japan"
+    ],
+    "level": [
+      "bachelor",
+      "master"
+    ],
+    "fields": [
+      "business"
+    ],
+    "fundingType": "full",
+    "covers": "UNIQLO provides your round-trip transportation to Japan, hotel expenses and insurance during the program period, visa support, etc",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-02-28",
+    "deadlineText": "Application deadline: 28 February 2027 (published on opportunitiesforafricans.com)",
+    "url": "https://www.fastretailing.com/employment/en/uniqlo/graduate/gmp/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027 UNIQLO Global Management Program. Global Management Program (GMP) is a 6-day intensive program in which students are provided with a unique opportunity to interact with global business leaders to learn more about the fashion-retailing industry and Fast Retailing’s business. The program will be held at Ariake Office which is Fast Retailing’s headquarters in the Ariake District of Tokyo. UNIQLO provides your round-trip transportation to Japan, hotel expenses and insurance during the program period, visa support, etc. Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027 UNIQLO Global Management Program. Global Management Program (GMP) is a 6-day intensive program in which students are provided with a unique opportunity to interact with global business leaders to learn more about the fashion-retailing industry and Fast Retailing’s business. The program will be held at Ariake Office which is Fast Retailing’s headquarters in the Ariake District of Tokyo. UNIQLO provides your round-trip transportation to Japan, hotel expenses and insurance during the program period, visa support, etc. Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+      "whoCanApply": [
+        "Undergraduate and postgraduate students from around the world",
+        "Aspire to be global business leaders",
+        "Possess leadership and teamwork skills",
+        "Willing to work in a multicultural environment",
+        "Available to attend the 6-day on-site program in Tokyo"
+      ],
+      "benefits": [
+        "UNIQLO provides your round-trip transportation to Japan, hotel expenses and insurance during the program period, visa support, etc.",
+        "Gain deeper insights into the global retailing industry",
+        "Improve leadership & teamwork skills in multicultural settings",
+        "Work on Business Cases and present to Board Management",
+        "Interact with group executives and experts in the industry",
+        "Acquire mentoring from global leaders during GMP",
+        "Opportunity to be considered for Fast Retailing’s future recruitment"
+      ],
+      "howToApply": [
+        "Read the full call on the official page (fastretailing.com)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 28 February 2027",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 28 February 2027.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.fastretailing.com/employment/en/uniqlo/graduate/gmp/",
+      "https://www.opportunitiesforafricans.com/the-uniqlo-global-management-program-2027-for-undergraduates-and-postgraduates/"
+    ],
+    "lastVerified": "2026-11-17",
+    "lastChecked": "2026-11-17",
+    "discoveredAt": "2026-11-17",
     "origin": "discovered"
   },
   {
@@ -4687,7 +5029,7 @@
       "https://www.studyinkorea.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -4771,8 +5113,73 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
+  },
+  {
+    "id": "carleton-prestige-scholarships",
+    "title": "Carleton Prestige Scholarships",
+    "provider": null,
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "bachelor"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "partial",
+    "covers": "CA$5,000 to CA$14,178 a year",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-03-01",
+    "deadlineText": "Application deadline: 01 March 2027 (published on scholars4dev.com)",
+    "url": "https://www.scholars4dev.com/carleton-prestige-scholarships/",
+    "source": "web-collector",
+    "tags": [
+      "partial-funding",
+      "auto-collected"
+    ],
+    "description": "Prestige Scholarships are Carleton University’s highest entrance awards. They go to students entering an undergraduate degree straight from high school with an admission average of 90% or more, and are awarded on both grades and involvement in school and community activities such as leadership, community service and extracurriculars. International students can apply. First year of a Bachelor’s degree in any field at Carleton. The Prestige Scholarships include the Chancellor’s Scholarship, the Richard Lewar Entrance Scholarship, the Carleton University Scholarship of Excellence, the Jay Woo and CAA Scholarship, the Riordon Scholarship and the Collins Prestige Scholarship.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Prestige Scholarships are Carleton University’s highest entrance awards. They go to students entering an undergraduate degree straight from high school with an admission average of 90% or more, and are awarded on both grades and involvement in school and community activities such as leadership, community service and extracurriculars. International students can apply. First year of a Bachelor’s degree in any field at Carleton. The Prestige Scholarships include the Chancellor’s Scholarship, the Richard Lewar Entrance Scholarship, the Carleton University Scholarship of Excellence, the Jay Woo and CAA Scholarship, the Riordon Scholarship and the Collins Prestige Scholarship.",
+      "whoCanApply": [
+        "• You must be entering Carleton directly from high school or CÉGEP. Students who have already attended a college or university are not eligible.",
+        "• You need an admission average of 90% or better.",
+        "• The selection committee also looks at your community and secondary school activities, such as leadership, community service and extracurriculars."
+      ],
+      "benefits": [
+        "CA$5,000 to CA$14,178 a year. The scholarships are renewable each year as long as you keep at least an A- average (10.0 GPA) in full-time studies.",
+        "International students entering from high school are also automatically considered for Carleton’s renewable entrance scholarships (CA$1,000 to CA$3,000 a year) and the President’s Welcome Award for International Students (CA$2,000 to CA$5,000 for the first year)."
+      ],
+      "howToApply": [
+        "Apply for admission to an undergraduate programme at Carleton, then submit the Prestige Scholarship application and a letter of reference by 1 March 2027 for entry in fall 2027. The other entrance awards mentioned above need no separate application.",
+        "It is important to visit the official website (link found below) for detailed information on how to apply for this scholarship."
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 01 March 2027.",
+        "This entry was collected automatically from scholars4dev.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.scholars4dev.com/carleton-prestige-scholarships/"
+    ],
+    "lastVerified": "2026-11-17",
+    "lastChecked": "2026-11-17",
+    "discoveredAt": "2026-11-17",
+    "origin": "discovered"
   },
   {
     "id": "romanian-government-scholarship",
@@ -4856,7 +5263,7 @@
       "https://studyinromania.gov.ro/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -4943,7 +5350,7 @@
       "https://www.nexteinstein.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "unreachable"
   },
   {
@@ -5025,7 +5432,7 @@
       "https://www.campuschina.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "unreachable"
   },
   {
@@ -5168,7 +5575,7 @@
       "https://eoiaddisababa.gov.in/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -5254,7 +5661,7 @@
       "https://mfa.gov.az/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -5336,7 +5743,7 @@
       "https://www.mandelarhodes.org/scholarship/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -5424,7 +5831,7 @@
       "https://www.dfat.gov.au/sites/default/files/australia-awards-africa-information-for-intake.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -5517,7 +5924,7 @@
       "https://www.rotary.org/get-involved/our-programs/peace-fellowships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "unreachable"
   },
   {
@@ -5607,7 +6014,7 @@
       "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -5692,7 +6099,7 @@
       "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -5774,7 +6181,7 @@
       "https://foreign.fulbrightonline.org/apply"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -5929,7 +6336,7 @@
       "https://www.aau.edu.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -6018,7 +6425,7 @@
       "https://et.usembassy.gov/education-culture/educational-exchange/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -6103,7 +6510,7 @@
       "http://daad.de/go/de/stipa50026397"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "unreachable"
   },
   {
@@ -6190,7 +6597,7 @@
       "https://www.koica.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "unreachable"
   },
   {
@@ -6278,7 +6685,7 @@
       "https://connect.schwarzmanscholars.org/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -6357,7 +6764,7 @@
       "https://www.chevening.org/scholarships/application-timeline/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -6439,7 +6846,7 @@
       "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -6528,7 +6935,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -6616,7 +7023,7 @@
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "unreachable"
   },
   {
@@ -6704,7 +7111,7 @@
       "https://www.daad-ethiopia.org/en/scholarship-database/"
     ],
     "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "unreachable"
   },
   {
@@ -6789,7 +7196,7 @@
       "https://www.scholars4dev.com/mastercard-foundation-scholarship-program-for-africans/"
     ],
     "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -6869,7 +7276,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   },
   {
@@ -6953,7 +7360,7 @@
       "https://mastercardfdn.org/en/news/alx-kick-starts-inaugural-all-tech-training-programs-for-over-32000-learners-across-africa/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-15",
+    "lastChecked": "2026-11-17",
     "checkStatus": "reachable"
   }
 ]
