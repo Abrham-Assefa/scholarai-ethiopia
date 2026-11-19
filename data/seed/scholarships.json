@@ -488,7 +488,7 @@
       "auto-collected"
     ],
     "description": "Applications are now open for the 2027 African Development Bank Group Shanghai Ocean University Scholarship. The African Development Bank Group (AfDB) and the Shanghai Ocean University (SHOU) are pleased to invite interested and qualified African candidates to apply for the 2027 SHOU Scholarship Programmes. The aim of the scholarship programmes is to strengthen Africa’s institutional and technical capacity in sustainable fisheries, aquaculture, marine science and resource management, in line with the Bank’s Ten-Year Strategy (2024–2033). Note: Successful candidates will be responsible for flight tickets and visa fees.",
-    "status": "open",
+    "status": "closed",
     "deadlineConfirmed": true,
     "details": {
       "overview": "Applications are now open for the 2027 African Development Bank Group Shanghai Ocean University Scholarship. The African Development Bank Group (AfDB) and the Shanghai Ocean University (SHOU) are pleased to invite interested and qualified African candidates to apply for the 2027 SHOU Scholarship Programmes. The aim of the scholarship programmes is to strengthen Africa’s institutional and technical capacity in sustainable fisheries, aquaculture, marine science and resource management, in line with the Bank’s Ten-Year Strategy (2024–2033). Note: Successful candidates will be responsible for flight tickets and visa fees.",
@@ -561,7 +561,7 @@
       "auto-collected"
     ],
     "description": "Applications are now open for the 2027/2028 US-MEPI Tomorrow’s Leaders Program. Sponsored by the Department of State’s U.S.-Middle East Partnership Initiative (MEPI), the Tomorrow’s Leaders Program offers undergraduate scholarships and leadership training to highly motivated candidates from the Middle East and North Africa (MENA) region. The Tomorrow’s Leaders Program partners with prominent American style universities in the MENA region to build a dynamic network of future leaders.",
-    "status": "open",
+    "status": "closed",
     "deadlineConfirmed": true,
     "details": {
       "overview": "Applications are now open for the 2027/2028 US-MEPI Tomorrow’s Leaders Program. Sponsored by the Department of State’s U.S.-Middle East Partnership Initiative (MEPI), the Tomorrow’s Leaders Program offers undergraduate scholarships and leadership training to highly motivated candidates from the Middle East and North Africa (MENA) region. The Tomorrow’s Leaders Program partners with prominent American style universities in the MENA region to build a dynamic network of future leaders.",
@@ -864,7 +864,7 @@
       "https://www.eda.admin.ch/countries/ethiopia/en/home/services/scholarships.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -942,7 +942,7 @@
       "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -1833,6 +1833,71 @@
     "origin": "discovered"
   },
   {
+    "id": "healthy-futures-mastercard-scholarship-for-african-changemakers",
+    "title": "Healthy Futures Mastercard Scholarship for African Changemakers",
+    "provider": "uct.ac.za",
+    "country": "South Africa",
+    "countries": [
+      "South Africa"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "health"
+    ],
+    "fundingType": "partial",
+    "covers": "Partial funding",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-12-10",
+    "deadlineText": "Application deadline: 10 December 2026 (published on opportunitiesforafricans.com)",
+    "url": "https://uct.ac.za/berthacentre/articles/2026-11-13-healthy-futures-mastercard-scholarship-2027",
+    "source": "web-collector",
+    "tags": [
+      "partial-funding",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027 Healthy Futures Mastercard Scholarship. The Bertha Centre for Social Innovation and Entrepreneurship and the Faculty of Health Sciences at the University of Cape Town invite applications for the Healthy Futures Mastercard Scholarship 2027, funded by the Mastercard Foundation Healthy Futures Project. The scholarship supports emerging leaders across Africa who are working towards social innovation, health equity and systems change. It provides financial support for tuition fees and related academic costs for candidates admitted to the MPhil in Inclusive Innovation at the UCT Graduate School of Business (GSB) for the 2027 academic year.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027 Healthy Futures Mastercard Scholarship. The Bertha Centre for Social Innovation and Entrepreneurship and the Faculty of Health Sciences at the University of Cape Town invite applications for the Healthy Futures Mastercard Scholarship 2027, funded by the Mastercard Foundation Healthy Futures Project. The scholarship supports emerging leaders across Africa who are working towards social innovation, health equity and systems change. It provides financial support for tuition fees and related academic costs for candidates admitted to the MPhil in Inclusive Innovation at the UCT Graduate School of Business (GSB) for the 2027 academic year.",
+      "whoCanApply": [],
+      "benefits": [],
+      "howToApply": [
+        "Email your application to [email protected] by 10 December 2026, including:",
+        "Your CV (maximum 3 pages)",
+        "Proof of admission to the MPhil in Inclusive Innovation",
+        "A motivation letter (maximum 1,000 words) that covers:",
+        "Your commitment to social justice and social change",
+        "How your work and interests align with the Healthy Futures Project",
+        "Your experience in leadership, activism, innovation and community engagement"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 10 December 2026.",
+        "Tailor your motivation letter to Ethiopian development priorities and your concrete plans after study.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://uct.ac.za/berthacentre/articles/2026-11-13-healthy-futures-mastercard-scholarship-2027",
+      "https://www.opportunitiesforafricans.com/the-healthy-futures-mastercard-scholarship-2027-for-african-changemakers/"
+    ],
+    "lastVerified": "2026-11-19",
+    "lastChecked": "2026-11-19",
+    "discoveredAt": "2026-11-19",
+    "origin": "discovered"
+  },
+  {
     "id": "african-union-pan-african-university",
     "title": "Pan African University Scholarships",
     "provider": "African Union Commission",
@@ -1921,7 +1986,7 @@
       "https://au.int/sites/default/files/announcements/45594-annc-2026_PAU_Admission_Call_Englsih.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -2057,6 +2122,93 @@
     "origin": "discovered"
   },
   {
+    "id": "daad-in-country-in-region",
+    "title": "DAAD In-Country/In-Region Scholarship Programme Sub-Saharan Africa",
+    "provider": "German Academic Exchange Service (DAAD)",
+    "country": "Multiple",
+    "countries": [
+      "Multiple"
+    ],
+    "level": [
+      "master",
+      "phd"
+    ],
+    "fields": [
+      "development",
+      "health",
+      "agriculture",
+      "engineering",
+      "environment"
+    ],
+    "fundingType": "full",
+    "covers": "Tuition, monthly stipend, study/research allowance and, for in-region scholars, insurance and travel allowance.",
+    "eligibility": {
+      "ethiopiansEligible": true,
+      "englishTest": "required",
+      "workYearsMin": 0,
+      "nationalities": [
+        "ET"
+      ]
+    },
+    "deadline": "2026-12-21",
+    "deadlineConfirmed": true,
+    "deadlineText": "Deadline 21 December 2026 (read from the official page on 19 Nov 2026)",
+    "url": "https://www.daad-kenya.org/en/in-country-in-region-programmes/",
+    "source": "web-research",
+    "tags": [
+      "fully-funded"
+    ],
+    "description": "DAAD’s In-Country/In-Region programme supports master’s and PhD study at selected universities in Sub-Saharan Africa. Official DAAD regional pages state that scholarships are for Sub-Saharan African citizens, which includes Ethiopians. The programme strengthens African higher education and development-related research capacity. Calls are tied to specific host institutions and programmes rather than one central degree. It is a strong option for students who want fully funded postgraduate study within Africa.",
+    "status": "open",
+    "details": {
+      "overview": "DAAD’s In-Country/In-Region programme supports master’s and PhD study at selected universities in Sub-Saharan Africa. Official DAAD regional pages state that scholarships are for Sub-Saharan African citizens, which includes Ethiopians. The programme strengthens African higher education and development-related research capacity. Calls are tied to specific host institutions and programmes rather than one central degree. It is a strong option for students who want fully funded postgraduate study within Africa.",
+      "whoCanApply": [
+        "Citizens of Sub-Saharan African countries including Ethiopia",
+        "Applicants accepted by a listed host programme in their home country or another Sub-Saharan African country",
+        "Master’s or PhD applicants meeting host academic rules",
+        "Women and candidates from underrepresented groups are especially encouraged"
+      ],
+      "benefits": [
+        "Tuition fees",
+        "Monthly stipend",
+        "Study and research allowance",
+        "Thesis publishing support where listed",
+        "Health insurance and travel allowance for in-region scholars"
+      ],
+      "howToApply": [
+        "Review current DAAD regional calls and choose an eligible host programme",
+        "Apply to the host institution and DAAD process as instructed in the call",
+        "Upload academic documents, proposal and references by the call deadline",
+        "Complete host or DAAD interviews if required"
+      ],
+      "documents": [
+        "Application form",
+        "Degree certificates and transcripts",
+        "Research proposal for PhD or thesis-based routes",
+        "CV",
+        "Recommendation letters",
+        "Proof of admission or host application",
+        "Language proof if required"
+      ],
+      "selection": "Host institutions and DAAD assess eligibility, academic quality, development relevance and regional fit. Some programmes interview shortlisted candidates. Final awards are issued after host admission and DAAD scholarship approval.",
+      "ethiopiaTips": [
+        "Look for East Africa and Africa-wide host programmes where Ethiopian citizens are explicitly eligible",
+        "If applying in-region, plan passport and visa steps early",
+        "Align research with Ethiopian or regional development priorities",
+        "Read each call PDF because benefits and deadlines differ by host"
+      ],
+      "applicationOpens": "Calls often appear in September or October"
+    },
+    "sources": [
+      "https://www.daad-kenya.org/en/in-country-in-region-programmes/",
+      "https://www.daad-ghana.org/en/2024/10/04/in-country-in-region-scholarship-programme-2025-26/",
+      "https://www.daad-ethiopia.org/en/scholarship-database/"
+    ],
+    "lastVerified": "2026-11-19",
+    "lastChecked": "2026-11-19",
+    "checkStatus": "reachable"
+  },
+  {
     "id": "yale-harvard-mit-need-based-aid",
     "title": "Yale, Harvard and MIT need-based undergraduate financial aid",
     "provider": "Yale University, Harvard College and Massachusetts Institute of Technology",
@@ -2135,7 +2287,7 @@
       "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -2223,7 +2375,7 @@
       "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -2305,7 +2457,7 @@
       "https://www.gatescambridge.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -2521,7 +2673,7 @@
       "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "unreachable"
   },
   {
@@ -2959,7 +3111,7 @@
       "https://www.kaist.ac.kr/en/html/edu/03100502.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -3038,7 +3190,7 @@
       "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -3122,7 +3274,7 @@
       "https://stipendiumhungaricum.hu/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -3205,7 +3357,7 @@
       "https://education-in-russia.com/selection"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -3441,7 +3593,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/"
     ],
     "lastVerified": "2026-10-23",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -3981,7 +4133,7 @@
       "https://www.isdb.org/scholarships/scholarship-programs"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -4068,8 +4220,8 @@
       "https://moe.gov.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
-    "checkStatus": "unreachable"
+    "lastChecked": "2026-11-19",
+    "checkStatus": "reachable"
   },
   {
     "id": "icipe-arppis-daad-phd-scholarships",
@@ -4155,7 +4307,7 @@
       "https://www.daad.de/en/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -4301,7 +4453,7 @@
       "https://www.studyinnl.org/finances/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -4385,7 +4537,7 @@
       "https://www.mfa.gov.bn/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -4471,7 +4623,7 @@
       "https://twas.org/opportunities/fellowships/phd"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -4640,7 +4792,7 @@
       "https://tbbs.turkiyeburslari.gov.tr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -4798,7 +4950,7 @@
       "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?page=5f4ddf7588a720370a799e12"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -5029,7 +5181,7 @@
       "https://www.studyinkorea.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -5113,7 +5265,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -5263,7 +5415,7 @@
       "https://studyinromania.gov.ro/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -5350,7 +5502,7 @@
       "https://www.nexteinstein.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "unreachable"
   },
   {
@@ -5432,7 +5584,7 @@
       "https://www.campuschina.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "unreachable"
   },
   {
@@ -5575,7 +5727,7 @@
       "https://eoiaddisababa.gov.in/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -5661,7 +5813,7 @@
       "https://mfa.gov.az/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -5743,7 +5895,7 @@
       "https://www.mandelarhodes.org/scholarship/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -5831,7 +5983,7 @@
       "https://www.dfat.gov.au/sites/default/files/australia-awards-africa-information-for-intake.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -5924,7 +6076,7 @@
       "https://www.rotary.org/get-involved/our-programs/peace-fellowships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "unreachable"
   },
   {
@@ -6014,7 +6166,7 @@
       "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -6099,7 +6251,7 @@
       "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -6181,7 +6333,7 @@
       "https://foreign.fulbrightonline.org/apply"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -6336,7 +6488,7 @@
       "https://www.aau.edu.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -6425,7 +6577,7 @@
       "https://et.usembassy.gov/education-culture/educational-exchange/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -6510,8 +6662,8 @@
       "http://daad.de/go/de/stipa50026397"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
-    "checkStatus": "unreachable"
+    "lastChecked": "2026-11-19",
+    "checkStatus": "reachable"
   },
   {
     "id": "koica-scholarship-program",
@@ -6597,7 +6749,7 @@
       "https://www.koica.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "unreachable"
   },
   {
@@ -6685,7 +6837,7 @@
       "https://connect.schwarzmanscholars.org/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -6764,7 +6916,7 @@
       "https://www.chevening.org/scholarships/application-timeline/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -6846,7 +6998,7 @@
       "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -6935,7 +7087,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -7023,96 +7175,8 @@
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
-    "checkStatus": "unreachable"
-  },
-  {
-    "id": "daad-in-country-in-region",
-    "title": "DAAD In-Country/In-Region Scholarship Programme Sub-Saharan Africa",
-    "provider": "German Academic Exchange Service (DAAD)",
-    "country": "Multiple",
-    "countries": [
-      "Multiple"
-    ],
-    "level": [
-      "master",
-      "phd"
-    ],
-    "fields": [
-      "development",
-      "health",
-      "agriculture",
-      "engineering",
-      "environment"
-    ],
-    "fundingType": "full",
-    "covers": "Tuition, monthly stipend, study/research allowance and, for in-region scholars, insurance and travel allowance.",
-    "eligibility": {
-      "ethiopiansEligible": true,
-      "englishTest": "required",
-      "workYearsMin": 0,
-      "nationalities": [
-        "ET"
-      ]
-    },
-    "deadline": "2027-11-12",
-    "deadlineConfirmed": false,
-    "deadlineText": "Current DAAD regional calls list 12 Nov 2026 for 2027 intake programmes; individual calls may differ.",
-    "url": "https://www.daad-kenya.org/en/in-country-in-region-programmes/",
-    "source": "web-research",
-    "tags": [
-      "fully-funded",
-      "estimated-deadline"
-    ],
-    "description": "DAAD’s In-Country/In-Region programme supports master’s and PhD study at selected universities in Sub-Saharan Africa. Official DAAD regional pages state that scholarships are for Sub-Saharan African citizens, which includes Ethiopians. The programme strengthens African higher education and development-related research capacity. Calls are tied to specific host institutions and programmes rather than one central degree. It is a strong option for students who want fully funded postgraduate study within Africa.",
-    "status": "open",
-    "details": {
-      "overview": "DAAD’s In-Country/In-Region programme supports master’s and PhD study at selected universities in Sub-Saharan Africa. Official DAAD regional pages state that scholarships are for Sub-Saharan African citizens, which includes Ethiopians. The programme strengthens African higher education and development-related research capacity. Calls are tied to specific host institutions and programmes rather than one central degree. It is a strong option for students who want fully funded postgraduate study within Africa.",
-      "whoCanApply": [
-        "Citizens of Sub-Saharan African countries including Ethiopia",
-        "Applicants accepted by a listed host programme in their home country or another Sub-Saharan African country",
-        "Master’s or PhD applicants meeting host academic rules",
-        "Women and candidates from underrepresented groups are especially encouraged"
-      ],
-      "benefits": [
-        "Tuition fees",
-        "Monthly stipend",
-        "Study and research allowance",
-        "Thesis publishing support where listed",
-        "Health insurance and travel allowance for in-region scholars"
-      ],
-      "howToApply": [
-        "Review current DAAD regional calls and choose an eligible host programme",
-        "Apply to the host institution and DAAD process as instructed in the call",
-        "Upload academic documents, proposal and references by the call deadline",
-        "Complete host or DAAD interviews if required"
-      ],
-      "documents": [
-        "Application form",
-        "Degree certificates and transcripts",
-        "Research proposal for PhD or thesis-based routes",
-        "CV",
-        "Recommendation letters",
-        "Proof of admission or host application",
-        "Language proof if required"
-      ],
-      "selection": "Host institutions and DAAD assess eligibility, academic quality, development relevance and regional fit. Some programmes interview shortlisted candidates. Final awards are issued after host admission and DAAD scholarship approval.",
-      "ethiopiaTips": [
-        "Look for East Africa and Africa-wide host programmes where Ethiopian citizens are explicitly eligible",
-        "If applying in-region, plan passport and visa steps early",
-        "Align research with Ethiopian or regional development priorities",
-        "Read each call PDF because benefits and deadlines differ by host"
-      ],
-      "applicationOpens": "Calls often appear in September or October"
-    },
-    "sources": [
-      "https://www.daad-kenya.org/en/in-country-in-region-programmes/",
-      "https://www.daad-ghana.org/en/2024/10/04/in-country-in-region-scholarship-programme-2025-26/",
-      "https://www.daad-ethiopia.org/en/scholarship-database/"
-    ],
-    "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-17",
-    "checkStatus": "unreachable"
+    "lastChecked": "2026-11-19",
+    "checkStatus": "reachable"
   },
   {
     "id": "ashesi-university-mcf-scholars",
@@ -7196,7 +7260,7 @@
       "https://www.scholars4dev.com/mastercard-foundation-scholarship-program-for-africans/"
     ],
     "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -7276,7 +7340,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -7360,7 +7424,7 @@
       "https://mastercardfdn.org/en/news/alx-kick-starts-inaugural-all-tech-training-programs-for-over-32000-learners-across-africa/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   }
 ]

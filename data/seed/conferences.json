@@ -453,7 +453,7 @@
     "url": "https://www.sdgsummit.org",
     "ethiopiansEligible": false,
     "description": "SDG Innovation Summit in Malaysia (19–22 Nov 2026). Funding: Flights, visa, hotel, meals. For: Students / youth.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "unreachable"
   },
   {
@@ -501,7 +501,7 @@
       "https://www.opportunitiesforafricans.com/the-sir-cyril-taylor-young-african-leaders-fellowship-program-2027/"
     ],
     "lastVerified": "2026-11-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "discoveredAt": "2026-11-07",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -523,7 +523,7 @@
     "url": "https://asef.org",
     "ethiopiansEligible": false,
     "description": "ASEF LinkUp / ASEF Seminar in Slovenia / Mongolia (Oct–Nov 2026). Funding: Full. For: 18–30 (check country list).",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -574,7 +574,7 @@
       "https://www.opportunitiesforafricans.com/the-ye-youth-ecopreneurs-programme-yeco-2026-2027/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -596,7 +596,7 @@
     "url": "https://www.obama.org/programs/leaders",
     "ethiopiansEligible": true,
     "description": "Obama Foundation Leaders: Africa in Johannesburg + virtual (Apply Jan–Feb). Funding: Full. For: Emerging leaders.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable",
     "deadline": "2026-11-23",
     "status": "open",
@@ -652,7 +652,7 @@
       "https://www.opportunitiesforafricans.com/the-journalismai-strategy-lab-2026-for-african-journalists-and-media-professionals/"
     ],
     "lastVerified": "2026-11-03",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "discoveredAt": "2026-11-03",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -674,7 +674,7 @@
     "url": "https://falling-walls.com",
     "ethiopiansEligible": true,
     "description": "Falling Walls Lab Ethiopia -> Berlin Finale in Addis -> Berlin (Nov). Funding: Full for winner. For: Students / researchers.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -717,7 +717,7 @@
       "https://opportunitiesforyouth.org/2026/11/14/2027-fully-funded-youth-delegate-programme-apply-for-the-council-of-europe-congress-in-strasbourg/"
     ],
     "lastVerified": "2026-11-15",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "discoveredAt": "2026-11-15",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -761,11 +761,61 @@
       "https://www.opportunitiesforafricans.com/the-mcw-globals-young-leaders-fellowship-2027/"
     ],
     "lastVerified": "2026-11-07",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "discoveredAt": "2026-11-07",
     "origin": "discovered",
     "dateConfirmed": false,
     "checkStatus": "reachable"
+  },
+  {
+    "id": "digital-democracy-edinburgh-travel-stipends-for-young-civic-technology",
+    "title": "Digital Democracy Edinburgh Travel Stipends for Young Civic Technology and Digital Democracy Leaders Worldwide",
+    "location": "UK",
+    "when": "11–12 Mar 2027",
+    "startDate": "2027-03-11",
+    "deadline": "2026-12-03",
+    "funding": "The Evens Foundation has launched the travel stipend initiative to increase access to the…",
+    "fundingType": "partial",
+    "audience": "This opportunity is designed for young individuals interested in the relationship between democracy and technology",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://apply.evensfoundation.eu/#apply",
+    "ethiopiansEligible": true,
+    "description": "Young people passionate about civic technology, democratic participation, digital innovation, public engagement, and social impact now have an excellent opportunity to attend one of the civic tech sector’s most important gatherings. The Evens Foundation is offering ten travel stipends of up to €300 each to support eligible participants attending Digital Democracy Edinburgh 2027 in person. The initiative aims to ensure that more young voices can participate in discussions shaping the future of democracy and technology.",
+    "status": "open",
+    "details": {
+      "overview": "Young people passionate about civic technology, democratic participation, digital innovation, public engagement, and social impact now have an excellent opportunity to attend one of the civic tech sector’s most important gatherings. The Evens Foundation is offering ten travel stipends of up to €300 each to support eligible participants attending Digital Democracy Edinburgh 2027 in person. The initiative aims to ensure that more young voices can participate in discussions shaping the future of democracy and technology.",
+      "whoCanApply": [
+        "This opportunity is designed for young individuals interested in the relationship between democracy and technology."
+      ],
+      "benefits": [
+        "The Evens Foundation has launched the travel stipend initiative to increase access to the conference for young people who may otherwise be unable to attend because of financial constraints.",
+        "Selected applicants can receive reimbursement of up to €300 in direct expenses related to conference attendance.",
+        "A total of ten stipends will be awarded.",
+        "Since the support is provided as reimbursement, recipients will need to pay their expenses upfront and submit eligible receipts afterward.",
+        "The stipend may be used to reimburse actual attendance-related costs up to the maximum amount of €300.",
+        "Visa application fees",
+        "Immigration-related costs"
+      ],
+      "howToApply": [
+        "Yes.",
+        "The organizers explicitly state that applicants do not need to belong to an organization, institution, company, or government body.",
+        "Independent learners, freelancers, recent graduates, and unaffiliated individuals are welcome to apply.",
+        "Applicants who have submitted proposals to the conference call for proposals remain eligible to apply for the travel stipend."
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://apply.evensfoundation.eu/#apply",
+      "https://opportunitiesforyouth.org/2026/11/17/digital-democracy-edinburgh-2027-travel-stipends-for-young-civic-technology-and-digital-democracy-leaders-worldwide/"
+    ],
+    "lastVerified": "2026-11-19",
+    "lastChecked": "2026-11-19",
+    "discoveredAt": "2026-11-19",
+    "origin": "discovered",
+    "dateConfirmed": true
   },
   {
     "id": "internet-corporation-for-assigned-names-and-numbers-icann89-policy-for",
@@ -807,7 +857,7 @@
       "https://www.opportunitiesforafricans.com/the-internet-corporation-for-assigned-names-and-numbers-icann89-policy-forum-fellowship-program-2027/"
     ],
     "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "discoveredAt": "2026-11-11",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -866,7 +916,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/crossculture-programfully-funded-to-germany/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -924,7 +974,7 @@
       "https://opportunitiesforyouth.org/2026/10/12/iaffes-2nd-feminist-economics-school-call-for-applicationsfully-funded/"
     ],
     "lastVerified": "2026-10-17",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "discoveredAt": "2026-10-17",
     "origin": "discovered",
     "dateConfirmed": true,
@@ -977,7 +1027,7 @@
       "https://opportunitiesforyouth.org/2026/10/22/young-southeast-asian-leaders-initiative-professional-fellows-program-2023-call-for-applications-fully-fundedusa/"
     ],
     "lastVerified": "2026-10-23",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "discoveredAt": "2026-10-23",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1018,11 +1068,99 @@
       "https://www.opportunitiesforafricans.com/the-friedrich-ebert-stiftung-young-leaders-programme-2027-for-young-cameroonians/"
     ],
     "lastVerified": "2026-11-05",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "discoveredAt": "2026-11-05",
     "origin": "discovered",
     "dateConfirmed": false,
     "checkStatus": "reachable"
+  },
+  {
+    "id": "french-african-foundation-young-leaders-program-for-young-africans",
+    "title": "French-African Foundation Young Leaders Program for young Africans",
+    "location": "France",
+    "when": "Apply by 16 Dec 2026",
+    "startDate": null,
+    "deadline": "2026-12-16",
+    "funding": "Fully funded",
+    "fundingType": "full",
+    "audience": "To apply, candidates must meet the following criteria",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://french-african.org/young-leaders/",
+    "ethiopiansEligible": true,
+    "description": "Applications are now open for the 2027 French-African Foundation Young Leaders Program. The Young Leaders program, a flagship initiative of the French-African Foundation, offers an exceptional platform for networking, training and mentoring for young African and French talents. By showcasing these talents, the Foundation offers them exclusive networking opportunities through prestigious events and international collaborations, connecting them with influential leaders and renowned experts. Demonstrate at least 5 years of professional experience with proven leadership skills and impact. To be of nationality from a country on the African continent or of French nationality.",
+    "status": "open",
+    "details": {
+      "overview": "Applications are now open for the 2027 French-African Foundation Young Leaders Program. The Young Leaders program, a flagship initiative of the French-African Foundation, offers an exceptional platform for networking, training and mentoring for young African and French talents. By showcasing these talents, the Foundation offers them exclusive networking opportunities through prestigious events and international collaborations, connecting them with influential leaders and renowned experts. Demonstrate at least 5 years of professional experience with proven leadership skills and impact. To be of nationality from a country on the African continent or of French nationality.",
+      "whoCanApply": [
+        "To apply, candidates must meet the following criteria."
+      ],
+      "benefits": [],
+      "howToApply": [
+        "Read the full call on the official page (french-african.org)",
+        "Prepare a short CV and a motivation statement",
+        "Submit the application before 16 December 2026",
+        "Start your visa appointment early once accepted — Ethiopian passports need visas for most hosts"
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://french-african.org/young-leaders/",
+      "https://www.opportunitiesforafricans.com/the-french-african-foundation-young-leaders-program-2027/"
+    ],
+    "lastVerified": "2026-11-19",
+    "lastChecked": "2026-11-19",
+    "discoveredAt": "2026-11-19",
+    "origin": "discovered",
+    "dateConfirmed": false
+  },
+  {
+    "id": "microsoft-datacenter-academy-skilling-bootcamp-for-africans-and-emea-l",
+    "title": "Microsoft Datacenter Academy Skilling Bootcamp for Africans and EMEA Learners",
+    "location": "Online",
+    "when": "Apply by 18 Dec 2026",
+    "startDate": null,
+    "deadline": "2026-12-18",
+    "funding": "Fully funded",
+    "fundingType": "full",
+    "audience": "Everyone!",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR1d6wCZXMv1Htb-XI2Og10ZUQkJEUzgxRTJJU1Q2RVNTVVhYVlhFWjJJUi4u",
+    "ethiopiansEligible": true,
+    "description": "Applications are now open for the Microsoft Datacenter Academy Skilling Bootcamp. Datacenters power the cloud, AI and much of what we do every day, so the people who build and run them are in demand. If you’ve been curious about a career in this industry and wondered where to start, this bootcamp is for you. It’s free, fully virtual and delivered entirely by Microsoft employees who volunteer their time and share what they know because they want to help others succeed. Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+    "status": "open",
+    "details": {
+      "overview": "Applications are now open for the Microsoft Datacenter Academy Skilling Bootcamp. Datacenters power the cloud, AI and much of what we do every day, so the people who build and run them are in demand. If you’ve been curious about a career in this industry and wondered where to start, this bootcamp is for you. It’s free, fully virtual and delivered entirely by Microsoft employees who volunteer their time and share what they know because they want to help others succeed. Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+      "whoCanApply": [
+        "Everyone! Career changers, upskillers, reskillers, and anyone ready to break into the datacenter industry.",
+        "No prior experience needed, just curiosity and the drive to learn."
+      ],
+      "benefits": [
+        "Starting with the basics of the cloud and a virtual tour inside a datacenter, you’ll move on to servers, networking, cooling and power, AI infrastructure, safety and security, and live labs.",
+        "Throughout the bootcamp you’ll also get career support: CV clinics, LinkedIn tips, interview preparation, open-mic sessions with datacenter technicians, and a career fair to finish."
+      ],
+      "howToApply": [
+        "Read the full call on the official page (forms.cloud.microsoft)",
+        "Prepare a short CV and a motivation statement",
+        "Submit the application before 18 December 2026",
+        "Start your visa appointment early once accepted — Ethiopian passports need visas for most hosts"
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR1d6wCZXMv1Htb-XI2Og10ZUQkJEUzgxRTJJU1Q2RVNTVVhYVlhFWjJJUi4u",
+      "https://www.opportunitiesforafricans.com/the-microsoft-datacenter-academy-skilling-bootcamp-for-africans-and-emea-learners/"
+    ],
+    "lastVerified": "2026-11-19",
+    "lastChecked": "2026-11-19",
+    "discoveredAt": "2026-11-19",
+    "origin": "discovered",
+    "dateConfirmed": false
   },
   {
     "id": "internet-governance-forum-youth-fellowship",
@@ -1040,7 +1178,7 @@
     "url": "https://www.intgovforum.org",
     "ethiopiansEligible": true,
     "description": "Internet Governance Forum (IGF) Youth Fellowship in Rotates (Dec). Funding: Full. For: 18–35.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "unreachable"
   },
   {
@@ -1059,7 +1197,7 @@
     "url": "https://blackinai.github.io",
     "ethiopiansEligible": true,
     "description": "AfricArXiv / Black in AI workshop (NeurIPS) in Global (Dec). Funding: Travel grants. For: Researchers.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -1078,7 +1216,7 @@
     "url": "https://www.nobelpeacecenter.org",
     "ethiopiansEligible": false,
     "description": "Nobel Peace Prize Forum / Nobel Week Dialogue youth in Norway / Sweden (Dec). Funding: Travel grants. For: Youth.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -1184,7 +1322,7 @@
       "https://www.opportunitiesforafricans.com/the-international-institute-for-applied-systems-analysis-iiasa-young-scientists-summer-program-2027/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1206,7 +1344,7 @@
     "url": "https://cda.org",
     "ethiopiansEligible": false,
     "description": "Youth Action Summit 2027 in Germany (11–14 Jan 2027). Funding: Full/partial. For: 18–35.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -1256,7 +1394,7 @@
       "https://www.opportunitiesforafricans.com/st-gallen-symposium-global-ideas-competition-2027/"
     ],
     "lastVerified": "2026-11-03",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "discoveredAt": "2026-11-03",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1278,7 +1416,7 @@
     "url": "https://www.hpair.org",
     "ethiopiansEligible": false,
     "description": "Harvard Project for Asian & International Relations (HPAIR) in Asia / Boston (Aug / Feb). Funding: Scholarships available. For: University students.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -1297,8 +1435,8 @@
     "url": "https://www.tonyelumelufoundation.org",
     "ethiopiansEligible": true,
     "description": "Tony Elumelu Foundation Entrepreneurship Programme in Online + Lagos forum (Jan–Mar apply). Funding: $5,000 seed + training. For: 18+.",
-    "lastChecked": "2026-11-17",
-    "checkStatus": "unreachable"
+    "lastChecked": "2026-11-19",
+    "checkStatus": "reachable"
   },
   {
     "id": "un-youth-forum",
@@ -1316,7 +1454,7 @@
     "url": "https://ecosoc.un.org",
     "ethiopiansEligible": true,
     "description": "UN Youth Forum (ECOSOC) in New York (April). Funding: Partial/full via sponsors. For: 18–30.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -1335,7 +1473,7 @@
     "url": "https://www.cugh.org",
     "ethiopiansEligible": false,
     "description": "Global Health Conference – CUGH travel awards in USA (Mar–Apr). Funding: Travel grants. For: Students.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -1384,7 +1522,7 @@
       "https://opportunitiesforyouth.org/2026/11/05/european-youth-event-2027-eye2027-european-parliament-opens-call-for-youth-groups-to-receive-financial-support-to-participate-in-strasbourg/"
     ],
     "lastVerified": "2026-11-13",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "discoveredAt": "2026-11-13",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1406,7 +1544,7 @@
     "url": "https://www.datascienceafrica.org",
     "ethiopiansEligible": true,
     "description": "Data Science Africa Summer School in Africa (Jun–Jul). Funding: Travel grants. For: Students.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -1425,7 +1563,7 @@
     "url": "https://deeplearningindaba.com",
     "ethiopiansEligible": true,
     "description": "Google / Deep Learning Indaba in Africa (rotates) (Aug–Sept). Funding: Travel grants. For: Students, researchers.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -1444,7 +1582,7 @@
     "url": "https://www.mandelawashingtonfellowship.org",
     "ethiopiansEligible": true,
     "description": "Mandela Washington Fellowship (YALI) in USA (Jun–Jul 2027 (apply Sept–Oct 2026)). Funding: Full. For: 25–35.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable",
     "dateConfirmed": false
   },
@@ -1464,7 +1602,7 @@
     "url": "https://www.oneyoungworld.com",
     "ethiopiansEligible": true,
     "description": "One Young World Summit – Leading Africa Scholarship in Cape Town, South Africa (3–6 Nov 2026). Funding: Full (flights, hotel, fees). For: 18–30.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable",
     "dateConfirmed": false
   },
@@ -1484,7 +1622,7 @@
     "url": "https://www.coe.int/en/web/world-forum-democracy",
     "ethiopiansEligible": true,
     "description": "World Forum for Democracy (Council of Europe) in Strasbourg, France (31 Oct – 4 Nov 2026). Funding: Full for youth delegates. For: 18–30.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "unreachable",
     "dateConfirmed": false
   },
@@ -1504,7 +1642,7 @@
     "url": "https://afrileadnetwork.org",
     "ethiopiansEligible": true,
     "description": "DLL Conference (AfriLead Network) in Zanzibar, Tanzania (2026). Funding: Full. For: Young African professionals.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -1523,8 +1661,8 @@
     "url": "https://yalieastafrica.org",
     "ethiopiansEligible": true,
     "description": "YALI Regional Leadership Center East Africa in Nairobi, Kenya (Multiple cohorts). Funding: Full. For: 18–35.",
-    "lastChecked": "2026-11-17",
-    "checkStatus": "unreachable"
+    "lastChecked": "2026-11-19",
+    "checkStatus": "reachable"
   },
   {
     "id": "africa-youth-summit-au-youth-forum",
@@ -1542,7 +1680,7 @@
     "url": "https://au.int/en/youth",
     "ethiopiansEligible": true,
     "description": "Africa Youth Summit / AU Youth Forum in Rotates (Addis often) (Yearly). Funding: Full. For: 15–35.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "unreachable"
   },
   {
@@ -1561,7 +1699,7 @@
     "url": "https://www.itu.int/generationconnect",
     "ethiopiansEligible": true,
     "description": "ITU Generation Connect in Global (Various). Funding: Travel grants. For: 18–29.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -1580,7 +1718,7 @@
     "url": "https://gsw.mit.edu",
     "ethiopiansEligible": false,
     "description": "MIT Global Startup Workshop / MIT Africa Innovate in Rotates (Spring). Funding: Partial. For: Entrepreneurs.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -1599,7 +1737,7 @@
     "url": "https://acumen.org/fellowships",
     "ethiopiansEligible": true,
     "description": "Ashoka / Acumen Fellowships in Global/East Africa (Rolling). Funding: Full. For: Social entrepreneurs.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -1618,7 +1756,7 @@
     "url": "https://careers.un.org",
     "ethiopiansEligible": true,
     "description": "WHO / UNICEF / UNDP Youth Internships & Forums in Addis (UNECA, AU HQ) (Rolling). Funding: Stipend. For: 18–32.",
-    "lastChecked": "2026-11-17",
+    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
