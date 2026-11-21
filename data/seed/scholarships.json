@@ -864,7 +864,7 @@
       "https://www.eda.admin.ch/countries/ethiopia/en/home/services/scholarships.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -942,7 +942,7 @@
       "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -1986,7 +1986,7 @@
       "https://au.int/sites/default/files/announcements/45594-annc-2026_PAU_Admission_Call_Englsih.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -2049,6 +2049,87 @@
     "lastVerified": "2026-11-17",
     "lastChecked": "2026-11-17",
     "discoveredAt": "2026-11-17",
+    "origin": "discovered"
+  },
+  {
+    "id": "newmark-j-school-tuition-free-journalism-scholarships",
+    "title": "Newmark J-School Tuition-Free Journalism Scholarships",
+    "provider": "apply.journalism.cuny.edu",
+    "country": "USA",
+    "countries": [
+      "USA"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "education"
+    ],
+    "fundingType": "full",
+    "covers": "Although the initiative covers full tuition and mandatory institutional fees for eligible New York State residents, it does not cover every expense associated…",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "englishTest": "required"
+    },
+    "deadline": "2026-12-15",
+    "deadlineText": "Application deadline: 15 December 2026 (published on opportunitiesforyouth.org)",
+    "url": "https://apply.journalism.cuny.edu/portal/grad",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Aspiring journalists and media professionals looking to advance their education in the United States have an opportunity to pursue postgraduate studies at the Craig Newmark Graduate School of Journalism at the City University of New York (CUNY). Through its Tuition-Free for New Yorkers initiative, Newmark J-School offers admitted students who qualify as New York State residents the opportunity to study in eligible Master’s degree programmes without paying tuition or mandatory institutional fees. For the Fall 2027 academic intake, the journalism school has also announced a waiver of its $75 application fee for all applicants.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Aspiring journalists and media professionals looking to advance their education in the United States have an opportunity to pursue postgraduate studies at the Craig Newmark Graduate School of Journalism at the City University of New York (CUNY). Through its Tuition-Free for New Yorkers initiative, Newmark J-School offers admitted students who qualify as New York State residents the opportunity to study in eligible Master’s degree programmes without paying tuition or mandatory institutional fees. For the Fall 2027 academic intake, the journalism school has also announced a waiver of its $75 application fee for all applicants.",
+      "whoCanApply": [
+        "The tuition-free initiative is primarily available to admitted students who qualify as New York State residents under the City University of New York’s residency requirements.",
+        "To establish eligibility, applicants must demonstrate that they meet the institution’s requirements concerning immigration status, physical residency, and their intention to remain in New York State.",
+        "Applicants must also satisfy the applicable immigration status requirements.",
+        "According to the school’s published eligibility information, qualifying individuals generally include:",
+        "United States citizens.",
+        "Permanent residents of the United States.",
+        "Individuals holding another immigration status recognised as qualifying under CUNY residency requirements."
+      ],
+      "benefits": [
+        "Although the initiative covers full tuition and mandatory institutional fees for eligible New York State residents, it does not cover every expense associated with studying in New York City.",
+        "Students should prepare financially for additional costs that remain their responsibility.",
+        "To receive and maintain full tuition and fees coverage, students must satisfy the institution’s conditions.",
+        "International applicants who are admitted to Newmark J-School may be considered for institutional scholarships."
+      ],
+      "howToApply": [
+        "Yes. Although the tuition-free initiative is restricted to students who qualify as New York State residents, Newmark J-School also provides generous institutional scholarships for students who do not qualify for in-state residency.",
+        "This includes international students and applicants from other parts of the United States.",
+        "The institution recognises that talented individuals interested in journalism education may come from different geographical and professional backgrounds. Its financial assistance opportunities are therefore intended to help make graduate journalism education more accessible to students outside New York State.",
+        "Prospective students interested in the Fall 2027 intake must complete the institution’s application process.",
+        "The application is used for both admission and scholarship consideration, meaning applicants do not need to submit a separate scholarship application.",
+        "The school has also waived the $75 application fee for all Fall 2027 applicants.",
+        "Below is an overview of the application requirements and process."
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 15 December 2026.",
+        "Book IELTS/TOEFL in Addis Ababa early — test dates fill up weeks ahead.",
+        "Ask your lecturers or employer for recommendation letters at least four weeks before the deadline.",
+        "Tailor your motivation letter to Ethiopian development priorities and your concrete plans after study.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://apply.journalism.cuny.edu/portal/grad",
+      "https://opportunitiesforyouth.org/2026/11/19/craig-newmark-philanthropies-funds-new-york-university-cybersecurity-clinic-to-protect-nonprofits-schools-and-community-organizations-from-cybercrime/"
+    ],
+    "lastVerified": "2026-11-21",
+    "lastChecked": "2026-11-21",
+    "discoveredAt": "2026-11-21",
     "origin": "discovered"
   },
   {
@@ -2204,8 +2285,8 @@
       "https://www.daad-ghana.org/en/2024/10/04/in-country-in-region-scholarship-programme-2025-26/",
       "https://www.daad-ethiopia.org/en/scholarship-database/"
     ],
-    "lastVerified": "2026-11-19",
-    "lastChecked": "2026-11-19",
+    "lastVerified": "2026-11-21",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -2287,7 +2368,7 @@
       "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -2375,7 +2456,7 @@
       "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -2457,7 +2538,7 @@
       "https://www.gatescambridge.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -2673,7 +2754,7 @@
       "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "unreachable"
   },
   {
@@ -3111,7 +3192,7 @@
       "https://www.kaist.ac.kr/en/html/edu/03100502.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -3190,7 +3271,7 @@
       "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -3274,7 +3355,7 @@
       "https://stipendiumhungaricum.hu/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -3357,7 +3438,7 @@
       "https://education-in-russia.com/selection"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -3593,7 +3674,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/"
     ],
     "lastVerified": "2026-10-23",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -4133,7 +4214,7 @@
       "https://www.isdb.org/scholarships/scholarship-programs"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -4220,7 +4301,7 @@
       "https://moe.gov.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -4307,7 +4388,7 @@
       "https://www.daad.de/en/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -4453,8 +4534,87 @@
       "https://www.studyinnl.org/finances/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
+  },
+  {
+    "id": "up-to-6-fully-funded-phd-positions-in-economics-at-the-university-of-g",
+    "title": "Up to 6 Fully Funded PhD Positions in Economics at the University of Gothenburg, Sweden",
+    "provider": "web103.reachmee.com",
+    "country": "Sweden",
+    "countries": [
+      "Sweden"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "economics"
+    ],
+    "fundingType": "full",
+    "covers": "Fully funded",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "englishTest": "required"
+    },
+    "deadline": "2027-02-01",
+    "deadlineText": "Application deadline: 01 February 2027 (published on opportunitiesforyouth.org)",
+    "url": "https://web103.reachmee.com/ext/I005/1035/apply?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=41843&utm_source=chatgpt.com",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "The University of Gothenburg in Sweden is inviting applications for up to six fully funded PhD positions in Economics for its September 2027 intake. These doctoral positions offer an excellent opportunity for aspiring researchers to pursue advanced studies in economics within an internationally recognized academic environment, supported by comprehensive doctoral training, faculty supervision and funding for approximately five years. The positions are offered through the Department of Economics at the university’s School of Business, Economics and Law.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The University of Gothenburg in Sweden is inviting applications for up to six fully funded PhD positions in Economics for its September 2027 intake. These doctoral positions offer an excellent opportunity for aspiring researchers to pursue advanced studies in economics within an internationally recognized academic environment, supported by comprehensive doctoral training, faculty supervision and funding for approximately five years. The positions are offered through the Department of Economics at the university’s School of Business, Economics and Law.",
+      "whoCanApply": [
+        "Applicants must satisfy both the basic and special eligibility requirements established by the Department of Economics.",
+        "The university indicates that these requirements are typically met by candidates holding a master’s degree in Economics or a closely related field, provided that they have completed the required number of academic credits.",
+        "Hold a degree at an advanced level, such as a master’s degree.",
+        "Have completed at least 240 higher education credits, of which at least 60 credits must be at the advanced level.",
+        "Possess qualifications considered equivalent to the above requirements.",
+        "Applicants must also satisfy at least one of the following Economics-related academic requirements:",
+        "Have completed at least 90 higher education credits in Economics."
+      ],
+      "benefits": [],
+      "howToApply": [
+        "Review the basic and special eligibility requirements.",
+        "Check that their academic qualifications meet the required Economics credit criteria.",
+        "Prepare a detailed academic CV.",
+        "Write a personal statement of one to two pages.",
+        "Arrange official degree certificates and academic transcripts.",
+        "Select their strongest master’s thesis or academic research paper.",
+        "Arrange one to three recommendation letters."
+      ],
+      "documents": [
+        "Applicants must submit all application materials in English or a Scandinavian language.",
+        "The university requires a comprehensive application demonstrating the candidate’s academic background, research interests, previous research experience and potential to undertake independent doctoral research."
+      ],
+      "selection": "Candidates shortlisted by the admissions committee will be invited to participate in an online interview. The interview forms part of the selection process and provides the university with an opportunity to assess candidates’ academic interests, research potential and suitability for the programme.",
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 01 February 2027.",
+        "Book IELTS/TOEFL in Addis Ababa early — test dates fill up weeks ahead.",
+        "Ask your lecturers or employer for recommendation letters at least four weeks before the deadline.",
+        "Tailor your motivation letter to Ethiopian development priorities and your concrete plans after study.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://web103.reachmee.com/ext/I005/1035/apply?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=41843&utm_source=chatgpt.com",
+      "https://opportunitiesforyouth.org/2026/11/20/up-to-6-fully-funded-phd-positions-in-economics-at-the-university-of-gothenburg-sweden-2027/"
+    ],
+    "lastVerified": "2026-11-21",
+    "lastChecked": "2026-11-21",
+    "discoveredAt": "2026-11-21",
+    "origin": "discovered"
   },
   {
     "id": "brunei-government-scholarship",
@@ -4537,7 +4697,7 @@
       "https://www.mfa.gov.bn/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -4623,7 +4783,7 @@
       "https://twas.org/opportunities/fellowships/phd"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -4792,7 +4952,7 @@
       "https://tbbs.turkiyeburslari.gov.tr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -4950,7 +5110,7 @@
       "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?page=5f4ddf7588a720370a799e12"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -5181,7 +5341,7 @@
       "https://www.studyinkorea.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -5265,7 +5425,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -5415,7 +5575,7 @@
       "https://studyinromania.gov.ro/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -5502,7 +5662,7 @@
       "https://www.nexteinstein.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "unreachable"
   },
   {
@@ -5584,7 +5744,7 @@
       "https://www.campuschina.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "unreachable"
   },
   {
@@ -5727,7 +5887,7 @@
       "https://eoiaddisababa.gov.in/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -5813,7 +5973,7 @@
       "https://mfa.gov.az/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -5895,7 +6055,7 @@
       "https://www.mandelarhodes.org/scholarship/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -5983,8 +6143,8 @@
       "https://www.dfat.gov.au/sites/default/files/australia-awards-africa-information-for-intake.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
-    "checkStatus": "reachable"
+    "lastChecked": "2026-11-21",
+    "checkStatus": "unreachable"
   },
   {
     "id": "rotary-peace-fellowship",
@@ -6076,7 +6236,7 @@
       "https://www.rotary.org/get-involved/our-programs/peace-fellowships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "unreachable"
   },
   {
@@ -6166,7 +6326,7 @@
       "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -6251,7 +6411,7 @@
       "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -6333,7 +6493,7 @@
       "https://foreign.fulbrightonline.org/apply"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -6488,7 +6648,7 @@
       "https://www.aau.edu.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -6577,7 +6737,7 @@
       "https://et.usembassy.gov/education-culture/educational-exchange/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -6662,7 +6822,7 @@
       "http://daad.de/go/de/stipa50026397"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -6749,7 +6909,7 @@
       "https://www.koica.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "unreachable"
   },
   {
@@ -6837,7 +6997,7 @@
       "https://connect.schwarzmanscholars.org/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -6916,7 +7076,7 @@
       "https://www.chevening.org/scholarships/application-timeline/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -6998,7 +7158,7 @@
       "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -7087,7 +7247,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -7175,7 +7335,7 @@
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -7260,7 +7420,7 @@
       "https://www.scholars4dev.com/mastercard-foundation-scholarship-program-for-africans/"
     ],
     "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -7340,7 +7500,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -7424,7 +7584,7 @@
       "https://mastercardfdn.org/en/news/alx-kick-starts-inaugural-all-tech-training-programs-for-over-32000-learners-across-africa/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   }
 ]

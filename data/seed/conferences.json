@@ -438,25 +438,6 @@
     "checkStatus": "reachable"
   },
   {
-    "id": "sdg-innovation-summit",
-    "title": "SDG Innovation Summit",
-    "location": "Malaysia",
-    "when": "19–22 Nov 2026",
-    "startDate": "2026-11-19",
-    "funding": "Flights, visa, hotel, meals",
-    "fundingType": "partial",
-    "audience": "Students / youth",
-    "age": {
-      "min": null,
-      "max": null
-    },
-    "url": "https://www.sdgsummit.org",
-    "ethiopiansEligible": false,
-    "description": "SDG Innovation Summit in Malaysia (19–22 Nov 2026). Funding: Flights, visa, hotel, meals. For: Students / youth.",
-    "lastChecked": "2026-11-19",
-    "checkStatus": "unreachable"
-  },
-  {
     "id": "sir-cyril-taylor-young-african-leaders-fellowship-program-for-young-ch",
     "title": "Sir Cyril Taylor Young African Leaders Fellowship Program for young changemakers",
     "location": "Geneva, Switzerland",
@@ -473,7 +454,7 @@
     "url": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/",
     "ethiopiansEligible": true,
     "description": "Applications are now open for the 2027 Sir Cyril Taylor Young African Leaders Fellowship Program. With generous grant support from the Sir Cyril Taylor Charitable Foundation, this initiative continues its mission to empower outstanding young changemakers from Sub-Saharan Africa with the skills, resources, and funding needed to drive sustainable development in their communities. This is a 12-month fully funded scholarship that covers the costs of participating in all program elements listed below. Travel and accommodation for the AFS Youth Assembly will be covered for the participants in this program. To build intercultural competencies essential for community impact.",
-    "status": "open",
+    "status": "closed",
     "details": {
       "overview": "Applications are now open for the 2027 Sir Cyril Taylor Young African Leaders Fellowship Program. With generous grant support from the Sir Cyril Taylor Charitable Foundation, this initiative continues its mission to empower outstanding young changemakers from Sub-Saharan Africa with the skills, resources, and funding needed to drive sustainable development in their communities. This is a 12-month fully funded scholarship that covers the costs of participating in all program elements listed below. Travel and accommodation for the AFS Youth Assembly will be covered for the participants in this program. To build intercultural competencies essential for community impact.",
       "whoCanApply": [
@@ -501,29 +482,10 @@
       "https://www.opportunitiesforafricans.com/the-sir-cyril-taylor-young-african-leaders-fellowship-program-2027/"
     ],
     "lastVerified": "2026-11-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-11-07",
     "origin": "discovered",
     "dateConfirmed": false,
-    "checkStatus": "reachable"
-  },
-  {
-    "id": "asef-linkup-asef-seminar",
-    "title": "ASEF LinkUp / ASEF Seminar",
-    "location": "Slovenia / Mongolia",
-    "when": "Oct–Nov 2026",
-    "startDate": "2026-11-20",
-    "funding": "Full",
-    "fundingType": "full",
-    "audience": "18–30 (check country list)",
-    "age": {
-      "min": 18,
-      "max": 30
-    },
-    "url": "https://asef.org",
-    "ethiopiansEligible": false,
-    "description": "ASEF LinkUp / ASEF Seminar in Slovenia / Mongolia (Oct–Nov 2026). Funding: Full. For: 18–30 (check country list).",
-    "lastChecked": "2026-11-19",
     "checkStatus": "reachable"
   },
   {
@@ -574,7 +536,7 @@
       "https://www.opportunitiesforafricans.com/the-ye-youth-ecopreneurs-programme-yeco-2026-2027/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -596,7 +558,7 @@
     "url": "https://www.obama.org/programs/leaders",
     "ethiopiansEligible": true,
     "description": "Obama Foundation Leaders: Africa in Johannesburg + virtual (Apply Jan–Feb). Funding: Full. For: Emerging leaders.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable",
     "deadline": "2026-11-23",
     "status": "open",
@@ -652,11 +614,55 @@
       "https://www.opportunitiesforafricans.com/the-journalismai-strategy-lab-2026-for-african-journalists-and-media-professionals/"
     ],
     "lastVerified": "2026-11-03",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-11-03",
     "origin": "discovered",
     "dateConfirmed": false,
     "checkStatus": "reachable"
+  },
+  {
+    "id": "accountability-lab-east-and-southern-africa-alesa-digital-governance-i",
+    "title": "Accountability Lab East and Southern Africa (ALESA) Digital Governance Incubator Program for emerging young leaders",
+    "location": "See official site",
+    "when": "Apply by 29 Nov 2026",
+    "startDate": null,
+    "deadline": "2026-11-29",
+    "funding": "The PPS Foundation’s Bursary Programme 2027 for young South African students",
+    "fundingType": "partial",
+    "audience": "Students & young professionals",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://accountabilitylab.org/",
+    "ethiopiansEligible": true,
+    "description": "Applications are now open for the 2027 Accountability Lab East and Southern Africa (ALESA) Digital Governance Incubator Program. Accountability Lab East and Southern Africa (ALESA) is accepting application for the 2027 Digital Governance Incubator (DGI). ALESA invites applications from eligible young leaders in Zimbabwe, Malawi, and Tanzania who are using civic technology, digital innovation, policy advocacy, community organising, and arts and creativity to address transparency, accountability, and human rights in the digital governance sector.",
+    "status": "open",
+    "details": {
+      "overview": "Applications are now open for the 2027 Accountability Lab East and Southern Africa (ALESA) Digital Governance Incubator Program. Accountability Lab East and Southern Africa (ALESA) is accepting application for the 2027 Digital Governance Incubator (DGI). ALESA invites applications from eligible young leaders in Zimbabwe, Malawi, and Tanzania who are using civic technology, digital innovation, policy advocacy, community organising, and arts and creativity to address transparency, accountability, and human rights in the digital governance sector.",
+      "whoCanApply": [],
+      "benefits": [
+        "The PPS Foundation’s Bursary Programme 2027 for young South African students.",
+        "TRACE Prize 2019 for Investigative Reporting – Uncovering Commercial Bribery...",
+        "African Center for Translational Genomics (ACTG) 2021 Academic Scholarship for..."
+      ],
+      "howToApply": [
+        "Read the full call on the official page (accountabilitylab.org)",
+        "Prepare a short CV and a motivation statement",
+        "Submit the application before 29 November 2026",
+        "Start your visa appointment early once accepted — Ethiopian passports need visas for most hosts"
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://accountabilitylab.org/",
+      "https://www.opportunitiesforafricans.com/the-accountability-lab-east-and-southern-africa-alesa-2027-digital-governance-incubator-program-2027/"
+    ],
+    "lastVerified": "2026-11-21",
+    "lastChecked": "2026-11-21",
+    "discoveredAt": "2026-11-21",
+    "origin": "discovered",
+    "dateConfirmed": false
   },
   {
     "id": "falling-walls-lab-ethiopia-berlin-finale",
@@ -674,7 +680,7 @@
     "url": "https://falling-walls.com",
     "ethiopiansEligible": true,
     "description": "Falling Walls Lab Ethiopia -> Berlin Finale in Addis -> Berlin (Nov). Funding: Full for winner. For: Students / researchers.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -717,7 +723,7 @@
       "https://opportunitiesforyouth.org/2026/11/14/2027-fully-funded-youth-delegate-programme-apply-for-the-council-of-europe-congress-in-strasbourg/"
     ],
     "lastVerified": "2026-11-15",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-11-15",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -761,7 +767,7 @@
       "https://www.opportunitiesforafricans.com/the-mcw-globals-young-leaders-fellowship-2027/"
     ],
     "lastVerified": "2026-11-07",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-11-07",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -812,10 +818,11 @@
       "https://opportunitiesforyouth.org/2026/11/17/digital-democracy-edinburgh-2027-travel-stipends-for-young-civic-technology-and-digital-democracy-leaders-worldwide/"
     ],
     "lastVerified": "2026-11-19",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-11-19",
     "origin": "discovered",
-    "dateConfirmed": true
+    "dateConfirmed": true,
+    "checkStatus": "reachable"
   },
   {
     "id": "internet-corporation-for-assigned-names-and-numbers-icann89-policy-for",
@@ -857,7 +864,7 @@
       "https://www.opportunitiesforafricans.com/the-internet-corporation-for-assigned-names-and-numbers-icann89-policy-forum-fellowship-program-2027/"
     ],
     "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-11-11",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -916,7 +923,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/crossculture-programfully-funded-to-germany/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -974,7 +981,7 @@
       "https://opportunitiesforyouth.org/2026/10/12/iaffes-2nd-feminist-economics-school-call-for-applicationsfully-funded/"
     ],
     "lastVerified": "2026-10-17",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-10-17",
     "origin": "discovered",
     "dateConfirmed": true,
@@ -1027,7 +1034,7 @@
       "https://opportunitiesforyouth.org/2026/10/22/young-southeast-asian-leaders-initiative-professional-fellows-program-2023-call-for-applications-fully-fundedusa/"
     ],
     "lastVerified": "2026-10-23",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-10-23",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1068,7 +1075,7 @@
       "https://www.opportunitiesforafricans.com/the-friedrich-ebert-stiftung-young-leaders-programme-2027-for-young-cameroonians/"
     ],
     "lastVerified": "2026-11-05",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-11-05",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1111,10 +1118,11 @@
       "https://www.opportunitiesforafricans.com/the-french-african-foundation-young-leaders-program-2027/"
     ],
     "lastVerified": "2026-11-19",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-11-19",
     "origin": "discovered",
-    "dateConfirmed": false
+    "dateConfirmed": false,
+    "checkStatus": "reachable"
   },
   {
     "id": "microsoft-datacenter-academy-skilling-bootcamp-for-africans-and-emea-l",
@@ -1157,10 +1165,11 @@
       "https://www.opportunitiesforafricans.com/the-microsoft-datacenter-academy-skilling-bootcamp-for-africans-and-emea-learners/"
     ],
     "lastVerified": "2026-11-19",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-11-19",
     "origin": "discovered",
-    "dateConfirmed": false
+    "dateConfirmed": false,
+    "checkStatus": "reachable"
   },
   {
     "id": "internet-governance-forum-youth-fellowship",
@@ -1178,7 +1187,7 @@
     "url": "https://www.intgovforum.org",
     "ethiopiansEligible": true,
     "description": "Internet Governance Forum (IGF) Youth Fellowship in Rotates (Dec). Funding: Full. For: 18–35.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "unreachable"
   },
   {
@@ -1197,7 +1206,7 @@
     "url": "https://blackinai.github.io",
     "ethiopiansEligible": true,
     "description": "AfricArXiv / Black in AI workshop (NeurIPS) in Global (Dec). Funding: Travel grants. For: Researchers.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -1216,7 +1225,7 @@
     "url": "https://www.nobelpeacecenter.org",
     "ethiopiansEligible": false,
     "description": "Nobel Peace Prize Forum / Nobel Week Dialogue youth in Norway / Sweden (Dec). Funding: Travel grants. For: Youth.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -1273,6 +1282,52 @@
     "checkStatus": "reachable"
   },
   {
+    "id": "camp-rising-sun",
+    "title": "Camp Rising Sun",
+    "location": "New York, USA",
+    "when": "24–26 Jun 2027",
+    "startDate": "2027-06-24",
+    "deadline": "2026-12-31",
+    "funding": "Fully funded",
+    "fundingType": "full",
+    "audience": "Applicants must meet the program’s eligibility requirements before submitting their applications",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://opportunitiesforyouth.org/2026/11/19/camp-rising-sun-by-the-louis-august-jonas-foundation-fully-funded-summer-leadership-program-in-new-york/",
+    "ethiopiansEligible": true,
+    "description": "Camp Rising Sun (CRS) 2027, organized by the Louis August Jonas Foundation (LAJF), is an international summer leadership program designed to develop ethical, compassionate, thoughtful and engaged young leaders. The program brings together young people from different countries, cultures and backgrounds to learn, collaborate, build relationships and develop leadership skills through an immersive residential experience. Camp Rising Sun offers young people an opportunity to participate in a multicultural community where they can learn from one another, explore their interests, develop their leadership abilities and gain new perspectives on the world.",
+    "status": "open",
+    "details": {
+      "overview": "Camp Rising Sun (CRS) 2027, organized by the Louis August Jonas Foundation (LAJF), is an international summer leadership program designed to develop ethical, compassionate, thoughtful and engaged young leaders. The program brings together young people from different countries, cultures and backgrounds to learn, collaborate, build relationships and develop leadership skills through an immersive residential experience. Camp Rising Sun offers young people an opportunity to participate in a multicultural community where they can learn from one another, explore their interests, develop their leadership abilities and gain new perspectives on the world.",
+      "whoCanApply": [
+        "Applicants must meet the program’s eligibility requirements before submitting their applications.",
+        "International campers will need a valid passport and visa where applicable to travel to the United States and participate in the program. Applicants should ensure they can obtain the required travel documents if admitted.",
+        "Admitted participants must complete the required medical evaluation before arriving at camp. The foundation also requires proof of vaccination, including full COVID-19 vaccination, with exemptions granted in applicable cases."
+      ],
+      "benefits": [
+        "For families or local alumni associations that are unable to cover transportation expenses, LAJF may offer need-based travel assistance. However, the assistance is limited and not guaranteed to every admitted applicant.",
+        "Camp Rising Sun is a full scholarship program. Participants who are admitted do not pay tuition for the program.",
+        "Families who may struggle to afford transportation to and from camp can apply for consideration for need-based travel assistance. The foundation has limited funds available for this purpose, so travel support is not guaranteed.",
+        "Applicants should distinguish between the full scholarship covering program tuition and the limited financial support that may be available for transportation expenses."
+      ],
+      "howToApply": [
+        "Yes. Kenya is specifically listed among the countries eligible to apply. The application deadline for Kenyan applicants is December 31, 2026.",
+        "Yes. Camp Rising Sun accepts applications from anywhere in the world. Countries with separately listed regional deadlines should follow those deadlines, while applicants from countries not separately listed should use December 31, 2026."
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://opportunitiesforyouth.org/2026/11/19/camp-rising-sun-by-the-louis-august-jonas-foundation-fully-funded-summer-leadership-program-in-new-york/"
+    ],
+    "lastVerified": "2026-11-21",
+    "lastChecked": "2026-11-21",
+    "discoveredAt": "2026-11-21",
+    "origin": "discovered",
+    "dateConfirmed": true
+  },
+  {
     "id": "international-institute-for-applied-systems-analysis-iiasa-young-scien",
     "title": "International Institute for Applied Systems Analysis (IIASA) Young Scientists Summer Program",
     "location": "Vienna, Austria",
@@ -1322,7 +1377,7 @@
       "https://www.opportunitiesforafricans.com/the-international-institute-for-applied-systems-analysis-iiasa-young-scientists-summer-program-2027/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1344,7 +1399,7 @@
     "url": "https://cda.org",
     "ethiopiansEligible": false,
     "description": "Youth Action Summit 2027 in Germany (11–14 Jan 2027). Funding: Full/partial. For: 18–35.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -1394,7 +1449,7 @@
       "https://www.opportunitiesforafricans.com/st-gallen-symposium-global-ideas-competition-2027/"
     ],
     "lastVerified": "2026-11-03",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-11-03",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1416,7 +1471,7 @@
     "url": "https://www.hpair.org",
     "ethiopiansEligible": false,
     "description": "Harvard Project for Asian & International Relations (HPAIR) in Asia / Boston (Aug / Feb). Funding: Scholarships available. For: University students.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -1435,7 +1490,7 @@
     "url": "https://www.tonyelumelufoundation.org",
     "ethiopiansEligible": true,
     "description": "Tony Elumelu Foundation Entrepreneurship Programme in Online + Lagos forum (Jan–Mar apply). Funding: $5,000 seed + training. For: 18+.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -1454,8 +1509,8 @@
     "url": "https://ecosoc.un.org",
     "ethiopiansEligible": true,
     "description": "UN Youth Forum (ECOSOC) in New York (April). Funding: Partial/full via sponsors. For: 18–30.",
-    "lastChecked": "2026-11-19",
-    "checkStatus": "reachable"
+    "lastChecked": "2026-11-21",
+    "checkStatus": "unreachable"
   },
   {
     "id": "global-health-conference-cugh-travel-awards",
@@ -1473,7 +1528,7 @@
     "url": "https://www.cugh.org",
     "ethiopiansEligible": false,
     "description": "Global Health Conference – CUGH travel awards in USA (Mar–Apr). Funding: Travel grants. For: Students.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -1522,7 +1577,7 @@
       "https://opportunitiesforyouth.org/2026/11/05/european-youth-event-2027-eye2027-european-parliament-opens-call-for-youth-groups-to-receive-financial-support-to-participate-in-strasbourg/"
     ],
     "lastVerified": "2026-11-13",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "discoveredAt": "2026-11-13",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1544,7 +1599,7 @@
     "url": "https://www.datascienceafrica.org",
     "ethiopiansEligible": true,
     "description": "Data Science Africa Summer School in Africa (Jun–Jul). Funding: Travel grants. For: Students.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -1563,7 +1618,7 @@
     "url": "https://deeplearningindaba.com",
     "ethiopiansEligible": true,
     "description": "Google / Deep Learning Indaba in Africa (rotates) (Aug–Sept). Funding: Travel grants. For: Students, researchers.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -1582,7 +1637,7 @@
     "url": "https://www.mandelawashingtonfellowship.org",
     "ethiopiansEligible": true,
     "description": "Mandela Washington Fellowship (YALI) in USA (Jun–Jul 2027 (apply Sept–Oct 2026)). Funding: Full. For: 25–35.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable",
     "dateConfirmed": false
   },
@@ -1602,7 +1657,7 @@
     "url": "https://www.oneyoungworld.com",
     "ethiopiansEligible": true,
     "description": "One Young World Summit – Leading Africa Scholarship in Cape Town, South Africa (3–6 Nov 2026). Funding: Full (flights, hotel, fees). For: 18–30.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable",
     "dateConfirmed": false
   },
@@ -1622,8 +1677,48 @@
     "url": "https://www.coe.int/en/web/world-forum-democracy",
     "ethiopiansEligible": true,
     "description": "World Forum for Democracy (Council of Europe) in Strasbourg, France (31 Oct – 4 Nov 2026). Funding: Full for youth delegates. For: 18–30.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "unreachable",
+    "dateConfirmed": false
+  },
+  {
+    "id": "sdg-innovation-summit",
+    "title": "SDG Innovation Summit",
+    "location": "Malaysia",
+    "when": "19–22 Nov 2027",
+    "startDate": "2027-11-19",
+    "funding": "Flights, visa, hotel, meals",
+    "fundingType": "partial",
+    "audience": "Students / youth",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://www.sdgsummit.org",
+    "ethiopiansEligible": false,
+    "description": "SDG Innovation Summit in Malaysia (19–22 Nov 2026). Funding: Flights, visa, hotel, meals. For: Students / youth.",
+    "lastChecked": "2026-11-21",
+    "checkStatus": "unreachable",
+    "dateConfirmed": false
+  },
+  {
+    "id": "asef-linkup-asef-seminar",
+    "title": "ASEF LinkUp / ASEF Seminar",
+    "location": "Slovenia / Mongolia",
+    "when": "Oct–Nov 2027",
+    "startDate": "2027-11-20",
+    "funding": "Full",
+    "fundingType": "full",
+    "audience": "18–30 (check country list)",
+    "age": {
+      "min": 18,
+      "max": 30
+    },
+    "url": "https://asef.org",
+    "ethiopiansEligible": false,
+    "description": "ASEF LinkUp / ASEF Seminar in Slovenia / Mongolia (Oct–Nov 2026). Funding: Full. For: 18–30 (check country list).",
+    "lastChecked": "2026-11-21",
+    "checkStatus": "reachable",
     "dateConfirmed": false
   },
   {
@@ -1642,7 +1737,7 @@
     "url": "https://afrileadnetwork.org",
     "ethiopiansEligible": true,
     "description": "DLL Conference (AfriLead Network) in Zanzibar, Tanzania (2026). Funding: Full. For: Young African professionals.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -1661,7 +1756,7 @@
     "url": "https://yalieastafrica.org",
     "ethiopiansEligible": true,
     "description": "YALI Regional Leadership Center East Africa in Nairobi, Kenya (Multiple cohorts). Funding: Full. For: 18–35.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -1680,7 +1775,7 @@
     "url": "https://au.int/en/youth",
     "ethiopiansEligible": true,
     "description": "Africa Youth Summit / AU Youth Forum in Rotates (Addis often) (Yearly). Funding: Full. For: 15–35.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "unreachable"
   },
   {
@@ -1699,7 +1794,7 @@
     "url": "https://www.itu.int/generationconnect",
     "ethiopiansEligible": true,
     "description": "ITU Generation Connect in Global (Various). Funding: Travel grants. For: 18–29.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -1718,7 +1813,7 @@
     "url": "https://gsw.mit.edu",
     "ethiopiansEligible": false,
     "description": "MIT Global Startup Workshop / MIT Africa Innovate in Rotates (Spring). Funding: Partial. For: Entrepreneurs.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -1737,7 +1832,7 @@
     "url": "https://acumen.org/fellowships",
     "ethiopiansEligible": true,
     "description": "Ashoka / Acumen Fellowships in Global/East Africa (Rolling). Funding: Full. For: Social entrepreneurs.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
@@ -1756,7 +1851,7 @@
     "url": "https://careers.un.org",
     "ethiopiansEligible": true,
     "description": "WHO / UNICEF / UNDP Youth Internships & Forums in Addis (UNECA, AU HQ) (Rolling). Funding: Stipend. For: 18–32.",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-21",
     "checkStatus": "reachable"
   },
   {
