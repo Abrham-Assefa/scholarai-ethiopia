@@ -864,7 +864,7 @@
       "https://www.eda.admin.ch/countries/ethiopia/en/home/services/scholarships.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -942,7 +942,7 @@
       "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -1986,7 +1986,7 @@
       "https://au.int/sites/default/files/announcements/45594-annc-2026_PAU_Admission_Call_Englsih.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -2203,6 +2203,80 @@
     "origin": "discovered"
   },
   {
+    "id": "pps-foundation-s-bursary-programme-for-young-south-african-students",
+    "title": "PPS Foundation’s Bursary Programme for young South African students",
+    "provider": "app.i-me.tech",
+    "country": "South Africa",
+    "countries": [
+      "South Africa"
+    ],
+    "level": [
+      "bachelor"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Fully funded",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-12-20",
+    "deadlineText": "Application deadline: 20 December 2026 (published on opportunitiesforafricans.com)",
+    "url": "https://app.i-me.tech/interview/description/d79cd9c4-43f8-495c-9bcf-c59a98636136?tenantId=580413ab5dcd11eea7a4d7382bd55a98",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027 PPS Foundation’s Bursary Programme. The PPS Foundation is proud to announce the opening of applications for the 2027 Bursary Programme. This initiative aims to support deserving South African students who demonstrate academic excellence and financial need, helping them achieve their educational goals and contribute meaningfully to their communities. To be considered for the PPS Foundation Bursary, applicants must meet the following criteria: All applicants are required to upload clear, and valid documents as part of their application: Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027 PPS Foundation’s Bursary Programme. The PPS Foundation is proud to announce the opening of applications for the 2027 Bursary Programme. This initiative aims to support deserving South African students who demonstrate academic excellence and financial need, helping them achieve their educational goals and contribute meaningfully to their communities. To be considered for the PPS Foundation Bursary, applicants must meet the following criteria: All applicants are required to upload clear, and valid documents as part of their application: Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+      "whoCanApply": [
+        "To be considered for the PPS Foundation Bursary, applicants must meet the following criteria:",
+        "Be a South African citizen.",
+        "Have a minimum academic average of 65%.",
+        "Have a household income of R1,200,000 or less per annum."
+      ],
+      "benefits": [],
+      "howToApply": [
+        "Read the full call on the official page (app.i-me.tech)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 20 December 2026",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [
+        "All applicants are required to upload clear, and valid documents as part of their application:",
+        "Full academic transcript or results on an official letterhead (covering your current qualification to date) Matriculants/ 1st year applicants to submit preliminary academic results by 20/12/2026 and we will request final academic transcripts from those who are shortlisted based on prelims.",
+        "Proof of household income, which can be one of the following:",
+        "Payslip(s) of parent(s)/guardian(s) if employed",
+        "Affidavit if parent(s)/guardian(s) are unemployed",
+        "Death certificate(s) if parent(s)/guardian(s) are deceased",
+        "Clear Certified copy of your South African ID, not older than 3 months"
+      ],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 20 December 2026.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://app.i-me.tech/interview/description/d79cd9c4-43f8-495c-9bcf-c59a98636136?tenantId=580413ab5dcd11eea7a4d7382bd55a98",
+      "https://www.opportunitiesforafricans.com/the-pps-foundations-bursary-programme-2027-for-young-south-african-students/"
+    ],
+    "lastVerified": "2026-11-23",
+    "lastChecked": "2026-11-23",
+    "discoveredAt": "2026-11-23",
+    "origin": "discovered"
+  },
+  {
     "id": "daad-in-country-in-region",
     "title": "DAAD In-Country/In-Region Scholarship Programme Sub-Saharan Africa",
     "provider": "German Academic Exchange Service (DAAD)",
@@ -2285,9 +2359,73 @@
       "https://www.daad-ghana.org/en/2024/10/04/in-country-in-region-scholarship-programme-2025-26/",
       "https://www.daad-ethiopia.org/en/scholarship-database/"
     ],
-    "lastVerified": "2026-11-21",
-    "lastChecked": "2026-11-21",
+    "lastVerified": "2026-11-23",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
+  },
+  {
+    "id": "nanyang-president-s-graduate-scholarship-npgs-at-ntu-singapore",
+    "title": "Nanyang President’s Graduate Scholarship (NPGS) at NTU Singapore",
+    "provider": null,
+    "country": "Singapore",
+    "countries": [
+      "Singapore"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "partial",
+    "covers": "Partial funding",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "englishTest": "required"
+    },
+    "deadline": "2026-12-31",
+    "deadlineText": "Application deadline: 31 December 2026 (published on scholars4dev.com)",
+    "url": "https://www.scholars4dev.com/nanyang-presidents-graduate-scholarship-ntu-singapore/",
+    "source": "web-collector",
+    "tags": [
+      "partial-funding",
+      "auto-collected"
+    ],
+    "description": "The Nanyang President’s Graduate Scholarship (NPGS) is a competitive and prestigious scholarship for outstanding graduates and final-year students who want to start a research career through a full-time PhD at Nanyang Technological University (NTU), one of Asia’s leading research universities. Students of all nationalities can apply. Full-time PhD programmes at NTU, including the PhD programmes of the National Institute of Education (NIE) Students of all nationalities. NIE’s page notes that preference is given to Singapore citizens and permanent residents. • a monthly stipend of S$4,300 for international students (S$5,300 for Singapore citizens and S$4,800 for permanent residents);",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The Nanyang President’s Graduate Scholarship (NPGS) is a competitive and prestigious scholarship for outstanding graduates and final-year students who want to start a research career through a full-time PhD at Nanyang Technological University (NTU), one of Asia’s leading research universities. Students of all nationalities can apply. Full-time PhD programmes at NTU, including the PhD programmes of the National Institute of Education (NIE) Students of all nationalities. NIE’s page notes that preference is given to Singapore citizens and permanent residents. • a monthly stipend of S$4,300 for international students (S$5,300 for Singapore citizens and S$4,800 for permanent residents);",
+      "whoCanApply": [
+        "Applicants must have an Honours (Highest Distinction) degree or equivalent at Bachelor’s level. Final-year students must provide official documents from their university confirming that they are on track to graduate with Honours (Highest Distinction) or equivalent. Selection is by nomination only, and shortlisted candidates are interviewed."
+      ],
+      "benefits": [],
+      "howToApply": [
+        "Apply through NTU’s graduate admissions portal between 1 November 2026 and 31 December 2026 for Academic Year 2027-28. Applicants to NIE programmes apply between 2 November and 30 December 2026 through NIE’s own graduate application portal.",
+        "You will need your identity documents, your degree certificates and transcripts (in the original language with an official English translation), a research proposal, two referee reports, a CV, any research publications, and test scores (IELTS, TOEFL, GRE, GMAT or GATE) where required. Results and admission offers are sent by email.",
+        "It is important to visit the official website (link found below) for detailed information on how to apply for this scholarship."
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 31 December 2026.",
+        "Book IELTS/TOEFL in Addis Ababa early — test dates fill up weeks ahead.",
+        "Ask your lecturers or employer for recommendation letters at least four weeks before the deadline.",
+        "This entry was collected automatically from scholars4dev.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.scholars4dev.com/nanyang-presidents-graduate-scholarship-ntu-singapore/"
+    ],
+    "lastVerified": "2026-11-23",
+    "lastChecked": "2026-11-23",
+    "discoveredAt": "2026-11-23",
+    "origin": "discovered"
   },
   {
     "id": "yale-harvard-mit-need-based-aid",
@@ -2368,7 +2506,7 @@
       "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -2456,7 +2594,7 @@
       "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -2538,7 +2676,7 @@
       "https://www.gatescambridge.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -2754,7 +2892,7 @@
       "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "unreachable"
   },
   {
@@ -3192,7 +3330,7 @@
       "https://www.kaist.ac.kr/en/html/edu/03100502.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -3271,7 +3409,7 @@
       "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -3355,7 +3493,7 @@
       "https://stipendiumhungaricum.hu/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -3438,7 +3576,7 @@
       "https://education-in-russia.com/selection"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -3673,8 +3811,8 @@
       "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
       "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/"
     ],
-    "lastVerified": "2026-10-23",
-    "lastChecked": "2026-11-21",
+    "lastVerified": "2026-11-23",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -3873,6 +4011,72 @@
     "lastVerified": "2026-11-07",
     "lastChecked": "2026-11-07",
     "discoveredAt": "2026-11-07",
+    "origin": "discovered"
+  },
+  {
+    "id": "geneva-academy-scholarships-for-llm-programmes-in-international-humani",
+    "title": "Geneva Academy Scholarships for LLM Programmes in International Humanitarian Law and Human Rights",
+    "provider": "geneva-academy.ch",
+    "country": "Switzerland",
+    "countries": [
+      "Switzerland"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "law"
+    ],
+    "fundingType": "full",
+    "covers": "Full scholarships cover the tuition fee (CHF 18,000) and living expenses in Geneva for 10 months",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-01-17",
+    "deadlineText": "Application deadline: 17 January 2027 (published on scholars4dev.com)",
+    "url": "https://geneva-academy.ch/masters-of-advanced-studies/how-to-apply/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "The Geneva Academy of International Humanitarian Law and Human Rights, set up in 2007 as a joint centre of the University of Geneva’s Faculty of Law and the Geneva Graduate Institute, offers a limited number of full scholarships each year for its one-year, full-time LLM–Master of Advanced Studies (MAS) programmes. The scholarships go to outstanding candidates who cannot otherwise pay the tuition fee and the cost of living in Geneva. Geneva Academy of International Humanitarian Law and Human Rights, Geneva, Switzerland • LLM–MAS in International Crimes, Justice and Human Rights (launched in 2026-27). Citizens of non-Western countries.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The Geneva Academy of International Humanitarian Law and Human Rights, set up in 2007 as a joint centre of the University of Geneva’s Faculty of Law and the Geneva Graduate Institute, offers a limited number of full scholarships each year for its one-year, full-time LLM–Master of Advanced Studies (MAS) programmes. The scholarships go to outstanding candidates who cannot otherwise pay the tuition fee and the cost of living in Geneva. Geneva Academy of International Humanitarian Law and Human Rights, Geneva, Switzerland • LLM–MAS in International Crimes, Justice and Human Rights (launched in 2026-27). Citizens of non-Western countries.",
+      "whoCanApply": [
+        "Scholarships are awarded through a highly competitive process based on the donors’ criteria, which include academic merit, extracurricular achievements, country of study, country of residence and the candidate’s financial need. Applicants must also meet the admission requirements of the chosen LLM–MAS programme:",
+        "• a full law degree that allows you to sit the bar exam in your country (other disciplines are considered case by case, with relevant professional experience and university-level study of international law); final-year students can apply if they will have their diploma by June",
+        "• English at level C1, shown by a recognised test (exemptions apply if English is your mother tongue, you completed a degree taught in English, or you have at least two years of academic or professional experience in an English-speaking environment)."
+      ],
+      "benefits": [
+        "Full scholarships cover the tuition fee (CHF 18,000) and living expenses in Geneva for 10 months."
+      ],
+      "howToApply": [
+        "You need two signed recommendation letters on letterhead (at least one academic), plus the career-plan and awards forms from the application guidelines; you cannot submit your application without these forms. Your application is reviewed only after you pay the non-refundable CHF 100 admission fee, which is due within a week of submitting.",
+        "It is important to visit the official website (link found below) for detailed information on how to apply for this scholarship."
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 17 January 2027.",
+        "Ask your lecturers or employer for recommendation letters at least four weeks before the deadline.",
+        "This entry was collected automatically from scholars4dev.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://geneva-academy.ch/masters-of-advanced-studies/how-to-apply/",
+      "https://www.scholars4dev.com/geneva-academy-of-international-humanitarian-law-and-human-rights-scholarships/"
+    ],
+    "lastVerified": "2026-11-23",
+    "lastChecked": "2026-11-23",
+    "discoveredAt": "2026-11-23",
     "origin": "discovered"
   },
   {
@@ -4214,7 +4418,7 @@
       "https://www.isdb.org/scholarships/scholarship-programs"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -4301,7 +4505,7 @@
       "https://moe.gov.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -4388,7 +4592,7 @@
       "https://www.daad.de/en/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -4534,7 +4738,7 @@
       "https://www.studyinnl.org/finances/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -4614,6 +4818,168 @@
     "lastVerified": "2026-11-21",
     "lastChecked": "2026-11-21",
     "discoveredAt": "2026-11-21",
+    "origin": "discovered"
+  },
+  {
+    "id": "johan-huizinga-fellowship-in-the-netherlands-fully-funded-research-fel",
+    "title": "Johan Huizinga Fellowship – in the Netherlands | Fully Funded Research Fellowship Offering Up to €45,000 Stipend",
+    "provider": null,
+    "country": "Netherlands",
+    "countries": [
+      "Netherlands"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Selected fellows will receive financial support and access to the Rijksmuseum’s research environment for twelve months",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-02-04",
+    "deadlineText": "Application deadline: 04 February 2027 (published on opportunitiesforyouth.org)",
+    "url": "https://opportunitiesforyouth.org/2026/11/23/johan-huizinga-fellowship-2027-2028-in-the-netherlands-fully-funded-research-fellowship-offering-up-to-e45000-stipend/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "The Johan Huizinga Fellowship 2027–2028 at the Rijksmuseum in Amsterdam, Netherlands, is an excellent opportunity for early-career scholars, MA graduates, PhD students, and postdoctoral researchers interested in conducting advanced historical research into objects held in the Rijksmuseum collection. The fellowship invites outstanding international candidates to submit research proposals that explore the historical significance, cultural meaning, social context, and historical roles of objects preserved in the museum’s extensive collections.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The Johan Huizinga Fellowship 2027–2028 at the Rijksmuseum in Amsterdam, Netherlands, is an excellent opportunity for early-career scholars, MA graduates, PhD students, and postdoctoral researchers interested in conducting advanced historical research into objects held in the Rijksmuseum collection. The fellowship invites outstanding international candidates to submit research proposals that explore the historical significance, cultural meaning, social context, and historical roles of objects preserved in the museum’s extensive collections.",
+      "whoCanApply": [
+        "The fellowship is open to qualified early-career researchers from all nationalities. However, applicants must meet the relevant academic requirements according to their educational and professional backgrounds.",
+        "The programme accepts applications from three main categories of candidates.",
+        "The Johan Huizinga Fellowship welcomes candidates from all nationalities.",
+        "There are no nationality restrictions specified in the published eligibility criteria. International researchers from Europe, Asia, Africa, the Americas, the Middle East, and other regions can apply if they satisfy the academic and research requirements.",
+        "Determine whether you qualify as an MA graduate, PhD student, or postdoctoral researcher.",
+        "Postdoctoral candidates must have obtained their PhD degree by the application date."
+      ],
+      "benefits": [
+        "Selected fellows will receive financial support and access to the Rijksmuseum’s research environment for twelve months.",
+        "The fellowship provides different stipend amounts depending on the applicant’s academic career stage.",
+        "€39,000: For MA graduate and PhD fellows.",
+        "€45,000: For postdoctoral fellows.",
+        "These stipends are intended to support fellows’ study and research activities throughout the twelve-month appointment.",
+        "The amounts are subject to applicable taxes and deductions.",
+        "The Rijksmuseum will cover visa fees for the selected fellow."
+      ],
+      "howToApply": [
+        "Applications for the 2027–2028 fellowship are currently open.",
+        "Interested candidates should review the official vacancy announcement and application instructions before submitting their applications.",
+        "The following steps provide a general guide to the application process.",
+        "https://www.rijksmuseum.nl/en/careers/vacancies/johan-huizinga-fellowship–1344244"
+      ],
+      "documents": [
+        "One of the primary objectives is to support outstanding early-career researchers investigating the historical significance of objects in the Rijksmuseum collection.",
+        "Researchers are encouraged to explore the historical circumstances in which objects were produced, acquired, exchanged, used, or preserved.",
+        "Fellows will be able to consult relevant collection documentation and the Rijksmuseum’s archives.",
+        "These resources can provide valuable historical information about objects, their origins, ownership, use, and preservation."
+      ],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 04 February 2027.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://opportunitiesforyouth.org/2026/11/23/johan-huizinga-fellowship-2027-2028-in-the-netherlands-fully-funded-research-fellowship-offering-up-to-e45000-stipend/"
+    ],
+    "lastVerified": "2026-11-23",
+    "lastChecked": "2026-11-23",
+    "discoveredAt": "2026-11-23",
+    "origin": "discovered"
+  },
+  {
+    "id": "aapm-dream-fellowship-in-the-usa-and-canada",
+    "title": "AAPM DREAM Fellowship in the USA and Canada",
+    "provider": "aapm.secure-platform.com",
+    "country": "USA",
+    "countries": [
+      "USA"
+    ],
+    "level": [
+      "bachelor"
+    ],
+    "fields": [
+      "health"
+    ],
+    "fundingType": "partial",
+    "covers": "The AAPM DREAM Fellowship provides selected undergraduate students with financial assistance, research experience, mentorship and opportunities to participate…",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-02-09",
+    "deadlineText": "Application deadline: 09 February 2027 (published on opportunitiesforyouth.org)",
+    "url": "https://aapm.secure-platform.com/site/solicitations/102110/home",
+    "source": "web-collector",
+    "tags": [
+      "partial-funding",
+      "auto-collected"
+    ],
+    "description": "The American Association of Physicists in Medicine (AAPM) is inviting applications for its 2027 Driving Recruitment through Education and Mentoring (DREAM) Fellowship Programme, a competitive 10-week summer research and mentorship opportunity designed to encourage undergraduate students to pursue advanced education and careers in medical physics. The programme offers selected fellows a valuable opportunity to gain practical research experience, work closely with experienced medical physics professionals, develop their scientific and technical capabilities, and explore potential pathways into graduate studies in medical physics.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The American Association of Physicists in Medicine (AAPM) is inviting applications for its 2027 Driving Recruitment through Education and Mentoring (DREAM) Fellowship Programme, a competitive 10-week summer research and mentorship opportunity designed to encourage undergraduate students to pursue advanced education and careers in medical physics. The programme offers selected fellows a valuable opportunity to gain practical research experience, work closely with experienced medical physics professionals, develop their scientific and technical capabilities, and explore potential pathways into graduate studies in medical physics.",
+      "whoCanApply": [
+        "The AAPM DREAM Fellowship 2027 is intended for undergraduate students who have an academic background in physics, engineering or another relevant scientific discipline.",
+        "Applicants must satisfy the following eligibility requirements to be considered.",
+        "Applicants must satisfy at least one of the citizenship, residency or visa conditions established by AAPM.",
+        "F-1 Student Visa: For individuals studying at an accredited college or university in the United States or studying English at an English Language Institute.",
+        "J-1 Exchange Visa: For individuals participating in an exchange programme that includes university study.",
+        "M-1 Student Visa: For individuals undertaking non-academic or vocational study or training. AAPM notes that although this visa category is acceptable, it may not apply in every situation.",
+        "AAPM welcomes applicants regardless of their national origin. However, applicants must satisfy one of the specified citizenship, residency or visa requirements."
+      ],
+      "benefits": [
+        "The AAPM DREAM Fellowship provides selected undergraduate students with financial assistance, research experience, mentorship and opportunities to participate in professional activities.",
+        "Selected fellows will receive a $6,000 stipend to assist with their living expenses during the 10-week summer programme.",
+        "This financial support is intended to help students participate in the fellowship and concentrate on their research responsibilities without having to independently cover all their living expenses during the programme.",
+        "The stipend will be provided once the fellow and their assigned mentor have agreed on the expectations and arrangements for the fellowship project.",
+        "Applicants should understand that the stipend is intended to support living expenses and does not automatically mean that all costs associated with participation will be covered.",
+        "The $6,000 stipend helps selected students manage living expenses during the 10-week programme, making participation more financially manageable.",
+        "Selected fellows receive a $6,000 stipend to assist with living expenses during the 10-week programme."
+      ],
+      "howToApply": [
+        "Yes. Students with majors in engineering or another relevant scientific discipline may apply. They must demonstrate a strong foundation in mathematics and physics. Equivalent engineering coursework or experience may also be considered.",
+        "AAPM welcomes applicants regardless of national origin. However, applicants must satisfy at least one of the specified citizenship, residency or visa requirements. The organisation does not provide visa sponsorship.",
+        "No. Students graduating in spring 2027 or earlier are not eligible.",
+        "Yes. Applicants can indicate their interest in a startup placement through the regular DREAM Fellowship application. Expressing this interest will not affect their selection."
+      ],
+      "documents": [
+        "Applicants must complete the online application and provide all required supporting documents before the application deadline.",
+        "Every field marked with a red asterisk must be completed, including the required document uploads."
+      ],
+      "selection": "The DREAM Fellowship follows a competitive selection process. Students are selected based on their applications, after which the programme facilitates the matching of selected fellows with suitable mentors and research opportunities. The mentor matching period for the 2027 programme is scheduled for March 22–26, 2027.",
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 09 February 2027.",
+        "Ask your lecturers or employer for recommendation letters at least four weeks before the deadline.",
+        "Tailor your motivation letter to Ethiopian development priorities and your concrete plans after study.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://aapm.secure-platform.com/site/solicitations/102110/home",
+      "https://opportunitiesforyouth.org/2026/11/22/aapm-dream-fellowship-2027-in-the-usa-and-canada-6000-stipend-10-week-medical-physics-research-programme-and-mentorship-for-undergraduate-students/"
+    ],
+    "lastVerified": "2026-11-23",
+    "lastChecked": "2026-11-23",
+    "discoveredAt": "2026-11-23",
     "origin": "discovered"
   },
   {
@@ -4697,7 +5063,7 @@
       "https://www.mfa.gov.bn/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -4783,7 +5149,7 @@
       "https://twas.org/opportunities/fellowships/phd"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -4952,7 +5318,7 @@
       "https://tbbs.turkiyeburslari.gov.tr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -5110,7 +5476,7 @@
       "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?page=5f4ddf7588a720370a799e12"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -5341,7 +5707,7 @@
       "https://www.studyinkorea.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -5425,7 +5791,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -5575,7 +5941,7 @@
       "https://studyinromania.gov.ro/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -5662,7 +6028,7 @@
       "https://www.nexteinstein.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "unreachable"
   },
   {
@@ -5744,7 +6110,7 @@
       "https://www.campuschina.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "unreachable"
   },
   {
@@ -5887,7 +6253,7 @@
       "https://eoiaddisababa.gov.in/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -5973,7 +6339,7 @@
       "https://mfa.gov.az/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -6055,7 +6421,7 @@
       "https://www.mandelarhodes.org/scholarship/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -6143,8 +6509,8 @@
       "https://www.dfat.gov.au/sites/default/files/australia-awards-africa-information-for-intake.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
-    "checkStatus": "unreachable"
+    "lastChecked": "2026-11-23",
+    "checkStatus": "reachable"
   },
   {
     "id": "rotary-peace-fellowship",
@@ -6236,7 +6602,7 @@
       "https://www.rotary.org/get-involved/our-programs/peace-fellowships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "unreachable"
   },
   {
@@ -6326,7 +6692,7 @@
       "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -6411,7 +6777,7 @@
       "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -6493,7 +6859,7 @@
       "https://foreign.fulbrightonline.org/apply"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -6648,7 +7014,7 @@
       "https://www.aau.edu.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -6737,7 +7103,7 @@
       "https://et.usembassy.gov/education-culture/educational-exchange/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -6822,7 +7188,7 @@
       "http://daad.de/go/de/stipa50026397"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -6909,7 +7275,7 @@
       "https://www.koica.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "unreachable"
   },
   {
@@ -6997,7 +7363,7 @@
       "https://connect.schwarzmanscholars.org/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -7076,7 +7442,7 @@
       "https://www.chevening.org/scholarships/application-timeline/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -7158,7 +7524,7 @@
       "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -7247,7 +7613,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -7335,7 +7701,7 @@
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -7420,7 +7786,7 @@
       "https://www.scholars4dev.com/mastercard-foundation-scholarship-program-for-africans/"
     ],
     "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -7500,7 +7866,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   },
   {
@@ -7584,7 +7950,7 @@
       "https://mastercardfdn.org/en/news/alx-kick-starts-inaugural-all-tech-training-programs-for-over-32000-learners-across-africa/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-23",
     "checkStatus": "reachable"
   }
 ]
