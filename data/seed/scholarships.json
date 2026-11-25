@@ -627,7 +627,7 @@
       "auto-collected"
     ],
     "description": "Applications are now open for the 2027 CFA Institute Program Access Scholarships. The CFA Institute Access Scholarship Programme is designed to make the Chartered Financial Analyst (CFA) Programme more accessible to individuals who cannot afford the full programme fees. The scholarship provides eligible candidates with discounted CFA examination registration fees, helping reduce the financial barriers associated with pursuing the CFA designation. The Access scholarship reduces the CFA Program exam registration fee to USD 400 under the Premium Registration Package which includes Practice Pack.",
-    "status": "open",
+    "status": "closed",
     "deadlineConfirmed": true,
     "details": {
       "overview": "Applications are now open for the 2027 CFA Institute Program Access Scholarships. The CFA Institute Access Scholarship Programme is designed to make the Chartered Financial Analyst (CFA) Programme more accessible to individuals who cannot afford the full programme fees. The scholarship provides eligible candidates with discounted CFA examination registration fees, helping reduce the financial barriers associated with pursuing the CFA designation. The Access scholarship reduces the CFA Program exam registration fee to USD 400 under the Premium Registration Package which includes Practice Pack.",
@@ -864,7 +864,7 @@
       "https://www.eda.admin.ch/countries/ethiopia/en/home/services/scholarships.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -942,7 +942,7 @@
       "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -1302,6 +1302,79 @@
     "lastVerified": "2026-11-13",
     "lastChecked": "2026-11-13",
     "discoveredAt": "2026-11-13",
+    "origin": "discovered"
+  },
+  {
+    "id": "funza-lushaka-bursary-programme-for-young-south-africans",
+    "title": "Funza Lushaka Bursary Programme for young South Africans",
+    "provider": "education.gov.za",
+    "country": "South Africa",
+    "countries": [
+      "South Africa"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "education"
+    ],
+    "fundingType": "full",
+    "covers": "The Funza Lushaka Bursary covers all the essentials, so you can focus fully on your studies and your passion:",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-11-30",
+    "deadlineText": "Application deadline: 30 November 2026 (published on opportunitiesforafricans.com)",
+    "url": "https://www.education.gov.za/Programmes/FunzaLushaka.aspx",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027 Funza Lushaka Bursary Programme. The Funza Lushaka Bursary is more than just financial aid — it’s a powerful gateway into one of the most impactful professions that inspire, lead and shape the young minds of our future. The Funza Lushaka Bursary covers all the essentials, so you can focus fully on your studies and your passion: Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027 Funza Lushaka Bursary Programme. The Funza Lushaka Bursary is more than just financial aid — it’s a powerful gateway into one of the most impactful professions that inspire, lead and shape the young minds of our future. The Funza Lushaka Bursary covers all the essentials, so you can focus fully on your studies and your passion: Connecting Africans to the latest life changing Opportunities around the Globe. [email protected] | [email protected]",
+      "whoCanApply": [
+        "If you’re passionate about education and ready to specialise in subjects needed by the education sector (think Maths, Science, Technology, Engineering, South African Indigenous languages and more), this programme is designed for you.",
+        "This isn’t just a bursary. It’s a nation-building mission in collaboration with the Department of Basic Education, the Department of Higher Education and Training, National Student Financial Aid Scheme (NSFAS).",
+        "Each year, the programme is refined to meet the ever-evolving needs of our education system, ensuring your journey aligns with South Africa’s vision for a brighter, smarter future."
+      ],
+      "benefits": [
+        "The Funza Lushaka Bursary covers all the essentials, so you can focus fully on your studies and your passion:",
+        "Tuition fees",
+        "Comfortable accommodation or transport for those staying home/ with relatives",
+        "Daily meals",
+        "Vital learning materials",
+        "Personal care allowance",
+        "Hands-on teaching practice support"
+      ],
+      "howToApply": [
+        "Read the full call on the official page (education.gov.za)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 30 November 2026",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 30 November 2026.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.education.gov.za/Programmes/FunzaLushaka.aspx",
+      "https://www.opportunitiesforafricans.com/funza-lushaka-bursary-programme-2027-for-young-south-africans/"
+    ],
+    "lastVerified": "2026-11-25",
+    "lastChecked": "2026-11-25",
+    "discoveredAt": "2026-11-25",
     "origin": "discovered"
   },
   {
@@ -1898,6 +1971,75 @@
     "origin": "discovered"
   },
   {
+    "id": "dyson-institute-undergraduate-engineer-programme",
+    "title": "Dyson Institute Undergraduate Engineer Programme",
+    "provider": "dyson.wd3.myworkdayjobs.com",
+    "country": "UK",
+    "countries": [
+      "UK"
+    ],
+    "level": [
+      "bachelor"
+    ],
+    "fields": [
+      "engineering"
+    ],
+    "fundingType": "partial",
+    "covers": "Partial funding",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2026-12-13",
+    "deadlineText": "Application deadline: 13 December 2026 (published on opportunitiesforyouth.org)",
+    "url": "https://dyson.wd3.myworkdayjobs.com/the_dyson_institute_careers/job/United-Kingdom---Malmesbury-Office/Undergraduate-Engineer_JR39538",
+    "source": "web-collector",
+    "tags": [
+      "partial-funding",
+      "auto-collected"
+    ],
+    "description": "Are you passionate about engineering, innovation, technology, and solving real-world problems? The Dyson Institute of Engineering and Technology offers an exciting opportunity for aspiring engineers to pursue an undergraduate engineering programme while gaining practical experience in an innovative engineering environment. Applications for the 2027 entry Undergraduate Engineer Programme are scheduled to open on 16 November 2026, giving prospective applicants an opportunity to begin preparing for the admissions process. The programme is highly competitive and features a comprehensive selection process designed to identify students who can succeed both academically and professionally.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Are you passionate about engineering, innovation, technology, and solving real-world problems? The Dyson Institute of Engineering and Technology offers an exciting opportunity for aspiring engineers to pursue an undergraduate engineering programme while gaining practical experience in an innovative engineering environment. Applications for the 2027 entry Undergraduate Engineer Programme are scheduled to open on 16 November 2026, giving prospective applicants an opportunity to begin preparing for the admissions process. The programme is highly competitive and features a comprehensive selection process designed to identify students who can succeed both academically and professionally.",
+      "whoCanApply": [
+        "Meeting the academic entry requirements is an important part of applying to the Dyson Institute.",
+        "The institution advises candidates to ensure that they already meet, or are on track to meet, the required academic qualifications before submitting an application.",
+        "Because entry requirements may depend on the programme and the applicant’s educational background, prospective candidates should review the official entry requirements page carefully.",
+        "https://www.dysoninstitute.ac.uk/undergraduate-programme/applying/entry-requirements/"
+      ],
+      "benefits": [],
+      "howToApply": [
+        "One important feature of the application process is that candidates apply directly to the Dyson Institute rather than through UCAS.",
+        "This means applicants can continue to hold offers from other institutions through UCAS while also applying to the Dyson Institute. This provides additional flexibility for students considering different undergraduate education options in the United Kingdom.",
+        "Applications are submitted directly to the Dyson Institute through its official recruitment platform.",
+        "The application process is not conducted through UCAS, allowing applicants to apply independently while maintaining their UCAS applications to other institutions.",
+        "Visit the official Dyson Institute undergraduate application page.",
+        "Review the academic entry requirements and confirm that you meet, or are on track to meet, them.",
+        "Ensure that you have the right to work and study full-time in the United Kingdom."
+      ],
+      "documents": [],
+      "selection": "Applicants who progress through the admissions process may be invited to complete an online assessment. This stage forms part of the institution’s evaluation of candidates and contributes to determining whether applicants demonstrate the qualities and abilities required for the programme. Candidates should follow all instructions provided by the admissions team and complete any assessment activities within the specified timeframe.",
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 13 December 2026.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://dyson.wd3.myworkdayjobs.com/the_dyson_institute_careers/job/United-Kingdom---Malmesbury-Office/Undergraduate-Engineer_JR39538",
+      "https://opportunitiesforyouth.org/2026/11/23/dyson-institute-undergraduate-engineer-programme-2027-applications-open-for-an-innovative-engineering-degree-in-the-uk/"
+    ],
+    "lastVerified": "2026-11-25",
+    "lastChecked": "2026-11-25",
+    "discoveredAt": "2026-11-25",
+    "origin": "discovered"
+  },
+  {
     "id": "african-union-pan-african-university",
     "title": "Pan African University Scholarships",
     "provider": "African Union Commission",
@@ -1986,7 +2128,7 @@
       "https://au.int/sites/default/files/announcements/45594-annc-2026_PAU_Admission_Call_Englsih.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -2360,8 +2502,8 @@
       "https://www.daad-ethiopia.org/en/scholarship-database/"
     ],
     "lastVerified": "2026-11-23",
-    "lastChecked": "2026-11-23",
-    "checkStatus": "reachable"
+    "lastChecked": "2026-11-25",
+    "checkStatus": "unreachable"
   },
   {
     "id": "nanyang-president-s-graduate-scholarship-npgs-at-ntu-singapore",
@@ -2506,7 +2648,7 @@
       "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -2594,7 +2736,7 @@
       "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -2676,7 +2818,7 @@
       "https://www.gatescambridge.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -2892,7 +3034,7 @@
       "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "unreachable"
   },
   {
@@ -2977,6 +3119,85 @@
     "lastVerified": "2026-10-21",
     "lastChecked": "2026-10-21",
     "discoveredAt": "2026-10-21",
+    "origin": "discovered"
+  },
+  {
+    "id": "university-of-ghana-university-of-manchester-fully-funded-dual-phd-sch",
+    "title": "University of Ghana–University of Manchester Fully Funded Dual PhD Scholarships in Development Studies",
+    "provider": null,
+    "country": "UK",
+    "countries": [
+      "UK"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "environment",
+      "public policy"
+    ],
+    "fundingType": "full",
+    "covers": "The Dual PhD Award is a collaborative doctoral programme in development theory, policy and management",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true,
+      "englishTest": "required"
+    },
+    "deadline": "2027-01-08",
+    "deadlineText": "Application deadline: 08 January 2027 (published on opportunitiesforyouth.org)",
+    "url": "https://opportunitiesforyouth.org/2026/11/24/university-of-ghana-university-of-manchester-fully-funded-dual-phd-scholarships-2027-in-development-studies-9-scholarships-for-research-on-africas-green-energy-and-digital-transition/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "The University of Ghana (UG), in partnership with the University of Manchester (UoM), is inviting applications for its new Dual PhD Award in Development Studies, an international doctoral programme designed to develop advanced research on Africa’s development challenges, with particular emphasis on the green energy transition and digital transformation. The programme is being delivered through the Institute of Statistical, Social and Economic Research (ISSER) and the University of Ghana Business School (UGBS), in collaboration with the Global Development Institute (GDI) at the University of Manchester.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The University of Ghana (UG), in partnership with the University of Manchester (UoM), is inviting applications for its new Dual PhD Award in Development Studies, an international doctoral programme designed to develop advanced research on Africa’s development challenges, with particular emphasis on the green energy transition and digital transformation. The programme is being delivered through the Institute of Statistical, Social and Economic Research (ISSER) and the University of Ghana Business School (UGBS), in collaboration with the Global Development Institute (GDI) at the University of Manchester.",
+      "whoCanApply": [
+        "Yes. The call explicitly welcomes candidates who can financially support themselves throughout the programme without receiving one of the nine scholarships.",
+        "This means that the Dual PhD Award is not exclusively open to scholarship applicants. Candidates who satisfy the academic and other entry requirements may also be considered as self-funded applicants.",
+        "The application process and selection arrangements include both scholarship and non-scholarship candidates.",
+        "However, applicants should distinguish between admission to the doctoral programme and receiving a scholarship. Meeting the programme’s entry requirements does not automatically guarantee one of the funded places.",
+        "The programme is not simply a PhD that involves a short international visit. It is a structured partnership in which academics from both universities co-supervise students.",
+        "Upon successful completion, graduates will receive a doctoral award from both the University of Ghana and the University of Manchester.",
+        "This dual-award structure is intended to strengthen academic collaboration and expose students to research approaches and institutional expertise from both universities."
+      ],
+      "benefits": [
+        "The Dual PhD Award is a collaborative doctoral programme in development theory, policy and management. It brings together research expertise from two leading academic institutions: the University of Ghana and the University of Manchester.",
+        "The programme is being implemented through three main academic institutions:",
+        "Institute of Statistical, Social and Economic Research (ISSER), University of Ghana: A research institute contributing expertise in development research, economic and social policy, political economy and related areas.",
+        "University of Ghana Business School (UGBS): Contributing research and academic expertise in areas including development management, business, finance, governance and economic transformation.",
+        "Global Development Institute (GDI), University of Manchester: An international development research institute contributing expertise in development studies, political economy, governance, sustainability and digital development.",
+        "The programme builds on a longstanding relationship between the University of Ghana and the University of Manchester. Their collaboration on development research projects throughout this century was formalised in March 2024, when the two universities signed a new Memorandum of Understanding in Accra.",
+        "The agreement emerged from the University of Manchester’s Africa Strategy and GDI’s equitable partnerships initiative. It is intended to support a broad range of collaborative activities, including:"
+      ],
+      "howToApply": [
+        "In addition to submitting the proposal by email, applicants must apply through the University of Ghana admissions portal under the School of Graduate Studies.",
+        "The call specifies that both the proposal submission and the university admissions application form part of the application process.",
+        "Candidates should ensure that they complete both requirements before the deadline.",
+        "Yes. The programme welcomes candidates who can financially support themselves without one of the nine scholarships."
+      ],
+      "documents": [],
+      "selection": "Submission of the final research proposal and university application. Assessment and ranking of proposals by the independent committee. Shortlisting of scholarship and non-scholarship candidates.",
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 08 January 2027.",
+        "Book IELTS/TOEFL in Addis Ababa early — test dates fill up weeks ahead.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://opportunitiesforyouth.org/2026/11/24/university-of-ghana-university-of-manchester-fully-funded-dual-phd-scholarships-2027-in-development-studies-9-scholarships-for-research-on-africas-green-energy-and-digital-transition/"
+    ],
+    "lastVerified": "2026-11-25",
+    "lastChecked": "2026-11-25",
+    "discoveredAt": "2026-11-25",
     "origin": "discovered"
   },
   {
@@ -3330,7 +3551,7 @@
       "https://www.kaist.ac.kr/en/html/edu/03100502.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -3409,7 +3630,7 @@
       "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -3493,7 +3714,7 @@
       "https://stipendiumhungaricum.hu/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -3576,7 +3797,7 @@
       "https://education-in-russia.com/selection"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -3812,7 +4033,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/"
     ],
     "lastVerified": "2026-11-23",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -3950,6 +4171,87 @@
     "lastVerified": "2026-10-27",
     "lastChecked": "2026-10-27",
     "discoveredAt": "2026-10-27",
+    "origin": "discovered"
+  },
+  {
+    "id": "nipca-fellowship-programs-at-university-of-tsukuba-japan-fully-funded",
+    "title": "NipCA Fellowship Programs at University of Tsukuba, Japan | Fully Funded Master’s Scholarships for Central Asian and Eurasian Students",
+    "provider": null,
+    "country": "Japan",
+    "countries": [
+      "Japan"
+    ],
+    "level": [
+      "master"
+    ],
+    "fields": [
+      "health",
+      "education",
+      "environment",
+      "public policy"
+    ],
+    "fundingType": "full",
+    "covers": "One of the most important features of the NipCA Fellowship Programs is the availability of full scholarships for outstanding applicants",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-01-15",
+    "deadlineText": "Application deadline: 15 January 2027 (published on opportunitiesforyouth.org)",
+    "url": "https://opportunitiesforyouth.org/2026/11/25/nipca-fellowship-programs-2027-at-university-of-tsukuba-japan-fully-funded-masters-scholarships-for-central-asian-and-eurasian-students/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "The Nippon Foundation Central Asia-Japan Human Resource Development Project (NipCA Project) at the University of Tsukuba, Japan, is inviting applications for its 2027 NipCA Fellowship Programs. These competitive fellowship opportunities are designed to support outstanding students from selected Central Asian and Eurasian countries who wish to pursue master’s degree studies in Japan. The NipCA Project aims to develop young professionals with the knowledge, expertise, and leadership abilities required to contribute actively to the implementation of the United Nations Sustainable Development Goals (SDGs) in the Eurasian region, particularly Central Asia and Azerbaijan.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "The Nippon Foundation Central Asia-Japan Human Resource Development Project (NipCA Project) at the University of Tsukuba, Japan, is inviting applications for its 2027 NipCA Fellowship Programs. These competitive fellowship opportunities are designed to support outstanding students from selected Central Asian and Eurasian countries who wish to pursue master’s degree studies in Japan. The NipCA Project aims to develop young professionals with the knowledge, expertise, and leadership abilities required to contribute actively to the implementation of the United Nations Sustainable Development Goals (SDGs) in the Eurasian region, particularly Central Asia and Azerbaijan.",
+      "whoCanApply": [
+        "The NipCA Fellowship Programs are specifically intended for applicants from selected Central Asian and Eurasian countries.",
+        "According to the official announcement, nationals of the following seven countries are welcome to apply:",
+        "Applicants must be nationals of one of the seven countries identified in the official announcement.",
+        "Candidates should be interested in pursuing a master’s degree through one of the available NipCA fellowship programs.",
+        "Applicants must satisfy the relevant admission and eligibility requirements specified in the official application guidelines.",
+        "Candidates should review the academic requirements and supporting document requirements for their chosen program.",
+        "Applicants must follow the official application schedule and submit their applications within the designated period."
+      ],
+      "benefits": [
+        "One of the most important features of the NipCA Fellowship Programs is the availability of full scholarships for outstanding applicants.",
+        "According to the official announcement, applicants who demonstrate outstanding abilities may be awarded full scholarships funded by the Nippon Foundation.",
+        "This makes the opportunity particularly valuable for eligible students who want to pursue postgraduate education in Japan.",
+        "However, applicants should understand that the fellowship is competitive. A full scholarship is not automatically guaranteed to everyone who submits an application.",
+        "Only applicants who meet the relevant requirements and demonstrate outstanding abilities may be selected for the scholarship."
+      ],
+      "howToApply": [
+        "Interested candidates should follow the official application process provided by the University of Tsukuba.",
+        "The application guideline and application form are available through the official NipCA recruitment announcement.",
+        "Students interested in the available fellowship opportunities should follow the official University of Tsukuba recruitment process.",
+        "For applicants interested in SPJES Fall 2027 admission, the following steps provide a useful starting point:"
+      ],
+      "documents": [
+        "Applicants interested in the NipCA Fellowship should carefully review the relevant application guideline before preparing their submissions.",
+        "The official announcement provides downloadable application guidelines and application forms for both programs.",
+        "Gather all documents required by the official application guidelines. Ensure that the information provided in your application is accurate and complete."
+      ],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 15 January 2027.",
+        "This entry was collected automatically from opportunitiesforyouth.org; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://opportunitiesforyouth.org/2026/11/25/nipca-fellowship-programs-2027-at-university-of-tsukuba-japan-fully-funded-masters-scholarships-for-central-asian-and-eurasian-students/"
+    ],
+    "lastVerified": "2026-11-25",
+    "lastChecked": "2026-11-25",
+    "discoveredAt": "2026-11-25",
     "origin": "discovered"
   },
   {
@@ -4418,7 +4720,7 @@
       "https://www.isdb.org/scholarships/scholarship-programs"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -4505,7 +4807,7 @@
       "https://moe.gov.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -4592,7 +4894,7 @@
       "https://www.daad.de/en/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -4738,7 +5040,7 @@
       "https://www.studyinnl.org/finances/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -5063,7 +5365,7 @@
       "https://www.mfa.gov.bn/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -5149,7 +5451,7 @@
       "https://twas.org/opportunities/fellowships/phd"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -5318,7 +5620,7 @@
       "https://tbbs.turkiyeburslari.gov.tr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -5476,7 +5778,7 @@
       "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?page=5f4ddf7588a720370a799e12"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -5628,6 +5930,67 @@
     "origin": "discovered"
   },
   {
+    "id": "anso-cas-twas-unesco-phd-scholarship-for-students-scholars-from-develo",
+    "title": "ANSO-CAS-TWAS/UNESCO PhD Scholarship for students/scholars from developing countries",
+    "provider": "twas.org",
+    "country": "China",
+    "countries": [
+      "China"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Fully funded",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-02-28",
+    "deadlineText": "Application deadline: 28 February 2027 (published on opportunitiesforafricans.com)",
+    "url": "https://twas.org/opportunity/anso-cas-twasunesco-phd-scholarship",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027 ANSO-CAS-TWAS/UNESCO PhD Scholarship. According to an agreement between the Alliance of International Science Organizations (ANSO), the Chinese Academy of Sciences (CAS) and The World Academy of Sciences (TWAS/UNESCO) for the advancement of science in developing countries, up to 40 students/scholars from developing countries will be sponsored to study in China for doctoral degrees for up to 4 years. The ANSO-CAS Scholarship (formerly the ANSO Scholarship for Young Talents) was launched in 2019 to nurture outstanding young scientists from across the globe.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027 ANSO-CAS-TWAS/UNESCO PhD Scholarship. According to an agreement between the Alliance of International Science Organizations (ANSO), the Chinese Academy of Sciences (CAS) and The World Academy of Sciences (TWAS/UNESCO) for the advancement of science in developing countries, up to 40 students/scholars from developing countries will be sponsored to study in China for doctoral degrees for up to 4 years. The ANSO-CAS Scholarship (formerly the ANSO Scholarship for Young Talents) was launched in 2019 to nurture outstanding young scientists from across the globe.",
+      "whoCanApply": [],
+      "benefits": [],
+      "howToApply": [
+        "Read the full call on the official page (twas.org)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 28 February 2027",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 28 February 2027.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://twas.org/opportunity/anso-cas-twasunesco-phd-scholarship",
+      "https://www.opportunitiesforafricans.com/the-anso-cas-twas-unesco-phd-scholarship-2027/"
+    ],
+    "lastVerified": "2026-11-25",
+    "lastChecked": "2026-11-25",
+    "discoveredAt": "2026-11-25",
+    "origin": "discovered"
+  },
+  {
     "id": "global-korea-scholarship",
     "title": "Global Korea Scholarship (GKS)",
     "provider": "National Institute for International Education (NIIED), Republic of Korea",
@@ -5707,7 +6070,7 @@
       "https://www.studyinkorea.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -5791,7 +6154,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -5941,7 +6304,7 @@
       "https://studyinromania.gov.ro/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -6028,7 +6391,7 @@
       "https://www.nexteinstein.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "unreachable"
   },
   {
@@ -6110,7 +6473,7 @@
       "https://www.campuschina.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "unreachable"
   },
   {
@@ -6253,7 +6616,7 @@
       "https://eoiaddisababa.gov.in/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -6339,7 +6702,7 @@
       "https://mfa.gov.az/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -6421,7 +6784,7 @@
       "https://www.mandelarhodes.org/scholarship/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -6509,7 +6872,7 @@
       "https://www.dfat.gov.au/sites/default/files/australia-awards-africa-information-for-intake.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -6602,7 +6965,7 @@
       "https://www.rotary.org/get-involved/our-programs/peace-fellowships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "unreachable"
   },
   {
@@ -6692,7 +7055,7 @@
       "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -6777,7 +7140,7 @@
       "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -6859,7 +7222,7 @@
       "https://foreign.fulbrightonline.org/apply"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -7014,7 +7377,7 @@
       "https://www.aau.edu.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -7103,7 +7466,7 @@
       "https://et.usembassy.gov/education-culture/educational-exchange/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -7188,8 +7551,8 @@
       "http://daad.de/go/de/stipa50026397"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
-    "checkStatus": "reachable"
+    "lastChecked": "2026-11-25",
+    "checkStatus": "unreachable"
   },
   {
     "id": "koica-scholarship-program",
@@ -7275,7 +7638,7 @@
       "https://www.koica.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "unreachable"
   },
   {
@@ -7363,7 +7726,7 @@
       "https://connect.schwarzmanscholars.org/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -7442,7 +7805,7 @@
       "https://www.chevening.org/scholarships/application-timeline/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -7524,7 +7887,7 @@
       "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -7613,7 +7976,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -7701,8 +8064,8 @@
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
-    "checkStatus": "reachable"
+    "lastChecked": "2026-11-25",
+    "checkStatus": "unreachable"
   },
   {
     "id": "ashesi-university-mcf-scholars",
@@ -7786,7 +8149,7 @@
       "https://www.scholars4dev.com/mastercard-foundation-scholarship-program-for-africans/"
     ],
     "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -7866,7 +8229,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -7950,7 +8313,7 @@
       "https://mastercardfdn.org/en/news/alx-kick-starts-inaugural-all-tech-training-programs-for-over-32000-learners-across-africa/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   }
 ]

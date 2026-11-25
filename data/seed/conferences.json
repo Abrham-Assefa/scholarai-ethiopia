@@ -589,7 +589,7 @@
       "https://www.opportunitiesforafricans.com/the-journalismai-strategy-lab-2026-for-african-journalists-and-media-professionals/"
     ],
     "lastVerified": "2026-11-03",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-11-03",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -634,7 +634,7 @@
       "https://www.opportunitiesforafricans.com/the-accountability-lab-east-and-southern-africa-alesa-2027-digital-governance-incubator-program-2027/"
     ],
     "lastVerified": "2026-11-21",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-11-21",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -656,7 +656,7 @@
     "url": "https://falling-walls.com",
     "ethiopiansEligible": true,
     "description": "Falling Walls Lab Ethiopia -> Berlin Finale in Addis -> Berlin (Nov). Funding: Full for winner. For: Students / researchers.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -699,7 +699,7 @@
       "https://opportunitiesforyouth.org/2026/11/14/2027-fully-funded-youth-delegate-programme-apply-for-the-council-of-europe-congress-in-strasbourg/"
     ],
     "lastVerified": "2026-11-15",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-11-15",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -743,7 +743,7 @@
       "https://www.opportunitiesforafricans.com/the-mcw-globals-young-leaders-fellowship-2027/"
     ],
     "lastVerified": "2026-11-07",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-11-07",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -794,7 +794,7 @@
       "https://opportunitiesforyouth.org/2026/11/17/digital-democracy-edinburgh-2027-travel-stipends-for-young-civic-technology-and-digital-democracy-leaders-worldwide/"
     ],
     "lastVerified": "2026-11-19",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-11-19",
     "origin": "discovered",
     "dateConfirmed": true,
@@ -816,7 +816,7 @@
     "url": "https://www.obama.org/programs/leaders",
     "ethiopiansEligible": true,
     "description": "Obama Foundation Leaders: Africa in Johannesburg + virtual (Apply Jan–Feb). Funding: Full. For: Emerging leaders.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable",
     "deadline": "2026-12-04",
     "status": "open",
@@ -865,11 +865,57 @@
       "https://www.opportunitiesforafricans.com/the-internet-corporation-for-assigned-names-and-numbers-icann89-policy-forum-fellowship-program-2027/"
     ],
     "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-11-11",
     "origin": "discovered",
     "dateConfirmed": false,
     "checkStatus": "reachable"
+  },
+  {
+    "id": "winir-young-scholars-pre-conference-workshop-on-innovation-institution",
+    "title": "WINIR Young Scholars Pre-Conference Workshop on Innovation, Institutions & Inclusion for early career researchers ( São Paulo, Brazil)",
+    "location": "See official site",
+    "when": "31 May 2027",
+    "startDate": "2027-05-31",
+    "deadline": "2026-12-05",
+    "funding": "Fully funded",
+    "fundingType": "full",
+    "audience": "Applicants should either be enrolled in a doctoral programme or have graduated no more than three years before 31 March…",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://winir.org/wys-innovation-institutions-inclusion/",
+    "ethiopiansEligible": true,
+    "description": "Applications are now open for the WINIR Young Scholars Pre-Conference Workshop on Innovation, Institutions & Inclusion. WINIR invite early career researchers to submit abstracts for the WINIR Young Scholars Pre-Conference Workshop on Innovation, Institutions & Inclusion: Technology & Development in the Global South that will be held in São Paulo on 31 May 2027. The workshop seeks to create a forum for emerging scholarly voices working across disciplines and jurisdictions, with particular attention to research engaging with the Global South and perspectives that remain underrepresented in mainstreams debates on technology and innovation.",
+    "status": "open",
+    "details": {
+      "overview": "Applications are now open for the WINIR Young Scholars Pre-Conference Workshop on Innovation, Institutions & Inclusion. WINIR invite early career researchers to submit abstracts for the WINIR Young Scholars Pre-Conference Workshop on Innovation, Institutions & Inclusion: Technology & Development in the Global South that will be held in São Paulo on 31 May 2027. The workshop seeks to create a forum for emerging scholarly voices working across disciplines and jurisdictions, with particular attention to research engaging with the Global South and perspectives that remain underrepresented in mainstreams debates on technology and innovation.",
+      "whoCanApply": [
+        "Applicants should either be enrolled in a doctoral programme or have graduated no more than three years before 31 March 2027.",
+        "Scholars based in or working on the Global South are particularly encouraged to apply.",
+        "Successful applicants will present their research to peers and senior scholars and receive constructive conceptual and methodological feedback.",
+        "Priority will be given to first-time attendees at WINIR Young Scholars events.",
+        "All participants selected for the workshop will be eligible to attend the main WINIR conference, with the conference registration fee waived."
+      ],
+      "benefits": [],
+      "howToApply": [
+        "Read the full call on the official page (winir.org)",
+        "Prepare a short CV and a motivation statement",
+        "Submit the application before 05 December 2026",
+        "Start your visa appointment early once accepted — Ethiopian passports need visas for most hosts"
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://winir.org/wys-innovation-institutions-inclusion/",
+      "https://www.opportunitiesforafricans.com/the-winir-young-scholars-pre-conference-workshop-on-innovation-institutions-inclusion/"
+    ],
+    "lastVerified": "2026-11-25",
+    "lastChecked": "2026-11-25",
+    "discoveredAt": "2026-11-25",
+    "origin": "discovered",
+    "dateConfirmed": true
   },
   {
     "id": "crossculture-programme-ccp-fellowships",
@@ -924,7 +970,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/crossculture-programfully-funded-to-germany/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -982,7 +1028,7 @@
       "https://opportunitiesforyouth.org/2026/10/12/iaffes-2nd-feminist-economics-school-call-for-applicationsfully-funded/"
     ],
     "lastVerified": "2026-10-17",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-10-17",
     "origin": "discovered",
     "dateConfirmed": true,
@@ -1035,7 +1081,7 @@
       "https://opportunitiesforyouth.org/2026/10/22/young-southeast-asian-leaders-initiative-professional-fellows-program-2023-call-for-applications-fully-fundedusa/"
     ],
     "lastVerified": "2026-10-23",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-10-23",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1076,7 +1122,7 @@
       "https://www.opportunitiesforafricans.com/the-friedrich-ebert-stiftung-young-leaders-programme-2027-for-young-cameroonians/"
     ],
     "lastVerified": "2026-11-05",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-11-05",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1119,7 +1165,7 @@
       "https://www.opportunitiesforafricans.com/the-french-african-foundation-young-leaders-program-2027/"
     ],
     "lastVerified": "2026-11-19",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-11-19",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1166,11 +1212,63 @@
       "https://www.opportunitiesforafricans.com/the-microsoft-datacenter-academy-skilling-bootcamp-for-africans-and-emea-learners/"
     ],
     "lastVerified": "2026-11-19",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-11-19",
     "origin": "discovered",
     "dateConfirmed": false,
     "checkStatus": "reachable"
+  },
+  {
+    "id": "acumen-green-rise-east-africa-fellowship-6-month-leadership-program-fo",
+    "title": "Acumen Green RISE East Africa Fellowship (6-month leadership program) for Green Entrepreneurs",
+    "location": "Online",
+    "when": "Apply by 22 Dec 2026",
+    "startDate": null,
+    "deadline": "2026-12-22",
+    "funding": "Fully funded",
+    "fundingType": "full",
+    "audience": "Up to 35 years",
+    "age": {
+      "min": null,
+      "max": 35
+    },
+    "url": "https://fellowship.acumenacademy.org/green-rise-east-africa-fellowship",
+    "ethiopiansEligible": true,
+    "description": "Applications are now open for the 2027 Acumen Green RISE East Africa Fellowship. The Green RISE Africa (Resilient Impact through Sustainable Entrepreneurship) Fellowship delivered by Acumen Canada (together with Acumen Fund, Inc. and its affiliates, “Acumen”) in partnership with the Mastercard Foundation is designed to equip women and youth living in poverty to build a more inclusive and sustainable green economy. Over six months, you’ll gain practical tools and a supportive peer community to grow as a leader, strengthen your business model, create more green jobs, and expand your climate solutions across the region.",
+    "status": "open",
+    "details": {
+      "overview": "Applications are now open for the 2027 Acumen Green RISE East Africa Fellowship. The Green RISE Africa (Resilient Impact through Sustainable Entrepreneurship) Fellowship delivered by Acumen Canada (together with Acumen Fund, Inc. and its affiliates, “Acumen”) in partnership with the Mastercard Foundation is designed to equip women and youth living in poverty to build a more inclusive and sustainable green economy. Over six months, you’ll gain practical tools and a supportive peer community to grow as a leader, strengthen your business model, create more green jobs, and expand your climate solutions across the region.",
+      "whoCanApply": [
+        "The Green RISE East Africa Fellowship is open to entrepreneurs working in Kenya, Uganda, Tanzania, Rwanda, Ethiopia, Burundi, South Sudan, and Somalia who are running green businesses that tackle climate challenges and poverty by creating dignified work and green job opportunities for young rural women and youth.",
+        "You lead an enterprise that provides a green-focused good or service that has shown it can help reduce poverty and has created work opportunities for young rural women and youth below the age of 35.",
+        "You have demonstrable traction over the last 12-months.",
+        "You have a minimum of 5 years of professional experience and are able to demonstrate your commitment to solving issues of poverty.",
+        "You are based and operating in East Africa (Burundi, Ethiopia, Kenya, Rwanda, Somalia, South Sudan, Tanzania, Uganda).",
+        "You can provide evidence that your leadership supports efforts to make the enterprise more environmentally sustainable and inclusive.",
+        "You have a reliable internet connection and will be fully available to participate throughout the entirety of the program."
+      ],
+      "benefits": [
+        "You’ll leave the program ready to grow your enterprise, build a stronger team, manage complex relationships with partners and investors, and create solutions that improve both livelihoods and climate resilience.",
+        "While the Fellowship is fully-funded for Fellow Candidates, we don’t provide any funding or additional benefits as part of the program. However, after the Fellowship, Fellows will have the opportunity to access funding for projects through Angels Green RISE Africa to increase impact and apply to follow-on Accelerator programs to further strengthen their business models.",
+        "Once you are selected as a Green RISE Africa Fellow Candidate, Acumen covers all program-related expenses during the Fellowship. This includes all costs associated with the immersives including lodging, food, and transportation."
+      ],
+      "howToApply": [
+        "Read the full call on the official page (fellowship.acumenacademy.org)",
+        "Prepare a short CV and a motivation statement",
+        "Submit the application before 22 December 2026",
+        "Start your visa appointment early once accepted — Ethiopian passports need visas for most hosts"
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://fellowship.acumenacademy.org/green-rise-east-africa-fellowship",
+      "https://www.opportunitiesforafricans.com/the-acumen-green-rise-east-africa-fellowship-2027-6-month-leadership-program/"
+    ],
+    "lastVerified": "2026-11-25",
+    "lastChecked": "2026-11-25",
+    "discoveredAt": "2026-11-25",
+    "origin": "discovered",
+    "dateConfirmed": false
   },
   {
     "id": "internet-governance-forum-youth-fellowship",
@@ -1188,7 +1286,7 @@
     "url": "https://www.intgovforum.org",
     "ethiopiansEligible": true,
     "description": "Internet Governance Forum (IGF) Youth Fellowship in Rotates (Dec). Funding: Full. For: 18–35.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "unreachable"
   },
   {
@@ -1207,7 +1305,7 @@
     "url": "https://blackinai.github.io",
     "ethiopiansEligible": true,
     "description": "AfricArXiv / Black in AI workshop (NeurIPS) in Global (Dec). Funding: Travel grants. For: Researchers.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -1226,7 +1324,7 @@
     "url": "https://www.nobelpeacecenter.org",
     "ethiopiansEligible": false,
     "description": "Nobel Peace Prize Forum / Nobel Week Dialogue youth in Norway / Sweden (Dec). Funding: Travel grants. For: Youth.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -1323,11 +1421,59 @@
       "https://opportunitiesforyouth.org/2026/11/19/camp-rising-sun-by-the-louis-august-jonas-foundation-fully-funded-summer-leadership-program-in-new-york/"
     ],
     "lastVerified": "2026-11-21",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-11-21",
     "origin": "discovered",
     "dateConfirmed": true,
     "checkStatus": "reachable"
+  },
+  {
+    "id": "robertson-foundation-for-government-rfg-global-governance-leadership-l",
+    "title": "Robertson Foundation for Government (RFG) Global Governance Leadership Lab for public service professionals",
+    "location": "Online",
+    "when": "Apply by 08 Jan 2027",
+    "startDate": null,
+    "deadline": "2027-01-08",
+    "funding": "Fully funded",
+    "fundingType": "full",
+    "audience": "Commitment to public service",
+    "age": {
+      "min": null,
+      "max": null
+    },
+    "url": "https://culturalvistas.org/our-programs/internships-fellowships/robertson-foundation-global-governance-leadership-lab",
+    "ethiopiansEligible": true,
+    "description": "Applications are now open for the 2027 Robertson Foundation for Government (RFG) Global Governance Leadership Lab. The Robertson Foundation for Government (RFG) Global Governance Leadership Lab is a fully funded, 16-week virtual leadership experience that brings together Robertson Fellows, recent alumni, and international public service professionals to strengthen the leadership skills needed to tackle today’s governance challenges. Through leadership labs, practitioner dialogues, peer mentoring, and cross-national policy projects, participants build practical skills, expand their professional networks, and collaborate with peers from diverse national and institutional contexts.",
+    "status": "open",
+    "details": {
+      "overview": "Applications are now open for the 2027 Robertson Foundation for Government (RFG) Global Governance Leadership Lab. The Robertson Foundation for Government (RFG) Global Governance Leadership Lab is a fully funded, 16-week virtual leadership experience that brings together Robertson Fellows, recent alumni, and international public service professionals to strengthen the leadership skills needed to tackle today’s governance challenges. Through leadership labs, practitioner dialogues, peer mentoring, and cross-national policy projects, participants build practical skills, expand their professional networks, and collaborate with peers from diverse national and institutional contexts.",
+      "whoCanApply": [
+        "Commitment to public service",
+        "Interest in governance, policy, accountability, or civic innovation",
+        "Desire to strengthen leadership skills",
+        "Ability to collaborate across cultures and perspectives",
+        "Curiosity, initiative, and openness to learning",
+        "Government agencies"
+      ],
+      "benefits": [
+        "The program is delivered virtually, so participants do not incur travel or accommodation costs."
+      ],
+      "howToApply": [
+        "Step 1: Review Eligibility",
+        "Confirm that you meet the eligibility requirements to participate in the program.",
+        "Step 2: Submit Your Application"
+      ],
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://culturalvistas.org/our-programs/internships-fellowships/robertson-foundation-global-governance-leadership-lab",
+      "https://www.opportunitiesforafricans.com/the-robertson-foundation-for-government-rfg-global-governance-leadership-lab-2027/"
+    ],
+    "lastVerified": "2026-11-25",
+    "lastChecked": "2026-11-25",
+    "discoveredAt": "2026-11-25",
+    "origin": "discovered",
+    "dateConfirmed": false
   },
   {
     "id": "international-institute-for-applied-systems-analysis-iiasa-young-scien",
@@ -1379,7 +1525,7 @@
       "https://www.opportunitiesforafricans.com/the-international-institute-for-applied-systems-analysis-iiasa-young-scientists-summer-program-2027/"
     ],
     "lastVerified": "2026-10-21",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-10-21",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1401,7 +1547,7 @@
     "url": "https://cda.org",
     "ethiopiansEligible": false,
     "description": "Youth Action Summit 2027 in Germany (11–14 Jan 2027). Funding: Full/partial. For: 18–35.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -1450,10 +1596,11 @@
       "https://www.opportunitiesforafricans.com/the-itu-secretary-generals-youth-advisory-board-cohort-2/"
     ],
     "lastVerified": "2026-11-23",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-11-23",
     "origin": "discovered",
-    "dateConfirmed": false
+    "dateConfirmed": false,
+    "checkStatus": "reachable"
   },
   {
     "id": "st-gallen-symposium-global-ideas-competition-chf-20-000-prize-expenses",
@@ -1502,7 +1649,7 @@
       "https://www.opportunitiesforafricans.com/st-gallen-symposium-global-ideas-competition-2027/"
     ],
     "lastVerified": "2026-11-03",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-11-03",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1524,7 +1671,7 @@
     "url": "https://www.hpair.org",
     "ethiopiansEligible": false,
     "description": "Harvard Project for Asian & International Relations (HPAIR) in Asia / Boston (Aug / Feb). Funding: Scholarships available. For: University students.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -1543,8 +1690,8 @@
     "url": "https://www.tonyelumelufoundation.org",
     "ethiopiansEligible": true,
     "description": "Tony Elumelu Foundation Entrepreneurship Programme in Online + Lagos forum (Jan–Mar apply). Funding: $5,000 seed + training. For: 18+.",
-    "lastChecked": "2026-11-23",
-    "checkStatus": "unreachable"
+    "lastChecked": "2026-11-25",
+    "checkStatus": "reachable"
   },
   {
     "id": "un-youth-forum",
@@ -1562,7 +1709,7 @@
     "url": "https://ecosoc.un.org",
     "ethiopiansEligible": true,
     "description": "UN Youth Forum (ECOSOC) in New York (April). Funding: Partial/full via sponsors. For: 18–30.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -1581,7 +1728,7 @@
     "url": "https://www.cugh.org",
     "ethiopiansEligible": false,
     "description": "Global Health Conference – CUGH travel awards in USA (Mar–Apr). Funding: Travel grants. For: Students.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -1630,7 +1777,7 @@
       "https://opportunitiesforyouth.org/2026/11/05/european-youth-event-2027-eye2027-european-parliament-opens-call-for-youth-groups-to-receive-financial-support-to-participate-in-strasbourg/"
     ],
     "lastVerified": "2026-11-13",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "discoveredAt": "2026-11-13",
     "origin": "discovered",
     "dateConfirmed": false,
@@ -1652,7 +1799,7 @@
     "url": "https://www.datascienceafrica.org",
     "ethiopiansEligible": true,
     "description": "Data Science Africa Summer School in Africa (Jun–Jul). Funding: Travel grants. For: Students.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -1671,7 +1818,7 @@
     "url": "https://deeplearningindaba.com",
     "ethiopiansEligible": true,
     "description": "Google / Deep Learning Indaba in Africa (rotates) (Aug–Sept). Funding: Travel grants. For: Students, researchers.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -1690,7 +1837,7 @@
     "url": "https://www.mandelawashingtonfellowship.org",
     "ethiopiansEligible": true,
     "description": "Mandela Washington Fellowship (YALI) in USA (Jun–Jul 2027 (apply Sept–Oct 2026)). Funding: Full. For: 25–35.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable",
     "dateConfirmed": false
   },
@@ -1710,7 +1857,7 @@
     "url": "https://www.oneyoungworld.com",
     "ethiopiansEligible": true,
     "description": "One Young World Summit – Leading Africa Scholarship in Cape Town, South Africa (3–6 Nov 2026). Funding: Full (flights, hotel, fees). For: 18–30.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable",
     "dateConfirmed": false
   },
@@ -1730,7 +1877,7 @@
     "url": "https://www.coe.int/en/web/world-forum-democracy",
     "ethiopiansEligible": true,
     "description": "World Forum for Democracy (Council of Europe) in Strasbourg, France (31 Oct – 4 Nov 2026). Funding: Full for youth delegates. For: 18–30.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "unreachable",
     "dateConfirmed": false
   },
@@ -1750,7 +1897,7 @@
     "url": "https://www.sdgsummit.org",
     "ethiopiansEligible": false,
     "description": "SDG Innovation Summit in Malaysia (19–22 Nov 2026). Funding: Flights, visa, hotel, meals. For: Students / youth.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "unreachable",
     "dateConfirmed": false
   },
@@ -1770,7 +1917,7 @@
     "url": "https://asef.org",
     "ethiopiansEligible": false,
     "description": "ASEF LinkUp / ASEF Seminar in Slovenia / Mongolia (Oct–Nov 2026). Funding: Full. For: 18–30 (check country list).",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable",
     "dateConfirmed": false
   },
@@ -1790,7 +1937,7 @@
     "url": "https://afrileadnetwork.org",
     "ethiopiansEligible": true,
     "description": "DLL Conference (AfriLead Network) in Zanzibar, Tanzania (2026). Funding: Full. For: Young African professionals.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -1809,7 +1956,7 @@
     "url": "https://yalieastafrica.org",
     "ethiopiansEligible": true,
     "description": "YALI Regional Leadership Center East Africa in Nairobi, Kenya (Multiple cohorts). Funding: Full. For: 18–35.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -1828,7 +1975,7 @@
     "url": "https://au.int/en/youth",
     "ethiopiansEligible": true,
     "description": "Africa Youth Summit / AU Youth Forum in Rotates (Addis often) (Yearly). Funding: Full. For: 15–35.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "unreachable"
   },
   {
@@ -1847,7 +1994,7 @@
     "url": "https://www.itu.int/generationconnect",
     "ethiopiansEligible": true,
     "description": "ITU Generation Connect in Global (Various). Funding: Travel grants. For: 18–29.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -1866,7 +2013,7 @@
     "url": "https://gsw.mit.edu",
     "ethiopiansEligible": false,
     "description": "MIT Global Startup Workshop / MIT Africa Innovate in Rotates (Spring). Funding: Partial. For: Entrepreneurs.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -1885,7 +2032,7 @@
     "url": "https://acumen.org/fellowships",
     "ethiopiansEligible": true,
     "description": "Ashoka / Acumen Fellowships in Global/East Africa (Rolling). Funding: Full. For: Social entrepreneurs.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
@@ -1904,7 +2051,7 @@
     "url": "https://careers.un.org",
     "ethiopiansEligible": true,
     "description": "WHO / UNICEF / UNDP Youth Internships & Forums in Addis (UNECA, AU HQ) (Rolling). Funding: Stipend. For: 18–32.",
-    "lastChecked": "2026-11-23",
+    "lastChecked": "2026-11-25",
     "checkStatus": "reachable"
   },
   {
