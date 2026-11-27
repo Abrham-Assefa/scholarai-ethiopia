@@ -689,7 +689,7 @@
       "auto-collected"
     ],
     "description": "The Hong Kong University of Science and Technology (HKUST) set up the Global Learners Scholarship to make its student community more diverse. It goes to undergraduate applicants from nationalities that are underrepresented at HKUST, and it pays their full tuition for the whole degree. All HKUST undergraduate programs, in science, engineering, business and management, humanities and social science, and interdisciplinary studies. Undergraduate applicants from nationalities that are underrepresented at HKUST. The university does not publish a list of these nationalities. • a full tuition waiver (tuition for non-local students is HK$260,000 a year in 2027/28);",
-    "status": "open",
+    "status": "closed",
     "deadlineConfirmed": true,
     "details": {
       "overview": "The Hong Kong University of Science and Technology (HKUST) set up the Global Learners Scholarship to make its student community more diverse. It goes to undergraduate applicants from nationalities that are underrepresented at HKUST, and it pays their full tuition for the whole degree. All HKUST undergraduate programs, in science, engineering, business and management, humanities and social science, and interdisciplinary studies. Undergraduate applicants from nationalities that are underrepresented at HKUST. The university does not publish a list of these nationalities. • a full tuition waiver (tuition for non-local students is HK$260,000 a year in 2027/28);",
@@ -754,7 +754,7 @@
       "auto-collected"
     ],
     "description": "Many international students dream of studying in the USA, UK or Australia without knowing that Asia also has world-class universities and generous funding. Governments and top universities in Japan, China, Korea, Taiwan, Hong Kong, Singapore, Malaysia and Türkiye offer scholarships in Asia for international students, many of them fully funded. Here are some of the best. The Japanese Government offers MEXT scholarships to international research students who want to study for a Master’s or PhD at a Japanese university. The scholarships include tuition, airfare and a monthly allowance, and each Japanese embassy sets its own deadline. The scholarships cover all subject areas.",
-    "status": "open",
+    "status": "closed",
     "deadlineConfirmed": true,
     "details": {
       "overview": "Many international students dream of studying in the USA, UK or Australia without knowing that Asia also has world-class universities and generous funding. Governments and top universities in Japan, China, Korea, Taiwan, Hong Kong, Singapore, Malaysia and Türkiye offer scholarships in Asia for international students, many of them fully funded. Here are some of the best. The Japanese Government offers MEXT scholarships to international research students who want to study for a Master’s or PhD at a Japanese university. The scholarships include tuition, airfare and a monthly allowance, and each Japanese embassy sets its own deadline. The scholarships cover all subject areas.",
@@ -864,7 +864,7 @@
       "https://www.eda.admin.ch/countries/ethiopia/en/home/services/scholarships.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -942,7 +942,7 @@
       "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -2128,7 +2128,7 @@
       "https://au.int/sites/default/files/announcements/45594-annc-2026_PAU_Admission_Call_Englsih.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -2502,7 +2502,7 @@
       "https://www.daad-ethiopia.org/en/scholarship-database/"
     ],
     "lastVerified": "2026-11-23",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "unreachable"
   },
   {
@@ -2648,7 +2648,7 @@
       "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -2736,7 +2736,7 @@
       "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -2818,7 +2818,7 @@
       "https://www.gatescambridge.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -3034,7 +3034,7 @@
       "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "unreachable"
   },
   {
@@ -3551,7 +3551,7 @@
       "https://www.kaist.ac.kr/en/html/edu/03100502.html"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -3630,7 +3630,7 @@
       "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -3714,7 +3714,7 @@
       "https://stipendiumhungaricum.hu/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -3797,8 +3797,8 @@
       "https://education-in-russia.com/selection"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
-    "checkStatus": "reachable"
+    "lastChecked": "2026-11-27",
+    "checkStatus": "unreachable"
   },
   {
     "id": "apdd-individual-research-fellowships-for-african-researchers",
@@ -4033,7 +4033,7 @@
       "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/"
     ],
     "lastVerified": "2026-11-23",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -4459,6 +4459,68 @@
     "origin": "discovered"
   },
   {
+    "id": "hiv-science-geneva-media-scholarship-programme-to-cover-hivr4p-and-ias",
+    "title": "HIV Science Geneva Media Scholarship Programme to cover HIVR4P and IAS in Geneva, Switzerland",
+    "provider": "iasociety.org",
+    "country": "Switzerland",
+    "countries": [
+      "Switzerland"
+    ],
+    "level": [
+      "bachelor",
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Fully funded",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-01-20",
+    "deadlineText": "Application deadline: 20 January 2027 (published on opportunitiesforafricans.com)",
+    "url": "https://www.iasociety.org/conferences/hivscience2027/media/registration",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027 HIV Science Geneva 2027 Media registration and scholarship. Media registration for HIV Science Geneva 2027 provides accredited media representatives with access to both HIVR4P 2027 and IAS 2027. A limited number of media scholarships is available for HIV Science Geneva 2027 (HIVR4P 2027 and IAS 2027). Registration for HIV Science Geneva 2027 (IAS 2027 and HIVR4P 2027), from 10 to 15 July: In- person access to all conference sessions, satellite sessions and poster discussion sessions at both conferences and the IAS 2027 exhibition, as well as on – demand access to all session recordings",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027 HIV Science Geneva 2027 Media registration and scholarship. Media registration for HIV Science Geneva 2027 provides accredited media representatives with access to both HIVR4P 2027 and IAS 2027. A limited number of media scholarships is available for HIV Science Geneva 2027 (HIVR4P 2027 and IAS 2027). Registration for HIV Science Geneva 2027 (IAS 2027 and HIVR4P 2027), from 10 to 15 July: In- person access to all conference sessions, satellite sessions and poster discussion sessions at both conferences and the IAS 2027 exhibition, as well as on – demand access to all session recordings",
+      "whoCanApply": [
+        "The IAS Media Scholarship Programme is open to journalists, media specialists and social media influencers who will be at least 18 years old at the time of the conference and belong to one of the three stipulated media categories."
+      ],
+      "benefits": [],
+      "howToApply": [
+        "All eligible candidates must complete and submit an online media scholarship application form on their HIV Science Geneva 2027 conference account. This form will ask applicants to provide information about their background, experience, motivation to attend the conference and how their participation would benefit their community."
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 20 January 2027.",
+        "Tailor your motivation letter to Ethiopian development priorities and your concrete plans after study.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.iasociety.org/conferences/hivscience2027/media/registration",
+      "https://www.opportunitiesforafricans.com/the-hiv-science-geneva-2027-media-scholarship-programme-to-cover-hivr4p-2027-and-ias-2027/"
+    ],
+    "lastVerified": "2026-11-27",
+    "lastChecked": "2026-11-27",
+    "discoveredAt": "2026-11-27",
+    "origin": "discovered"
+  },
+  {
     "id": "esade-fully-funded-master-of-research-mres-in-management-sciences-in-s",
     "title": "Esade Fully Funded Master of Research (MRes) in Management Sciences in Spain | Applications",
     "provider": "esade.my.site.com",
@@ -4720,7 +4782,7 @@
       "https://www.isdb.org/scholarships/scholarship-programs"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -4807,7 +4869,7 @@
       "https://moe.gov.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -4894,7 +4956,7 @@
       "https://www.daad.de/en/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -5040,7 +5102,7 @@
       "https://www.studyinnl.org/finances/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -5365,7 +5427,7 @@
       "https://www.mfa.gov.bn/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -5451,7 +5513,7 @@
       "https://twas.org/opportunities/fellowships/phd"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -5540,6 +5602,78 @@
     "origin": "discovered"
   },
   {
+    "id": "iso-lomso-fellowships-for-early-career-african-researchers",
+    "title": "Iso Lomso Fellowships for Early Career African Researchers",
+    "provider": "stias.ac.za",
+    "country": "South Africa",
+    "countries": [
+      "South Africa"
+    ],
+    "level": [
+      "phd"
+    ],
+    "fields": [
+      "any"
+    ],
+    "fundingType": "full",
+    "covers": "Iso Lomso Fellowships provide a three-year affiliation with STIAS",
+    "eligibility": {
+      "nationalities": [
+        "ET"
+      ],
+      "ethiopiansEligible": true
+    },
+    "deadline": "2027-02-15",
+    "deadlineText": "Application deadline: 15 February 2027 (published on opportunitiesforafricans.com)",
+    "url": "https://www.stias.ac.za/fellowships/apply/",
+    "source": "web-collector",
+    "tags": [
+      "fully-funded",
+      "auto-collected"
+    ],
+    "description": "Applications are now open for the 2027 Iso Lomso Fellowships. The Fellowship words ‘iso lomso’ originate from isiXhosa, the translation of which is ‘the eye of tomorrow’ and connotes seeing into the future, working towards the future, preparing for the future, and laying foundations for tomorrow. Launched in 2017, the fellowship has evolved to be one of the most prestigious and highly competitive early-to-mid-level career programmes on the continent. Scholars selected for this Fellowship are considered as part of the highly regarded emerging researchers in their field.",
+    "status": "open",
+    "deadlineConfirmed": true,
+    "details": {
+      "overview": "Applications are now open for the 2027 Iso Lomso Fellowships. The Fellowship words ‘iso lomso’ originate from isiXhosa, the translation of which is ‘the eye of tomorrow’ and connotes seeing into the future, working towards the future, preparing for the future, and laying foundations for tomorrow. Launched in 2017, the fellowship has evolved to be one of the most prestigious and highly competitive early-to-mid-level career programmes on the continent. Scholars selected for this Fellowship are considered as part of the highly regarded emerging researchers in their field.",
+      "whoCanApply": [
+        "The fellowship Call is thus open to African scholars who have obtained a doctoral degree within the preceding seven years, have completed a post-doctoral Fellowship or equivalent post-PhD programme and hold an academic position at a university or research institution anywhere in Africa.",
+        "All disciplines are considered."
+      ],
+      "benefits": [
+        "Iso Lomso Fellowships provide a three-year affiliation with STIAS. The aim is to facilitate and support emerging researchers towards becoming established scholars in their fields. This is achieved by enabling the Iso Lomso Fellows to develop and conduct a long-term research programme of their preference.",
+        "The main means of support is STIAS residencies. Residential periods will be agreed mutually between the Fellow, their home institution and STIAS, and may vary between ten weeks and five months per residency with a total of ten months residency time supported over the three years. A first period of residency is to be taken up at STIAS, followed by one or two further residencies at STIAS or abroad.",
+        "While in residence at STIAS Fellows receive regular STIAS Fellow support which includes:",
+        "an economy return airt ticket or on-road return reimbursement for SA-based Fellows (where applicable)",
+        "accommodation preferably within walking distance from the Institute",
+        "individual office equipped with a PC, monitor, and connected to a pool printer",
+        "a monthly stipend for daily living costs"
+      ],
+      "howToApply": [
+        "Read the full call on the official page (stias.ac.za)",
+        "Check every eligibility rule and prepare the listed documents",
+        "Submit the online application before 15 February 2027",
+        "Monitor your email for shortlisting or interview invitations"
+      ],
+      "documents": [],
+      "selection": null,
+      "ethiopiaTips": [
+        "Start early: authenticate your degree and transcripts with the Ethiopian Ministry of Education / ETA well before 15 February 2027.",
+        "This entry was collected automatically from opportunitiesforafricans.com; always confirm details on the official website."
+      ],
+      "applicationOpens": "Open now",
+      "generatedBy": "heuristic"
+    },
+    "sources": [
+      "https://www.stias.ac.za/fellowships/apply/",
+      "https://www.opportunitiesforafricans.com/iso-lomso-fellowships-2027/"
+    ],
+    "lastVerified": "2026-11-27",
+    "lastChecked": "2026-11-27",
+    "discoveredAt": "2026-11-27",
+    "origin": "discovered"
+  },
+  {
     "id": "turkiye-burslari",
     "title": "Türkiye Scholarships (Türkiye Bursları)",
     "provider": "Presidency for Turks Abroad and Related Communities (YTB)",
@@ -5620,7 +5754,7 @@
       "https://tbbs.turkiyeburslari.gov.tr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -5778,7 +5912,7 @@
       "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?page=5f4ddf7588a720370a799e12"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -6070,7 +6204,7 @@
       "https://www.studyinkorea.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -6154,7 +6288,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -6304,7 +6438,7 @@
       "https://studyinromania.gov.ro/scholarships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -6391,7 +6525,7 @@
       "https://www.nexteinstein.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "unreachable"
   },
   {
@@ -6473,7 +6607,7 @@
       "https://www.campuschina.org/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "unreachable"
   },
   {
@@ -6616,7 +6750,7 @@
       "https://eoiaddisababa.gov.in/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -6702,7 +6836,7 @@
       "https://mfa.gov.az/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -6784,7 +6918,7 @@
       "https://www.mandelarhodes.org/scholarship/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -6872,7 +7006,7 @@
       "https://www.dfat.gov.au/sites/default/files/australia-awards-africa-information-for-intake.pdf"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -6965,7 +7099,7 @@
       "https://www.rotary.org/get-involved/our-programs/peace-fellowships"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "unreachable"
   },
   {
@@ -7055,7 +7189,7 @@
       "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -7140,7 +7274,7 @@
       "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -7222,7 +7356,7 @@
       "https://foreign.fulbrightonline.org/apply"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -7377,7 +7511,7 @@
       "https://www.aau.edu.et/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -7466,7 +7600,7 @@
       "https://et.usembassy.gov/education-culture/educational-exchange/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -7551,7 +7685,7 @@
       "http://daad.de/go/de/stipa50026397"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "unreachable"
   },
   {
@@ -7638,7 +7772,7 @@
       "https://www.koica.go.kr/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "unreachable"
   },
   {
@@ -7726,7 +7860,7 @@
       "https://connect.schwarzmanscholars.org/apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -7805,7 +7939,7 @@
       "https://www.chevening.org/scholarships/application-timeline/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -7887,7 +8021,7 @@
       "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -7976,7 +8110,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -8064,7 +8198,7 @@
       "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "unreachable"
   },
   {
@@ -8149,7 +8283,7 @@
       "https://www.scholars4dev.com/mastercard-foundation-scholarship-program-for-africans/"
     ],
     "lastVerified": "2026-11-11",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -8229,7 +8363,7 @@
       "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   },
   {
@@ -8313,7 +8447,7 @@
       "https://mastercardfdn.org/en/news/alx-kick-starts-inaugural-all-tech-training-programs-for-over-32000-learners-across-africa/"
     ],
     "lastVerified": "2026-10-07",
-    "lastChecked": "2026-11-25",
+    "lastChecked": "2026-11-27",
     "checkStatus": "reachable"
   }
 ]
